@@ -12,8 +12,8 @@
                                 <span class="glyphicon glyphicon-envelope" aria-hidden="true"></span>
                                 <h4>Contact By Email</h4>
                                 <ul>
-                                    <li>Mail1: <a href="mailto:info@example.com">info@example1.com</a></li>
-                                    <li>Mail2: <a href="mailto:info@example.com">info@example2.com</a></li>
+                                    <li>Mail1: <a href="mailto:s.suraches@hotmail.com">s.suraches@hotmail.com</a></li>
+                                    <li>Mail2: <a href="mailto:suraches2010@gmail.com">suraches2010@gmail.com</a></li>
                                 </ul>
                             </div>
                         </div>
@@ -22,8 +22,8 @@
                                 <span class="glyphicon glyphicon-earphone" aria-hidden="true"></span>
                                 <h4>Contact By Phone</h4>
                                 <ul>
-                                    <li>Phone: +0000 123 312</li>
-                                    <li>Fax: +123 312</li>
+                                    <li>Phone: +6692 689 0707</li>
+                                    <li>Line: s.suraches</li>
                                 </ul>
                             </div>
                         </div>
@@ -32,15 +32,15 @@
                                 <span class="glyphicon glyphicon-home" aria-hidden="true"></span>
                                 <h4>Looking For Address</h4>
                                 <ul>
-                                    <li>Address: General Pvt 66, Dong Da</li>
-                                    <li>Hanoi, Vietnam.</li>
+                                    <li>Address: Din Daeng, </li>
+                                    <li>Bangkok, Thailand.</li>
                                 </ul>
                             </div>
                         </div>
                         <div class="clearfix"> </div>
                     </div>
                     <div class="col-md-6 mail_right">
-                        <form action="#" method="post">
+                        <form action="{{ env('APP_URL') }}" method="get" onsubmit="javascript:alert('Thank you for your message!');window.location='{{ env('APP_URL') }}';return false;">
                             <input type="text" name="Name" value="Name" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Name';}" required="">
                             <input type="email" name="Email" value="Email" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Email';}" required="">
                             <input type="text" name="Mobile number" value="Mobile number" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Mobile number';}" required="">

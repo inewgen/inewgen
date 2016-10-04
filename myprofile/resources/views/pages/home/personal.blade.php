@@ -5,7 +5,7 @@
                 <div class="top-header">
                     <!-- /logo -->
                     
-                    <!--top-nav---->
+                    <!--top-nav-->
                     @include('partials.header')
                     
                     <div class="banner-info">

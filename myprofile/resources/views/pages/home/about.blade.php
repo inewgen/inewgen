@@ -6,11 +6,11 @@
                             <h2>Hi! I'm <span>Suraches Seesat</span></h2>
                             <p>
                                 I graduated with a bachelor’s degree in Information Engineering
-                                from King Mongkut's Institute of Technology Ladkrabang, Thailand, GPA.2.84/4<br> 
-                                In my course of study I took courses in Programming, Database, Information Technology course and related course.
+                                from King Mongkut's Institute of Technology Ladkrabang, Thailand<br> 
+                                In my course of study I took courses in Programming, Database, Information Technology and related course.
                             </p>
                             <ul>
-                                <li><a class="a-btn-a scroll" href="#port">My Work</a></li>
+                                <li><a class="a-btn-a scroll" href="#portfolio">My Work</a></li>
                                 <li><a class="a-btn-h scroll" href="#contact">Hire Me</a></li>
                             </ul>
                         </div>
@@ -22,7 +22,7 @@
                                 I would like to have a good job which brings a stable income, have security, a family and be able to do some good things that people can remember me by.
                             </p>
                             <ul>
-                                <li><a class="a-btn-a scroll" href="#port">My Work</a></li>
+                                <li><a class="a-btn-a scroll" href="#portfolio">My Work</a></li>
                                 <li><a class="a-btn-h scroll" href="#contact">Hire Me</a></li>
                             </ul>
                         </div>

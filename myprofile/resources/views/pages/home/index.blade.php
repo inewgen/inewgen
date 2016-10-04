@@ -17,16 +17,12 @@
         <!--//work-experience-->
 
         <!-- portfolio -->
-        @include('pages.home.portfolio')
+        <!-- @include('pages.home.portfolio') -->
         <!-- //portfolio -->
 
         <!-- top-grids -->
         @include('pages.home.blogs')
         <!-- top-grids -->
-
-        <!-- /blog-pop-->
-        @include('pages.home.blog_pop')
-        <!-- //blog-pop-->
 
         <!-- /header -->
         @include('pages.home.contactme')
