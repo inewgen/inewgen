@@ -155,7 +155,7 @@ class MongoDBFormatterTest extends \PHPUnit_Framework_TestCase
             array(
                 'nest2' => array(
                     'property' => 'anything',
-                    'nest3' => '[...]',
+                    'nest3' => '[breakprice]',
                 ),
             ),
             $formattedResult['context']
@@ -230,7 +230,7 @@ class MongoDBFormatterTest extends \PHPUnit_Framework_TestCase
             array(
                 'nest2' => array(
                     'property' => 'anything',
-                    'nest3' => '[...]',
+                    'nest3' => '[breakprice]',
                     'class' => 'stdClass',
                 ),
             ),
@@ -257,6 +257,6 @@ class MongoDBFormatterTest extends \PHPUnit_Framework_TestCase
 
         $this->assertEquals('exception message', $formattedRecord['context']['nest2']['message']);
         $this->assertEquals(987, $formattedRecord['context']['nest2']['code']);
-        $this->assertEquals('[...]', $formattedRecord['context']['nest2']['trace']);
+        $this->assertEquals('[breakprice]', $formattedRecord['context']['nest2']['trace']);
     }
 }

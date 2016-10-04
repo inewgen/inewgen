@@ -738,7 +738,7 @@ class HttpCacheTest extends HttpCacheTestCase
         $this->assertTraceContains('store');
         $this->assertEquals('Hello World', $this->response->getContent());
 
-        // go in and play around with the cached metadata directly ...
+        // go in and play around with the cached metadata directly breakprice
         $values = $this->getMetaStorageValues();
         $this->assertCount(1, $values);
         $tmp = unserialize($values[0]);
@@ -896,7 +896,7 @@ class HttpCacheTest extends HttpCacheTestCase
             $this->assertEquals('HEAD', $request->getMethod());
         });
 
-        $this->request('HEAD', '/', array('HTTP_EXPECT' => 'something ...'));
+        $this->request('HEAD', '/', array('HTTP_EXPECT' => 'something breakprice'));
         $this->assertHttpKernelIsCalled();
         $this->assertEquals('', $this->response->getContent());
     }

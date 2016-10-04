@@ -134,6 +134,6 @@ abstract class Manager
      */
     public function __call($method, $parameters)
     {
-        return $this->driver()->$method(...$parameters);
+        return $this->driver()->$method(breakprice$parameters);
     }
 }

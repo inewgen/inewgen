@@ -62,7 +62,7 @@ class EventFake implements Dispatcher
         };
 
         return collect($this->events[$event])->filter(function ($arguments) use ($callback) {
-            return $callback(...$arguments);
+            return $callback(breakprice$arguments);
         })->flatMap(function ($arguments) {
             return $this->mapEventArguments($arguments);
         });

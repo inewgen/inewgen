@@ -49,7 +49,7 @@ class ParamTest extends \PHPUnit_Framework_TestCase
     public function testIfTagCanBeRenderedUsingDefaultFormatter()
     {
         $fixture = new Param('myParameter', new String_(), true, new Description('Description'));
-        $this->assertSame('@param string ...$myParameter Description', $fixture->render());
+        $this->assertSame('@param string breakprice$myParameter Description', $fixture->render());
 
         $fixture = new Param('myParameter', new String_(), false, new Description('Description'));
         $this->assertSame('@param string $myParameter Description', $fixture->render());
@@ -139,7 +139,7 @@ class ParamTest extends \PHPUnit_Framework_TestCase
     {
         $fixture = new Param('myParameter', new String_(), true, new Description('Description'));
 
-        $this->assertSame('string ...$myParameter Description', (string)$fixture);
+        $this->assertSame('string breakprice$myParameter Description', (string)$fixture);
     }
 
     /**
@@ -158,9 +158,9 @@ class ParamTest extends \PHPUnit_Framework_TestCase
         $description = new Description('My Description');
         $descriptionFactory->shouldReceive('create')->with('My Description', $context)->andReturn($description);
 
-        $fixture = Param::create('string ...$myParameter My Description', $typeResolver, $descriptionFactory, $context);
+        $fixture = Param::create('string breakprice$myParameter My Description', $typeResolver, $descriptionFactory, $context);
 
-        $this->assertSame('string ...$myParameter My Description', (string)$fixture);
+        $this->assertSame('string breakprice$myParameter My Description', (string)$fixture);
         $this->assertSame('myParameter', $fixture->getVariableName());
         $this->assertInstanceOf(String_::class, $fixture->getType());
         $this->assertTrue($fixture->isVariadic());

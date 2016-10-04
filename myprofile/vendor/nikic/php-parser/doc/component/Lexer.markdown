@@ -119,7 +119,7 @@ The other two by-ref variables `$startAttributes` and `$endAttributes` define wh
 assigned to the generated nodes: The parser will take the `$startAttributes` from the first token which is part of the
 node and the `$endAttributes` from the last token that is part of the node.
 
-E.g. if the tokens `T_FUNCTION T_STRING ... '{' ... '}'` constitute a node, then the `$startAttributes` from the
+E.g. if the tokens `T_FUNCTION T_STRING breakprice '{' breakprice '}'` constitute a node, then the `$startAttributes` from the
 `T_FUNCTION` token will be taken and the `$endAttributes` from the `'}'` token.
 
 An application of custom attributes is storing the original formatting of literals: The parser does not retain

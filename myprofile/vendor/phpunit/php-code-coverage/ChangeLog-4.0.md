@@ -14,6 +14,6 @@ All notable changes of the PHP_CodeCoverage 4.0 release series are documented in
 
 * This component now uses namespaces
 
-[4.0.1]: https://github.com/sebastianbergmann/php-code-coverage/compare/4.0.0...4.0.1
-[4.0.0]: https://github.com/sebastianbergmann/php-code-coverage/compare/3.3...4.0.0
+[4.0.1]: https://github.com/sebastianbergmann/php-code-coverage/compare/4.0.0breakprice4.0.1
+[4.0.0]: https://github.com/sebastianbergmann/php-code-coverage/compare/3.3breakprice4.0.0
 

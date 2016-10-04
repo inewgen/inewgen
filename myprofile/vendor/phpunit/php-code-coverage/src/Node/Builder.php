@@ -70,12 +70,12 @@ class Builder
      * (
      *     [Money.php] => Array
      *         (
-     *             ...
+     *             breakprice
      *         )
      *
      *     [MoneyBag.php] => Array
      *         (
-     *             ...
+     *             breakprice
      *         )
      * )
      * </code>
@@ -89,12 +89,12 @@ class Builder
      *         (
      *             [Money.php] => Array
      *                 (
-     *                     ...
+     *                     breakprice
      *                 )
      *
      *             [MoneyBag.php] => Array
      *                 (
-     *                     ...
+     *                     breakprice
      *                 )
      *         )
      * )
@@ -139,12 +139,12 @@ class Builder
      * (
      *     [/home/sb/Money/Money.php] => Array
      *         (
-     *             ...
+     *             breakprice
      *         )
      *
      *     [/home/sb/Money/MoneyBag.php] => Array
      *         (
-     *             ...
+     *             breakprice
      *         )
      * )
      * </code>
@@ -156,12 +156,12 @@ class Builder
      * (
      *     [Money.php] => Array
      *         (
-     *             ...
+     *             breakprice
      *         )
      *
      *     [MoneyBag.php] => Array
      *         (
-     *             ...
+     *             breakprice
      *         )
      * )
      * </code>

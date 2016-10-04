@@ -530,11 +530,11 @@ TABLE;
 
         $expected =
 <<<TABLE
-.......
+breakpricebreakprice.
 . Foo .
-.......
+breakpricebreakprice.
 . Bar .
-.......
+breakpricebreakprice.
 
 TABLE;
 

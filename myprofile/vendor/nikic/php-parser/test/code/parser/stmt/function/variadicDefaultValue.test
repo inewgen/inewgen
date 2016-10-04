@@ -1,6 +1,6 @@
 Invalid variadic function
 -----
 <?php
-function foo(...$foo = []) {}
+function foo(breakprice$foo = []) {}
 -----
 Variadic parameter cannot have a default value from 2:24 to 2:25

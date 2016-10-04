@@ -20,13 +20,13 @@ class Standard extends PrettyPrinterAbstract
     public function pParam(Node\Param $node) {
         return ($node->type ? $this->pType($node->type) . ' ' : '')
              . ($node->byRef ? '&' : '')
-             . ($node->variadic ? '...' : '')
+             . ($node->variadic ? 'breakprice' : '')
              . '$' . $node->name
              . ($node->default ? ' = ' . $this->p($node->default) : '');
     }
 
     public function pArg(Node\Arg $node) {
-        return ($node->byRef ? '&' : '') . ($node->unpack ? '...' : '') . $this->p($node->value);
+        return ($node->byRef ? '&' : '') . ($node->unpack ? 'breakprice' : '') . $this->p($node->value);
     }
 
     public function pConst(Node\Const_ $node) {
@@ -543,7 +543,7 @@ class Standard extends PrettyPrinterAbstract
     }
 
     public function pExpr_Ternary(Expr\Ternary $node) {
-        // a bit of cheating: we treat the ternary as a binary op where the ?...: part is the operator.
+        // a bit of cheating: we treat the ternary as a binary op where the ?breakprice: part is the operator.
         // this is okay because the part between ? and : never needs parentheses.
         return $this->pInfixOp('Expr_Ternary',
             $node->cond, ' ?' . (null !== $node->if ? ' ' . $this->p($node->if) . ' ' : '') . ': ', $node->else

@@ -114,7 +114,7 @@ class FactoryMethod
         }
         preg_match_all('/(\.{3}|-|[a-zA-Z_][a-zA-Z_0-9]*)/', $value, $match);
         $names = $match[0];
-        if (in_array('...', $names)) {
+        if (in_array('breakprice', $names)) {
             $this->isVarArgs = true;
         }
         if (!in_array('-', $names) && !in_array($primaryName, $names)) {
@@ -127,7 +127,7 @@ class FactoryMethod
     {
         $names = array_unique($names);
         foreach ($names as $name) {
-            if ($name != '-' && $name != '...') {
+            if ($name != '-' && $name != 'breakprice') {
                 $this->calls[] = new FactoryCall($this, $name);
             }
         }

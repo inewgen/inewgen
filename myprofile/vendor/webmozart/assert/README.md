@@ -39,7 +39,7 @@ every assertion. This package, on the contrary, provides consistent placeholder
 ordering for all assertions:
 
 * `%s`: The tested value as string, e.g. `"/foo/bar"`.
-* `%2$s`, `%3$s`, ...: Additional assertion-specific values, e.g. the
+* `%2$s`, `%3$s`, breakprice: Additional assertion-specific values, e.g. the
   minimum/maximum length, allowed values, etc.
   
 Check the source code of the assertions to find out details about the additional

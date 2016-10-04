@@ -18,7 +18,7 @@ dnl Make sure that the comment is aligned:
 [  --enable-symfony_debug           Enable symfony_debug support])
 
 if test "$PHP_SYMFONY_DEBUG" != "no"; then
-  dnl Write more examples of tests here...
+  dnl Write more examples of tests herebreakprice
 
   dnl # --with-symfony_debug -> check with-path
   dnl SEARCH_PATH="/usr/local /usr"     # you might want to change this

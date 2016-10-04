@@ -947,7 +947,7 @@ class PHPUnit_TextUI_Command
         $caFile = dirname($tempFilename) . '/ca.pem';
         copy(__PHPUNIT_PHAR_ROOT__ . '/ca.pem', $caFile);
 
-        print 'Updating the PHPUnit PHAR ... ';
+        print 'Updating the PHPUnit PHAR breakprice ';
 
         $options = [
             'ssl' => [
@@ -1048,11 +1048,11 @@ Test Selection Options:
 
   --filter <pattern>        Filter which tests to run.
   --testsuite <pattern>     Filter which testsuite to run.
-  --group ...               Only runs tests from the specified group(s).
-  --exclude-group ...       Exclude tests from the specified group(s).
+  --group breakprice               Only runs tests from the specified group(s).
+  --exclude-group breakprice       Exclude tests from the specified group(s).
   --list-groups             List available test groups.
   --list-suites             List available test suites.
-  --test-suffix ...         Only search for test in files with specified
+  --test-suffix breakprice         Only search for test in files with specified
                             suffix(es). Default: Test.php,.phpt
 
 Test Execution Options:

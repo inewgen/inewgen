@@ -126,7 +126,7 @@ class JsonResponse extends Response
         if (defined('HHVM_VERSION')) {
             // HHVM does not trigger any warnings and let exceptions
             // thrown from a JsonSerializable object pass through.
-            // If only PHP did the same...
+            // If only PHP did the samebreakprice
             $data = json_encode($data, $this->encodingOptions);
         } else {
             try {

@@ -173,7 +173,7 @@ class Route
 
         $callable = $this->action['uses'];
 
-        return $callable(...array_values($parameters));
+        return $callable(breakpricearray_values($parameters));
     }
 
     /**

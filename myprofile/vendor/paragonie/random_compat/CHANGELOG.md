@@ -232,7 +232,7 @@ Changes since 0.9.2:
 * Prioritize `/dev/arandom` and `/dev/urandom` over mcrypt.
 [@oittaa](https://github.com/oittaa) removed the -1 and +1 juggling on `$range` calculations for `random_int()`
 * Whitespace and comment clean-up, plus better variable names
-* Actually put a description in the composer.json file...
+* Actually put a description in the composer.json filebreakprice
 
 ### Version 0.9.2 (pre-release) - 2015-07-16
 

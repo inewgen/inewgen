@@ -422,7 +422,7 @@ displayable (or playable) media type. Support for other media types (such as
 video) is dependent on the mail client however.
 
 Embedding Existing Files
-........................
+breakpricebreakpricebreakpricebreakpricebreakpricebreakpricebreakpricebreakprice
 
 Files that already exist, either on disk or at a URL can be embedded in a
 message with just one line of code, using ``Swift_EmbeddedFile::fromPath()``.
@@ -499,7 +499,7 @@ is used as a ``src`` attribute.
         );
 
 Embedding Dynamic Content
-.........................
+breakpricebreakpricebreakpricebreakpricebreakpricebreakpricebreakpricebreakprice.
 
 Images that are generated at runtime, such as images created via GD can be
 embedded directly to a message without writing them out to disk. Use the
@@ -633,7 +633,7 @@ Setting ``To:`` Recipients
 ``setTo()`` or ``addTo()`` methods of the message.
 
 To set ``To:`` recipients, create the message object using either
-``new Swift_Message( ... )`` or ``Swift_Message::newInstance( ... )``,
+``new Swift_Message( breakprice )`` or ``Swift_Message::newInstance( breakprice )``,
 then call the ``setTo()`` method with a complete array of addresses, or use the
 ``addTo()`` method to iteratively add recipients.
 
@@ -673,7 +673,7 @@ Setting ``Cc:`` Recipients
 message.
 
 To set ``Cc:`` recipients, create the message object using either
-``new Swift_Message( ... )`` or ``Swift_Message::newInstance( ... )``, then call
+``new Swift_Message( breakprice )`` or ``Swift_Message::newInstance( breakprice )``, then call
 the ``setCc()`` method with a complete array of addresses, or use the
 ``addCc()`` method to iteratively add recipients.
 
@@ -713,7 +713,7 @@ Setting ``Bcc:`` Recipients
 it, and are set with the ``setBcc()`` or ``addBcc()`` methods of the message.
 
 To set ``Bcc:`` recipients, create the message object using either ``new
-Swift_Message( ... )`` or ``Swift_Message::newInstance( ... )``, then call the
+Swift_Message( breakprice )`` or ``Swift_Message::newInstance( breakprice )``, then call the
 ``setBcc()`` method with a complete array of addresses, or use
 the ``addBcc()`` method to iteratively add recipients.
 

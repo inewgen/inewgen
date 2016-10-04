@@ -196,6 +196,6 @@ class Manager
      */
     public static function __callStatic($method, $parameters)
     {
-        return static::connection()->$method(...$parameters);
+        return static::connection()->$method(breakprice$parameters);
     }
 }

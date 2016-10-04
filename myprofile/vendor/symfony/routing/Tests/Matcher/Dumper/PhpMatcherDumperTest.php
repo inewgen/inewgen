@@ -232,7 +232,7 @@ class PhpMatcherDumperTest extends \PHPUnit_Framework_TestCase
 
         // multiple sub-collections with a single route and a prefix each
         $collection1 = new RouteCollection();
-        $collection1->add('a', new Route('/a...'));
+        $collection1->add('a', new Route('/abreakprice'));
         $collection2 = new RouteCollection();
         $collection2->add('b', new Route('/{var}'));
         $collection3 = new RouteCollection();

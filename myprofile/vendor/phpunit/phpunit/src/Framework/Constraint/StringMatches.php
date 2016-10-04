@@ -11,7 +11,7 @@
 use SebastianBergmann\Diff\Differ;
 
 /**
- * ...
+ * breakprice
  *
  * @since Class available since Release 3.5.0
  */

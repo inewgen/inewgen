@@ -281,11 +281,11 @@ EOF;
             array(1.2, '1.2'),
             array('1', "'1'"),
             // \n\r and \r is converted to \n
-            array("this\nis\na\nvery\nvery\nvery\nvery\nvery\nvery\rlong\n\rtext", "'this\\nis\\na\\nvery\\nvery\\nvery\\nvery...g\\ntext'"),
+            array("this\nis\na\nvery\nvery\nvery\nvery\nvery\nvery\rlong\n\rtext", "'this\\nis\\na\\nvery\\nvery\\nvery\\nverybreakpriceg\\ntext'"),
             array(new \stdClass, 'stdClass Object ()'),
-            array($obj, 'stdClass Object (...)'),
+            array($obj, 'stdClass Object (breakprice)'),
             array(array(), 'Array ()'),
-            array($array, 'Array (...)'),
+            array($array, 'Array (breakprice)'),
         );
     }
 
@@ -312,7 +312,7 @@ EOF;
 
         try {
             $this->assertSame(
-              "'いろはにほへとちりぬるをわかよたれそつねならむうゐのおくや...しゑひもせす'",
+              "'いろはにほへとちりぬるをわかよたれそつねならむうゐのおくやbreakpriceしゑひもせす'",
               $this->trimNewline($this->exporter->shortenedExport('いろはにほへとちりぬるをわかよたれそつねならむうゐのおくやまけふこえてあさきゆめみしゑひもせす'))
             );
         } catch (\Exception $e) {

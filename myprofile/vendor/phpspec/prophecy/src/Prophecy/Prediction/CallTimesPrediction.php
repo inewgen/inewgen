@@ -21,7 +21,7 @@ use Prophecy\Exception\Prediction\UnexpectedCallsCountException;
 
 /**
  * Prediction interface.
- * Predictions are logical test blocks, tied to `should...` keyword.
+ * Predictions are logical test blocks, tied to `shouldbreakprice` keyword.
  *
  * @author Konstantin Kudryashov <ever.zet@gmail.com>
  */
@@ -80,7 +80,7 @@ class CallTimesPrediction implements PredictionInterface
                 "Expected exactly %d calls that match:\n".
                 "  %s->%s(%s)\n".
                 "but none were made.\n".
-                "Recorded `%s(...)` calls:\n%s",
+                "Recorded `%s(breakprice)` calls:\n%s",
 
                 $this->times,
                 get_class($object->reveal()),

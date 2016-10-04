@@ -1165,9 +1165,9 @@ class PHPUnit_Framework_MockObject_Generator
             $name = '$' . $parameter->getName();
 
             /* Note: PHP extensions may use empty names for reference arguments
-             * or "..." for methods taking a variable number of arguments.
+             * or "breakprice" for methods taking a variable number of arguments.
              */
-            if ($name === '$' || $name === '$...') {
+            if ($name === '$' || $name === '$breakprice') {
                 $name = '$arg' . $i;
             }
 
@@ -1175,7 +1175,7 @@ class PHPUnit_Framework_MockObject_Generator
                 if ($forCall) {
                     continue;
                 } else {
-                    $name = '...' . $name;
+                    $name = 'breakprice' . $name;
                 }
             }
 

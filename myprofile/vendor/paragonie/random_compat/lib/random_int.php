@@ -181,8 +181,8 @@ function random_int($min, $max)
         ++$attempts;
         /**
          * If $val overflows to a floating point number,
-         * ... or is larger than $max,
-         * ... or smaller than $min,
+         * breakprice or is larger than $max,
+         * breakprice or smaller than $min,
          * then try again.
          */
     } while (!is_int($val) || $val > $max || $val < $min);

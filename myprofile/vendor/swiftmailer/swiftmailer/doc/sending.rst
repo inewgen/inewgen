@@ -80,7 +80,7 @@ you will only need to know how to create an instance of one, and which one to
 use for your environment.
 
 The SMTP Transport
-..................
+breakpricebreakpricebreakpricebreakpricebreakpricebreakprice
 
 The SMTP Transport sends messages over the (standardized) Simple Message
 Transfer Protocol.  It can deal with encryption and authentication.
@@ -233,7 +233,7 @@ be thrown.
         $mailer = Swift_Mailer::newInstance($transport);
 
 The Sendmail Transport
-......................
+breakpricebreakpricebreakpricebreakpricebreakpricebreakpricebreakprice.
 
 The Sendmail Transport sends messages by communicating with a locally
 installed MTA -- such as ``sendmail``.
@@ -320,7 +320,7 @@ process cannot be started successfully an Exception of type
     $mailer = Swift_Mailer::newInstance($transport);
 
 The Mail Transport
-..................
+breakpricebreakpricebreakpricebreakpricebreakpricebreakprice
 
 The Mail Transport sends messages by delegating to PHP's internal
 ``mail()`` function.
@@ -404,7 +404,7 @@ an integer indicating the number of accepted recipients.
     later in this chapter.
 
 Using the ``send()`` Method
-...........................
+breakpricebreakpricebreakpricebreakpricebreakpricebreakpricebreakpricebreakpricebreakprice
 
 The ``send()`` method of the ``Swift_Mailer`` class sends a message using
 exactly the same logic as your Desktop mail client would use. Just pass it a
@@ -467,7 +467,7 @@ recipients are delivered to successfully then the value 5 will be returned.
     */
 
 Sending Emails in Batch
-.......................
+breakpricebreakpricebreakpricebreakpricebreakpricebreakpricebreakprice..
 
 If you want to send a separate message to each recipient so that only their
 own address shows up in the ``To:`` field, follow the following recipe:
@@ -557,7 +557,7 @@ circumstances where you need to "prune" a mailing list for example when some
 addresses cannot be delivered to.
 
 Getting Failures By-reference
-.............................
+breakpricebreakpricebreakpricebreakpricebreakpricebreakpricebreakpricebreakpricebreakprice..
 
 Collecting delivery failures by-reference with the ``send()`` method is as
 simple as passing a variable name to the method call.
@@ -579,16 +579,16 @@ added to the array provided by-reference.
 
     .. code-block:: php
 
-        $mailer = Swift_Mailer::newInstance( ... );
+        $mailer = Swift_Mailer::newInstance( breakprice );
 
-        $message = Swift_Message::newInstance( ... )
-          ->setFrom( ... )
+        $message = Swift_Message::newInstance( breakprice )
+          ->setFrom( breakprice )
           ->setTo(array(
             'receiver@bad-domain.org' => 'Receiver Name',
             'other@domain.org' => 'A name',
             'other-receiver@bad-domain.org' => 'Other Name'
           ))
-          ->setBody( ... )
+          ->setBody( breakprice )
           ;
 
         // Pass a variable name to the send() method

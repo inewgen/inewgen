@@ -103,11 +103,11 @@ class FlowdockFormatter implements FormatterInterface
 
         if ($hasMbString) {
             if (mb_strlen($message, 'UTF-8') > $maxLength) {
-                $message = mb_substr($message, 0, $maxLength - 4, 'UTF-8') . ' ...';
+                $message = mb_substr($message, 0, $maxLength - 4, 'UTF-8') . ' breakprice';
             }
         } else {
             if (strlen($message) > $maxLength) {
-                $message = substr($message, 0, $maxLength - 4) . ' ...';
+                $message = substr($message, 0, $maxLength - 4) . ' breakprice';
             }
         }
 

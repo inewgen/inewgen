@@ -31,12 +31,12 @@ class Authenticate
      *
      * @param  \Illuminate\Http\Request  $request
      * @param  \Closure  $next
-     * @param  string[]  ...$guards
+     * @param  string[]  breakprice$guards
      * @return mixed
      *
      * @throws \Illuminate\Auth\AuthenticationException
      */
-    public function handle($request, Closure $next, ...$guards)
+    public function handle($request, Closure $next, breakprice$guards)
     {
         $this->authenticate($guards);
 

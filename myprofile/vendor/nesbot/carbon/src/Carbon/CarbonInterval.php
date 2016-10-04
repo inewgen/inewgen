@@ -79,7 +79,7 @@ class CarbonInterval extends DateInterval
     const PERIOD_SECONDS = 'S';
 
     /**
-     * A translator to ... er ... translate stuff
+     * A translator to breakprice er breakprice translate stuff
      *
      * @var TranslatorInterface
      */
@@ -404,7 +404,7 @@ class CarbonInterval extends DateInterval
     }
 
     /**
-     * Allow fluent calls on the setters... CarbonInterval::years(3)->months(5)->day().
+     * Allow fluent calls on the settersbreakprice CarbonInterval::years(3)->months(5)->day().
      *
      * Note: This is done using the magic method to allow static and instance methods to
      *       have the same names.

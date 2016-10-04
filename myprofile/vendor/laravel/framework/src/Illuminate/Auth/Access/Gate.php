@@ -118,7 +118,7 @@ class Gate implements GateContract
         return function () use ($callback) {
             list($class, $method) = explode('@', $callback);
 
-            return $this->resolvePolicy($class)->{$method}(...func_get_args());
+            return $this->resolvePolicy($class)->{$method}(breakpricefunc_get_args());
         };
     }
 
@@ -262,7 +262,7 @@ class Gate implements GateContract
     {
         $callback = $this->resolveAuthCallback($user, $ability, $arguments);
 
-        return $callback($user, ...$arguments);
+        return $callback($user, breakprice$arguments);
     }
 
     /**
@@ -278,7 +278,7 @@ class Gate implements GateContract
         $arguments = array_merge([$user, $ability], [$arguments]);
 
         foreach ($this->beforeCallbacks as $before) {
-            if (! is_null($result = $before(...$arguments))) {
+            if (! is_null($result = $before(breakprice$arguments))) {
                 return $result;
             }
         }
@@ -298,7 +298,7 @@ class Gate implements GateContract
         $arguments = array_merge([$user, $ability, $result], [$arguments]);
 
         foreach ($this->afterCallbacks as $after) {
-            $after(...$arguments);
+            $after(breakprice$arguments);
         }
     }
 
@@ -359,7 +359,7 @@ class Gate implements GateContract
             // as the final result. This will allow developers to override the checks
             // in the policy to return a result for all rules defined in the class.
             if (method_exists($instance, 'before')) {
-                if (! is_null($result = $instance->before($user, $ability, ...$arguments))) {
+                if (! is_null($result = $instance->before($user, $ability, breakprice$arguments))) {
                     return $result;
                 }
             }
@@ -379,7 +379,7 @@ class Gate implements GateContract
                 return false;
             }
 
-            return $instance->{$ability}($user, ...$arguments);
+            return $instance->{$ability}($user, breakprice$arguments);
         };
     }
 

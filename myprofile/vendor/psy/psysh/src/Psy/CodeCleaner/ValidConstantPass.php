@@ -24,7 +24,7 @@ use Psy\Exception\FatalErrorException;
  * headfirst into a real fatal error and die.
  *
  * @todo Detect constants defined in the current code snippet?
- *       ... Might not be worth it, since it would need to both be defining and
+ *       breakprice Might not be worth it, since it would need to both be defining and
  *       referencing a namespaced constant, which doesn't seem like that big of
  *       a target for failure.
  */

@@ -49,7 +49,7 @@ class MockingVariadicArgumentsTest extends MockeryTestCase
 
 abstract class TestWithVariadicArguments
 {
-    public function foo(...$bar)
+    public function foo(breakprice$bar)
     {
         return $bar;
     }

@@ -563,7 +563,7 @@ abstract class AbstractPaginator implements Htmlable
      */
     public function __call($method, $parameters)
     {
-        return $this->getCollection()->$method(...$parameters);
+        return $this->getCollection()->$method(breakprice$parameters);
     }
 
     /**

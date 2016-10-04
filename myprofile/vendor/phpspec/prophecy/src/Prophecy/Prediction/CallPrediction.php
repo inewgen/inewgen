@@ -63,7 +63,7 @@ class CallPrediction implements PredictionInterface
                 "No calls have been made that match:\n".
                 "  %s->%s(%s)\n".
                 "but expected at least one.\n".
-                "Recorded `%s(...)` calls:\n%s",
+                "Recorded `%s(breakprice)` calls:\n%s",
 
                 get_class($object->reveal()),
                 $method->getMethodName(),

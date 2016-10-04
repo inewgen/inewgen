@@ -86,11 +86,11 @@ class PHPUnit_Framework_MockObject_Builder_InvocationMocker implements PHPUnit_F
 
     /**
      * @param mixed $value
-     * @param mixed $nextValues, ...
+     * @param mixed $nextValues, breakprice
      *
      * @return PHPUnit_Framework_MockObject_Builder_InvocationMocker
      */
-    public function willReturn($value, ...$nextValues)
+    public function willReturn($value, breakprice$nextValues)
     {
         $stub = count($nextValues) === 0 ?
             new PHPUnit_Framework_MockObject_Stub_Return($value) :
@@ -166,11 +166,11 @@ class PHPUnit_Framework_MockObject_Builder_InvocationMocker implements PHPUnit_F
     }
 
     /**
-     * @param mixed $values, ...
+     * @param mixed $values, breakprice
      *
      * @return PHPUnit_Framework_MockObject_Builder_InvocationMocker
      */
-    public function willReturnOnConsecutiveCalls(...$values)
+    public function willReturnOnConsecutiveCalls(breakprice$values)
     {
         $stub = new PHPUnit_Framework_MockObject_Stub_ConsecutiveCalls($values);
 
@@ -223,11 +223,11 @@ class PHPUnit_Framework_MockObject_Builder_InvocationMocker implements PHPUnit_F
     }
 
     /**
-     * @param  array ...$arguments
+     * @param  array breakprice$arguments
      *
      * @return PHPUnit_Framework_MockObject_Builder_InvocationMocker
      */
-    public function with(...$arguments)
+    public function with(breakprice$arguments)
     {
         $this->canDefineParameters();
 
@@ -237,11 +237,11 @@ class PHPUnit_Framework_MockObject_Builder_InvocationMocker implements PHPUnit_F
     }
 
     /**
-     * @param  array ...$arguments
+     * @param  array breakprice$arguments
      *
      * @return PHPUnit_Framework_MockObject_Builder_InvocationMocker
      */
-    public function withConsecutive(...$arguments)
+    public function withConsecutive(breakprice$arguments)
     {
         $this->canDefineParameters();
 

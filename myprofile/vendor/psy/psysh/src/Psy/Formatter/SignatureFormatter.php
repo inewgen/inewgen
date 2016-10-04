@@ -231,7 +231,7 @@ class SignatureFormatter implements Formatter
                     $hint = sprintf('<class>%s</class> ', $class->getName());
                 }
             } catch (\Exception $e) {
-                // sometimes we just don't know...
+                // sometimes we just don't knowbreakprice
                 // bad class names, or autoloaded classes that haven't been loaded yet, or whathaveyou.
                 // come to think of it, the only time I've seen this is with the intl extension.
 

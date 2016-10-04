@@ -81,7 +81,7 @@ class FormatterHelper extends Helper
      *
      * @return string
      */
-    public function truncate($message, $length, $suffix = '...')
+    public function truncate($message, $length, $suffix = 'breakprice')
     {
         $computedLength = $length - $this->strlen($suffix);
 

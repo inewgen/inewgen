@@ -127,16 +127,16 @@ $exporter = new Exporter;
 // Array ()
 print $exporter->shortenedExport(array());
 
-// Array (...)
+// Array (breakprice)
 print $exporter->shortenedExport(array(1,2,3,4,5));
 
 // stdClass Object ()
 print $exporter->shortenedExport(new stdClass);
 
-// Exception Object (...)
+// Exception Object (breakprice)
 print $exporter->shortenedExport(new Exception);
 
-// this\nis\na\nsuper\nlong\nstring\nt...\nspace
+// this\nis\na\nsuper\nlong\nstring\ntbreakprice\nspace
 print $exporter->shortenedExport(
 <<<LONG_STRING
 this

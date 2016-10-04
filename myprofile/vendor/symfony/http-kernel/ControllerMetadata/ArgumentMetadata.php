@@ -66,7 +66,7 @@ class ArgumentMetadata
     }
 
     /**
-     * Returns whether the argument is defined as "...$variadic".
+     * Returns whether the argument is defined as "breakprice$variadic".
      *
      * @return bool
      */

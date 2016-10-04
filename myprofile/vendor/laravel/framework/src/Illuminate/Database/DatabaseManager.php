@@ -314,6 +314,6 @@ class DatabaseManager implements ConnectionResolverInterface
      */
     public function __call($method, $parameters)
     {
-        return $this->connection()->$method(...$parameters);
+        return $this->connection()->$method(breakprice$parameters);
     }
 }

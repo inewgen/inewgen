@@ -33,7 +33,7 @@ if (!function_exists('assertThat')) {
 if (!function_exists('anArray')) {    /**
      * Evaluates to true only if each $matcher[$i] is satisfied by $array[$i].
      */
-    function anArray(/* args... */)
+    function anArray(/* argsbreakprice */)
     {
         $args = func_get_args();
         return call_user_func_array(array('\Hamcrest\Arrays\IsArray', 'anArray'), $args);
@@ -69,7 +69,7 @@ if (!function_exists('hasValue')) {    /**
 if (!function_exists('arrayContainingInAnyOrder')) {    /**
      * An array with elements that match the given matchers.
      */
-    function arrayContainingInAnyOrder(/* args... */)
+    function arrayContainingInAnyOrder(/* argsbreakprice */)
     {
         $args = func_get_args();
         return call_user_func_array(array('\Hamcrest\Arrays\IsArrayContainingInAnyOrder', 'arrayContainingInAnyOrder'), $args);
@@ -79,7 +79,7 @@ if (!function_exists('arrayContainingInAnyOrder')) {    /**
 if (!function_exists('containsInAnyOrder')) {    /**
      * An array with elements that match the given matchers.
      */
-    function containsInAnyOrder(/* args... */)
+    function containsInAnyOrder(/* argsbreakprice */)
     {
         $args = func_get_args();
         return call_user_func_array(array('\Hamcrest\Arrays\IsArrayContainingInAnyOrder', 'arrayContainingInAnyOrder'), $args);
@@ -89,7 +89,7 @@ if (!function_exists('containsInAnyOrder')) {    /**
 if (!function_exists('arrayContaining')) {    /**
      * An array with elements that match the given matchers in the same order.
      */
-    function arrayContaining(/* args... */)
+    function arrayContaining(/* argsbreakprice */)
     {
         $args = func_get_args();
         return call_user_func_array(array('\Hamcrest\Arrays\IsArrayContainingInOrder', 'arrayContaining'), $args);
@@ -99,7 +99,7 @@ if (!function_exists('arrayContaining')) {    /**
 if (!function_exists('contains')) {    /**
      * An array with elements that match the given matchers in the same order.
      */
-    function contains(/* args... */)
+    function contains(/* argsbreakprice */)
     {
         $args = func_get_args();
         return call_user_func_array(array('\Hamcrest\Arrays\IsArrayContainingInOrder', 'arrayContaining'), $args);
@@ -211,7 +211,7 @@ if (!function_exists('traversableWithSize')) {    /**
 if (!function_exists('allOf')) {    /**
      * Evaluates to true only if ALL of the passed in matchers evaluate to true.
      */
-    function allOf(/* args... */)
+    function allOf(/* argsbreakprice */)
     {
         $args = func_get_args();
         return call_user_func_array(array('\Hamcrest\Core\AllOf', 'allOf'), $args);
@@ -221,7 +221,7 @@ if (!function_exists('allOf')) {    /**
 if (!function_exists('anyOf')) {    /**
      * Evaluates to true if ANY of the passed in matchers evaluate to true.
      */
-    function anyOf(/* args... */)
+    function anyOf(/* argsbreakprice */)
     {
         $args = func_get_args();
         return call_user_func_array(array('\Hamcrest\Core\AnyOf', 'anyOf'), $args);
@@ -231,7 +231,7 @@ if (!function_exists('anyOf')) {    /**
 if (!function_exists('noneOf')) {    /**
      * Evaluates to false if ANY of the passed in matchers evaluate to true.
      */
-    function noneOf(/* args... */)
+    function noneOf(/* argsbreakprice */)
     {
         $args = func_get_args();
         return call_user_func_array(array('\Hamcrest\Core\AnyOf', 'noneOf'), $args);
@@ -267,7 +267,7 @@ if (!function_exists('either')) {    /**
 if (!function_exists('describedAs')) {    /**
      * Wraps an existing matcher and overrides the description when it fails.
      */
-    function describedAs(/* args... */)
+    function describedAs(/* argsbreakprice */)
     {
         $args = func_get_args();
         return call_user_func_array(array('\Hamcrest\Core\DescribedAs', 'describedAs'), $args);
@@ -332,7 +332,7 @@ if (!function_exists('hasItem')) {    /**
      * assertThat(array('a', 'b'), hasItem('b'));
      * </pre>
      */
-    function hasItem(/* args... */)
+    function hasItem(/* argsbreakprice */)
     {
         $args = func_get_args();
         return call_user_func_array(array('\Hamcrest\Core\IsCollectionContaining', 'hasItem'), $args);
@@ -348,7 +348,7 @@ if (!function_exists('hasItems')) {    /**
      * assertThat(array('a', 'b', 'c'), hasItems(equalTo('a'), equalTo('b')));
      * </pre>
      */
-    function hasItems(/* args... */)
+    function hasItems(/* argsbreakprice */)
     {
         $args = func_get_args();
         return call_user_func_array(array('\Hamcrest\Core\IsCollectionContaining', 'hasItems'), $args);
@@ -642,7 +642,7 @@ if (!function_exists('containsStringIgnoringCase')) {    /**
 if (!function_exists('stringContainsInOrder')) {    /**
      * Matches if value contains $substrings in a constrained order.
      */
-    function stringContainsInOrder(/* args... */)
+    function stringContainsInOrder(/* argsbreakprice */)
     {
         $args = func_get_args();
         return call_user_func_array(array('\Hamcrest\Text\StringContainsInOrder', 'stringContainsInOrder'), $args);

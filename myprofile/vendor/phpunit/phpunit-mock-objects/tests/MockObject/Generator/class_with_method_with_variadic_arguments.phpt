@@ -4,7 +4,7 @@ PHPUnit_Framework_MockObject_Generator::generate('ClassWithMethodWithVariadicArg
 <?php
 class ClassWithMethodWithVariadicArguments
 {
-    public function methodWithVariadicArguments($a, ...$parameters)
+    public function methodWithVariadicArguments($a, breakprice$parameters)
     {
     }
 }
@@ -35,7 +35,7 @@ class MockFoo extends ClassWithMethodWithVariadicArguments implements PHPUnit_Fr
         $this->__phpunit_invocationMocker = clone $this->__phpunit_getInvocationMocker();
     }
 
-    public function methodWithVariadicArguments($a, ...$parameters)
+    public function methodWithVariadicArguments($a, breakprice$parameters)
     {
         $arguments = array($a);
         $count     = func_num_args();

@@ -186,12 +186,12 @@ yaml: |
   time: 20:03:20
   player: Sammy Sosa
   action: strike (miss)
-  ...
+  breakprice
   ---
   time: 20:03:47
   player: Sammy Sosa
   action: grand slam
-  ...
+  breakprice
 perl: |
   [ 'Mark McGwire', 'Sammy Sosa', 'Ken Griffey' ]
 documents: 2
@@ -908,12 +908,12 @@ yaml: |
   sent at: 2002-06-06 11:46:25.10 Z
   payload: Whatever
   # Receiver can process this as soon as the following is sent:
-  ...
+  breakprice
   # Even if the next message is sent long after:
   ---
   sent at: 2002-06-06 12:05:53.47 Z
   payload: Whatever
-  ...
+  breakprice
 ruby: |
   y = YAML::Stream.new
   y.add(

@@ -47,7 +47,7 @@ class Authorize
      * @throws \Illuminate\Auth\AuthenticationException
      * @throws \Illuminate\Auth\Access\AuthorizationException
      */
-    public function handle($request, Closure $next, $ability, ...$models)
+    public function handle($request, Closure $next, $ability, breakprice$models)
     {
         $this->auth->authenticate();
 

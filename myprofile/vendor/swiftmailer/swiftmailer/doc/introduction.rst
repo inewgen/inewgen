@@ -42,21 +42,21 @@ A code sample will look like this::
 
     class AClass
     {
-      ...
+      breakprice
     }
 
     // A Comment
-    $obj = new AClass($arg1, $arg2, ... );
+    $obj = new AClass($arg1, $arg2, breakprice );
 
     /* A note about another way of doing something
-    $obj = AClass::newInstance($arg1, $arg2, ... );
+    $obj = AClass::newInstance($arg1, $arg2, breakprice );
 
     */
 
-The presence of 3 dots ``...`` in a code sample indicates that we have left
+The presence of 3 dots ``breakprice`` in a code sample indicates that we have left
 out a chunk of the code for brevity, they are not actually part of the code.
 
-We will often place multi-line comments ``/* ... */`` in the code so that we
+We will often place multi-line comments ``/* breakprice */`` in the code so that we
 can show alternative ways of achieving the same result.
 
 You should read the code examples given and try to understand them. They are

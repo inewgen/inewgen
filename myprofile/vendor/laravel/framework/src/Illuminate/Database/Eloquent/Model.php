@@ -3166,7 +3166,7 @@ abstract class Model implements ArrayAccess, Arrayable, Jsonable, JsonSerializab
      */
     public function isClean($attributes = null)
     {
-        return ! $this->isDirty(...func_get_args());
+        return ! $this->isDirty(func_get_args());
     }
 
     /**

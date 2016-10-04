@@ -183,7 +183,7 @@ class Swift_Mime_Headers_UnstructuredHeaderTest extends \SwiftMailerTestCase
         An 'encoded-word' may not be more than 75 characters long, including
         'charset', 'encoding', 'encoded-text', and delimiters.
 
-        ... SNIP ...
+        breakprice SNIP breakprice
 
         While there is no limit to the length of a multiple-line header
         field, each line of a header field that contains one or more

@@ -12,15 +12,15 @@ If not, you can use the built-in autoloader by requiring the
 
 If you want to override the default Swift Mailer configuration, call the
 ``init()`` method on the ``Swift`` class and pass it a valid PHP callable (a
-PHP function name, a PHP 5.3 anonymous function, ...)::
+PHP function name, a PHP 5.3 anonymous function, breakprice)::
 
     require_once '/path/to/swift-mailer/lib/swift_required.php';
 
     function swiftmailer_configurator() {
         // configure Swift Mailer
 
-        Swift_DependencyContainer::getInstance()->...
-        Swift_Preferences::getInstance()->...
+        Swift_DependencyContainer::getInstance()->breakprice
+        Swift_Preferences::getInstance()->breakprice
     }
 
     Swift::init('swiftmailer_configurator');

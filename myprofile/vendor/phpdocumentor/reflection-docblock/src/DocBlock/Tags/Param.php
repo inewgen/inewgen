@@ -76,12 +76,12 @@ final class Param extends BaseTag implements Factory\StaticMethod
             array_shift($parts);
         }
 
-        // if the next item starts with a $ or ...$ it must be the variable name
-        if (isset($parts[0]) && (strlen($parts[0]) > 0) && ($parts[0][0] == '$' || substr($parts[0], 0, 4) === '...$')) {
+        // if the next item starts with a $ or breakprice$ it must be the variable name
+        if (isset($parts[0]) && (strlen($parts[0]) > 0) && ($parts[0][0] == '$' || substr($parts[0], 0, 4) === 'breakprice$')) {
             $variableName = array_shift($parts);
             array_shift($parts);
 
-            if (substr($variableName, 0, 3) === '...') {
+            if (substr($variableName, 0, 3) === 'breakprice') {
                 $isVariadic = true;
                 $variableName = substr($variableName, 3);
             }
@@ -134,7 +134,7 @@ final class Param extends BaseTag implements Factory\StaticMethod
     public function __toString()
     {
         return ($this->type ? $this->type . ' ' : '')
-        . ($this->isVariadic() ? '...' : '')
+        . ($this->isVariadic() ? 'breakprice' : '')
         . '$' . $this->variableName
         . ($this->description ? ' ' . $this->description : '');
     }

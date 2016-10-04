@@ -22,7 +22,7 @@ use Psy\CodeCleaner;
  *
  *     namespace Foo\Bar;
  *
- * ... which it then applies implicitly to all future evaluated code, until the
+ * breakprice which it then applies implicitly to all future evaluated code, until the
  * namespace is replaced by another namespace. To reset to the top level
  * namespace, enter `namespace {}`. This is a bit ugly, but it does the trick :)
  */

@@ -69,7 +69,7 @@ class ArrayEveryEntryToken implements TokenInterface
      */
     public function __toString()
     {
-        return sprintf('[%s, ..., %s]', $this->value, $this->value);
+        return sprintf('[%s, breakprice, %s]', $this->value, $this->value);
     }
 
     /**

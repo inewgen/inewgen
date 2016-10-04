@@ -6,7 +6,7 @@ f();
 f($a);
 f($a, $b);
 f(&$a);
-f($a, ...$b);
+f($a, breakprice$b);
 -----
 array(
     0: Expr_FuncCall(

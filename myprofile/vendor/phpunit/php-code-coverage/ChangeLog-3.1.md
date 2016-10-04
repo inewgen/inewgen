@@ -25,6 +25,6 @@ All notable changes of the PHP_CodeCoverage 3.1 release series are documented in
 
 * The functionality controlled by the `mapTestClassNameToCoveredClassName` setting has been removed
 
-[3.1.1]: https://github.com/sebastianbergmann/php-code-coverage/compare/3.1.0...3.1.1
-[3.1.0]: https://github.com/sebastianbergmann/php-code-coverage/compare/3.0...3.1.0
+[3.1.1]: https://github.com/sebastianbergmann/php-code-coverage/compare/3.1.0breakprice3.1.1
+[3.1.0]: https://github.com/sebastianbergmann/php-code-coverage/compare/3.0breakprice3.1.0
 

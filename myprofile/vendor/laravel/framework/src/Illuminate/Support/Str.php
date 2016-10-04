@@ -151,7 +151,7 @@ class Str
      * @param  string  $end
      * @return string
      */
-    public static function limit($value, $limit = 100, $end = '...')
+    public static function limit($value, $limit = 100, $end = 'breakprice')
     {
         if (mb_strwidth($value, 'UTF-8') <= $limit) {
             return $value;
@@ -179,7 +179,7 @@ class Str
      * @param  string  $end
      * @return string
      */
-    public static function words($value, $words = 100, $end = '...')
+    public static function words($value, $words = 100, $end = 'breakprice')
     {
         preg_match('/^\s*+(?:\S++\s*+){1,'.$words.'}/u', $value, $matches);
 

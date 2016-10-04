@@ -44,7 +44,7 @@ class Shell extends Application
     const VERSION = 'v0.7.2';
 
     const PROMPT      = '>>> ';
-    const BUFF_PROMPT = '... ';
+    const BUFF_PROMPT = 'breakprice ';
     const REPLAY      = '--> ';
     const RETVAL      = '=> ';
 
@@ -722,7 +722,7 @@ class Shell extends Application
         if ($errno & error_reporting()) {
             ErrorException::throwException($errno, $errstr, $errfile, $errline);
         } elseif ($errno & $this->config->errorLoggingLevel()) {
-            // log it and continue...
+            // log it and continuebreakprice
             $this->writeException(new ErrorException($errstr, 0, $errno, $errfile, $errline));
         }
     }
@@ -856,7 +856,7 @@ class Shell extends Application
         // $words = explode(' ', $line);
         // $firstWord = reset($words);
 
-        // check whether this is a variable...
+        // check whether this is a variablebreakprice
         $firstChar = substr($info['line_buffer'], max(0, $info['end'] - strlen($text) - 1), 1);
         if ($firstChar === '$') {
             return $this->getScopeVariableNames();

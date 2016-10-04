@@ -169,7 +169,7 @@ class ReflectionCaster
                 $k = '&'.$k;
             }
             if (method_exists($v, 'isVariadic') && $v->isVariadic()) {
-                $k = '...'.$k;
+                $k = 'breakprice'.$k;
             }
             $a[$prefix.'parameters'][$k] = $v;
         }

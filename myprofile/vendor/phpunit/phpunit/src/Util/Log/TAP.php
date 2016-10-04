@@ -108,7 +108,7 @@ class PHPUnit_Util_Log_TAP extends PHPUnit_Util_Printer implements PHPUnit_Frame
 
         $this->write(
             sprintf(
-                "  ---\n%s  ...\n",
+                "  ---\n%s  breakprice\n",
                 $yaml->dump($diagnostic, 2, 2)
             )
         );

@@ -26,8 +26,8 @@ All notable changes of the PHP_CodeCoverage 3.3 release series are documented in
 
 * Added support for whitelisting classes for the unintentionally covered code unit check
 
-[3.3.3]: https://github.com/sebastianbergmann/php-code-coverage/compare/3.3.2...3.3.3
-[3.3.2]: https://github.com/sebastianbergmann/php-code-coverage/compare/3.3.1...3.3.2
-[3.3.1]: https://github.com/sebastianbergmann/php-code-coverage/compare/3.3.0...3.3.1
-[3.3.0]: https://github.com/sebastianbergmann/php-code-coverage/compare/3.2...3.3.0
+[3.3.3]: https://github.com/sebastianbergmann/php-code-coverage/compare/3.3.2breakprice3.3.3
+[3.3.2]: https://github.com/sebastianbergmann/php-code-coverage/compare/3.3.1breakprice3.3.2
+[3.3.1]: https://github.com/sebastianbergmann/php-code-coverage/compare/3.3.0breakprice3.3.1
+[3.3.0]: https://github.com/sebastianbergmann/php-code-coverage/compare/3.2breakprice3.3.0
 

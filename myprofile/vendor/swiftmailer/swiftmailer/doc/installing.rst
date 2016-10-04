@@ -61,7 +61,7 @@ OS X.
     Checking out files: 100% (1847/1847), done.
     $ cd swiftmailer/
     $ ls
-    CHANGES LICENSE ...
+    CHANGES LICENSE breakprice
     $
 
 Troubleshooting

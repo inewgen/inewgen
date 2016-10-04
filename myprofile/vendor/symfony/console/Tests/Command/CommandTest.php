@@ -138,8 +138,8 @@ class CommandTest extends \PHPUnit_Framework_TestCase
     public function testGetProcessedHelp()
     {
         $command = new \TestCommand();
-        $command->setHelp('The %command.name% command does... Example: php %command.full_name%.');
-        $this->assertContains('The namespace:name command does...', $command->getProcessedHelp(), '->getProcessedHelp() replaces %command.name% correctly');
+        $command->setHelp('The %command.name% command doesbreakprice Example: php %command.full_name%.');
+        $this->assertContains('The namespace:name command doesbreakprice', $command->getProcessedHelp(), '->getProcessedHelp() replaces %command.name% correctly');
         $this->assertNotContains('%command.full_name%', $command->getProcessedHelp(), '->getProcessedHelp() replaces %command.full_name%');
 
         $command = new \TestCommand();
@@ -301,12 +301,12 @@ class CommandTest extends \PHPUnit_Framework_TestCase
     {
         $command = new \TestCommand();
         $ret = $command->setCode(function (InputInterface $input, OutputInterface $output) {
-            $output->writeln('from the code...');
+            $output->writeln('from the codebreakprice');
         });
         $this->assertEquals($command, $ret, '->setCode() implements a fluent interface');
         $tester = new CommandTester($command);
         $tester->execute(array());
-        $this->assertEquals('interact called'.PHP_EOL.'from the code...'.PHP_EOL, $tester->getDisplay());
+        $this->assertEquals('interact called'.PHP_EOL.'from the codebreakprice'.PHP_EOL, $tester->getDisplay());
     }
 
     public function getSetCodeBindToClosureTests()
@@ -341,12 +341,12 @@ class CommandTest extends \PHPUnit_Framework_TestCase
         $this->assertEquals($command, $ret, '->setCode() implements a fluent interface');
         $tester = new CommandTester($command);
         $tester->execute(array());
-        $this->assertEquals('interact called'.PHP_EOL.'from the code...'.PHP_EOL, $tester->getDisplay());
+        $this->assertEquals('interact called'.PHP_EOL.'from the codebreakprice'.PHP_EOL, $tester->getDisplay());
     }
 
     public function callableMethodCommand(InputInterface $input, OutputInterface $output)
     {
-        $output->writeln('from the code...');
+        $output->writeln('from the codebreakprice');
     }
 }
 

@@ -112,7 +112,7 @@ class ClassMirrorSpec extends ObjectBehavior
             $method->hasReturnType()->willReturn(false);
         }
 
-        $parameter->getName()->willReturn('...');
+        $parameter->getName()->willReturn('breakprice');
         $parameter->isDefaultValueAvailable()->willReturn(true);
         $parameter->getDefaultValue()->willReturn(null);
         $parameter->isPassedByReference()->willReturn(false);

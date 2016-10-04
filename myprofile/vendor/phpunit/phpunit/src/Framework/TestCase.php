@@ -2038,7 +2038,7 @@ abstract class PHPUnit_Framework_TestCase extends PHPUnit_Framework_Assert imple
     }
 
     /**
-     * @param mixed $value, ...
+     * @param mixed $value, breakprice
      *
      * @return PHPUnit_Framework_MockObject_Stub_ConsecutiveCalls
      *

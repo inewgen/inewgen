@@ -37,7 +37,7 @@ class Transient implements Readline
      */
     public function __construct($historyFile = null, $historySize = 0, $eraseDups = false)
     {
-        // don't do anything with the history file...
+        // don't do anything with the history filebreakprice
         $this->history     = array();
         $this->historySize = $historySize;
         $this->eraseDups   = $eraseDups;

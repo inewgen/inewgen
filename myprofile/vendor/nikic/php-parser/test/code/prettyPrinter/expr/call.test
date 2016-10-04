@@ -4,10 +4,10 @@ Calls
 
 f($a);
 f(&$a);
-f(...$a);
-f($a, &$b, ...$c);
+f(breakprice$a);
+f($a, &$b, breakprice$c);
 -----
 f($a);
 f(&$a);
-f(...$a);
-f($a, &$b, ...$c);
+f(breakprice$a);
+f($a, &$b, breakprice$c);

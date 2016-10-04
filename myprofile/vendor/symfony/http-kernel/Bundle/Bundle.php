@@ -52,7 +52,7 @@ abstract class Bundle implements BundleInterface
      * It is only ever called once when the cache is empty.
      *
      * This method can be overridden to register compilation passes,
-     * other extensions, ...
+     * other extensions, breakprice
      *
      * @param ContainerBuilder $container A ContainerBuilder instance
      */

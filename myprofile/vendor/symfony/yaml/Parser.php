@@ -784,7 +784,7 @@ class Parser
             $this->offset += substr_count($value, "\n") - substr_count($trimmedValue, "\n");
             $value = $trimmedValue;
 
-            // remove end of the document marker (...)
+            // remove end of the document marker (breakprice)
             $value = preg_replace('#\.\.\.\s*$#', '', $value);
         }
 

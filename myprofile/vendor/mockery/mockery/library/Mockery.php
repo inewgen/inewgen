@@ -429,7 +429,7 @@ class Mockery
 
         if (is_array($argument)) {
             if ($depth === 1) {
-                $argument = 'array(...)';
+                $argument = 'array(breakprice)';
             } else {
                 $sample = array();
                 foreach ($argument as $key => $value) {
@@ -438,7 +438,7 @@ class Mockery
                 $argument = preg_replace("{\s}", '', var_export($sample, true));
             }
 
-            return ((strlen($argument) > 1000) ? substr($argument, 0, 1000).'...)' : $argument);
+            return ((strlen($argument) > 1000) ? substr($argument, 0, 1000).'breakprice)' : $argument);
         }
 
         if (is_bool($argument)) {
@@ -446,7 +446,7 @@ class Mockery
         }
 
         if (is_resource($argument)) {
-            return 'resource(...)';
+            return 'resource(breakprice)';
         }
 
         if (is_null($argument)) {
@@ -505,7 +505,7 @@ class Mockery
     private static function objectToArray($object, $nesting = 3)
     {
         if ($nesting == 0) {
-            return array('...');
+            return array('breakprice');
         }
 
         return array(
@@ -592,7 +592,7 @@ class Mockery
     private static function cleanupArray($argument, $nesting = 3)
     {
         if ($nesting == 0) {
-            return '...';
+            return 'breakprice';
         }
 
         foreach ($argument as $key => $value) {

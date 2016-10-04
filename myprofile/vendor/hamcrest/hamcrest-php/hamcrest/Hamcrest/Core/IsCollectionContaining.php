@@ -58,7 +58,7 @@ class IsCollectionContaining extends TypeSafeMatcher
      * assertThat(array('a', 'b'), hasItem('b'));
      * </pre>
      *
-     * @factory ...
+     * @factory breakprice
      */
     public static function hasItem()
     {
@@ -77,9 +77,9 @@ class IsCollectionContaining extends TypeSafeMatcher
      * assertThat(array('a', 'b', 'c'), hasItems(equalTo('a'), equalTo('b')));
      * </pre>
      *
-     * @factory ...
+     * @factory breakprice
      */
-    public static function hasItems(/* args... */)
+    public static function hasItems(/* argsbreakprice */)
     {
         $args = func_get_args();
         $matchers = array();

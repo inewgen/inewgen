@@ -22,7 +22,7 @@ class RedirectableUrlMatcher extends UrlMatcher implements RedirectableUrlMatche
     public function redirect($path, $route, $scheme = null)
     {
         return array(
-            '_controller' => 'Some controller reference...',
+            '_controller' => 'Some controller referencebreakprice',
             'path' => $path,
             'scheme' => $scheme,
         );

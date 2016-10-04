@@ -35,7 +35,7 @@ class MatcherAssert
      * assertThat($a > $b);
      * </pre>
      */
-    public static function assertThat(/* $args ... */)
+    public static function assertThat(/* $args breakprice */)
     {
         $args = func_get_args();
         switch (count($args)) {

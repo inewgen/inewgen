@@ -48,7 +48,7 @@ class MailFake implements Mailer
             }
 
             if (! is_null($callback)) {
-                return $callback(...func_get_args());
+                return $callback(breakpricefunc_get_args());
             }
 
             return true;
@@ -121,7 +121,7 @@ class MailFake implements Mailer
         };
 
         return $this->mailablesOf($mailable)->filter(function ($mailable) use ($callback) {
-            return $callback($mailable->mailable, ...array_values($mailable->getRecipients()));
+            return $callback($mailable->mailable, breakpricearray_values($mailable->getRecipients()));
         });
     }
 

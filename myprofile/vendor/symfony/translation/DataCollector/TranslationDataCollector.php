@@ -139,10 +139,10 @@ class TranslationDataCollector extends DataCollector implements LateDataCollecto
 
         if (false !== $encoding = mb_detect_encoding($string, null, true)) {
             if (mb_strlen($string, $encoding) > $length) {
-                return mb_substr($string, 0, $length - 3, $encoding).'...';
+                return mb_substr($string, 0, $length - 3, $encoding).'breakprice';
             }
         } elseif (strlen($string) > $length) {
-            return substr($string, 0, $length - 3).'...';
+            return substr($string, 0, $length - 3).'breakprice';
         }
 
         return $string;

@@ -1,10 +1,10 @@
 Variadic functions
 -----
 <?php
-function test($a, ... $b) {}
-function test($a, &... $b) {}
-function test($a, Type ... $b) {}
-function test($a, Type &... $b) {}
+function test($a, breakprice $b) {}
+function test($a, &breakprice $b) {}
+function test($a, Type breakprice $b) {}
+function test($a, Type &breakprice $b) {}
 -----
 array(
     0: Stmt_Function(

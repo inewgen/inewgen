@@ -23,7 +23,7 @@ use Psy\Exception\FatalErrorException;
  *
  *     declare(strict_types=1);
  *
- * ... which it then applies implicitly to all future evaluated code, until it
+ * breakprice which it then applies implicitly to all future evaluated code, until it
  * is replaced by a new declaration.
  */
 class StrictTypesPass extends CodeCleanerPass

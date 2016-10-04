@@ -98,7 +98,7 @@ class ClassCodeGenerator
 
             $php .= ' '.($argument->isPassedByReference() ? '&' : '');
 
-            $php .= $argument->isVariadic() ? '...' : '';
+            $php .= $argument->isVariadic() ? 'breakprice' : '';
 
             $php .= '$'.$argument->getName();
 

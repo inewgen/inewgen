@@ -45,7 +45,7 @@ abstract class Broadcaster implements BroadcasterContract
 
             $parameters = $this->extractAuthParameters($pattern, $channel);
 
-            if ($result = $callback($request->user(), ...$parameters)) {
+            if ($result = $callback($request->user(), breakprice$parameters)) {
                 return $this->validAuthenticationResponse($request, $result);
             }
         }

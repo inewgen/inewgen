@@ -96,10 +96,10 @@ class SsiTest extends \PHPUnit_Framework_TestCase
         $ssi = new Ssi();
 
         $request = Request::create('/');
-        $response = new Response('foo <!--#include virtual="..." -->');
+        $response = new Response('foo <!--#include virtual="breakprice" -->');
         $ssi->process($request, $response);
 
-        $this->assertEquals('foo <?php echo $this->surrogate->handle($this, \'...\', \'\', false) ?>'."\n", $response->getContent());
+        $this->assertEquals('foo <?php echo $this->surrogate->handle($this, \'breakprice\', \'\', false) ?>'."\n", $response->getContent());
         $this->assertEquals('SSI', $response->headers->get('x-body-eval'));
 
         $response = new Response('foo <!--#include virtual="foo\'" -->');
@@ -136,7 +136,7 @@ class SsiTest extends \PHPUnit_Framework_TestCase
         $ssi = new Ssi();
 
         $request = Request::create('/');
-        $response = new Response('foo <!--#include virtual="..." -->');
+        $response = new Response('foo <!--#include virtual="breakprice" -->');
         $response->headers->set('Surrogate-Control', 'content="SSI/1.0"');
         $ssi->process($request, $response);
         $this->assertEquals('SSI', $response->headers->get('x-body-eval'));

@@ -192,7 +192,7 @@ abstract class Swift_Transport_AbstractSmtpTest extends \SwiftMailerTestCase
         There are three steps to SMTP mail transactions.  The transaction
         starts with a MAIL command which gives the sender identification.
 
-        .....
+        breakprice..
 
         The first step in the procedure is the MAIL command.
 
@@ -370,7 +370,7 @@ abstract class Swift_Transport_AbstractSmtpTest extends \SwiftMailerTestCase
         mailbox.  Sending systems SHOULD not generate the optional list of
         hosts known as a source route.
 
-        .......
+        breakpricebreakprice.
 
         "RCPT TO:" ("<Postmaster@" domain ">" / "<Postmaster>" / Forward-Path)
                                         [SP Rcpt-parameters] CRLF

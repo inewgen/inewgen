@@ -54,9 +54,9 @@ class DescribedAs extends BaseMatcher
     /**
      * Wraps an existing matcher and overrides the description when it fails.
      *
-     * @factory ...
+     * @factory breakprice
      */
-    public static function describedAs(/* $description, Hamcrest\Matcher $matcher, $values... */)
+    public static function describedAs(/* $description, Hamcrest\Matcher $matcher, $valuesbreakprice */)
     {
         $args = func_get_args();
         $description = array_shift($args);

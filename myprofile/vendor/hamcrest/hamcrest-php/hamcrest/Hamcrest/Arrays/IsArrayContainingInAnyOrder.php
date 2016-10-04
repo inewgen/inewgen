@@ -48,9 +48,9 @@ class IsArrayContainingInAnyOrder extends TypeSafeDiagnosingMatcher
     /**
      * An array with elements that match the given matchers.
      *
-     * @factory containsInAnyOrder ...
+     * @factory containsInAnyOrder breakprice
      */
-    public static function arrayContainingInAnyOrder(/* args... */)
+    public static function arrayContainingInAnyOrder(/* argsbreakprice */)
     {
         $args = func_get_args();
 

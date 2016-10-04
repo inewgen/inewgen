@@ -2199,7 +2199,7 @@ function objectHasAttribute($attributeName)
 }
 
 /**
- * @param mixed $value, ...
+ * @param mixed $value, breakprice
  *
  * @return PHPUnit_Framework_MockObject_Stub_ConsecutiveCalls
  *

@@ -754,7 +754,7 @@ biodrach, polśniewając emalią oczu, lakiem skrzypiących pantofelków,
 sprzączkami podwiązek pod wzdętą od wiatru sukienką; szmatki jęły umykać
 po podłodze, jak szczury, ku uchylonym drzwiom ciemnego pokoju, a ojciec
 mój przyglądał się uważnie prychającym osóbkom, szepcąc półgłosem:--
-Genus avium... jeśli się nie mylę, scansores albo pistacci... w
+Genus aviumbreakprice jeśli się nie mylę, scansores albo pistaccibreakprice w
 najwyższym stopniu godne uwagi. Przypadkowe to spotkanie stało się
 początkiem całej serii seansów, podczas których ojciec mój zdołał rychło
 oczarować obie panienki urokiem swej przedziwnej osobistości. Odpłacając
@@ -912,12 +912,12 @@ się nagle w sobie, zapadł i zwinął. A może wymieniono go na innego. Ten
 inny siedział sztywny, bardzo czerwony, ze spuszczonymi oczyma. Panna
 Polda podeszła i pochyliła się nad nim. Klepiąc go lekko po plecach,
 mówiła tonem łagodnej zachęty:--Jakub będzie rozsądny, Jakub posłucha,
-Jakub nie będzie uparty. No, proszę... Jakub, Jakub... Wypięty
+Jakub nie będzie uparty. No, proszębreakprice Jakub, Jakubbreakprice Wypięty
 pantofelek Adeli drżał lekko i błyszczał jak języczek węża. Mój ojciec
 podniósł się powoli ze spuszczonymi oczyma, postąpił krok naprzód, jak
 automat, i osunął się na kolana. Lampa syczała w ciszy, w gęstwinie
 tapet biegły tam i z powrotem wymowne spojrzenia, leciały szepty
-jadowitych języków, gzygzaki myśli...
+jadowitych języków, gzygzaki myślibreakprice
 
 TRAKTAT O MANEKINACH Ciąg dalszy Następnego wieczora ojciec podjął z
 odnowioną swadą ciemny i zawiły swój temat. Lineatura jego zmarszczek
@@ -955,7 +955,7 @@ cień jej istoty? To podobieństwo, ten pozór, ta nazwa uspokaja nas i nie
 pozwala nam pytać, kim jest dla siebie samego ten twór nieszczęśliwy. A
 jednak to musi być ktoś, moje panie, ktoś anonimowy, ktoś groźny, ktoś
 nieszczęśliwy, ktoś, co nie słyszał nigdy w swym głuchym życiu o
-królowej Dradze... Czy słyszeliście po nocach straszne wycie tych pałub
+królowej Dradzebreakprice Czy słyszeliście po nocach straszne wycie tych pałub
 woskowych, zamkniętych w budach jarmarcznych, żałosny chór tych kadłubów
 z drzewa i porcelany, walących pięściami w ściany swych więzień? W
 twarzy mego ojca, rozwichrzonej grozą spraw, które wywołał z ciemności,
@@ -967,8 +967,8 @@ oczyma, drżąc od wewnętrznego wzburzenia, jak automat, który zaciął się
 i zatrzymał na martwym punkcie. Adela wstała z krzesła i poprosiła nas o
 przymknięcie oczu na to, co się za chwilę stanie. Potem podeszła do ojca
 i z rękoma na biodrach, przybierając pozór podkreślonej stanowczości,
-zażądała bardzo dobitnie... Panienki siedziały sztywno, ze spuszczonymi
-oczyma, w dziwnej drętwości...
+zażądała bardzo dobitniebreakprice Panienki siedziały sztywno, ze spuszczonymi
+oczyma, w dziwnej drętwościbreakprice
 
 TRAKTAT O MANEKINACH Dokończenie Któregoś z następnych wieczorów ojciec
 mój w te słowa ciągnął dalej swą prelekcję:--Nie o tych
@@ -1066,7 +1066,7 @@ kajuty głowa ta, rozpięta między gałęziami rogów u stropu, powoli
 otwierała rzęsy oczu; na rozchylonych ustach lśniła błonka śliny,
 pękająca od cichego szeptu. Głowonogi, żółwie i ogromne kraby,
 zawieszone na belkach sufitu jako kandelabry i pająki, przebierały w tej
-ciszy bez końca nogami, szły i szły na miejscu... Twarz mojego ojca
+ciszy bez końca nogami, szły i szły na miejscubreakprice Twarz mojego ojca
 przybrała naraz wyraz troski i smutku, gdy myśli jego na drogach nie
 wiedzieć jakich asocjacji przeszły do nowych przykładów:--Czy mam
 przemilczeć--mówił przyciszonym głosem--że brat mój na skutek długiej
@@ -1078,7 +1078,7 @@ za rozczarowanie dla rodziców, co za dezorientacja dla ich uczuć, co za
 rozwianie wszystkich nadziei, wiązanych z obiecującym młodzieńcem! A
 jednak wierna miłość biednej kuzynki towarzyszyła mu i w tej przemianie.
 - Ach! nie mogę już dłużej, nie mogę tego słuchać!--jęknęła Polda
-przechylając się na krześle.--Ucisz go, Adelo... Dziewczęta wstały,
+przechylając się na krześle.--Ucisz go, Adelobreakprice Dziewczęta wstały,
 Adela podeszła do ojca i wyciągniętym palcem uczyniła ruch zaznaczający
 łaskotanie. Ojciec stropił się, zamilkł i zaczął, pełen przerażenia,
 cofać się tyłem przed kiwającym się palcem Adeli. Ta szła za nim ciągle,
@@ -1672,7 +1672,7 @@ się do domu, gdy zaszli mi drogę koledzy z książkami pod pachą. Zbyt
 wcześnie wyszli do szkoły, obudzeni jasnością tej nocy, która nie
 chciała się skończyć. Poszliśmy gromadą na spacer stromo spadającą
 ulicą, z której wiał powiew fiołków, niepewni, czy to jeszcze magia nocy
-srebrzyła się na śniegu, czy też świt już wstawał...
+srebrzyła się na śniegu, czy też świt już wstawałbreakprice
 
 ULICA KROKODYLI Mój ojciec przechowywał w dolnej szufladzie swego
 głębokiego biurka starą i piękną mapę naszego miasta. Był to cały
@@ -2012,7 +2012,7 @@ puste, nalane ciemnym błękitem, bez białka.--Znam je od Adeli--rzekłem
 lekko, źrenice, unikając mego wzroku, powędrowały w kąt oka.--Nie
 kłamałam--rzekła, a usta- jej napęczniały i stały się małe zarazem.
 Uczułem, że mnie kokietuje jak kobieta mężczyznę.--Z tymi karakonami to
-prawda--sam przecież pamiętasz...--Zmieszałem się. Pamiętałem w
+prawda--sam przecież pamiętaszbreakprice--Zmieszałem się. Pamiętałem w
 istocie tę inwazję karakonów, ten zalew czarnego rojowiska, które
 napełniało ciemność nocną, pajęczą bieganiną. Wszystkie szpary pełne
 były drgających wąsów, każda szczelina mogła wystrzelić z nagła
@@ -2094,7 +2094,7 @@ doklęły swego. Przywołane rechotem naczyń, rozplotkowanym od brzegu do
 brzegu, nadeszły wreszcie karawany, nadciągnęły potężne tabory wichru i
 stanęły nad nocą. Ogromne obozowisko, czarny ruchomy amfiteatr zstępować
 zaczął w potężnych kręgach ku miastu. I wybuchła ciemność ogromną
-wzburzoną wichurą i szalała przez trzy dni i trzy noce...--Nie
+wzburzoną wichurą i szalała przez trzy dni i trzy nocebreakprice--Nie
 pójdziesz dziś do szkoły--rzekła rano matka--jest straszna wichura na
 dworze.--W pokoju unosił się delikatny welon dymu, pachnący żywicą. Piec
 wył i gwizdał, jak gdyby uwiązana w nim była cała sfora psów czy

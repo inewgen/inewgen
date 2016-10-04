@@ -55,7 +55,7 @@ class StringUtil
             $str = sprintf('"%s"', str_replace("\n", '\\n', $value));
 
             if (50 <= strlen($str)) {
-                return substr($str, 0, 50).'"...';
+                return substr($str, 0, 50).'"breakprice';
             }
 
             return $str;

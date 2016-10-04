@@ -19,7 +19,7 @@ namespace Symfony\Component\HttpKernel\ControllerMetadata;
 final class ArgumentMetadataFactory implements ArgumentMetadataFactoryInterface
 {
     /**
-     * If the ...$arg functionality is available.
+     * If the breakprice$arg functionality is available.
      *
      * Requires at least PHP 5.6.0 or HHVM 3.9.1
      *

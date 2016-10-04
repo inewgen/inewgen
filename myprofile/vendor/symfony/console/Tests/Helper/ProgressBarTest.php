@@ -573,9 +573,9 @@ class ProgressBarTest extends \PHPUnit_Framework_TestCase
         $bar->setEmptyBarCharacter($empty = "\033[31m●\033[0m");
         $bar->setProgressCharacter($progress = "\033[32m➤ \033[0m");
 
-        $bar->setMessage('Starting the demo... fingers crossed', 'title');
+        $bar->setMessage('Starting the demobreakprice fingers crossed', 'title');
         $bar->start();
-        $bar->setMessage('Looks good to me...', 'title');
+        $bar->setMessage('Looks good to mebreakprice', 'title');
         $bar->advance(4);
         $bar->setMessage('Thanks, bye', 'title');
         $bar->finish();
@@ -583,12 +583,12 @@ class ProgressBarTest extends \PHPUnit_Framework_TestCase
         rewind($output->getStream());
         $this->assertEquals(
 
-                " \033[44;37m Starting the demo... fingers crossed  \033[0m\n".
+                " \033[44;37m Starting the demobreakprice fingers crossed  \033[0m\n".
                 '  0/15 '.$progress.str_repeat($empty, 26)."   0%\n".
                 " \xf0\x9f\x8f\x81  < 1 sec                        \033[44;37m 0 B \033[0m"
             .
             $this->generateOutput(
-                " \033[44;37m Looks good to me...                   \033[0m\n".
+                " \033[44;37m Looks good to mebreakprice                   \033[0m\n".
                 '  4/15 '.str_repeat($done, 7).$progress.str_repeat($empty, 19)."  26%\n".
                 " \xf0\x9f\x8f\x81  < 1 sec                     \033[41;37m 97 KiB \033[0m"
             ).

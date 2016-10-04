@@ -177,7 +177,7 @@ class TranslatorTest extends \PHPUnit_Framework_TestCase
             array('*[lang|="en"]', array()),
             array('[lang|="en-US"]', array()),
             array('*[lang|="e"]', array()),
-            // ... :lang() is not.
+            // breakprice :lang() is not.
             array(':lang("EN")', array('second-li', 'li-div')),
             array('*:lang(en-US)', array('second-li', 'li-div')),
             array(':lang("e")', array()),

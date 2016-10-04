@@ -78,7 +78,7 @@ class MethodNodeSpec extends ObjectBehavior
         $this->useParentCode();
 
         $this->getCode()->shouldReturn(
-            'return parent::getTitle($objectName, ...$default);'
+            'return parent::getTitle($objectName, breakprice$default);'
         );
     }
 

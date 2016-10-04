@@ -93,7 +93,7 @@ class ParserTest extends \PHPUnit_Framework_TestCase
         $yaml = <<<'EOF'
 --- %YAML:1.0
 foo
-...
+breakprice
 EOF;
 
         $this->assertEquals('foo', $this->parser->parse($yaml));

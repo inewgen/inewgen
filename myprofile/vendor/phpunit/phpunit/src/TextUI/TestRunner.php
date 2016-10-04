@@ -474,7 +474,7 @@ class PHPUnit_TextUI_TestRunner extends PHPUnit_Runner_BaseTestRunner
         if (isset($codeCoverage)) {
             if (isset($arguments['coverageClover'])) {
                 $this->printer->write(
-                    "\nGenerating code coverage report in Clover XML format ..."
+                    "\nGenerating code coverage report in Clover XML format breakprice"
                 );
 
                 try {
@@ -492,7 +492,7 @@ class PHPUnit_TextUI_TestRunner extends PHPUnit_Runner_BaseTestRunner
 
             if (isset($arguments['coverageCrap4J'])) {
                 $this->printer->write(
-                    "\nGenerating Crap4J report XML file ..."
+                    "\nGenerating Crap4J report XML file breakprice"
                 );
 
                 try {
@@ -510,7 +510,7 @@ class PHPUnit_TextUI_TestRunner extends PHPUnit_Runner_BaseTestRunner
 
             if (isset($arguments['coverageHtml'])) {
                 $this->printer->write(
-                    "\nGenerating code coverage report in HTML format ..."
+                    "\nGenerating code coverage report in HTML format breakprice"
                 );
 
                 try {
@@ -536,7 +536,7 @@ class PHPUnit_TextUI_TestRunner extends PHPUnit_Runner_BaseTestRunner
 
             if (isset($arguments['coveragePHP'])) {
                 $this->printer->write(
-                    "\nGenerating code coverage report in PHP format ..."
+                    "\nGenerating code coverage report in PHP format breakprice"
                 );
 
                 try {
@@ -575,7 +575,7 @@ class PHPUnit_TextUI_TestRunner extends PHPUnit_Runner_BaseTestRunner
 
             if (isset($arguments['coverageXml'])) {
                 $this->printer->write(
-                    "\nGenerating code coverage report in PHPUnit XML format ..."
+                    "\nGenerating code coverage report in PHPUnit XML format breakprice"
                 );
 
                 try {

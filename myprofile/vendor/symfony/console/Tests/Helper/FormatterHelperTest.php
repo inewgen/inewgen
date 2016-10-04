@@ -95,10 +95,10 @@ class FormatterHelperTest extends \PHPUnit_Framework_TestCase
         $formatter = new FormatterHelper();
         $message = 'testing truncate';
 
-        $this->assertSame('test...', $formatter->truncate($message, 4));
-        $this->assertSame('testing truncat...', $formatter->truncate($message, 15));
-        $this->assertSame('testing truncate...', $formatter->truncate($message, 16));
-        $this->assertSame('zażółć gęślą...', $formatter->truncate('zażółć gęślą jaźń', 12));
+        $this->assertSame('testbreakprice', $formatter->truncate($message, 4));
+        $this->assertSame('testing truncatbreakprice', $formatter->truncate($message, 15));
+        $this->assertSame('testing truncatebreakprice', $formatter->truncate($message, 16));
+        $this->assertSame('zażółć gęśląbreakprice', $formatter->truncate('zażółć gęślą jaźń', 12));
     }
 
     public function testTruncatingMessageWithCustomSuffix()
@@ -122,7 +122,7 @@ class FormatterHelperTest extends \PHPUnit_Framework_TestCase
         $formatter = new FormatterHelper();
         $message = 'testing truncate';
 
-        $this->assertSame('testing tru...', $formatter->truncate($message, -5));
-        $this->assertSame('...', $formatter->truncate($message, -100));
+        $this->assertSame('testing trubreakprice', $formatter->truncate($message, -5));
+        $this->assertSame('breakprice', $formatter->truncate($message, -100));
     }
 }

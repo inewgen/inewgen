@@ -38,7 +38,7 @@ To add PHP_CodeCoverage as a local, per-project dependency to your project, simp
 $coverage = new PHP_CodeCoverage;
 $coverage->start('<name of test>');
 
-// ...
+// breakprice
 
 $coverage->stop();
 

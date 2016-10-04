@@ -412,7 +412,7 @@ class Base
      *
      * @example $faker->regexify('[A-Z0-9._%+-]+@[A-Z0-9.-]+\.[A-Z]{2,4}'); // sm0@y8k96a.ej
      *
-     * Regex delimiters '/.../' and begin/end markers '^...$' are ignored.
+     * Regex delimiters '/breakprice/' and begin/end markers '^breakprice$' are ignored.
      *
      * Only supports a small subset of the regex syntax. For instance,
      * unicode, negated classes, unbouned ranges, subpatterns, back references,

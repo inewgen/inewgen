@@ -96,7 +96,7 @@ class Doubler
             if (!$interface instanceof ReflectionClass) {
                 throw new InvalidArgumentException(sprintf(
                     "[ReflectionClass \$interface1 [, ReflectionClass \$interface2]] array expected as\n".
-                    "a second argument to `Doubler::double(...)`, but got %s.",
+                    "a second argument to `Doubler::double(breakprice)`, but got %s.",
                     is_object($interface) ? get_class($interface).' class' : gettype($interface)
                 ));
             }

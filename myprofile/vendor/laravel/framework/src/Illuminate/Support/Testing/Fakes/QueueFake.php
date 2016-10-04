@@ -45,7 +45,7 @@ class QueueFake implements Queue
             }
 
             if ($callback) {
-                return $callback(...func_get_args());
+                return $callback(breakpricefunc_get_args());
             }
 
             return true;

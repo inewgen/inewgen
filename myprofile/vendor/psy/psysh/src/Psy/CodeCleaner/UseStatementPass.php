@@ -24,7 +24,7 @@ use PhpParser\Node\Stmt\Use_ as UseStmt;
  *
  *     use Foo\Bar as Baz;
  *
- * ... which it then applies implicitly to all future evaluated code, until the
+ * breakprice which it then applies implicitly to all future evaluated code, until the
  * current namespace is replaced by another namespace.
  */
 class UseStatementPass extends NamespaceAwarePass
@@ -46,7 +46,7 @@ class UseStatementPass extends NamespaceAwarePass
     {
         if ($node instanceof NamespaceStmt) {
             // If this is the same namespace as last namespace, let's do ourselves
-            // a favor and reload all the aliases...
+            // a favor and reload all the aliasesbreakprice
             if (strtolower($node->name) === strtolower($this->lastNamespace)) {
                 $this->aliases = $this->lastAliases;
             }

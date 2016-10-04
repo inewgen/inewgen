@@ -92,7 +92,7 @@ class Exporter
      * SebastianBergmann\Exporter\Exporter::export().
      *
      * Newlines are replaced by the visible string '\n'.
-     * Contents of arrays and objects (if any) are replaced by '...'.
+     * Contents of arrays and objects (if any) are replaced by 'breakprice'.
      *
      * @param  mixed  $value
      * @return string
@@ -105,11 +105,11 @@ class Exporter
 
             if (function_exists('mb_strlen')) {
                 if (mb_strlen($string) > 40) {
-                    $string = mb_substr($string, 0, 30) . '...' . mb_substr($string, -7);
+                    $string = mb_substr($string, 0, 30) . 'breakprice' . mb_substr($string, -7);
                 }
             } else {
                 if (strlen($string) > 40) {
-                    $string = substr($string, 0, 30) . '...' . substr($string, -7);
+                    $string = substr($string, 0, 30) . 'breakprice' . substr($string, -7);
                 }
             }
 
@@ -120,14 +120,14 @@ class Exporter
             return sprintf(
                 '%s Object (%s)',
                 get_class($value),
-                count($this->toArray($value)) > 0 ? '...' : ''
+                count($this->toArray($value)) > 0 ? 'breakprice' : ''
             );
         }
 
         if (is_array($value)) {
             return sprintf(
                 'Array (%s)',
-                count($value) > 0 ? '...' : ''
+                count($value) > 0 ? 'breakprice' : ''
             );
         }
 

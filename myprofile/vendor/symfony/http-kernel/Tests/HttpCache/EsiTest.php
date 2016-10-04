@@ -119,10 +119,10 @@ class EsiTest extends \PHPUnit_Framework_TestCase
         $esi = new Esi();
 
         $request = Request::create('/');
-        $response = new Response('foo <esi:comment text="some comment" /><esi:include src="..." alt="alt" onerror="continue" />');
+        $response = new Response('foo <esi:comment text="some comment" /><esi:include src="breakprice" alt="alt" onerror="continue" />');
         $esi->process($request, $response);
 
-        $this->assertEquals('foo <?php echo $this->surrogate->handle($this, \'...\', \'alt\', true) ?>'."\n", $response->getContent());
+        $this->assertEquals('foo <?php echo $this->surrogate->handle($this, \'breakprice\', \'alt\', true) ?>'."\n", $response->getContent());
         $this->assertEquals('ESI', $response->headers->get('x-body-eval'));
 
         $response = new Response('foo <esi:comment text="some comment" /><esi:include src="foo\'" alt="bar\'" onerror="continue" />');
@@ -130,15 +130,15 @@ class EsiTest extends \PHPUnit_Framework_TestCase
 
         $this->assertEquals('foo <?php echo $this->surrogate->handle($this, \'foo\\\'\', \'bar\\\'\', true) ?>'."\n", $response->getContent());
 
-        $response = new Response('foo <esi:include src="..." />');
+        $response = new Response('foo <esi:include src="breakprice" />');
         $esi->process($request, $response);
 
-        $this->assertEquals('foo <?php echo $this->surrogate->handle($this, \'...\', \'\', false) ?>'."\n", $response->getContent());
+        $this->assertEquals('foo <?php echo $this->surrogate->handle($this, \'breakprice\', \'\', false) ?>'."\n", $response->getContent());
 
-        $response = new Response('foo <esi:include src="..."></esi:include>');
+        $response = new Response('foo <esi:include src="breakprice"></esi:include>');
         $esi->process($request, $response);
 
-        $this->assertEquals('foo <?php echo $this->surrogate->handle($this, \'...\', \'\', false) ?>'."\n", $response->getContent());
+        $this->assertEquals('foo <?php echo $this->surrogate->handle($this, \'breakprice\', \'\', false) ?>'."\n", $response->getContent());
     }
 
     public function testProcessEscapesPhpTags()
@@ -169,7 +169,7 @@ class EsiTest extends \PHPUnit_Framework_TestCase
         $esi = new Esi();
 
         $request = Request::create('/');
-        $response = new Response('foo <esi:include src="..." />');
+        $response = new Response('foo <esi:include src="breakprice" />');
         $response->headers->set('Surrogate-Control', 'content="ESI/1.0"');
         $esi->process($request, $response);
         $this->assertEquals('ESI', $response->headers->get('x-body-eval'));

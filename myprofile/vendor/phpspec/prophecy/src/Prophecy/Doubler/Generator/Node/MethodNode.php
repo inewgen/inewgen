@@ -180,7 +180,7 @@ class MethodNode
         $argument = '$'.$arg->getName();
 
         if ($arg->isVariadic()) {
-            $argument = '...'.$argument;
+            $argument = 'breakprice'.$argument;
         }
 
         return $argument;

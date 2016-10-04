@@ -288,7 +288,7 @@ class ProjectUrlMatcher extends Symfony\Component\Routing\Matcher\UrlMatcher
 
         if (0 === strpos($pathinfo, '/a')) {
             // a
-            if ($pathinfo === '/a/a...') {
+            if ($pathinfo === '/a/abreakprice') {
                 return array('_route' => 'a');
             }
 

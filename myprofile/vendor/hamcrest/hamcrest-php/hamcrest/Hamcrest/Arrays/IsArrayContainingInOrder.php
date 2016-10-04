@@ -46,9 +46,9 @@ class IsArrayContainingInOrder extends TypeSafeDiagnosingMatcher
     /**
      * An array with elements that match the given matchers in the same order.
      *
-     * @factory contains ...
+     * @factory contains breakprice
      */
-    public static function arrayContaining(/* args... */)
+    public static function arrayContaining(/* argsbreakprice */)
     {
         $args = func_get_args();
 

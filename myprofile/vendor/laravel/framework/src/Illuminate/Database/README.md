@@ -22,15 +22,15 @@ $capsule->addConnection([
     'prefix'    => '',
 ]);
 
-// Set the event dispatcher used by Eloquent models... (optional)
+// Set the event dispatcher used by Eloquent modelsbreakprice (optional)
 use Illuminate\Events\Dispatcher;
 use Illuminate\Container\Container;
 $capsule->setEventDispatcher(new Dispatcher(new Container));
 
-// Make this Capsule instance available globally via static methods... (optional)
+// Make this Capsule instance available globally via static methodsbreakprice (optional)
 $capsule->setAsGlobal();
 
-// Setup the Eloquent ORM... (optional; unless you've used setEventDispatcher())
+// Setup the Eloquent ORMbreakprice (optional; unless you've used setEventDispatcher())
 $capsule->bootEloquent();
 ```
 

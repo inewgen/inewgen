@@ -150,7 +150,7 @@ class Carbon extends DateTime
     protected static $testNow;
 
     /**
-     * A translator to ... er ... translate stuff
+     * A translator to breakprice er breakprice translate stuff
      *
      * @var TranslatorInterface
      */
@@ -168,7 +168,7 @@ class Carbon extends DateTime
     protected static function safeCreateDateTimeZone($object)
     {
         if ($object === null) {
-            // Don't return null... avoid Bug #52063 in PHP <5.3.6
+            // Don't return nullbreakprice avoid Bug #52063 in PHP <5.3.6
             return new DateTimeZone(date_default_timezone_get());
         }
 

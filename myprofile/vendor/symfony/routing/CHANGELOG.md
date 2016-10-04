@@ -141,10 +141,10 @@ CHANGELOG
    used with a single parameter. The other params `$prefix`, `$default`, `$requirements` and `$options`
    will still work, but have been deprecated. The `addPrefix` method should be used for this
    use-case instead.
-   Before: `$parentCollection->addCollection($collection, '/prefix', array(...), array(...))`
+   Before: `$parentCollection->addCollection($collection, '/prefix', array(breakprice), array(breakprice))`
    After:
    ```php
-   $collection->addPrefix('/prefix', array(...), array(...));
+   $collection->addPrefix('/prefix', array(breakprice), array(breakprice));
    $parentCollection->addCollection($collection);
    ```
  * added support for the method default argument values when defining a @Route
