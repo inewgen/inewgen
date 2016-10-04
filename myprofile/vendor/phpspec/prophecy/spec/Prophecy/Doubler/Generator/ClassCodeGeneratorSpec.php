@@ -210,16 +210,16 @@ PHP;
 namespace  {
 class CustomClass extends \stdClass implements \Prophecy\Doubler\Generator\MirroredInterface {
 
-public  function variadic( breakprice$args) {
+public  function variadic( ...$args) {
 
 }
-public  function variadicByRef( &breakprice$args) {
+public  function variadicByRef( &...$args) {
 
 }
-public  function variadicWithType(\\ReflectionClass breakprice$args) {
+public  function variadicWithType(\\ReflectionClass ...$args) {
 
 }
-public  function variadicWithTypeByRef(\\ReflectionClass &breakprice$args) {
+public  function variadicWithTypeByRef(\\ReflectionClass &...$args) {
 
 }
 

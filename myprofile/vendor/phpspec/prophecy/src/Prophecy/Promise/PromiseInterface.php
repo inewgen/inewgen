@@ -16,7 +16,7 @@ use Prophecy\Prophecy\MethodProphecy;
 
 /**
  * Promise interface.
- * Promises are logical blocks, tied to `willbreakprice` keyword.
+ * Promises are logical blocks, tied to `will...` keyword.
  *
  * @author Konstantin Kudryashov <ever.zet@gmail.com>
  */

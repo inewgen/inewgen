@@ -37,7 +37,7 @@ class ArrayEntryTokenSpec extends ObjectBehavior
     {
         $key->__toString()->willReturn('key');
         $value->__toString()->willReturn('value');
-        $this->__toString()->shouldBe('[breakprice, key => value, breakprice]');
+        $this->__toString()->shouldBe('[..., key => value, ...]');
     }
 
     /**

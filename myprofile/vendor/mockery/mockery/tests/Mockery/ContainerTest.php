@@ -432,7 +432,7 @@ class ContainerTest extends MockeryTestCase
      */
     public function testThrowsExceptionIfSettingExpectationForNonMockedMethodOfPartialMock()
     {
-        $this->markTestSkipped('For nowbreakprice');
+        $this->markTestSkipped('For now...');
         $m = $this->container->mock('MockeryTest_PartialNormalClass[foo]');
         $this->assertTrue($m instanceof MockeryTest_PartialNormalClass);
         $m->shouldReceive('bar')->andReturn('cba');
@@ -1154,7 +1154,7 @@ class ContainerTest extends MockeryTestCase
 
     /**
      * @expectedException Mockery\Exception\NoMatchingExpectationException
-     * @expectedExceptionMessage MyTestClass::foo(resource(breakprice))
+     * @expectedExceptionMessage MyTestClass::foo(resource(...))
      */
     public function testHandlesMethodWithArgumentExpectationWhenCalledWithResource()
     {
@@ -1166,7 +1166,7 @@ class ContainerTest extends MockeryTestCase
 
     /**
      * @expectedException Mockery\Exception\NoMatchingExpectationException
-     * @expectedExceptionMessage MyTestClass::foo(array('myself'=>'array(breakprice)',))
+     * @expectedExceptionMessage MyTestClass::foo(array('myself'=>'array(...)',))
      */
     public function testHandlesMethodWithArgumentExpectationWhenCalledWithCircularArray()
     {
@@ -1181,7 +1181,7 @@ class ContainerTest extends MockeryTestCase
 
     /**
      * @expectedException Mockery\Exception\NoMatchingExpectationException
-     * @expectedExceptionMessage MyTestClass::foo(array('a_scalar'=>2,'an_array'=>'array(breakprice)',))
+     * @expectedExceptionMessage MyTestClass::foo(array('a_scalar'=>2,'an_array'=>'array(...)',))
      */
     public function testHandlesMethodWithArgumentExpectationWhenCalledWithNestedArray()
     {
@@ -1230,7 +1230,7 @@ class ContainerTest extends MockeryTestCase
 
     /**
      * @expectedException Mockery\Exception\NoMatchingExpectationException
-     * @expectedExceptionMessage MyTestClass::foo(array('a_scalar'=>2,'a_resource'=>'resource(breakprice)',))
+     * @expectedExceptionMessage MyTestClass::foo(array('a_scalar'=>2,'a_resource'=>'resource(...)',))
      */
     public function testHandlesMethodWithArgumentExpectationWhenCalledWithNestedResource()
     {

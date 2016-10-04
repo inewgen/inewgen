@@ -15,8 +15,8 @@ What do all those files mean?
 The `.y` file is a normal grammer in `kmyacc` (`yacc`) style, with some transformations
 applied to it:
 
- * Nodes are created using the syntax `Name[breakprice, breakprice]`. This is transformed into
-   `new Name(breakprice, breakprice, attributes())`
+ * Nodes are created using the syntax `Name[..., ...]`. This is transformed into
+   `new Name(..., ..., attributes())`
  * Some function-like constructs are resolved (see `rebuildParser.php` for a list)
 
 Building the parser

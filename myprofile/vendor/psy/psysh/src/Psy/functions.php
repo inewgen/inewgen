@@ -180,7 +180,7 @@ if (!function_exists('Psy\bin')) {
 $version
 
 Usage:
-  $name [--version] [--help] [filesbreakprice]
+  $name [--version] [--help] [files...]
 
 Options:
   --help     -h Display this help message.
@@ -210,7 +210,7 @@ EOL;
                 echo $e->getMessage() . PHP_EOL;
 
                 // TODO: this triggers the "exited unexpectedly" logic in the
-                // ForkingLoop, so we can't exit(1) after starting the shellbreakprice
+                // ForkingLoop, so we can't exit(1) after starting the shell...
                 // fix this :)
 
                 // exit(1);

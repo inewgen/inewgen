@@ -26,8 +26,8 @@ class PoFileLoader extends FileLoader
      * white-space
      * #  translator-comments
      * #. extracted-comments
-     * #: referencebreakprice
-     * #, flagbreakprice
+     * #: reference...
+     * #, flag...
      * #| msgid previous-untranslated-string
      * msgid untranslated-string
      * msgstr translated-string
@@ -43,7 +43,7 @@ class PoFileLoader extends FileLoader
      * msgid untranslated-string-singular
      * msgid_plural untranslated-string-plural
      * msgstr[0] translated-string-case-0
-     * breakprice
+     * ...
      * msgstr[N] translated-string-case-n
      *
      * The definition states:

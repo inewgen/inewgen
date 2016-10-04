@@ -29,7 +29,7 @@ class InterfaceEnumerator extends Enumerator
         //
         //     ls --interfaces Foo
         //
-        // breakprice for listing interfaces in the Foo namespace
+        // ... for listing interfaces in the Foo namespace
 
         if ($reflector !== null || $target !== null) {
             return;

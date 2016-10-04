@@ -27,7 +27,7 @@ FALSE;
 0x11;
 0b11;
 
-// floats (normalized to breakprice something)
+// floats (normalized to ... something)
 0.;
 .0;
 0.0;
@@ -103,7 +103,7 @@ FALSE;
 011;
 0x11;
 0b11;
-// floats (normalized to breakprice something)
+// floats (normalized to ... something)
 0.0;
 0.0;
 0.0;

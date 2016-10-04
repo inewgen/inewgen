@@ -10,7 +10,7 @@ Mockery throws three types of exceptions when it cannot verify a mock object.
 #. ``\Mockery\Exception\InvalidOrderException``
 #. ``\Mockery\Exception\NoMatchingExpectationException``
 
-You can capture any of these exceptions in a trybreakpricecatch block to query them
+You can capture any of these exceptions in a try...catch block to query them
 for specific information which is also passed along in the exception message
 but is provided separately from getters should they be useful when logging or
 reformatting output.

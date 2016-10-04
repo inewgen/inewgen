@@ -365,7 +365,7 @@ class Expectation implements ExpectationInterface
     /**
      * Expected argument setter for the expectation
      *
-     * @param mixed breakprice
+     * @param mixed ...
      * @return self
      */
     public function with()
@@ -415,7 +415,7 @@ class Expectation implements ExpectationInterface
     /**
      * Set a return value, or sequential queue of return values
      *
-     * @param mixed breakprice
+     * @param mixed ...
      * @return self
      */
     public function andReturn()
@@ -451,7 +451,7 @@ class Expectation implements ExpectationInterface
      * values. The arguments passed to the expected method are passed to the
      * closures as parameters.
      *
-     * @param callable breakprice
+     * @param callable ...
      * @return self
      */
     public function andReturnUsing()

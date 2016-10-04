@@ -69,12 +69,12 @@ class Parameter
     }
 
     /**
-     * Some internal classes have funny looking definitionsbreakprice
+     * Some internal classes have funny looking definitions...
      */
     public function getName()
     {
         $name = $this->rfp->getName();
-        if (!$name || $name == 'breakprice') {
+        if (!$name || $name == '...') {
             $name = 'arg' . static::$parameterCounter++;
         }
 

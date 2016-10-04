@@ -18,7 +18,7 @@ class AnyValuesTokenSpec extends ObjectBehavior
 
     function its_string_representation_is_star_with_followup()
     {
-        $this->__toString()->shouldReturn('* [, breakprice]');
+        $this->__toString()->shouldReturn('* [, ...]');
     }
 
     function it_scores_any_argument_as_2()

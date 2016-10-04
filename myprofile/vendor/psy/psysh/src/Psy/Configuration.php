@@ -802,7 +802,7 @@ class Configuration
                 // use the default pager (5.4+)
                 $this->pager = $pager;
             } elseif ($less = exec('which less 2>/dev/null')) {
-                // check for the presence of lessbreakprice
+                // check for the presence of less...
                 $this->pager = $less . ' -R -S -F -X';
             }
         }

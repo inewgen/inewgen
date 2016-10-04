@@ -13,7 +13,7 @@ class ProgressIndicatorTest extends \PHPUnit_Framework_TestCase
     public function testDefaultIndicator()
     {
         $bar = new ProgressIndicator($output = $this->getOutputStream());
-        $bar->start('Startingbreakprice');
+        $bar->start('Starting...');
         usleep(101000);
         $bar->advance();
         usleep(101000);
@@ -25,30 +25,30 @@ class ProgressIndicatorTest extends \PHPUnit_Framework_TestCase
         usleep(101000);
         $bar->advance();
         usleep(101000);
-        $bar->setMessage('Advancingbreakprice');
+        $bar->setMessage('Advancing...');
         $bar->advance();
-        $bar->finish('Donebreakprice');
-        $bar->start('Starting Againbreakprice');
+        $bar->finish('Done...');
+        $bar->start('Starting Again...');
         usleep(101000);
         $bar->advance();
-        $bar->finish('Done Againbreakprice');
+        $bar->finish('Done Again...');
 
         rewind($output->getStream());
 
         $this->assertEquals(
-            $this->generateOutput(' - Startingbreakprice').
-            $this->generateOutput(' \\ Startingbreakprice').
-            $this->generateOutput(' | Startingbreakprice').
-            $this->generateOutput(' / Startingbreakprice').
-            $this->generateOutput(' - Startingbreakprice').
-            $this->generateOutput(' \\ Startingbreakprice').
-            $this->generateOutput(' \\ Advancingbreakprice').
-            $this->generateOutput(' | Advancingbreakprice').
-            $this->generateOutput(' | Donebreakprice     ').
+            $this->generateOutput(' - Starting...').
+            $this->generateOutput(' \\ Starting...').
+            $this->generateOutput(' | Starting...').
+            $this->generateOutput(' / Starting...').
+            $this->generateOutput(' - Starting...').
+            $this->generateOutput(' \\ Starting...').
+            $this->generateOutput(' \\ Advancing...').
+            $this->generateOutput(' | Advancing...').
+            $this->generateOutput(' | Done...     ').
             PHP_EOL.
-            $this->generateOutput(' - Starting Againbreakprice').
-            $this->generateOutput(' \\ Starting Againbreakprice').
-            $this->generateOutput(' \\ Done Againbreakprice    ').
+            $this->generateOutput(' - Starting Again...').
+            $this->generateOutput(' \\ Starting Again...').
+            $this->generateOutput(' \\ Done Again...    ').
             PHP_EOL,
             stream_get_contents($output->getStream())
         );
@@ -58,20 +58,20 @@ class ProgressIndicatorTest extends \PHPUnit_Framework_TestCase
     {
         $bar = new ProgressIndicator($output = $this->getOutputStream(false));
 
-        $bar->start('Startingbreakprice');
+        $bar->start('Starting...');
         $bar->advance();
         $bar->advance();
-        $bar->setMessage('Midwaybreakprice');
+        $bar->setMessage('Midway...');
         $bar->advance();
         $bar->advance();
-        $bar->finish('Donebreakprice');
+        $bar->finish('Done...');
 
         rewind($output->getStream());
 
         $this->assertEquals(
-            ' Startingbreakprice'.PHP_EOL.
-            ' Midwaybreakprice  '.PHP_EOL.
-            ' Donebreakprice    '.PHP_EOL.PHP_EOL,
+            ' Starting...'.PHP_EOL.
+            ' Midway...  '.PHP_EOL.
+            ' Done...    '.PHP_EOL.PHP_EOL,
             stream_get_contents($output->getStream())
         );
     }
@@ -80,7 +80,7 @@ class ProgressIndicatorTest extends \PHPUnit_Framework_TestCase
     {
         $bar = new ProgressIndicator($output = $this->getOutputStream(), null, 100, array('a', 'b', 'c'));
 
-        $bar->start('Startingbreakprice');
+        $bar->start('Starting...');
         usleep(101000);
         $bar->advance();
         usleep(101000);
@@ -91,10 +91,10 @@ class ProgressIndicatorTest extends \PHPUnit_Framework_TestCase
         rewind($output->getStream());
 
         $this->assertEquals(
-            $this->generateOutput(' a Startingbreakprice').
-            $this->generateOutput(' b Startingbreakprice').
-            $this->generateOutput(' c Startingbreakprice').
-            $this->generateOutput(' a Startingbreakprice'),
+            $this->generateOutput(' a Starting...').
+            $this->generateOutput(' b Starting...').
+            $this->generateOutput(' c Starting...').
+            $this->generateOutput(' a Starting...'),
             stream_get_contents($output->getStream())
         );
     }
@@ -115,7 +115,7 @@ class ProgressIndicatorTest extends \PHPUnit_Framework_TestCase
     public function testCannotStartAlreadyStartedIndicator()
     {
         $bar = new ProgressIndicator($this->getOutputStream());
-        $bar->start('Startingbreakprice');
+        $bar->start('Starting...');
         $bar->start('Starting Again.');
     }
 
@@ -145,7 +145,7 @@ class ProgressIndicatorTest extends \PHPUnit_Framework_TestCase
     public function testFormats($format)
     {
         $bar = new ProgressIndicator($output = $this->getOutputStream(), $format);
-        $bar->start('Startingbreakprice');
+        $bar->start('Starting...');
         $bar->advance();
 
         rewind($output->getStream());

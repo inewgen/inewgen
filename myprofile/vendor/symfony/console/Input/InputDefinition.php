@@ -400,7 +400,7 @@ class InputDefinition
             }
 
             if ($argument->isArray()) {
-                $element .= 'breakprice';
+                $element .= '...';
             }
 
             $elements[] = $element;

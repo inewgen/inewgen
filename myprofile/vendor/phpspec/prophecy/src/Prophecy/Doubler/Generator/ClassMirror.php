@@ -65,7 +65,7 @@ class ClassMirror
             if (!$interface instanceof ReflectionClass) {
                 throw new InvalidArgumentException(sprintf(
                     "[ReflectionClass \$interface1 [, ReflectionClass \$interface2]] array expected as\n".
-                    "a second argument to `ClassMirror::reflect(breakprice)`, but got %s.",
+                    "a second argument to `ClassMirror::reflect(...)`, but got %s.",
                     is_object($interface) ? get_class($interface).' class' : gettype($interface)
                 ));
             }
@@ -168,7 +168,7 @@ class ClassMirror
 
     private function reflectArgumentToNode(ReflectionParameter $parameter, Node\MethodNode $methodNode)
     {
-        $name = $parameter->getName() == 'breakprice' ? '__dot_dot_dot__' : $parameter->getName();
+        $name = $parameter->getName() == '...' ? '__dot_dot_dot__' : $parameter->getName();
         $node = new Node\ArgumentNode($name);
 
         $node->setTypeHint($this->getTypeHint($parameter));

@@ -42,7 +42,7 @@ class CompositeExpectation implements ExpectationInterface
     }
 
     /**
-     * @param mixed breakprice
+     * @param mixed ...
      */
     public function andReturn()
     {
@@ -102,7 +102,7 @@ class CompositeExpectation implements ExpectationInterface
      * Starts a new expectation addition on the first mock which is the primary
      * target outside of a demeter chain
      *
-     * @param mixed breakprice
+     * @param mixed ...
      * @return \Mockery\Expectation
      */
     public function shouldReceive()

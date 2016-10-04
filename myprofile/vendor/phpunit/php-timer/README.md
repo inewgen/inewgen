@@ -23,7 +23,7 @@ PHP_Timer::start();
 
 $timer->start();
 
-// breakprice
+// ...
 
 $time = PHP_Timer::stop();
 var_dump($time);

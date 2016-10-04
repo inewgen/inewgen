@@ -157,7 +157,7 @@ class MethodTest extends \PHPUnit_Framework_TestCase
         $descriptionFactory->shouldReceive('create')->with('', $context)->andReturn($description);
 
         $fixture = Method::create(
-            'void myMethod($arg1, breakprice$rest, array breakprice $rest2)',
+            'void myMethod($arg1, ...$rest, array ... $rest2)',
             $resolver,
             $descriptionFactory,
             $context

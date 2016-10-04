@@ -21,9 +21,9 @@ $parser = (new PhpParser\ParserFactory)->create(PhpParser\ParserFactory::PREFER_
 
 try {
     $stmts = $parser->parse($code);
-    // breakprice
+    // ...
 } catch (PhpParser\Error $e) {
-    // breakprice
+    // ...
 }
 ```
 

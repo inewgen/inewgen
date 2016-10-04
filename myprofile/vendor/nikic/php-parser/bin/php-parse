@@ -91,7 +91,7 @@ function showHelp($error = '') {
         echo $error . "\n\n";
     }
     die(<<<OUTPUT
-Usage: php-parse [operations] file1.php [file2.php breakprice]
+Usage: php-parse [operations] file1.php [file2.php ...]
    or: php-parse [operations] "<?php code"
 Turn PHP source code into an abstract syntax tree.
 

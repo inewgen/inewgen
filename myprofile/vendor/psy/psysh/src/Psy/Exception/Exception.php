@@ -17,7 +17,7 @@ namespace Psy\Exception;
 interface Exception
 {
     /**
-     * This is the only thing, reallybreakprice
+     * This is the only thing, really...
      *
      * Return a raw (unformatted) version of the message.
      *

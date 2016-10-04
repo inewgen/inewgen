@@ -78,7 +78,7 @@ abstract class FactoryFile
     public function generateDeclarationArguments(FactoryMethod $method)
     {
         if ($method->acceptsVariableArguments()) {
-            return '/* argsbreakprice */';
+            return '/* args... */';
         } else {
             return $method->getParameterDeclarations();
         }

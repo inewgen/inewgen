@@ -18,14 +18,14 @@ appended.
 
 .. code-block:: php
 
-    shouldReceive(method1, method2, breakprice)
+    shouldReceive(method1, method2, ...)
 
 Declares a number of expected method calls, all of which will adopt any
 chained expectations or constraints.
 
 .. code-block:: php
 
-    shouldReceive(array('method1'=>1, 'method2'=>2, breakprice))
+    shouldReceive(array('method1'=>1, 'method2'=>2, ...))
 
 Declares a number of expected calls but also their return values. All will
 adopt any additional chained expectations or constraints.
@@ -50,7 +50,7 @@ method is a convenience method for calling ``shouldReceive()->never()``.
 
 .. code-block:: php
 
-    with(arg1, arg2, breakprice) / withArgs(array(arg1, arg2, breakprice))
+    with(arg1, arg2, ...) / withArgs(array(arg1, arg2, ...))
 
 Adds a constraint that this expectation only applies to method calls which
 match the expected argument list. You can add a lot more flexibility to
@@ -86,7 +86,7 @@ Sets a value to be returned from the expected method call.
 
 .. code-block:: php
 
-    andReturn(value1, value2, breakprice)
+    andReturn(value1, value2, ...)
 
 Sets up a sequence of return values or closures. For example, the first call
 will return value1 and the second value2. Note that all subsequent calls to a
@@ -111,7 +111,7 @@ once previous return values are exhausted.
 
 .. code-block:: php
 
-    andReturnUsing(closure, breakprice)
+    andReturnUsing(closure, ...)
 
 Sets a closure (anonymous function) to be called with the arguments passed to
 the method. The return value from the closure is then returned. Useful for

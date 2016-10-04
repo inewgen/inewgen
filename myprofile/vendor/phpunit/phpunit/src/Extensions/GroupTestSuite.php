@@ -11,8 +11,8 @@
 /**
  * We have a TestSuite object A.
  * In TestSuite object A we have Tests tagged with @group.
- * We want a TestSuite object B that contains TestSuite objects C, D, breakprice
- * for the Tests tagged with @group C, @group D, breakprice
+ * We want a TestSuite object B that contains TestSuite objects C, D, ...
+ * for the Tests tagged with @group C, @group D, ...
  * Running the Tests from TestSuite object B results in Tests tagged with both
  *
  * @group C and @group D in TestSuite object A to be run twice .
@@ -27,7 +27,7 @@ class PHPUnit_Extensions_GroupTestSuite extends PHPUnit_Framework_TestSuite
 {
     public function __construct(PHPUnit_Framework_TestSuite $suite, array $groups)
     {
-        $groupSuites = [];
+        $groupSuites = array();
         $name        = $suite->getName();
 
         foreach ($groups as $group) {

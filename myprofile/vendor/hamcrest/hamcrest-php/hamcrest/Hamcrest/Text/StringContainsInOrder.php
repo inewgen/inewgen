@@ -51,9 +51,9 @@ class StringContainsInOrder extends TypeSafeMatcher
     /**
      * Matches if value contains $substrings in a constrained order.
      *
-     * @factory breakprice
+     * @factory ...
      */
-    public static function stringContainsInOrder(/* argsbreakprice */)
+    public static function stringContainsInOrder(/* args... */)
     {
         $args = func_get_args();
 

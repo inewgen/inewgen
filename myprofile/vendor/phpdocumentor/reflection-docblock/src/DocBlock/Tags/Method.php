@@ -221,7 +221,7 @@ final class Method extends BaseTag implements Factory\StaticMethod
 
     private static function stripRestArg($argument)
     {
-        if (strpos($argument, 'breakprice') === 0) {
+        if (strpos($argument, '...') === 0) {
             $argument = trim(substr($argument, 3));
         }
 

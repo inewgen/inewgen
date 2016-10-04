@@ -211,11 +211,11 @@ class LexerTest extends \PHPUnit_Framework_TestCase
 
     public function provideTestHaltCompiler() {
         return array(
-            array('<?php breakprice __halt_compiler();Remaining Text', 'Remaining Text'),
-            array('<?php breakprice __halt_compiler ( ) ;Remaining Text', 'Remaining Text'),
-            array('<?php breakprice __halt_compiler() ?>Remaining Text', 'Remaining Text'),
-            //array('<?php breakprice __halt_compiler();' . "\0", "\0"),
-            //array('<?php breakprice __halt_compiler /* */ ( ) ;Remaining Text', 'Remaining Text'),
+            array('<?php ... __halt_compiler();Remaining Text', 'Remaining Text'),
+            array('<?php ... __halt_compiler ( ) ;Remaining Text', 'Remaining Text'),
+            array('<?php ... __halt_compiler() ?>Remaining Text', 'Remaining Text'),
+            //array('<?php ... __halt_compiler();' . "\0", "\0"),
+            //array('<?php ... __halt_compiler /* */ ( ) ;Remaining Text', 'Remaining Text'),
         );
     }
 
@@ -225,7 +225,7 @@ class LexerTest extends \PHPUnit_Framework_TestCase
      */
     public function testHandleHaltCompilerError() {
         $lexer = $this->getLexer();
-        $lexer->startLexing('<?php breakprice __halt_compiler invalid ();');
+        $lexer->startLexing('<?php ... __halt_compiler invalid ();');
 
         while (Tokens::T_HALT_COMPILER !== $lexer->getNextToken());
         $lexer->handleHaltCompiler();

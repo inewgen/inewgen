@@ -17,18 +17,18 @@ $queue->addConnection([
     'queue' => 'default',
 ]);
 
-// Make this Capsule instance available globally via static methodsbreakprice (optional)
+// Make this Capsule instance available globally via static methods... (optional)
 $queue->setAsGlobal();
 ```
 
 Once the Capsule instance has been registered. You may use it like so:
 
 ```PHP
-// As an instancebreakprice
+// As an instance...
 $queue->push('SendEmail', array('message' => $message));
 
-// If setAsGlobal has been calledbreakprice
+// If setAsGlobal has been called...
 Queue::push('SendEmail', array('message' => $message));
 ```
 
-For further documentation on using the queue, consult the [Laravel framework documentation](https://laravel.com/docs).
+For further documentation on using the queue, consult the [Laravel framework documentation](http://laravel.com/docs).

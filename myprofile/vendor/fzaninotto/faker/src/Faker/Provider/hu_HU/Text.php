@@ -24,34 +24,34 @@ ELSŐ FEJEZET
 - Valami matrózban.
 - Milyen kés volt?
 - Acél. Keskeny penge, kissé hajlott. Nem látta?
-- Várjunkbreakprice Csak lassan, kérembreakprice Milyen volt a nyele?
+- Várjunk... Csak lassan, kérem... Milyen volt a nyele?
 - Kagyló.
 - Hány részből?
 - Egy darabból készült.
 - Akkor nincs baj. Megvan a kés!
 - Hol?
 - A hátamban.
-- Köszönömbreakprice
-- Kérembreakprice A csapos mesélte, hogy milyen szép kés van bennem. Egy darab húszcentis kagylóritkaság.
-- Forduljon meg, kérem, hogy kivegyembreakprice
+- Köszönöm...
+- Kérem... A csapos mesélte, hogy milyen szép kés van bennem. Egy darab húszcentis kagylóritkaság.
+- Forduljon meg, kérem, hogy kivegyem...
 - Kitartás! A kocsmáros azt mondta, hogy amíg nem hoz orvost, hagyjam bent a kést, mert különben elvérzek. A kocsmáros ért ehhez, mert itt már öltek orvost is. Régi étterem.
 - De én sietek, kérem! És mit tudja az ember, hogy mikor jön az orvos? Kés nélkül mégsem mehetek éjjel haza.
 - Az orvos itt lakik a közelben, és a kocsmáros triciklin ment érte. Ha szurkált uram, hát viselje a következményeket.
 - Hohó! Azért, mert magába szúrnak egy kést, még nincs joga hozzá, hogy megtartsa. Ez önbíráskodás! Hála Istennek, van még jog a világon.
 - Nem is jogra hivatkoztam, hanem orvostudományra. A kocsmáros szerint az a recept, hogy bent maradjon a kés. Orvosi rendelet!
 - Az orvos rendelkezzék a saját holmijával, a kés az én műszerem!
-- Hmbreakprice nehéz ügybreakprice
+- Hm... nehéz ügy...
 - Tudja mit? Nekem is van szívem, segítek a bajon. Kiveszem magából a késemet, és beteszek helyette egy másikat. Az is megteszi, amíg a mentő jön.
-- Jól van. Csak ne legyen kisebb a kés, hogy jól elzárja a sebet, mert az egészség mindennél fontosabb, és recept az recept, hiábabreakprice
+- Jól van. Csak ne legyen kisebb a kés, hogy jól elzárja a sebet, mert az egészség mindennél fontosabb, és recept az recept, hiába...
 - Nyugodt lehet. Egy nagy konyhakést nyomok be helyette.
 - Akkor rendben van.
-- Forduljonbreakprice megbreakprice hopp!breakprice Ígybreakprice
-- Most nyomja bele a másikat!breakprice Gyorsan!
+- Forduljon... meg... hopp!... Így...
+- Most nyomja bele a másikat!... Gyorsan!
 - Ez itt a polcon épp jó lesz, habár csak fanyelű.
 - Benne van?
-- Fenét!breakprice Hiszen alig vérzik a sebe. Itt, a csont mellett állt meg a penge, a porcok közöttbreakprice A mindenségit, kicsorbult a hegye!
+- Fenét!... Hiszen alig vérzik a sebe. Itt, a csont mellett állt meg a penge, a porcok között... A mindenségit, kicsorbult a hegye!
 - Nyomta volna a húsba, maga kezdő!
-- Várjon! Ráteszek egy vizes kendőtbreakprice A szvetter egész jól leszorítjabreakprice
+- Várjon! Ráteszek egy vizes kendőt... A szvetter egész jól leszorítja...
 - Higgye el végre, hogy kés kell bele! A vendéglős tudja. Itt naponta ölnek. Tegye be a kést. Mi az magának?
 - Nem értek hozzá. Bicskázásért vállalom a felelősséget, de műtétért nem! Kérje meg erre a szívességre valamelyik matrózt. Majd csak magukhoz térnek.
 - Jó, hogy említi! Uram! Maga leütötte tizenkét hajósomat.
@@ -63,16 +63,16 @@ ELSŐ FEJEZET
 - Egyik sem vágta magához a korsót. Ezek ártatlanok.
 - Hát ki tette?
 - Én.
-- Szerencséje, hogy haláltusáját vívja, különben most fejbe ütnémbreakprice Jó napot.
+- Szerencséje, hogy haláltusáját vívja, különben most fejbe ütném... Jó napot.
 - Várjon!
 - Nincs időm. Sietek!
 - Nézze meg, hogy nem kell-e kés a sebbe. Az ilyen szúrást nem szabad elhanyagolni. Lehet, hogy befelé vérzik.
 - Onnan nem szúrhatták meg. Csak várjon az orvosra, az majd segít magán, ha lehet. Ha nem, akkor nyugodjék békével.
-- Ajánlom magamatbreakprice
-- Sajnálom, hogy ilyen gyenge legénységet toborzottbreakprice
+- Ajánlom magamat...
+- Sajnálom, hogy ilyen gyenge legénységet toborzott...
 - Halló! Fiatalember! Elkísérem. Volna egy ötletem, amivel pénzt kereshet.
 - Rendben van.
-- Várjon! Hej, csapos! Ha jön a kocsmáros, mondd, hogy elmentem járni egyet ide a közelbe. Ne féljen semmit, ha baj van, kést teszek a sebbe! Vigyázokbreakprice No, jöjjön!
+- Várjon! Hej, csapos! Ha jön a kocsmáros, mondd, hogy elmentem járni egyet ide a közelbe. Ne féljen semmit, ha baj van, kést teszek a sebbe! Vigyázok... No, jöjjön!
 2
 - Sebesülésem miatt óvatosnak kell lennem. Merre akar menni?
 - Nem tudom. Se pénzem, se dolgom.
@@ -81,15 +81,15 @@ ELSŐ FEJEZET
 - Semmi?
 - A világon semmi. Legfeljebb meghal. Az meg úgyis előfordulhat.
 - Teljesen igaz. Hát ide hallgasson. Én vagyok a Honolulu-Star szállásmestere. Hogy hívják magát?
-- Fülig Jimmybreakprice
+- Fülig Jimmy...
 - Miért van ilyen hülye neve?
 - Mert szeretek nevetni, és valaki rám fogta, hogy olyankor fülig húzom a számat.
 - Csakugyan tejfölösképű alak. Jókora, csontos emberben ritkaság. Hány éves?
-- Huszonnégybreakprice
+- Huszonnégy...
 - Vakarcs.
 - A családja.
 - Ért a hajóhoz?
-- Hülyéket kérdezbreakprice Byrd kapitánnyal kétszer voltam expedíción, suhanc koromban.
+- Hülyéket kérdez... Byrd kapitánnyal kétszer voltam expedíción, suhanc koromban.
 - Milyen írása van?!
 - Folyó. Csak a nagybetűt nem mindet ismerem. Egy szállásmestertől tanultam írni!
 - Hülye!
@@ -115,13 +115,13 @@ ELSŐ FEJEZET
 - Tavaly Nápolyban loptam egy kockás felöltőt, és azóta úgy érzem, hogy úrnak születtem. Elhatároztam, hogy többé nem dolgozom.
 - Azelőtt dolgozott?
 - Nem. De hiányzott az elhatározás.
-- Nézzebreakprice nekem hajópincér és fűtő kell, különben kirúgnak, és nincs munkám.
+- Nézze... nekem hajópincér és fűtő kell, különben kirúgnak, és nincs munkám.
 - Nem baj. Azt együtt csinálhatjuk! Én értek hozzá.
-- Fogja be a szájátbreakprice Itt Port Szuezben sem fűtőt, sem pincért nem találok hajnalig. Akkor indul a Honolulu-Star tovább. Az idényben vagyunk. Hát ide hallgasson: itt van nálam a fűtő és a pincér papírja. Álljon be helyettük. Maga ellátná kettőnek a munkáját. Ritkán láttam ilyen erős bivalyt.
+- Fogja be a száját... Itt Port Szuezben sem fűtőt, sem pincért nem találok hajnalig. Akkor indul a Honolulu-Star tovább. Az idényben vagyunk. Hát ide hallgasson: itt van nálam a fűtő és a pincér papírja. Álljon be helyettük. Maga ellátná kettőnek a munkáját. Ritkán láttam ilyen erős bivalyt.
 - Hízelgéssel nem megy semmire!
-- De talán mással. Két ember fizetése innen Tahitiig valóságos kis vagyon. Maga megkeresheti az egészet egyedülbreakprice Fél napot fűtene, felet kiszolgálna. Senki sem tudná, hogy a fűtő és a pincér egy személy.
+- De talán mással. Két ember fizetése innen Tahitiig valóságos kis vagyon. Maga megkeresheti az egészet egyedül... Fél napot fűtene, felet kiszolgálna. Senki sem tudná, hogy a fűtő és a pincér egy személy.
 - És mikor aludnék?
-- Hát, amikor megérkeztünk Tahitibe. Ha sokat mondok, öt hét az egész. Odáig két ember fizetését kapná. Na jön?breakprice Nézze, már készülődnek.
+- Hát, amikor megérkeztünk Tahitibe. Ha sokat mondok, öt hét az egész. Odáig két ember fizetését kapná. Na jön?... Nézze, már készülődnek.
 - Rendben van! Elfogadom!
 - Éjjel Wilson Hutchins amerikai fűtő, nappal José Pombio spanyol pincér! Ezt jegyezze meg! Tud spanyolul?
 - Néhány előétel nevét, de azzal úgy-ahogy megértetem magamat.
@@ -143,7 +143,7 @@ Közben az Elintézőben tartózkodó húszegynéhány matróz már jó tíz per
 - A fejemre igen kényes vagyok, uraim - mondta pedáns szigorral -, tehát az ilyen ingerkedést lehetőleg mellőzzük.
 Még be sem fejezte korholását, amikor a második korsó repült feléje úgy, hogy a vállát súrolta.
 - A verekedésnek ezennel vége! - jelentette ki határozottan.
-A többit tudjukbreakprice Fülig Jimmy elkezdte kidobálni a verekedőket. Mire befejezte a nagytakarítást, vagy húsz ember feküdt ájultan szerteszét, és csak a Tahitibe készülő Honolulu-Star nevű luxushajó legényei tizenkét főnyi csoporttal képviseltették magukat aznap a port-szuezi közkórházban. (Közöttük José Pombio spanyol pincér és Wilson Hutchins amerikai fűtő.)
+A többit tudjuk... Fülig Jimmy elkezdte kidobálni a verekedőket. Mire befejezte a nagytakarítást, vagy húsz ember feküdt ájultan szerteszét, és csak a Tahitibe készülő Honolulu-Star nevű luxushajó legényei tizenkét főnyi csoporttal képviseltették magukat aznap a port-szuezi közkórházban. (Közöttük José Pombio spanyol pincér és Wilson Hutchins amerikai fűtő.)
 Ezek után kifizette a vacsoráját, leemelte az ájult kormányost a könyvéről, és elment. Csak a kése miatt jött ismét vissza, amikor is találkozott a szállásmesterrel.
 És este már munkába állt egy hajón, két ember helyett, de dupla fizetésért. Boldog volt.
 Ismét dolgozott!
@@ -166,15 +166,15 @@ Penang előtt furcsa esete volt vele Josénak. A kikötőből egy maláj óriás
 A maláj hörögve kaparta magáról a csokoládés habot, csattogtatta hatalmas fogait, és végül lovagias mosollyal fojtva el dühét, közölte, hogy Josét szétmorzsolná, ha nem lenne tekintettel az előkelő környezetre.
 A spanyol pincér igen erélyes hangon többféle előétel nevét kiáltotta oda a bennszülöttnek, amitől az érthetően felbőszült.
 - M'Bisung! Glonga! Bon-Bon! - hörögte a maláj.
-- Omlettebreakprice à la Sevilla! - üvöltötte José.
+- Omlette... à la Sevilla! - üvöltötte José.
 - Sihungi! Mizonga dzur bsefár!
 - Olla potrida! - idézte a pincér transzparens korából, és lerohant. Ott állt lihegve a maláj előtt, és az utasok, boldogan a sok egyhangúság után, mindenfelől összecsődültek.
 Fenn a korlátnál állt Mr. Irving, szokott szomorúságával, és lenézett unott, közömbös arccal.
 A maláj megvillogtatta fehér fogait. Ismét mosolygott.
-- Mit ez akar gyenge fehérbreakprice Én megenni őtbreakprice
+- Mit ez akar gyenge fehér... Én megenni őt...
 - Hát csak fogj hozzá - mondta José.
-- Én nem ütni! Hindu önvédelembreakprice Te üss oda teljes erődből. Én csak kivédeni.
-- Az nem lesz jóbreakprice - szabadkozott José.
+- Én nem ütni! Hindu önvédelem... Te üss oda teljes erődből. Én csak kivédeni.
+- Az nem lesz jó... - szabadkozott José.
 - Te ütni! Fogás biztos, gyors, úgysem találni.
 - Hát jó. Mehet?
 - Mehet.
@@ -186,65 +186,65 @@ Ezalatt José aludt egy keveset. Állva. Mint egy idős paripa. A maláj ordítv
 - Nem számít! Te lenni balkezes! Én várni ütés jobbról.
 José vállat vont.
 - Nem lehet minden pofon mellé egy forgalmi rendőrt állítani.
-- Ütni agyonbreakprice téged!
+- Ütni agyon... téged!
 Nekirohant. José kissé hátrált, mert a maláj ragadt a málnaszörptől, és a pincér féltette a szép, aranygombos ruháját. Gyorsan elhelyezett egy horogütést, hogy az első támadó hevet lefékezze. Aztán kibújt egy balkezes egyenes alatt, és könnyedén felütötte a bennszülött állát.
 Ekkor egy rúgás érte.
 Szabálytalan, pimasz, sportszerűtlen rúgás. Fülig Jimmyt elöntötte az indulat, és szörnyűt kiáltott:
-- Insalade frittebreakprice à la Escorreal!
+- Insalade fritte... à la Escorreal!
 Ettől mindenkiben meghűlt a vér. Tisztában voltak vele, hogy az ókori mór hódítóktól származó esküvést hallották, amelyet spanyol ifjak csak olyankor hangoztatnak, ha élet-halál küzdelemre szánják magukat.
 És ugrott!
-Könyökhajlásba kapta a maláj nyakát, és a dereka mellé szorította. A bennszülött bivalyszerű, fekete nyakizmai kidagadtak az erőfeszítéstől, ésbreakprice
+Könyökhajlásba kapta a maláj nyakát, és a dereka mellé szorította. A bennszülött bivalyszerű, fekete nyakizmai kidagadtak az erőfeszítéstől, és...
 És ekkor Fülig Jimmy véletlenül felpillantott a sétafedélzetre. Amit látott, attól kishíján elengedte a malájt meglepetésében.
 Mr. Irving, a korlátra könyökölve, odavágott feléje a szeme sarkából biztatóan, pajtásosan, mintha azt mondaná, hogy: "Rajta! Tanítsd meg!"
 José egyet csavart a nyakon, egyet emelt térdével a gyomron, amitől a bennszülött messze repült és akkorát zuhant, roppant testének teljes hosszában, hogy a hajó beleremegett.
 Valamennyi szemlélő önkéntelen tapsba tört ki. A malájt, mint ledöfött bikát az arénából, a lábainál fogva kihurcolták a porondról.
 José, mint egy fáradt hegedűművész, könnyed mosollyal hajlongott, szorongatta a saját kezét, csókokat hintett, de véletlenül nekihátrált a büfének, amely állványostól felborult, és a társaság felét lefröcskölte jeges italokkal.
-breakpriceCsengő, vidám, kellemes kacagás hangzott a magasból. Mindenki felnézett. Mr. Irving nevetett a korlátnál. De ekkor megjelent a nevelő roppant alakja, és a tiszta gyerekhang nyomban elhalt. A fiatalember komoran, előkelően távozott.
+...Csengő, vidám, kellemes kacagás hangzott a magasból. Mindenki felnézett. Mr. Irving nevetett a korlátnál. De ekkor megjelent a nevelő roppant alakja, és a tiszta gyerekhang nyomban elhalt. A fiatalember komoran, előkelően távozott.
 - Őrült alak ez a pincér, de férfi - jegyezte meg a kapitány. És a körszakállas, vörös képű szállásmester felé fordult. - Tudja maga, hogy milyen kemény kezű fiú ez?
 - Én tudom - felelte szomorúan a szállásmester, de erről nem mondott bővebbet.
 5
-- Urambreakprice három hete nem aludtambreakprice
+- Uram... három hete nem aludtam...
 - Csak két hétig bírja még - suttogta a szállásmester. - Az ilyesmit meg lehet szokni idővel.
-breakpriceSzép, langyos este volt, de kissé fülledt. A Maláj-félsziget és Szingapur között csillogó, fekete hullámokon rohant a gőzös, és Fülig Jimmy a kazánházból vezető vaslépcső tetején ült, a szállásmester mellett.
+...Szép, langyos este volt, de kissé fülledt. A Maláj-félsziget és Szingapur között csillogó, fekete hullámokon rohant a gőzös, és Fülig Jimmy a kazánházból vezető vaslépcső tetején ült, a szállásmester mellett.
 - Csak vigyázzon - súgta a szakállas. - Feltűnő, hogy mindig alszik. Senki más nem ácsorog alvajáró módján.
 - Mit csináljak, ha olyan élénk utasok vannak itt?
 - Ha felfedezik, hogy José pincér és Hutchins fűtő egyazon ember, akkor engem is kidobnak a csalásért.
 - Ne féljen, már csak két hét, addig elvirrasztok valahogy.
-- Aludjon most egy félórát itt a lépcsőlejárónbreakprice Majd felkeltem idejében.
+- Aludjon most egy félórát itt a lépcsőlejárón... Majd felkeltem idejében.
 Felelet helyett a pincér már aludt is.
-breakpriceKésőbb felrezzent, mert valaki megérintette a vállát.
-- Hagyjon mégbreakprice - motyogta - maga hóhérbreakprice Csak öt percbreakprice
+...Később felrezzent, mert valaki megérintette a vállát.
+- Hagyjon még... - motyogta - maga hóhér... Csak öt perc...
 - Ébredjen, idegen!
-Felrezzent. Nagyon elcsodálkozott, amikor meglátta, hogy ki ül mellette a vaslépcsőnbreakprice Mr. Irving!
-- Psztbreakprice - súgta. - Mr. Gould azt hiszi, hogy alszom. Fogadja legmagasabb elismerésemet, pincér. Maga pompás fiú! Ezt akartam mondani.
+Felrezzent. Nagyon elcsodálkozott, amikor meglátta, hogy ki ül mellette a vaslépcsőn... Mr. Irving!
+- Pszt... - súgta. - Mr. Gould azt hiszi, hogy alszom. Fogadja legmagasabb elismerésemet, pincér. Maga pompás fiú! Ezt akartam mondani.
 A gumiba ágyazott gépek tompán zakatoltak alattuk. Különben csend volt. Mr. Irving ott ült mellette, a vaslépcsőn, de olyan ünnepélyesen, mint aki komoly szertartást végez.
-- Jól elbánt azzal a bennszülöttel - mondta elismerően. - Ugye, maga nagyon erős? Megengedibreakprice hogy megtapintsam a karizmát? - kérdezte szinte kenetteljesen.
+- Jól elbánt azzal a bennszülöttel - mondta elismerően. - Ugye, maga nagyon erős? Megengedi... hogy megtapintsam a karizmát? - kérdezte szinte kenetteljesen.
 - Na ne hülyéskedjen!
 Az ifjú szeme felragyogott.
 - Ugyebár ez sértés?! - kérdezte örömmel.
-- Hmbreakprice Úgy tesz, Mr. Irving, mintha részeg lenne.
+- Hm... Úgy tesz, Mr. Irving, mintha részeg lenne.
 - Engem még sohasem sértettek meg.
 - Ne mondja. Olyan erős?
 - Nem tudom. Senkit sem ütlegeltem még. Mondja, idegen, hogy történik ez a művelet?
 - Na ne ugrasson! Nem tudja, milyen az, amikor odasóznak? Láthatta eleget, ha az utcán járt.
 - Én soha életemben nem sétáltam még nyílt utcán.
-- Nem sétált?breakprice Hátbreakprice kicsoda önbreakprice Mr. Irving? Nem Mr. breakprice Irving?
+- Nem sétált?... Hát... kicsoda ön... Mr. Irving? Nem Mr. ... Irving?
 - Én inkognitóban vagyok.
 - Az miféle viselet?
-- Inkognitó az, ha valaki álnéven élbreakprice
+- Inkognitó az, ha valaki álnéven él...
 - Nagyszerű! Akkor én is inkognitóban vagyok! Szintén szélhámos?
 - Haha! Igazán kedves alattvaló maga, José pincér, de megyek, mert Mr. Gould még észreveszi a távolmaradásomat.
 - Mit fél attól a pasastól? Ha akarja, holnap leöntöm ebédnél egy adag marinírozott hallal, à la tournedot.
-- Ne, ne!breakprice Nagyon kérem, kedves goromba úr! Szegény jó atyám teljhatalmú nevelőmmé tette Fernandez bácsit, ő a régens herceg, és ebben meg kell nyugodnunk.
+- Ne, ne!... Nagyon kérem, kedves goromba úr! Szegény jó atyám teljhatalmú nevelőmmé tette Fernandez bácsit, ő a régens herceg, és ebben meg kell nyugodnunk.
 - Kissé homályos előttem, amit mond. Annyi bizonyos, hogy a pofa nem tetszik nekem, és szívesen odaütögetném a fejét bármihez, ami szilárd és dudoros.
-- Ó!breakprice Ember! Ne merészelje! Ön derék dolgozó, és kegyeinket élvezi, de ez súlyos büntetést vonna maga utánbreakprice És most, kedves idegen, mennem kellbreakprice Egyszer majd ismét beszélgetünk. Nagyon jól szórakoztam önnel. Ezért megjutalmazom! Akar pénzt?
-- Mi?breakprice
-- Nem ismerem jól a pénz értékét. Ha ötszáz dollárt adok, az sok? Nem, nem! Az túl kevés, és megbántom velebreakprice
-- Hogybreakprice hogy mit?breakprice Mi az, kérem?
-- Megvan! Egyszer Isten kegyelméből parancsoló nagybátyám megjutalmazta valamelyik hűséges hívét, és kétezer dollárt adott neki. Ez tehát nem olyan csekélység, hogy szégyenkeznem kelljen miatta!breakprice Tessék, jóemberbreakprice
-breakpriceElőhúzta a tárcáját, és átadott kétezer dollárt, azután vállon veregette a pincért, és otthagyta.
+- Ó!... Ember! Ne merészelje! Ön derék dolgozó, és kegyeinket élvezi, de ez súlyos büntetést vonna maga után... És most, kedves idegen, mennem kell... Egyszer majd ismét beszélgetünk. Nagyon jól szórakoztam önnel. Ezért megjutalmazom! Akar pénzt?
+- Mi?...
+- Nem ismerem jól a pénz értékét. Ha ötszáz dollárt adok, az sok? Nem, nem! Az túl kevés, és megbántom vele...
+- Hogy... hogy mit?... Mi az, kérem?
+- Megvan! Egyszer Isten kegyelméből parancsoló nagybátyám megjutalmazta valamelyik hűséges hívét, és kétezer dollárt adott neki. Ez tehát nem olyan csekélység, hogy szégyenkeznem kelljen miatta!... Tessék, jóember...
+...Előhúzta a tárcáját, és átadott kétezer dollárt, azután vállon veregette a pincért, és otthagyta.
 Nem hitte, hogy ébren van, vagy ha igen, akkor a fiú őrült, és a hatalmas, ronda ember az ápolója.
-Kétbreakprice ezerbreakprice dollár! Ezen az eseten érdemes gondolkozni! De hiába tartotta ilyesmire érdemesnek az esetet, mert rajtaütésszerűen elaludt.
+Két... ezer... dollár! Ezen az eseten érdemes gondolkozni! De hiába tartotta ilyesmire érdemesnek az esetet, mert rajtaütésszerűen elaludt.
  
 MÁSODIK FEJEZET
 1
@@ -267,7 +267,7 @@ A leírás egy hajó esetét vette példának, ahol egyetlen cecelégy került a
 Az orvos felnézett a könyvből. Ott állt előtte José, a pincér, könnyed testtartással, és szerényen hortyogott.
 - Halló!
 - Ki beszél?! - riadt fel José.
-Az orvos nézte. Hmbreakprice Gyanús! Szenvedő arc, ernyedt vonások, mélyen ülő szem, bárgyún nyitott száj, szabálytalan légzés.
+Az orvos nézte. Hm... Gyanús! Szenvedő arc, ernyedt vonások, mélyen ülő szem, bárgyún nyitott száj, szabálytalan légzés.
 - A feje fáj?
 - Igen.
 - Dohányzik?
@@ -279,20 +279,20 @@ Az orvos nézte. Hmbreakprice Gyanús! Szenvedő arc, ernyedt vonások, mélyen 
 - Szülei élnek?
 - Az anyám.
 - Az apja mibe halt meg?
-- Búcsúba. Heveny lövöldözés meg minden ilyesmibreakprice
+- Búcsúba. Heveny lövöldözés meg minden ilyesmi...
 - Iszik?
 - Most, hogy meghalt, nem hiszem.
 - Ember! Ne tréfáljon! Itt komoly dologról van szó! Fáj valamije?
-- Itt a bordánál nyilallbreakprice
+- Itt a bordánál nyilall...
 Az orvos betett valamit a fülébe, amiről lelógott egy gömbölyű hangerősítő. Ezt Fülig Jimmy bordáira helyezte.
 - Sóhajtson.
 Fülig Jimmy megragadta a bordáin nyugvó fémet, és belekiáltott:
 - Csiklandós vagyok!
 Az orvos üvöltve ugrott hátra, mert úgy érezte, hogy egy nehézüteget sütöttek el a füle mellett.
-- Ostoba alak!breakprice Megsiketítbreakprice Mióta érzi ezt a fájdalmat a bordáin?
+- Ostoba alak!... Megsiketít... Mióta érzi ezt a fájdalmat a bordáin?
 - Amióta a kormányos a sötétben véletlenül rálépett.
 - De most már menjen!
-- Kérem szépenbreakprice nem kaphatnék valamit fejfájás ellenbreakprice? Nagyon fáj a fejem.
+- Kérem szépen... nem kaphatnék valamit fejfájás ellen...? Nagyon fáj a fejem.
 Ez hazugság volt. De az orvos elhitte, és azonnal odament a szekrényhez. Fülig Jimmy követte. Messziről látta azt a kis tartályt, amin ez állt felírva egy címkén:
 ÓPIUM!
 Ez sűrűn alkalmazott gyógyszer errefelé, a megváltozott éghajlat és a szokatlan táplálék miatt gyakorta fellépő emésztési zavarok ellen. Az orvos már kivett egy fejfájás elleni port, amikor csörömpölést hallott. Az ostoba pincér lelökött az asztalról egy poharat.
@@ -320,8 +320,8 @@ Ilyen eddig csak rémdrámákban volt!
 - Igen - felelte őszintén Fülig Jimmy. - Maga mondta, hogy feltűnő a hajón, ha két ember állandóan alszik. Most már csak az különös, ha ébren van valaki.
 - Hogy csinálta?!
 - Ópiummal. Nem lehet semmi baj. Mindenki csak annyit kap, amennyi az ópiumhoz mellékelt adagolási táblázaton úgy van feltüntetve, hogy "súlyos betegek számára". Az pedig nem lehet veszélyes adag.
-- Habreakprice kiderülbreakprice Én bűntársa vagyok. Tíz évet kapunkbreakprice
-- Istenembreakprice Érdemrendet nem kínálhatnak ezért. El sem fogadnám.
+- Ha... kiderül... Én bűntársa vagyok. Tíz évet kapunk...
+- Istenem... Érdemrendet nem kínálhatnak ezért. El sem fogadnám.
 - Hej! Szállásmester! - kiáltotta feléjük az egyik tiszt. - Menjenek a legénnyel a raktárba! Fogjanak legyet, és vigyék az orvoshoz!
 - A legyeket is gyógykezelik? - csodálkozott Fülig Jimmy.
 A legénység teljes számban légyvadászaton volt. Ők is elindultak a szállásmesterrel. Pokoli hőség volt az Indiai-óceánon. Különösen itt, a gépház mellett. Fülig Jimmy mint fűtő derékig levetkőzve járt, a hőségen kívül elsősorban azért, mert egyetlen ingét José, a pincér használta.
@@ -340,14 +340,14 @@ Hát ilyen még nem volt! A világ legpimaszabb potyautasát fedezték fel.
 - Miért kerülne a hajó karanténba?
 - Ragály van!
 - Valakit megfertőztek hülyeséggel?
-- A mindenségitbreakprice
-Kinyitotta a ládát, ésbreakprice
+- A mindenségit...
+Kinyitotta a ládát, és...
 Üres volt! A láda, amelyből egy másodperc előtt beszélt valaki!
-Bután álltbreakprice A szállásmester keresztet vetett.
-Varázslatbreakprice
+Bután állt... A szállásmester keresztet vetett.
+Varázslat...
 - Ilyen alakok fenyegetnek engem - jegyezte meg az iménti hang a hátuk mögött. Megfordultak.
 Egy toprongyos öregember állt előttük. Fülig Jimmy ijedten kiáltotta:
-- Piszkos Fred!breakprice
+- Piszkos Fred!...
 2
 Különös jelenség volt az öreg. Mellig érő, kissé hegyes formájú ősz szakállát babrálgatta hosszú, keselyűkarmokban végződő kezével. Apró ravaszságait, nagy töprengéseit szakállának néma hangszerén mintegy lezongorázta, ahogy lassan játszadozott a hosszú, szerteálló, piszkosszürke, gyér szőrzettel. Az arcán néhány gömbölyű, nagy szemölcs, jellegzetes, karvalyszerű orr, legörbülő, széles száj és csillogó, okos, nyugtalan, apró szemek, némi vörös nedűvel keretezve. Kócos, szürkésfehér hajszálai a homlokára csüngtek szét, és egy beidegződött mozdulattal időnként tarkójára tolta, vagy a nyakát vakargatva lassan előretolta az orra hegyéig szakadt, szennyes, ellenzős sapkáját, egy igen elnyűtt, piszkos, de mégis kapitányi sapkát.
 Mert Piszkos Fred kapitány volt.
@@ -366,33 +366,33 @@ Fülig Jimmy percekig nem bírt szólni.
 - Miért nem nyitotta ki elöl?
 - Beletört a kulcs a zárba. Ha az ember a fején áll, megesik az ilyesmi. Huszonnégy óráig tartott, amíg tótágast állva a hátsó deszkát meglazíthattam, hogy kijárjon. Most mindent tudtok, hát menjetek a fenébe.
 - Hohó! - mondta a szállásmester. - A hajón járvány van. Ilyenkor főbenjáró bűn eltitkolni a potyautast.
-- Hmbreakprice talán megvesztegessem?
+- Hm... talán megvesztegessem?
 - Sok pénzt kellene kapni ahhoz! Egy járványra vonatkozó adat eltitkolásáért tíz év jár a gyarmaton!
 - Igaz - bólintott mélabúsan Piszkos Fred.
 - Nézze - szólt közbe Fülig Jimmy -, ha mi azt mondjuk, hogy maga önként jött elő, akkor a kapitány enyhébben fogja fel az ügyet.
 - Csak te ne védj - felelte mélységes megvetéssel Piszkos Fred, azután hátratolta a sapkáját, zsebre csapta a kezét, és ormótlan inga módján elindult a feljáró irányában. - Gyerünk. Igazatok van! A járványra vonatkozó felvilágosításaimat nem titkolhatom tovább, mert bajom lehet belőle. Azonnal szólok a kapitánynak, hogy tartóztassa le azt a disznót, aki ópiummal mérgezi az utasokat.
 A szállásmester meghökkent.
-- Mibreakprice mi vanbreakprice Freddy bátyám - hebegte Fülig Jimmy.
+- Mi... mi van... Freddy bátyám - hebegte Fülig Jimmy.
 - Na csak gyerünk! Legfőbb ideje! Tíz évet ülni az én koromban nem kellemes. Ráérek öreg napjaimra lustálkodni.
 Legalább ötvennyolc éves volt.
-- No debreakprice honnan veszi ezt azbreakprice ópium izét?
+- No de... honnan veszi ezt az... ópium izét?
 - Ne akarj becsapni, Fülig José. A sötét raktárfolyosón hevert az arab fűtő. Gyanúsan hortyogott. Felhúztam a szemhéját, és láttam mindent. Ópiummal akarsz megtéveszteni? Engem?
 Most előretolta a sapkáját, és úgy indult a lépcső felé.
 - Várjon! - ugrottak feléje egyszerre ketten.
 - Nem lehet! Igaza volt a szállásmesternek. Járvány az járvány, és adatok titkolása meg ilyesmi, az kész életveszély.
-- De hát beszéljünkbreakprice
-- Nincs értelme Fülig Hutchins. Mivel vesztegethet engem meg, ilyen főbenjáró ügyben két szegény ördög. Eressz, sietekbreakprice
+- De hát beszéljünk...
+- Nincs értelme Fülig Hutchins. Mivel vesztegethet engem meg, ilyen főbenjáró ügyben két szegény ördög. Eressz, sietek...
 - Ide hallgasson, kapitány - szólt rövid gondolkozás után Fülig Jimmy -, minek cifráznánk a dolgot? A markában vagyunk. Mondja meg, hogy mit akar, és kész! Tudom, hogy irgalmatlanul kiszipolyoz most bennünket, mert kapzsi és kegyetlen. Tessék.
 Piszkos Fred gondolkozott, egyik keselyűkarmával a fogát piszkálta, másik kezével egész keskenyre sodorta a szakálla végét.
 - No jó! Ne húzzuk az időt. Te adsz kétezer dollárt, és kész.
 Fülig Jimmy halottfehér lett.
-- Honnan vegyekbreakprice ezer dollárt?
+- Honnan vegyek... ezer dollárt?
 - A hátsó zsebedben találsz egy bőrtokot tükörrel, fésűvel és egy Limából való autóversenyző aranyplakettjével. Ott van a kétezer dollár.
 Fülig Jimmy elszántan a zsebébe nyúlt, hogy leszúrja ezt az embert.
-- A gyöngyházkés nem kell - mondta fáradtan a kapitány, és előhúzott valahonnan egy muzeális jellegű, félméteres forgópisztolyt -, ha mindenáron ráadást akarsz adni, elfogadom az aranyplakettet, de csak amíg háromig számolok. Egybreakprice
+- A gyöngyházkés nem kell - mondta fáradtan a kapitány, és előhúzott valahonnan egy muzeális jellegű, félméteres forgópisztolyt -, ha mindenáron ráadást akarsz adni, elfogadom az aranyplakettet, de csak amíg háromig számolok. Egy...
 Fülig Jimmy fogcsikorgatva átadta a bőrtokot, amely nyomban eltűnt a rengeteg nadrág hátsó zsebében. Ezután Piszkos Fred utálkozó, fáradt, megvető arckifejezése tűnődve irányult a szállásmester felé. Az rettegett.
 - Maga fizesse ki nekem előre Hutchins fűtő teljes fizetését Port Saidtól Tahitiig, összesen százhetvenöt dollár nyolcvankét centet - mondta végül.
-- Csakbreakprice százharminc dollárt kap a fűtő.
+- Csak... százharminc dollárt kap a fűtő.
 - Egy közönséges lapátoló. De Hutchins első osztályúnak minősített, különilletményes, mert a haditengerészet négy év előtt szakképzett kazánkovácsnak igazolta, tehát a biztosítás levonásával százhetvenöt dollár és nyolcvankét cent jár. Nem hagyom kizsákmányolni magamat.
 A szállásmester fogai hangosan megcsikordultak. De fizetett. Piszkos Fred gondosan átszámolta a pénzt. Százhetvenhat dollárból visszafizetett tizennyolc centet.
 - Nekem nem kell több, mint amennyi a tisztességes munkáért jár. De azt megkövetelem.
@@ -400,19 +400,19 @@ A szállásmestert ez a túlzott módja az üzleti tisztességnek nem hatotta me
 - Szegény Fülig Jimmy munkabérét vágta zsebre!
 - Ne féltsd te Fülig Jimmyt - nyugtatta meg a stewardot. - Ez addig ver Tahitiben, amíg kifizeted neki Hutchins munkabérét is, az utolsó centig. Alapos ember.
 A szállásmester döbbenten nézett Jimmyre.
-- Ez igazbreakprice?
+- Ez igaz...?
 - Sajnos - ismerte be szemérmesen a fiatalember. - Ez a Piszkos Fred a vesékbe lát.
 - Most menjetek a fenébe, és minden étkezéskor hozzatok le egy elsőosztályú menüt. Halat csak rántva eszem.
 Ezután bement a ládájába, és hozzálátott, hogy megtömje a pipáját.
 - Ketten voltunk, és nem tudtunk elbánni vele! - dühöngött a szállásmester, amikor a vaslépcsőn felmentek.
 - Ezzel nem lehet. Két év előtt Delhiben kilopta a háromezer éves Buddha rubin szemét, és egy sorompó piros üvegjelzőjével helyettesítette. Nagy botrány lett, mert amikor a Buddha belsejében fellobogott az örömtűz, az Isten szeme azt hunyorogta a hívők felé, hogy:
-"Stop!breakprice Stop!breakprice Stop!"
+"Stop!... Stop!... Stop!"
 Amikor a fedélzetre értek, a kapitány revolverrel a kezében vitatkozott egy csoport utassal, és néhány matróz éppen kipróbálta a mentőcsónakokat.
 3
 Másnap Fülig Jimmy beszüntette a ragályt, abban a reményben, hogy ezzel megszűnik az álmosság, tehát helyreáll a rend. Az ópium hatásának megszüntetésétől gyors eredményt várt. Ebben nem is csalódott. A méregkeverés beszüntetése néhány órán belül csakugyan meglepő eredménnyel járt.
 Déli tizenkét óra húszkor a Honolulu-Star vészjeleket adott le, orvosokat, gyógyszert és egészségügyi katonaságot kért a hajón pusztító járvány ellen Szingapurból.
 Egy óra tízkor a matrózokat felfegyverezték, és életbe léptették a vesztegzár esetére szóló rendkívüli intézkedéseket.
-Ugyanis az utasokon jelentkezett az átmenet nélküli kábítószer-elvonás valamennyi ártalmatlan, de heveny tünete. A madzag-nagyiparos hűlni és zsibbadni kezdett, ellepte a hideg verejték, és csak azt kérte, hogy leányának üzenjék meg: utolsó pillanatában is ellenezte házasságát. Valamennyi utas tűrhetetlen főfájásról panaszkodott. Ez az álomkór legpregnánsabb kísérő tünetebreakprice Az orvos úgy érezte, hogy hős, akiről könyvet fognak írni, mert a szörnyű kór ott lüktetett a koponyájában, de azért vitézül járt kabinról kabinra betegeihez, és csak akkor ült le kimerülten egy kötélcsomóra, amikor az utolsó injekciós tűt is beletörte a különc svéd hölgy alsókarjába.
+Ugyanis az utasokon jelentkezett az átmenet nélküli kábítószer-elvonás valamennyi ártalmatlan, de heveny tünete. A madzag-nagyiparos hűlni és zsibbadni kezdett, ellepte a hideg verejték, és csak azt kérte, hogy leányának üzenjék meg: utolsó pillanatában is ellenezte házasságát. Valamennyi utas tűrhetetlen főfájásról panaszkodott. Ez az álomkór legpregnánsabb kísérő tünete... Az orvos úgy érezte, hogy hős, akiről könyvet fognak írni, mert a szörnyű kór ott lüktetett a koponyájában, de azért vitézül járt kabinról kabinra betegeihez, és csak akkor ült le kimerülten egy kötélcsomóra, amikor az utolsó injekciós tűt is beletörte a különc svéd hölgy alsókarjába.
 Az ilyen orvosokról nemegyszer megemlékezik a szépirodalom. Az utasok már jóval kevesebb heroizmussal viselték el sorsukat.
 Sikoltozás, sírás, kiabálás töltötte be a hajót. A bostoni ügyvédnél látási zavarok léptek fel, az argentinai művirággyáros követelte, hogy forduljanak vissza. De a legtöbben valami érthetetlen oknál fogva csökönyösen ragaszkodtak ahhoz, hogy azonnal bocsássák le a mentőcsónakokat.
 Közben Mr. Irving egy tizennégy éves fiúcskával kétcentes alapon garambolozott. Ebéd után halkan fütyörészett a társalgó rádiókészüléke mellett, és általában pokolian jól érezte magát.
@@ -420,7 +420,7 @@ Fülig Jimmy most már látta, hogy nagy baj lesz, ha leleplezik véletlenül. E
 Délután beosont az orvos kabinjába. Az üres ópiumdobozaiba beletöltött szódabikarbónát, és visszatette őket a helyükre. Azután megkönnyebbülten távozott. Most már nem derülhet ki a bűne, akkor sem, ha esetleg keresik az ópiumot.
 A szállásmester egész nap útban volt a poggyászraktár felé, Piszkos Fred igényei ügyében. Vacsorához langusztát követelt, és Chateau Irát.
 Az Isten tudja, hogy hol szoktatták rá.
-Délben Szingapur utasította a Honolulu-Start, hogy nyomban álljon meg, közölje a helyzetét, és igyekezzék fenntartani a rendet az utasok között. Segélyhajó útban van, megfelelő orvosi segítséggel, addig is hirdessék ki a vesztegzárat, és az előírásokat minden tekintet nélkül, a legradikálisabban alkalmazzákbreakprice
+Délben Szingapur utasította a Honolulu-Start, hogy nyomban álljon meg, közölje a helyzetét, és igyekezzék fenntartani a rendet az utasok között. Segélyhajó útban van, megfelelő orvosi segítséggel, addig is hirdessék ki a vesztegzárat, és az előírásokat minden tekintet nélkül, a legradikálisabban alkalmazzák...
 Estére néhányan jól érezték magukat. Az étteremben egy-két utas kissé nyugodtabb hangulatban vacsorázott, de a pánik ott terpeszkedett felettük, az Indiai-óceán vihar előtti mozdulatlanságában. Az arcok továbbra is sápadtak voltak, most már a félelemtől.
 Kivétel: Mr. Irving, aki a rémnapok alatt több mint egy fontot hízott. Mert Mr. Gould továbbra is kitartóan aludt. Délelőtt ugyan felébredt, de ebéd után nyomban elszenderedett.
 Délutáni szenzáció: José, a pincér eltűnt. Valószínű, hogy öngyilkosságot követett el. A bostoni ügyvéd szerint nem lehetetlen, hogy ámokfutó lett, ami velük is előfordulhat, mert sűrű kísérő tünete az álomkórnak. A kapitányt megkérte, hogy ebben az esetben őt nyomban lője le, és amikor megnyugtató ígéretet kapott, sírva tördelte a kezét. Voltak, akik fertőtlenítőszerrel füstölték a kabinjukat, ezek állandóan köhögtek.
@@ -428,13 +428,13 @@ Mr. Irving délután krikettezni tanult.
 Az étkezés szenzációja José volt. A pincér, aki váratlanul megkerült. Tehát mégsem lett ámokfutó, vagy ha igen, úgy elfáradt, és abbahagyta. Úgy látszik, pihent is kissé, mert asztalkendővel a karján, frissen jött az étterembe. Az utasok köréje sereglettek, nézték, tapogatták, kérdésekkel halmozták el.
 - Hol volt?!
 - Mikor gyógyult meg?
-- Beszéljenbreakprice
+- Beszéljen...
 Fülig Jimmy fölényesen mosolygott.
 - Hölgyeim és uraim, ha szabad szólanom, valamennyien a hisztéria áldozatai voltunk. A hisztéria éppolyan ragályos, mint a nátha, de nincs semmi értelme, és az ember mindenféle rosszat érez. Ilyenkor a hölgyek hisztérikák lesznek. Hol hallottak már olyan betegséget, amelynek nincs halálos áldozata? Miféle járvány az, amelyikbe nem hal bele senki?
-Az utasok összenéztek. Csakugyan lehet ebben valamibreakprice Fülig Jimmy még fölényesebb vigyorral folytatta:
+Az utasok összenéztek. Csakugyan lehet ebben valami... Fülig Jimmy még fölényesebb vigyorral folytatta:
 - Ha csak egy ember meghalna, akkor én is elismerném, hogy jaj nekünk! Az Egyenlítőn túl lehetséges, hogy néhány óra vagy nap múlva nincs egy élőlény a hajón. De ki halt meg eddig? Kérdem önöket, tisztelt turisták: ki halt meg?
 Mr. Irving jött be kissé zavartan:
-- Kérem, segítsenek az orvost keresnibreakprice Szegény nevelőm, Mr. Gould meghaltbreakprice
+- Kérem, segítsenek az orvost keresni... Szegény nevelőm, Mr. Gould meghalt...
 4
 Tíz perccel később egyetlen utas sem tartózkodott a kabinján kívül.
 Itt a halál!
@@ -442,25 +442,25 @@ A hajó fedélzete, társalgója, lépcsői elhagyatottak és félelmetesen csen
 Az orvos tétován csavargatta a fejét jobbra-balra. Határozottan őszült valamit az utóbbi napokban.
 - Halott. Ez nyilvánvaló.
 - Meg sem nézi?
-- Kérembreakprice a halott közelébenbreakprice egy szúnyogcsípés elegendőbreakprice és a hajó ezekben a súlyos napokbanbreakprice orvos nélkül maradbreakprice
+- Kérem... a halott közelében... egy szúnyogcsípés elegendő... és a hajó ezekben a súlyos napokban... orvos nélkül marad...
 A kapitány szája megvetően lebiggyedt.
 - Rendben van.
 Odalépett a halotthoz. Elöl, ahol nyitva volt a pizsama, a mellére helyezte a tenyerét, az arca fölé hajolt, és felhúzogatta a szemhéjakat, de ez formaság volt, nem bírt fontossággal. A jéghideg, merev kéz csak halott emberé lehetett.
 - Meghalt - mondta, és kijött.
 A gyönyörű Honolulu-Star csendes és kihalt volt, mint egy igazi kísértethajó. Csak a személyzet ődöngött ide-oda nyomott hangulatban, hogy a dolgát végezze. A nappali égbolt szürkésfehér lett, a tenger nyugtalan, sárgászöld színűre vált, és a levegő forrón, párásan nehezedett az óceánra.
-Az eset után Fülig Jimmy úgy állt ott, magára maradva az étteremben, mint akit főbe ütöttekbreakprice Hogyan halt meg a nevelő? Hiszenbreakprice nincs járványbreakprice Az ópiumadag még súlyos betegnek sem lehetett halálos.
-Vagybreakprice mégis járvány?
+Az eset után Fülig Jimmy úgy állt ott, magára maradva az étteremben, mint akit főbe ütöttek... Hogyan halt meg a nevelő? Hiszen... nincs járvány... Az ópiumadag még súlyos betegnek sem lehetett halálos.
+Vagy... mégis járvány?
 - Most már nem tíz év, hanem kötél! - súgta valaki a fülébe.
 A szállásmester volt. Roppant orrcimpái fehéren rezegtek rémületében.
 - Mit fél úgy? Nem halt meg még senki hajóút közben?
-- Debreakprice ez azbreakprice attól halt meg, amit maga beadottbreakprice
+- De... ez az... attól halt meg, amit maga beadott...
 - Mitől? Évekig lehet valaki ópiumozó, még többet is szedhet, mint amennyit az ételébe tettem, attól sem hal meg!
 A szállásmester hosszan a szemébe nézett, azután zavartan kérdezte:
-- Magabreakprice nem adott mást?breakprice Csak ópiumot?
+- Maga... nem adott mást?... Csak ópiumot?
 - Bolond.
 Közel állt ahhoz, hogy beverje a steward fejét.
 - Csak nem hiszi, hogy megmérgeztem?
-- Azt nembreakprice de talán mégiscsak járvány ezbreakprice Én is furcsán érzem magamatbreakprice
+- Azt nem... de talán mégiscsak járvány ez... Én is furcsán érzem magamat...
 - Mert az északkeleti monszun előtt állunk, maga ostoba!
 - Ne kiabáljon! Én is tudom, hogy "rossz szélcsend" van, de attól még nincsenek látomásai az embernek! Csak magas láztól jön az ilyen.
 - Mit látott?
@@ -472,20 +472,20 @@ Közel állt ahhoz, hogy beverje a steward fejét.
 - Tán ő volt a kísértet?
 - Nem lehetett, mert beszéltem vele, mielőtt feljöttem a raktárból. És amikor felértem, éppen előttem állt a kísértet.
 - Nem ette meg a fene?
-- Csak hallgassa meg. Háttal állt felém, az elsőosztályú kabinsor utcája előtt, a kapitány. Szakasztott olyan ember. Akkor még azt hittem, hogy ő. Azután elindulok a kabinok felé, egy-két lépéssel odább kiérek a sétafedélzetre, és jobbra fenn a hídon megint csak ott áll a kapitány!breakprice Az a kapitány, akit az imént láttam, még futva sem lehetett a parancsnoki hídon. Azt mondom a kormányosnak: "Mióta áll ott a kapitány?" Azt feleli: "Már egy jó órája. És meg sem mozdul." Mit szól ehhez?
+- Csak hallgassa meg. Háttal állt felém, az elsőosztályú kabinsor utcája előtt, a kapitány. Szakasztott olyan ember. Akkor még azt hittem, hogy ő. Azután elindulok a kabinok felé, egy-két lépéssel odább kiérek a sétafedélzetre, és jobbra fenn a hídon megint csak ott áll a kapitány!... Az a kapitány, akit az imént láttam, még futva sem lehetett a parancsnoki hídon. Azt mondom a kormányosnak: "Mióta áll ott a kapitány?" Azt feleli: "Már egy jó órája. És meg sem mozdul." Mit szól ehhez?
 - Hogy részeges hülye, aki ilyent mesél.
 Hallgattak. Nagy, nyújtott szárnyú, fehér madarak siklottak keringve, alacsonyan, és ferde ívben zuhantak a tengerre, ha zsákmány tűnt fel a szinthez közel.
 A szállásmester komor arccal bámult ki a zavaros, háborgó vízre.
 Alacsony hullámok gurultak, és nyugtalan habtaréj rezgett a tetejükön.
 - Hej, pincér! Jöjjön a húszas kabinhoz! - kiáltotta egy hang.
-- A húszas fülke Mr. Gouldébreakprice - mondta a steward falfehéren.
-- Na és?breakprice
-Az ördög vigyebreakprice Még ilyen rossz előérzete sohasem volt. Minek is szállt erre az átkozott gőzösre? Végigment a barátságtalan, néma, elnéptelenedett fedélzeten. Kissé alkonyodott. A kabinok és a szellőztető kürtők összefolyó árnya hosszan dőlt végig a pallón.
+- A húszas fülke Mr. Gouldé... - mondta a steward falfehéren.
+- Na és?...
+Az ördög vigye... Még ilyen rossz előérzete sohasem volt. Minek is szállt erre az átkozott gőzösre? Végigment a barátságtalan, néma, elnéptelenedett fedélzeten. Kissé alkonyodott. A kabinok és a szellőztető kürtők összefolyó árnya hosszan dőlt végig a pallón.
 Mr. Gould kabinja előtt a kapitány várta. Az orvos már eloldalgott közben.
 - Pincér! - parancsolta a hatalmas, hűvös hangú kapitány, aki, úgy látszik, még egy valóságos kísértethajón is idegek nélkül és pontosan teljesítette volna a kötelességét.
 - Igenis!
 - Hajlandó a halottat lepedőbe varrni és tengerész módra eltemetni?
-- Én pincér vagyokbreakprice
+- Én pincér vagyok...
 - A legénység: csupa gyáva, kereskedelmi tengerész, megtagadták ezt a szolgálatot.
 - Ötven dollárt kap - folytatta a kapitány.
 - Vállalom.
@@ -501,45 +501,45 @@ Mr. Irving kiáltotta ezt. Épp ekkor ért oda.
     U.S.A. tengerészeti attasé
 - Akkor rendben van - mondta a kapitány, és zsebre gyűrte a táviratot. - José pincér! Öltöztesse fel a halottat. Puskát küldök magának, és további utasításig őrt áll a kabin előtt.
 Futólag köszönt Mr. Irvingnek, és elment. Csendben álltak egy ideig.
-- Magabreakprice hiszi, erős kezű idegen, hogy Fernandez régensherceg, a nevelőatyám, járvány áldozata lett?
-- Hátbreakprice nem vagyok orvosbreakprice
-- Maga most már sok mindent tud. Bizalmunkba fogadjuk. Megengedem, hogy őszintén közölje gondolatait, jóemberbreakprice
+- Maga... hiszi, erős kezű idegen, hogy Fernandez régensherceg, a nevelőatyám, járvány áldozata lett?
+- Hát... nem vagyok orvos...
+- Maga most már sok mindent tud. Bizalmunkba fogadjuk. Megengedem, hogy őszintén közölje gondolatait, jóember...
 - Akkor megmondom: szerintem nincs járvány. Hisztérikus mindenki a hajón.
 - Szerintem is hisztéria az egész! Gyáva polgárok vaklármája. De íme, a régens, ki Isten kegyelméből nevelőatyám, most meghalt.
 Hallgattak. Nagy loccsanással egy madár épp a hajó mellett csapott le a vízre, és egy ezüstös, vergődő halat ragadott fel a magasba. Néhány sirály rikoltozva követte.
-- Önbreakprice uralkodó, Mr. Irving?
+- Ön... uralkodó, Mr. Irving?
 - Nem helyes, ha kérdést intéz hozzám. Ezt már a múltkor akartam mondani.
 - Ha szabad kérdeznem, miért?
 - Menjen békével, jóember, és teljesítse a kötelességét. Nem szerettem a nevelőmet, aki Isten kegyelméből régens volt, de megtettem mindent, ami megóvhatja attól, hogy méltóságához nem illő módon temessék.
 Közben, trópusi módon, hirtelen este lett.
 - Halló! Itt a fegyver - kiáltotta messziről egy matróz, azután letette a puskát és elsietett.
-- Maga most öltöztesse fel a halottat. Később még beszélgetünk. Abban a kabinban lakom, a sor vége előtt. Néhai nevelőatyám, Fernandez régens herceg körül teljesített jó szolgálataiért jutalmazni kívánombreakprice
-- Kicsoda ön?breakprice - hebegte Jimmy.
-- Személyemhez kérdést intézni csúf vétség a szokások és a jó modor ellen. Ezt hát mellőzzükbreakprice
+- Maga most öltöztesse fel a halottat. Később még beszélgetünk. Abban a kabinban lakom, a sor vége előtt. Néhai nevelőatyám, Fernandez régens herceg körül teljesített jó szolgálataiért jutalmazni kívánom...
+- Kicsoda ön?... - hebegte Jimmy.
+- Személyemhez kérdést intézni csúf vétség a szokások és a jó modor ellen. Ezt hát mellőzzük...
 És ment. Angyali gyerekarcán semmi gőg, és mégis felette állt mindig azoknak, akikhez szólt. Benyitott távolabb a kabinjába.
 Jimmy a kabin mellé támasztotta a fegyverét. A néptelen fedélzeten zizegve futott át az éledő monszun, megrázta a köteleket, és egy nagy újságlapot vonszolt magával lomhán, meg-megpihenve. A tintaszínű éjszakai mennybolt látszólag szokatlanul alacsonyan borult ma a tenger fölé.
-Mint gőzfal állt a súlyos, párás levegő. Koromsötét, forró éjszaka volt, és olykor átbúgott a hajón izzó áramlásával a fokonként érkező monszun első ciklusabreakprice
+Mint gőzfal állt a súlyos, párás levegő. Koromsötét, forró éjszaka volt, és olykor átbúgott a hajón izzó áramlásával a fokonként érkező monszun első ciklusa...
 A halott pizsamában feküdt. Csakugyan ott volt mellette a szép, antik művű, dupla fedelű zsebóra. Különös ötvösmunka díszítette, és a hátlapján időálló, égetett zománcból valamilyen címer. Ugyanez a címer látszott a pecsétgyűrűn és a cigarettaszelencén.
 A tetem természetes helyzetben feküdt. Az arca nyugodt volt, csak kissé sárga, úgyhogy szinte egybeolvadt a szalmaszínű angol bajusszal. Az ópiumtól halt meg? Kivett a szekrényből egy kabátot, a kazettából a kitüntetéseket.
-breakpriceKint erősödött a szél. A szomszédos fürdőszobából tompa zaj hallatszott. Fülig Jimmy felnéz. Mibreakprice? Az ördögbe! Tán gyengék az idegeibreakprice? A kabinlámpa csikorogva lengett. Kissé nehéz öltöztetni Mr. Gouldot, mert lassan beállt a hullamerevség állapota. A pillanatnyi szélcsendben jól hallatszik az óra ketyegésebreakprice
+...Kint erősödött a szél. A szomszédos fürdőszobából tompa zaj hallatszott. Fülig Jimmy felnéz. Mi...? Az ördögbe! Tán gyengék az idegei...? A kabinlámpa csikorogva lengett. Kissé nehéz öltöztetni Mr. Gouldot, mert lassan beállt a hullamerevség állapota. A pillanatnyi szélcsendben jól hallatszik az óra ketyegése...
 Zuhanás, robaj!
-Fülig Jimmy kiugrik az ajtón. Senki. A kabinfolyosó üres. A világítást fojtottá teszi a kezdődő ködbreakprice A sötét fedélzeten nesztelen árnyak mozognak. Jól tudja, hogy a szél lenget mindenfélétbreakprice A nyugtalan tenger harsog, és a megújuló monszun néhány hatalmas cseppet vág az arcábabreakprice Ott, a forduló mély homályábanbreakprice mintha valaki járnabreakprice De nembreakprice Bizonyára az egyik mentőcsónak elszabadult ponyvája. Az iménti robaj okát is meglátta. A puska a földön feküdt. Eldöntötte a szélrohambreakprice
+Fülig Jimmy kiugrik az ajtón. Senki. A kabinfolyosó üres. A világítást fojtottá teszi a kezdődő köd... A sötét fedélzeten nesztelen árnyak mozognak. Jól tudja, hogy a szél lenget mindenfélét... A nyugtalan tenger harsog, és a megújuló monszun néhány hatalmas cseppet vág az arcába... Ott, a forduló mély homályában... mintha valaki járna... De nem... Bizonyára az egyik mentőcsónak elszabadult ponyvája. Az iménti robaj okát is meglátta. A puska a földön feküdt. Eldöntötte a szélroham...
 Visszament, és tovább öltöztette a halottat. A nadrág dolgában sokáig habozott, végül úgy emlékezett, hogy nagyurak fekete kabáthoz kockás lovaglónadrágot szoktak hordani. Szerencse, ha az ember látott már egyet s mást életében.
 Súlyos, gépfegyverszerű koppanással lezuhant a zápor.
 Csörömpölés!
 A szél bevágja a kerek szellőztetőablakot, és amíg Jimmy riadtan felnéz, az ágyon fekvő tetem feje lebillen, majd maga után rántja a testet, és egy puffanással a padlóra hullik, különös pózban, mint egy arcon fekvő, élő ember, aki kúszás közben meglapul kissé.
-Hogy az abreakprice!
-Fülig Jimmy nem ismeri a félelmet, de ez mégis kissé idegesítő. Fel akarja emelni néhai Mr. Gouldot. Közben a halottnak tarkójáig csúszik a pizsama, ésbreakprice
-És hátrahőkölbreakprice
-A mindenségit! Hát ezbreakprice
-A halott feltakart hátán, bal oldalon, a lapocka alatt nagy, fekete gomb. Igenbreakprice
+Hogy az a...!
+Fülig Jimmy nem ismeri a félelmet, de ez mégis kissé idegesítő. Fel akarja emelni néhai Mr. Gouldot. Közben a halottnak tarkójáig csúszik a pizsama, és...
+És hátrahőköl...
+A mindenségit! Hát ez...
+A halott feltakart hátán, bal oldalon, a lapocka alatt nagy, fekete gomb. Igen...
 Egy gomb!
-Nézibreakprice megmozdítja. Azután mindent tud.
+Nézi... megmozdítja. Azután mindent tud.
 Mr. Gouldot megölték! Ő ölte meg, tudtán és akaratán kívül. Az ópiummal! Mert csak igen mélyen alvó emberrel lehet megtenni, hogy hátulról a szívébe szúrnak egy tűt. Olyasfélét, amilyennel idősebb hölgyek a kalapjukat tűzik a kontyukhoz. A kalaptű gombját rászorították a sebre, és hátára fektették az áldozatot, nehogy kifolyjon a pici sebből a vér. A tű nem döfte át elöl a mellkast, de a szívbe hatolva azonnal megölte az alvó Mr. Gouldot.
 Egy szélroham dobpergésével végigfut a zápor a kajütsoron.
 Gyilkosság!
-Jelenteni kellene a kapitánynakbreakprice De akkorbreakprice Vizsgálat. Ki a gyanús elsősorban? Ő, aki hamis írásokkal tartózkodik itt. És ha a szállásmester vallbreakprice! Ha csak annyi derül ki, hogy ópiumot adott az utasoknakbreakprice Az is tíz év!
-Nem. Ússza meg a gyilkos gazember büntetlenül. Neki vaj van a fején, nem sétálhat a naponbreakprice Gyerünk, gyerünk.
+Jelenteni kellene a kapitánynak... De akkor... Vizsgálat. Ki a gyanús elsősorban? Ő, aki hamis írásokkal tartózkodik itt. És ha a szállásmester vall...! Ha csak annyi derül ki, hogy ópiumot adott az utasoknak... Az is tíz év!
+Nem. Ússza meg a gyilkos gazember büntetlenül. Neki vaj van a fején, nem sétálhat a napon... Gyerünk, gyerünk.
 Csak ez az átkozott szél ne vonítana be azzal a furcsa, mély búgással. És elhordja a papírokat az asztalról.
 Kihúzza a halottból a tűt. Most már nem vérzik. Apró, vörös folt maradt utána. Gyorsan felöltöztette. Egy váratlan hullámtól megdőlt a hajó, a tetem lezuhant, elsodorta Jimmy lábát, együtt gurultak a kabin sarkáig. A súlyos, merev testet alig bírta lerázni magáról.
 Most csakugyan jár valaki a kabin előtt. Csörömpölés. Az illető belerúgott a földön fekvő puskába!
@@ -547,7 +547,7 @@ Jimmy lihegve felállt, megnézte magát a tükörben. Kissé sápadt volt. Az �
 Az eső nem enyhítette a forróságot, sőt alacsonyabbra verte a párákat, és a kabinban megszorult levegő még fülledtebb volt.
 A folyosóról ismét halk reccsenések hallatszottak. Az ajtóhoz ugrott, és kinézett a folyosóra.
 Valóságos zuhannyal fröcskölte szembe a zápor. A szél szinte visszanyomta, és a kilincset vadul kitépte a kezéből, úgyhogy az ajtó csattanva kitárult. A rögtönzött orkán tölcsérben sodorta a papírholmikat a kajütablak felé, lerántotta az asztalterítőt, és néhány tárgy csörömpölve a földre zuhant.
-Behúzta maga mögött az ajtót, és kilépett. Sötét, és a szél zúg. A fordulónál, Mr. Irving kabinajtaján kiszűrődő fényben árnyat látott elsuhannibreakprice Ez ott állt a kajüt előtt! Egy másodperc alatt bőrig ázott, amíg a súlyos ködben végigsietett a folyosón. A szél futtában a falhoz vagdosta. Kopogott Irving ajtaján.
+Behúzta maga mögött az ajtót, és kilépett. Sötét, és a szél zúg. A fordulónál, Mr. Irving kabinajtaján kiszűrődő fényben árnyat látott elsuhanni... Ez ott állt a kajüt előtt! Egy másodperc alatt bőrig ázott, amíg a súlyos ködben végigsietett a folyosón. A szél futtában a falhoz vagdosta. Kopogott Irving ajtaján.
 - Ki az?
 - José.
 - Tessék!
@@ -563,17 +563,17 @@ Egy jókora önműködő revolvert tett ki az asztalra.
 - Ezt a sróffejet tolja el a hüvelykujjával, egész könnyedén, és akkor nyomban lőhet. Az ajtót tartsa zárva.
 Mr. Irving csillogó szemmel fogta meg a pisztolyt, mint gyermek, ha régen áhított holmihoz jut, amit csak felnőttek használnak.
 Kilépett a fülkéből. Hallotta, amint Mr. Irving ráfordítja a kulcsot. Visszafelé sietett. Mr. Gould kabinajtaja, ezt messziről látta, nyitva volt, és a világosság széles sávban hullott ki a fedélzetre.
-breakpriceMost kilép a halott ember fülkéjéből a kapitány, és becsukja az ajtót. A másodpercnyi világosságban tisztán látni, ahogy gumiköpenyének magas gallérját elöl összefogja, hogy a szél ne csapkodja az arcába a vizet. Sapkájának ellenzője utolsót csillan a kajüt fényében, és kemény lépteivel elindul. Bizonyára azért járt a kabinban, hogy őt ellenőrizze.
+...Most kilép a halott ember fülkéjéből a kapitány, és becsukja az ajtót. A másodpercnyi világosságban tisztán látni, ahogy gumiköpenyének magas gallérját elöl összefogja, hogy a szél ne csapkodja az arcába a vizet. Sapkájának ellenzője utolsót csillan a kajüt fényében, és kemény lépteivel elindul. Bizonyára azért járt a kabinban, hogy őt ellenőrizze.
 Utánasiet. A fordulónál eltűnik a kapitány a sötétben. Jimmy nem követi, egyenesen továbbmegy a fedélzet irányába. De egy másodperc múlva dermedten megáll.
 A kapitány ott pipázik a hídon, mozdulatlanul, köpenye gallérját összefogva.
 Most látta az ellenkező irányban eltávolodni!
-A kísértet volt! Akit a szállásmester említettbreakprice
+A kísértet volt! Akit a szállásmester említett...
 A gyilkos!
-Futva igyekszik vissza. A sötét fedélzet síkos pallóján kétszer is felbukik. Egy kötélcsomón átzuhanva megüti a térdét, de nem törődik vele. A fel-feltámadó szél üvöltve rohan szembebreakprice Recsegés, nyikorgásbreakprice Most újra megpillantja a kísértetetbreakprice Egy lámpa gőzudvaros világa megcsillan a kapitányi sapka ellenzőjén. Az arcát nem látja az összefogott, magas gallér miatt. Csak itt lenne a revolverebreakprice Minden erejét összeszedve rohan Fülig Jimmy, szél ellen, a kísértet után. Ő is a fordulóhoz érbreakprice Ugrik!
+Futva igyekszik vissza. A sötét fedélzet síkos pallóján kétszer is felbukik. Egy kötélcsomón átzuhanva megüti a térdét, de nem törődik vele. A fel-feltámadó szél üvöltve rohan szembe... Recsegés, nyikorgás... Most újra megpillantja a kísértetet... Egy lámpa gőzudvaros világa megcsillan a kapitányi sapka ellenzőjén. Az arcát nem látja az összefogott, magas gallér miatt. Csak itt lenne a revolvere... Minden erejét összeszedve rohan Fülig Jimmy, szél ellen, a kísértet után. Ő is a fordulóhoz ér... Ugrik!
 Hatalmas csapással egy léc zuhan az arcára. Kábultan hátrabukik a fedélzeten meggyülemlett tócsák közé.
-Percekig tart, amíg tántorogva feláll. A szél szinte feldönti, annyira elgyengült az ütéstől. Langyosan folyik az orra vére. Kénytelen visszatérni Mr. Gould kabinjába, hogy befejezze az öltöztetést. A kísértetet elszalasztotta. Mindegy. Siessünkbreakprice
+Percekig tart, amíg tántorogva feláll. A szél szinte feldönti, annyira elgyengült az ütéstől. Langyosan folyik az orra vére. Kénytelen visszatérni Mr. Gould kabinjába, hogy befejezze az öltöztetést. A kísértetet elszalasztotta. Mindegy. Siessünk...
 Hohó! Most megvagy!
-Ismét meglátta a kísértetet az elsőosztályú folyosón! Éppen kilép a halott Mr. Gould ajtaján, és elindul, arca előtt összefogva a köpeny gallérját, sapkaellenzőjén megcsillan a fénybreakprice Egyenesen, nyugodtan halad. Fülig Jimmy utánaveti magát. Beéribreakprice kezében meglendül a rövid vasbotbreakprice
+Ismét meglátta a kísértetet az elsőosztályú folyosón! Éppen kilép a halott Mr. Gould ajtaján, és elindul, arca előtt összefogva a köpeny gallérját, sapkaellenzőjén megcsillan a fény... Egyenesen, nyugodtan halad. Fülig Jimmy utánaveti magát. Beéri... kezében meglendül a rövid vasbot...
 A kísértet most visszafordul.
 Csak annyi ideje marad, hogy lefékezze a csapást.
 A kapitány áll előtte. De az igazi!
@@ -581,20 +581,20 @@ Már nem fogja a köpenygallért. Nedves, markáns arca fedetlenül látszik. N�
 - Ön elhagyta a szolgálati helyét!
 Jimmy nem bírt szólni. Kifulladt.
 - Hol volt?! Mi?! Ki verte össze magát? Feleljen!
-- Kapibreakprice kapitány úrbreakprice egy kísértbreakprice egy ember az ön ruhájábanbreakprice járkálbreakprice
+- Kapi... kapitány úr... egy kísért... egy ember az ön ruhájában... járkál...
 - Mit mesél?
-- Mialattbreakprice ön a hídon álltbreakprice valakibreakprice ugyanolyan ember, mint önbreakprice kapitányi sapkábanbreakprice itt járkáltbreakprice futottambreakprice utána, felbuktambreakprice leütöttbreakprice A szállásmesternek nem hittembreakprice őbreakprice már láttabreakprice a kísértetetbreakprice!
+- Mialatt... ön a hídon állt... valaki... ugyanolyan ember, mint ön... kapitányi sapkában... itt járkált... futottam... utána, felbuktam... leütött... A szállásmesternek nem hittem... ő... már látta... a kísértetet...!
 A kapitány elgondolkozva nézett valahová a sötétbe, a hajó korlátja felett, mintha látna valamit ott a záportól harsogó, koromszínű, büdös, nehéz indiai éjszakában.
 Azután kihúzta a kezét a köpenye zsebéből. Pisztoly volt benne. Újabban így hordta, a külső zsebben.
 - Nézze, barátom - mondta szelíden. - Előírás szerint, aki magatartásával pánikot kelt a hajón, azt kötelességem nyomban lelőni. Figyelmeztetem, hogy én igen alapos ember vagyok, ha arról van szó, hogy eljárásom szabályszerű legyen. Ezt mondja meg a szállásmesternek is. - Indulni akart, de visszafordult. - A tetemet mégiscsak varrja lepedőbe. Tegyen a lábához egy kockaszenet, kösse valami deszkára, azután hívjon. Fél? A Szingapuri sürgöny ellenére vízbe dobjuk, mert ebben a feszült hangulatban nem vállalhatom a felelősséget azért, hogy az utasok tudtával egy halott legyen a hajón.
 A kapitány elment. Léptei nagyokat loccsantak a fedélzet tócsáiban, egyre távolodva. Fülig Jimmy visszatért a halotthoz, és nem sokat teketóriázott. Bevarrta a lepedőbe, ahogy ez már a hajón szokás.
 A szél kinyitotta, majd újra becsapta a törött szellőztetőablak keretét. A felső kajütágyból leesett egy párna. Kétágyas kabint bérelt Mr. Gould. Egyedül utazott, de a kétszemélyes fülke tágasabb, kényelmesebb.
-A nagy, lusta hullámoktól lassan megdőlő hajó nyikorgott, recsegettbreakprice Gyerünk gyorsan! Kissé ideges volt, pedig ilyesmi eddig ritkán történt vele. Tán ez a halott?
-Ugyan! Gyerünk azzal a lepedővel! Varrtbreakprice
-breakpriceÚgy feküdt ott a halott, mint bizonyos színjátékokban a sírból megjelenő szellem. A fehér lepedőn keresztül kirajzolódott felpúposodó mellkasa, hátrabukott koponyája, és látszott a lábfej merőleges körvonala.
+A nagy, lusta hullámoktól lassan megdőlő hajó nyikorgott, recsegett... Gyerünk gyorsan! Kissé ideges volt, pedig ilyesmi eddig ritkán történt vele. Tán ez a halott?
+Ugyan! Gyerünk azzal a lepedővel! Varrt...
+...Úgy feküdt ott a halott, mint bizonyos színjátékokban a sírból megjelenő szellem. A fehér lepedőn keresztül kirajzolódott felpúposodó mellkasa, hátrabukott koponyája, és látszott a lábfej merőleges körvonala.
 Csak gyorsan vízbe vele! Itt most egy gyilkossági ügy sok ártatlan ember nyakát törheti. A szállásmester, Piszkos Fred és ő is hosszú időre börtönbe kerülnek; kivételesen ártatlanul.
 A vízbe veled, roppant ember, és legyen a fenék titka egy gaztett. Nem az első és nem a százezredik eset az óceánon. Vajon kinek álltál útjában?
-És fütyörészett magában, mert alapjában véve kemény fiú volt ez a Fülig Jimmy. A fürdőszobába ment, és felszedte azt a rácsos, hosszú lécet, ami a kád előtt van. A kabinból hangos robaj és csörömpölés veri fel a csendet. Egy pillanatra megdöbben, azután visszarohanbreakprice
+És fütyörészett magában, mert alapjában véve kemény fiú volt ez a Fülig Jimmy. A fürdőszobába ment, és felszedte azt a rácsos, hosszú lécet, ami a kád előtt van. A kabinból hangos robaj és csörömpölés veri fel a csendet. Egy pillanatra megdöbben, azután visszarohan...
 Semmi!
 A halott odábbgurult a padlón egy hullámzás következtében, és elsodorta az asztalt.
 - Nyughass, öregem, most már, amíg elintézlek - intette néhai Mr. Gouldot, és közben az ággyal szemben a tükörben megnézte magát.
@@ -606,35 +606,35 @@ De a halott szépen odagurult lécestől együtt a fürdőszobához, azután egy
 És gyorsan elugrott, mielőtt a visszazúduló halott leüthette volna a lábáról. Mr. Gould teteme a hullámzás szerint változtatta helyzetét. A hajó olyan merőleges síkban dőlt az oldalára, hogy a nyirkos palló csúszdának is beillett.
 - Na várj! Még most sem nyughatsz?
 Kinyitotta az ajtót, és kezében fogva a kilincset, körülnézett a küszöbről.
-Két órára járt. A légáramlás enyhébben fújt, és alig esett. Talán csak a hajó vas alkatrészein meggyülemlett vizet hordta a csökkenő erejű szél. Mr. Irving kabinjából még világosság szüremlett ki, ésbreakprice Ott állt előtte a kapitány!
+Két órára járt. A légáramlás enyhébben fújt, és alig esett. Talán csak a hajó vas alkatrészein meggyülemlett vizet hordta a csökkenő erejű szél. Mr. Irving kabinjából még világosság szüremlett ki, és... Ott állt előtte a kapitány!
 Vagy a kísértet!
 Elengedte a kilincset, és rohant. De a szél a szabadjára maradt ajtót kivágta, s a zajra a kapitány (vagy a kísértet?), anélkül hogy megfordult volna, elsietett.
 Szokása szerint orra alatt összefogta a köpeny gallérját.
-Jimmy utánabreakprice
+Jimmy utána...
 Egy sötét fordulónál elérte, és már nyúlt is a belső zsebe felé, hogy főbe kólintsa a szellemet, amikor az megfordult.
 - Na mi az?
 Ismét az igazi kapitány volt.
-- Szébreakprice szénért megyek, hogy nehezék legyen a matróztemetéshez, és láttam, hogy Mr. Irving kabinja előttbreakprice
-- Igen. Benéztem. Okom van rá, hogy vigyázzak erre a fiúra. Nem mindennapi utas. Na, hozza a szenet, hogy hajnal előtt végezzünkbreakprice
+- Szé... szénért megyek, hogy nehezék legyen a matróztemetéshez, és láttam, hogy Mr. Irving kabinja előtt...
+- Igen. Benéztem. Okom van rá, hogy vigyázzak erre a fiúra. Nem mindennapi utas. Na, hozza a szenet, hogy hajnal előtt végezzünk...
 Jimmy sietett. Elérte a szénraktárhoz vezető lépcsőlejárót. Itt véletlenül jobbra nézett.
-breakpriceMessze, a hajótat felé, a tenger gőzölgő, nyirkos fátylán át látta elsuhanni a kapitányt. A másikat! A kísértetet.
+...Messze, a hajótat felé, a tenger gőzölgő, nyirkos fátylán át látta elsuhanni a kapitányt. A másikat! A kísértetet.
 Az igazi kapitány közben az ellenkező irányban haladt tovább a fordulónál, ahol az imént beszélgettek.
 Egy másodpercig egyszerre látta a két kapitányt.
 A szél sivítva rohant el a hajó mentén. És a tenger morajlott, elvesző, megújuló sustorgással.
-Sietett a szénértbreakprice Csak gyorsan, gyorsan! Nem törődni semmivel. El a halottal, el erről a hajórólbreakprice A fordulónál kétfelé ágazott a lépcső. Hirtelen ötlettől indíttatva bal felé ment le. A poggyászraktárba.
+Sietett a szénért... Csak gyorsan, gyorsan! Nem törődni semmivel. El a halottal, el erről a hajóról... A fordulónál kétfelé ágazott a lépcső. Hirtelen ötlettől indíttatva bal felé ment le. A poggyászraktárba.
 Piszkos Fred, a kapitány!
 Ha valaki, akkor ő segíthet a rengeteg eszével. Annak nincsen idege. Vagy ha igen, hát drótból van. Odament a nagy ládához és kopogott.
 - Kapitány, ébredjen!
 - Mit akarsz? - dörmögte egy bosszús hang. - Tedd le a reggelit, és eredj!
-- Jöjjön kibreakprice Baj történtbreakprice!
+- Jöjjön ki... Baj történt...!
 - Nem hoztál rumot? Akkor visszamégy. Ilyen szállásmestert még nem láttam!
 - Itt Fülig Jimmy beszél. Jöjjön ki Freddy bátyám.
-- Te vagy az?breakprice Mit kódorogsz erre éjszaka? Nem szeretném, ha azalatt eltűnne valami a raktárból, amíg itt vagyok.
+- Te vagy az?... Mit kódorogsz erre éjszaka? Nem szeretném, ha azalatt eltűnne valami a raktárból, amíg itt vagyok.
 Azért kimászott a "művészbejáróján".
 - Na mi van?
 - Halott, kísértet, gyilkosság!
 - Ezért keltettél fel?
-- Hallgasson meg. Azt hiszem, szükségem van magára. Tudja jól, hogy nem sok embernek mondtam még ezt. Most se félek, csak magának ott az a rengeteg eszebreakprice
+- Hallgasson meg. Azt hiszem, szükségem van magára. Tudja jól, hogy nem sok embernek mondtam még ezt. Most se félek, csak magának ott az a rengeteg esze...
 - Sokat locsogsz. Mi van?
 - Megölték Mr. Gouldot.
 - És ha valakit megölnek, azért mindjárt ilyen hűhót kell csinálni!
@@ -644,19 +644,19 @@ Azért kimászott a "művészbejáróján".
 - Mi a neve?
 - Mr. Irving. De ez nem az igazi. Híres uralkodó lehet, szerintem. Ő sem élne, azt hiszem, ha nem vagyok ott.
 Elmondta, amit látott. A kalaptűszúrást és a két kapitány ügyét is, apróra.
-- A szállásmester is látta, de amikor elmondta, azt feleltem neki, hogy részeges hülye, aki ilyent mesél. De mégisbreakprice Rejtélyesbreakprice
+- A szállásmester is látta, de amikor elmondta, azt feleltem neki, hogy részeges hülye, aki ilyent mesél. De mégis... Rejtélyes...
 - Igazad van.
 - Ugye?
 - Feltétlenül! Szerintem is részeges hülye, aki ilyent mesél.
-- Nem hiszibreakprice
-- Mit akarsz? Rendőr lettél, aki gyilkost üldöz? Ne üsd más dolgába az orrodat, ha nincs semmi közöd hozzábreakprice
+- Nem hiszi...
+- Mit akarsz? Rendőr lettél, aki gyilkost üldöz? Ne üsd más dolgába az orrodat, ha nincs semmi közöd hozzá...
 Jimmy gondolkozott.
 - Mondja, Kapitány, ezt most komolyan kérdezem: vannak kísértetek?
 Piszkos Fred két hosszú, gyökérszerű valamit sodort a szakállából.
 - Előfordultak olykor - mondta óvatosan.
-- Ide hallgasson. Freddy bátyámbreakprice Sötét, viharos éjjel van. A monszun hozza a keleti partok felől a ködöt. A kutya sem törődik magával. Jöjjön felbreakprice
-- Azt nem. Utas vagyok, minek ártsam magamat a matrózok dolgábabreakprice
-- De hátbreakprice ha ez a kísértet gyilkosbreakprice?
+- Ide hallgasson. Freddy bátyám... Sötét, viharos éjjel van. A monszun hozza a keleti partok felől a ködöt. A kutya sem törődik magával. Jöjjön fel...
+- Azt nem. Utas vagyok, minek ártsam magamat a matrózok dolgába...
+- De hát... ha ez a kísértet gyilkos...?
 - Nem zavarok senkit a gyilkolásban, mert én is megkívánom, hogy ilyenkor békén hagyjanak.
 - Van még ötven dollárom. Magának adom.
 - Az más. Na eredj.
@@ -676,7 +676,7 @@ Tessék? Hogy ő megölte magát? Erről neki is tudni kellene!
 - A fűtő eltűnt. Mindenfelé keresték. Azt mondják, ámokfutása volt. Ilyenkor szokásos vízbe ugrani. Az apám dolgozik most helyette a kazánnál.
 Így már érthető. A fűtő nem jelentkezett, a hajón sem találták, világos, hogy a tengerbe vetette magát.
 - Te mit csinálsz itt?
-- Várom apámat, és félek a kísértettől, mert az is van nekünk a hajónbreakprice
+- Várom apámat, és félek a kísértettől, mert az is van nekünk a hajón...
 Na, ezt a kapitánynak kéne hallani.
 Néhány hatalmas szénkoloncot zsákba rakott, és sietett. Fredet már nem találta a lépcsőfolyosón. Előrement? Vagy csak kicsalta tőle az ötven dollárt, és visszatért a ládájához? Azt csak nem tette, ha van lelke?
 De van neki ilyesmi?
@@ -685,68 +685,68 @@ Amikor elhaladt a fiú kajütje előtt, látta, hogy még mindig világos van be
 Fülig Jimmy úgy állt meg a küszöbön, mint akit főbe csaptak!
 A halott eltűnt!
 Üres a kajüt!
-Mi ezbreakprice Elvitték Mr. Gould tetemét?breakprice Nem jutott eszébe semmi, nem tudta, hogy mit tegyenbreakprice Csak állt.
-Kísértethajóbreakprice! Ostobaságbreakprice
-Kissé hideg nyomás feküdt a szívén, megnyalta a szája szélét, de nem futott el, nem rémült megbreakprice
-Észnél légy, Jimmybreakprice Itt valami különös, titokzatos ügy bonyolódik az éjszakában. Jelenteni fogja a kapitánynak.
+Mi ez... Elvitték Mr. Gould tetemét?... Nem jutott eszébe semmi, nem tudta, hogy mit tegyen... Csak állt.
+Kísértethajó...! Ostobaság...
+Kissé hideg nyomás feküdt a szívén, megnyalta a szája szélét, de nem futott el, nem rémült meg...
+Észnél légy, Jimmy... Itt valami különös, titokzatos ügy bonyolódik az éjszakában. Jelenteni fogja a kapitánynak.
 Rövid szélroham búgott át a fedélzet vasszerelvényein, és megzörgette a csigákat. Ijesztő, hatalmas csattanással bevágta a misztikus kabin ajtaját. Jimmy elindult. A lassú hullámverésben állandó ingásokkal mélyült, dőlt a hajó minden irányban. Másodpercenként csúszdává ferdült a jobbra-balra emelkedő, síkos fedélzet.
 A kapitány a hídon állt és pipázott. Úgy látszott, hogy ez az ember sohasem alszik.
 - Kapitány úr!
 - Nos?
-- A halottbreakprice
+- A halott...
 - Elkészült vele?
 - Eltűnt!
-- Hogy az abreakprice!
+- Hogy az a...!
 Lesietett a hajóhídról.
 - Amíg szénért mentem, hogy nehezéket hozzak, addig nyoma veszett a tetemnek.
-- Vigyázz! - sziszegte a kapitány - itt nem lesz kísértethajó-legendabreakprice Érted?!
-- Igazán nem tehetek rólabreakprice
+- Vigyázz! - sziszegte a kapitány - itt nem lesz kísértethajó-legenda... Érted?!
+- Igazán nem tehetek róla...
 - Gyere!
 A Honolulu-Star egyre erősebben dőlt a szapora hullámzásban. Ahogy kiértek a fedélközbe, rémülten álltak meg. Vérfagyasztó, rekedt férfisikoly hasított bele az éjszakába.
 Egy másodpercre megdermedtek.
 Azután a kapitány revolvert rántott, és elindult a sétafedélzet sötét háttere felé.
-Egy tántorgó alak bontakozott ki. És lassan közeledett a homályosan pislogó lámpák felébreakprice
+Egy tántorgó alak bontakozott ki. És lassan közeledett a homályosan pislogó lámpák felé...
 - Állj! Ki vagy?!
-- Ahabreakprice szábreakprice hábreakprice lábreakprice hásbreakprice mesterbreakprice
-Nem bírta folytatnibreakprice Vacogott a foga. Olyan volt, mint aki megtébolyodott. A szeme kimeredt, arca krétafehér és egész testében reszketett.
+- Aha... szá... há... lá... hás... mester...
+Nem bírta folytatni... Vacogott a foga. Olyan volt, mint aki megtébolyodott. A szeme kimeredt, arca krétafehér és egész testében reszketett.
 - Beszéljen! Maga kiáltott?
-- Azbreakprice abreakprice halottbreakprice ottbreakprice - motyogta, és a sötét felé mutatott.
+- Az... a... halott... ott... - motyogta, és a sötét felé mutatott.
 A kapitány elszántan indult a jelzett irányba. A hajó lesüllyedt egy újabb hullámtól. Tompa dübörgés hallatszott egyre hangosabban. Valami sebesen gurult, és leütötte a kapitányt a lábáról, hogy hanyatt zuhant. A pisztoly elsült. A kihalt fedélzeten ágyúlövésnek hatott.
 Senki sem mozdult. Pedig a szállásmester sikolyát, majd a revolverlövést hallani kellett mindenütt. De az emberek magukra zárták az ajtót, és imádkoztak. A szállásmester még évek múlva is rángatta az egyik vállát, ha ezt az éjszakát említették.
 - Barmok! - üvöltötte magánkívül a kapitány, és lerázta a lécre kötött tetemet magáról. Mert Mr. Gould holtteste gurult ide-oda, aszerint, hogy merre lejtősödött a hullámverésben imbolygó óceánjáró tükörsima, csúszós fedélzete. Éppen csúszni kezdett.
-- Fogja meg!breakprice Fogja meg, a mindenségit!breakprice
+- Fogja meg!... Fogja meg, a mindenségit!...
 De már késő volt. A lepedőbe varrt tetem elgurult, és hatalmas puffanással nekicsapódott a lépcsőkorlátnak.
 A szállásmester mint az őrült meredt utána. De Jimmy már értett mindent. Űzőbe vette néhai Mr. Gouldot, és mielőtt még a fedélköz lejáratába zuhanhatott volna, lefülelte.
 - Maga az oka! - sziszegte a kapitány.
 - Elismerem - bólintott Fülig Jimmy. - Nyitva hagytam az ajtót, és ahogy a hajó dőlt, Mr. Gould kigurult a kabinból a fedélzetre. Azután összevissza csúszkált.
 - És maga miért ordított? - förmedt a szállásmesterre.
 A szállásmester kissé feleszmélt.
-- Én mentembreakprice valaki utánbreakprice ugyanis a hajón kísérbreakprice
+- Én mentem... valaki után... ugyanis a hajón kísér...
 - Nem értem - mondta a kapitány, és elővette a revolverét. Fülig Jimmy gyorsan befejezte a szállásmester megkezdett szavait:
-- A hajón kísérni kell minden utast a sötétbenbreakprice
-- Mi?breakprice Igenbreakprice Szóval kísértem egy utast akit nem láthattam. Erre dübörgés, valami ledönt a lábamrólbreakprice zuhanokbreakprice És azután egy halott fekszik mellettembreakprice
-- Jó, jó!breakprice Elég! A többit tudjuk! José! Hozott szenet?
+- A hajón kísérni kell minden utast a sötétben...
+- Mi?... Igen... Szóval kísértem egy utast akit nem láthattam. Erre dübörgés, valami ledönt a lábamról... zuhanok... És azután egy halott fekszik mellettem...
+- Jó, jó!... Elég! A többit tudjuk! José! Hozott szenet?
 - Igen.
 - Hát gyerünk! Be vele! Gyorsan!
-breakpriceAz ég fehéredő alján sebesen gomolygó, áttetsző, gőzszerű felhőket világított meg a derengés első, halovány árnyalata. A kapitány levette a sapkáját, és Jimmy a korlátra emelte a deszkára kötött Mr. Gouldot. A szállásmester nem nyúlt volna egy világért sem a halotthoz.
+...Az ég fehéredő alján sebesen gomolygó, áttetsző, gőzszerű felhőket világított meg a derengés első, halovány árnyalata. A kapitány levette a sapkáját, és Jimmy a korlátra emelte a deszkára kötött Mr. Gouldot. A szállásmester nem nyúlt volna egy világért sem a halotthoz.
 Ő is imádkozott. Közben észrevette, hogy felfeslett a varrás, és majdnem könyökig kilóg a halott keze a lepedő alól. Sárgáskékes, hajlott ujjú kéz volt.
 Jimmy visszatolta a lepel mögé, kezében volt egy másodpercig a halott néhány ujja.
 Az ima véget ért, a kapitány keresztet vetett.
-- Az Úr legyen irgalmas hozzá!breakprice Eressze el!
-A léc lesiklott a korlátról. A kéz, mintha a halott intene, ismét kilendült zuhanás közben a lepedő alól, könyékigbreakprice Egy csobbanás!
+- Az Úr legyen irgalmas hozzá!... Eressze el!
+A léc lesiklott a korlátról. A kéz, mintha a halott intene, ismét kilendült zuhanás közben a lepedő alól, könyékig... Egy csobbanás!
 - Jegyezzék meg - fordult feléjük a kapitány -, aki az éjszakai eseményekről beszél, azt lelövöm, mint a kutyát!
 A szállásmester még mindig csak makogni tudott. Nagyon megviselte a história.
 - Maga jöjjön velem - mondta a kemény, de emberséges kapitány -, kap ópiumot, attól elalszik reggelig.
 A szállásmester ijedten nézett Fülig Jimmyre. Ez lesütötte a szemét. A szállásmester válla nyugtalanul megrándult.
-- Kéhébreakprice rembreakprice nem kellbreakprice ópibreakprice umbreakprice
-- Csend! Ha kialussza magát, talán elmúlik ez a vénasszonyos idegességebreakprice Előre - kiáltotta a szigorú parancsnok. És az ópiumosdobozból nagy adag szódabikarbónát diktált bele.
+- Kéhé... rem... nem kell... ópi... um...
+- Csend! Ha kialussza magát, talán elmúlik ez a vénasszonyos idegessége... Előre - kiáltotta a szigorú parancsnok. És az ópiumosdobozból nagy adag szódabikarbónát diktált bele.
 A szállásmester reggelig ébren feküdt, és sűrűn csuklott.
 5
 De Fülig Jimmyt keményebb fából faragták, mint a stewardot. Egyéb hely híján visszatért Mr. Gould kabinjába, hogy aludjon. Piszkos Fred ott ült az asztalnál, és vajas kenyeret evett. Előtte mindenféle írás, amit a szekrényfiókból kotort elő. Amikor Fülig Jimmy belépett, hirtelen zsebre gyűrte az írásokat, egy címeres, sárga szarvasbőr tárcában.
 - Feljöttem, és körülnéztem a hajón.
 - Látott valamit?
 Nem bírt felelni, mert akkora darab vajas kenyeret dugott a szájába, hogy a fél arca kidagadt.
-- Ühümbreakprice - mondta végül.
+- Ühüm... - mondta végül.
 - Beszéljen.
 - Láttam a kapitányt.
 - Hol?!
@@ -764,42 +764,42 @@ Piszkos Fred közömbösen nézett a késre és onnan Fülig Jimmyre.
 - Nem szoktam társulni. Különben sem neked való ügy. Ész kell hozzá.
 - Azt hiszi, nincs? Most például visszaad mindent. A kétezer dollárt, az ötven dollárt, a táskát írásokkal, a tükröt és a plakettet.
 - Komolyan akarod ezt?
-- Igen. Különben hasba szúrom! Az ópiumos ügyre nincs bizonyíték. Elbánhatok egy gyanús potyautassal. Mindenki jobban van, a megölt Mr. Gouldot vízbe dobtambreakprice Nem árthat nekem a feljelentésebreakprice Ez egyszer vesztett, Freddy.
+- Igen. Különben hasba szúrom! Az ópiumos ügyre nincs bizonyíték. Elbánhatok egy gyanús potyautassal. Mindenki jobban van, a megölt Mr. Gouldot vízbe dobtam... Nem árthat nekem a feljelentése... Ez egyszer vesztett, Freddy.
 - Ez igaz, most fölényben vagy.
 - Fordult a kocka.
 - Belátom. Csakugyan fordult a kocka.
-- Az írásokat a táskával tegye kibreakprice
+- Az írásokat a táskával tegye ki...
 - Itt van.
 Jimmy zsebre tette az írásokat és a címeres szarvasbőr táskát.
 - Itt van a kétezer dollár. Tessék. Itt a bőrtok, a fésű és a plakett.
 - És Hutchins fűtő fizetése!
 - Az is. Tessék, százhetvenöt dollár.
 - És nyolcvankét cent.
-- Itt vanbreakprice Elbántál velem. Fordult a kocka. Belátom.
+- Itt van... Elbántál velem. Fordult a kocka. Belátom.
 Mindent odaadott, azután indult.
 - Halló! És a szállásmesternek hagyjon békét. Élelmezze magát, ahogy tudja. Van elég sózott hal a hajón.
 - Nem szeretem a halat.
 - Majd lefogy legfeljebb.
-Az öreg hátratolta a sapkáját, és ment. Jimmy kimerülten ült az ágy szélén. Ezen öltöztette nemrég a vízbe dobott halottat. A felső ágyban aludjon? Mert aludni kellbreakprice
+Az öreg hátratolta a sapkáját, és ment. Jimmy kimerülten ült az ágy szélén. Ezen öltöztette nemrég a vízbe dobott halottat. A felső ágyban aludjon? Mert aludni kell...
 A szél felsírt, és rázta a köteleket. Fred léptei eltocsogtak az éjszakában. Ismét csend, csak néha csikorgás, recsegés, ha a hajó megdől. A szemközti tükörből látta, hogy mennyire elnyűtt az arca, ahogy ott ül Mr. Gould fekhelyének szélén, az alsó ágyon.
-A kísértethajó némán, elhagyottan állt az óceánon, mintha csakugyan nem lenne utasa. Mr. Gould legalább ötszáz méter mélységben pihen az iszapban. A tenger itt nagyon mélybreakprice
-A szemközti tükörben ismét meglátta magát. Hmbreakprice kissé sápadt és megviselt az arca. Aludni! Aludni!
-Fülig Jimmy bágyadtan hajtotta le a fejét. Álmos volt. Az írásokat majd nappal olvassa. Most pihenni, pihennibreakprice Hogy itt feküdt a halott?breakprice Marhaság. Azért nem mászik fel a másik ágyba. Fáradt, és ettől van ez a bizonytalan érzésebreakprice
-Már le is feküdt volna, de a hajó annyira megdőlt, hogy a fiatalember előrehajolt ültébenbreakprice Most zajt hallott a feje felett, és mielőtt bármit is tehetett volna, a felső ágyból valaki a nyakába zuhantbreakprice Lovaglóülésben esett Jimmy tarkójára.
-A támadás olyan váratlan volt, hogy nem mozdult. Ha a másik végezni akar vele, akkor úgyis hiábabreakprice
+A kísértethajó némán, elhagyottan állt az óceánon, mintha csakugyan nem lenne utasa. Mr. Gould legalább ötszáz méter mélységben pihen az iszapban. A tenger itt nagyon mély...
+A szemközti tükörben ismét meglátta magát. Hm... kissé sápadt és megviselt az arca. Aludni! Aludni!
+Fülig Jimmy bágyadtan hajtotta le a fejét. Álmos volt. Az írásokat majd nappal olvassa. Most pihenni, pihenni... Hogy itt feküdt a halott?... Marhaság. Azért nem mászik fel a másik ágyba. Fáradt, és ettől van ez a bizonytalan érzése...
+Már le is feküdt volna, de a hajó annyira megdőlt, hogy a fiatalember előrehajolt ültében... Most zajt hallott a feje felett, és mielőtt bármit is tehetett volna, a felső ágyból valaki a nyakába zuhant... Lovaglóülésben esett Jimmy tarkójára.
+A támadás olyan váratlan volt, hogy nem mozdult. Ha a másik végezni akar vele, akkor úgyis hiába...
 Néhány másodpercig ült előrehajolva. A lovagló ellenség iszonyú súllyal nehezedett a tarkójára.
-De furcsabreakprice Miért nem tesz semmit a támadó? Mit akar ez itt rajtabreakprice Csak ül a nyakán.
+De furcsa... Miért nem tesz semmit a támadó? Mit akar ez itt rajta... Csak ül a nyakán.
 Kissé felnézett, anélkül hogy mozdulna. És elzsibbadt a rémülettől.
 A szemközti tükörben meglátta magát, amint előrehajolva ül az ágy szélén, és a nyakán lovaglóhelyzetben a halott Mr. Gould!
-A rendjelekbreakprice a nyitott, fénytelen szem, sárga arc, szalmaszín bajusz!
+A rendjelek... a nyitott, fénytelen szem, sárga arc, szalmaszín bajusz!
 Egy másodpercig úgy érezte, hogy megőrül! Azután nem törődött semmivel, nagyot kiáltva lerázta a tetemet, kiugrott a kajütből, és rohant.
 Már szürke volt az ég, és a néma hajó körül hatalmas fregattmadarak keringtek.
-A halott! A kezét fogta, sőt látta is, miközben a tengerbe repültbreakprice A hulla sárgás, kékült kezétbreakprice És most a nyakába ugrott!
-Úgy érezte, hogy jó lenne a tengerbe vetni magát. De hiszen ott is a halott Mr. Gould várjabreakprice
-Pánik volt a belsejében. Összefüggéstelen szavakat szeretett volna üvölteni, ugrálni, nevetni és hörögnibreakprice Minden erejére szükség volt, hogy a megtébolyodás határán visszatartsa magát az innenső parton, mert kiszaladt a lába alól a dolgok közötti okszerű összefüggés bizonyossága, és egy feneketlen mélységű szakadék szélén állt meg tántorogva.
+A halott! A kezét fogta, sőt látta is, miközben a tengerbe repült... A hulla sárgás, kékült kezét... És most a nyakába ugrott!
+Úgy érezte, hogy jó lenne a tengerbe vetni magát. De hiszen ott is a halott Mr. Gould várja...
+Pánik volt a belsejében. Összefüggéstelen szavakat szeretett volna üvölteni, ugrálni, nevetni és hörögni... Minden erejére szükség volt, hogy a megtébolyodás határán visszatartsa magát az innenső parton, mert kiszaladt a lába alól a dolgok közötti okszerű összefüggés bizonyossága, és egy feneketlen mélységű szakadék szélén állt meg tántorogva.
 Nincs tér és idő!
-Rémülettől rázkódva rohantbreakprice felbukottbreakprice összeverte magát, de nem pihent. Nincs ahhoz fogható rettegés, mint amikor egy emberben megrendül az érzékeibe vetett hitebreakprice
-Néhány percig állt. Lihegve, szívére szorított kézzel. Egyforma, tejszínű megvilágítással kifehéredett az ég. Vigyázat, Fülig Jimmy. Mutasd meg, hogy a megőrülésig nem adod fel a harcot. Talán elaludt csak, és álmodtabreakprice De nembreakprice Reszkető kézzel egy cigarettára gyújtott.
+Rémülettől rázkódva rohant... felbukott... összeverte magát, de nem pihent. Nincs ahhoz fogható rettegés, mint amikor egy emberben megrendül az érzékeibe vetett hite...
+Néhány percig állt. Lihegve, szívére szorított kézzel. Egyforma, tejszínű megvilágítással kifehéredett az ég. Vigyázat, Fülig Jimmy. Mutasd meg, hogy a megőrülésig nem adod fel a harcot. Talán elaludt csak, és álmodta... De nem... Reszkető kézzel egy cigarettára gyújtott.
 Lement egyenesen a poggyászraktárba. Kopogtatott a láda "művészbejáróján".
 - Kapitány.
 Csend.
@@ -810,57 +810,57 @@ Belerúgott a ládába, hogy csak úgy zengett.
 - Fülig Jimmy. Jöjjön ki.
 Nyílt a "művészbejáró" ajtaja, és megjelent a kapitány.
 - Mit akarsz itt?
-- Segítsen rajtambreakprice Ha maga nem segít, akkor végem.
+- Segítsen rajtam... Ha maga nem segít, akkor végem.
 - Megint fordult a kocka?
-- Ide hallgassonbreakprice Ha nem segít, akkor magának is baja lehet!
+- Ide hallgasson... Ha nem segít, akkor magának is baja lehet!
 - Megható ez, hogy lépten-nyomon aggódsz értem. Hát miről van szó?
 - Mr. Gould, akit holtan a tengerbe dobtam, ismét itt van a hajón.
-- Hmbreakprice Szívós ember.
-- Nembreakprice érti?!breakprice Megőrülök!
-- Ezzel inkább orvoshoz menjbreakprice Milyen éhes vagyokbreakprice Persze ma már nincs reggeli. A kockabreakprice hmbreakprice
-- Freddy bátyámbreakprice lehet az, hogybreakprice halottak visszajárnak?
+- Hm... Szívós ember.
+- Nem... érti?!... Megőrülök!
+- Ezzel inkább orvoshoz menj... Milyen éhes vagyok... Persze ma már nincs reggeli. A kocka... hm...
+- Freddy bátyám... lehet az, hogy... halottak visszajárnak?
 - Ha kirabolják őket.
 Fülig Jimmy elsápadt.
-- Csak egybreakprice címeresbreakprice órabreakprice és gyűrűbreakprice voltbreakprice az asztalonbreakprice
+- Csak egy... címeres... óra... és gyűrű... volt... az asztalon...
 - Azért jött vissza. Add ide az órát és a gyűrűt.
 - Magához nem jön?
 - Jön, de én nem félek tőle. Hát tedd csak ki szépen az órát, a gyűrűt meg a cigarettatárcát. Mert azt is ellopták.
 Jimmy szomorúan átadta a halott holmiját. Nem bánta. Szüksége van a kapitányra.
-- És most mit csinálunk, mertbreakprice a halott ott van a kajütbenbreakprice
+- És most mit csinálunk, mert... a halott ott van a kajütben...
 - Az a jó benne, hogy ott van. Most szépen tedd ide a kétezer dollárt, a százhetvenöt dollár nyolcvankét centet, a tükröt, a fésűt, a plakettet, mert ha itt a halott, akkor van bizonyíték ellened a boncolásnál. Ópium az látszik olyankor, és feljelenthetlek a kapitánynál. Fordult a kocka.
 Jimmy engedelmesen lerakott mindent.
-- És most?breakprice Mostbreakprice mégiscsak tenni kell valamit.
+- És most?... Most... mégiscsak tenni kell valamit.
 - Úgy van. Most enni fogok. Első osztályú lunchöt olasz vörösborral.
-- breakpricekonyha még nincsbreakprice nyitvabreakprice
+- ...konyha még nincs... nyitva...
 - Szép rend. Egy luxusgőzösön.
 Az óriási nadrág különböző zsebeiben eltűnt minden: pénz, plakett, valamint a gyűrű és az óra.
 - Szóval mit akarsz?
-- Menjen felbreakprice ésbreakprice dobja Mr. Gouldot a vízbe.
-- Megteszem, fiam, de úgy látszik, hogy az ilyesmi nem árt nekibreakprice Edzett halott.
-- Mondja, hogy történhetett?breakprice Meg kell őrülnibreakprice Abreakprice tenger fenekéről visszajöttbreakprice
+- Menjen fel... és... dobja Mr. Gouldot a vízbe.
+- Megteszem, fiam, de úgy látszik, hogy az ilyesmi nem árt neki... Edzett halott.
+- Mondja, hogy történhetett?... Meg kell őrülni... A... tenger fenekéről visszajött...
 - Szép teljesítmény.
-- Könyörgöm, magyarázza megbreakprice Maga nagyon okosbreakprice Mit gondol?breakprice Lehetséges az, hogy egy megölt ember visszatérjen?!
-- Ha nem én öltem meg, akkor lehetségesbreakprice Mert azok közül még egy sem tért visszabreakprice
+- Könyörgöm, magyarázza meg... Maga nagyon okos... Mit gondol?... Lehetséges az, hogy egy megölt ember visszatérjen?!
+- Ha nem én öltem meg, akkor lehetséges... Mert azok közül még egy sem tért vissza...
 A sapka a vakarástól előresiklott, hogy ellenzője az orrhegyéig ért.
 - Na most gyerünk. Megnézem azt a mászkáló halottat.
-breakpriceA fedélzeten még minden csendes volt. Négy óra lehetett. Az időjárás enyhült. A vörösödő, világoszöld ég alatt mint egy keskeny tuscsík húzódott a távoli part sötét vonala.
+...A fedélzeten még minden csendes volt. Négy óra lehetett. Az időjárás enyhült. A vörösödő, világoszöld ég alatt mint egy keskeny tuscsík húzódott a távoli part sötét vonala.
 6
 Jimmy a kabin közelébe sem mert menni. Félt!
 Igen! Ő most fél! Gyáva! Elismeri.
 De nem embertől.
 Messziről figyelte, amint Fred kizárja azt az ajtót. Egy perc múltán megjelent. Mintha valami óriási csecsemőt hozna a két karján, lepedőbe csavarva. A fehér vászon végig befedte Piszkos Fred terhét. Lábtól és fejtől kissé lecsüngött a halotti lepel. Nem varrta rá, csak letakarta vele.
-Azután átemeli a korlátonbreakprice eleresztibreakprice csendbreakprice
-Tompa, távoli loccsanásbreakprice
-Ugyanezt a loccsanást ma már hallotta egyszerbreakprice Vajon megérti-e valaha a szörnyű rejtélyt?
+Azután átemeli a korláton... elereszti... csend...
+Tompa, távoli loccsanás...
+Ugyanezt a loccsanást ma már hallotta egyszer... Vajon megérti-e valaha a szörnyű rejtélyt?
 Fred lépett hozzá. Szőrös állkapcsai ütemesen mozogtak, amint a bagót rágta, és ujjaival fésű módján végigszántott szennyes, ősz szakállán.
 - Bedobta?
 - Be. Ilyenkor illendő utánahinteni a halottnak valami kegyeleti tárgyat.
 - És dobott valamit?
 - Egy bőrtokos fésűt és tükröt. De hát ez nem sokat ér.
 Jimmy szeme vadul megvillant.
-- A tükröm! Nézze, Fred! Most elég volt! Megint csak nincs bizonyíték, fordult a kocka. A halott a tengerben vanbreakprice
+- A tükröm! Nézze, Fred! Most elég volt! Megint csak nincs bizonyíték, fordult a kocka. A halott a tengerben van...
 Fred legyintett.
-- Ez visszajönbreakprice Kisportolt ember!
+- Ez visszajön... Kisportolt ember!
 Roppant nadrágján rántott egyet, és elkacsázott csámpás, tempós lépteivel. Fülig Jimmy nem szólt semmit. Igaz. Hátha visszajön ez a Mr. Gould.
 Reggel megérkezett a segélyhajó. Ezek mindenre elkészültek. Egy osztag fegyveres egészségügyi katona, edzett idegzetű emberek, készen arra, hogy félőrültek és betegek között jajveszékelő embereket találnak a hajón. Az orvosok, még mielőtt csónakba szálltak volna, búvárszerű izolálóruhát vettek fel, hasonlóan öltöztek az ápolók. Egy százados is velük jött, de ez nem vett magára semmit. Régi katonaorvos volt.
 Az egészségügyi katonák villámgyorsan felsorakoztak a korlát mellett. A néma fedélzet láttán tisztában voltak a helyzet szörnyűségével: itt már alig akad élő ember a hajón. A búvárok vezetője hátratolta fehér gyolcsból készült csuklyáját, és a százados társaságában a kapitányhoz ment.
@@ -868,16 +868,16 @@ Az egészségügyi katonák villámgyorsan felsorakoztak a korlát mellett. A n�
 - Mellwill százados, egészségügyi kormánybiztos.
 - Wirth kapitány! - mutatkozott be a Honolulu-Star parancsnoka.
 - Az orvos meghalt? - kérdezte Palmerston tanár.
-- Alszikbreakprice
+- Alszik...
 - Menjünk a kajütjébe.
 Az orvos egy nyitott könyvre dőlve hortyogott. Pótlólag írta meg a "kórtörténeteket" és a jelentést. Közben elnyomta az álom.
 Réveteg pillantással ugrott fel.
 A százados szaglászva nézett körül.
 Palmerston felemelt néhány gondosan osztályozott legyet a papírból, majd egy üvegcsét tartott a világosság felé, azután az orvosra pillantottak mind a ketten, végül összenéztek.
 - Konstatálta már kolléga a megbetegedések okát?
-- Azt hiszembreakprice egy különösbreakprice fajtájabreakprice az álomkórnakbreakprice Sajnos magam is beteg vagyokbreakprice A fejembreakprice
+- Azt hiszem... egy különös... fajtája... az álomkórnak... Sajnos magam is beteg vagyok... A fejem...
 - A feje fáj?
-- Most nembreakprice De még tegnapbreakprice
+- Most nem... De még tegnap...
 - Legokosabb lesz, ha leül kissé, amíg teljesen felébred. Igyon feketét vagy konyakot.
 Ezalatt a százados megnézte a "kórtörténeteket". A tanár is olvasott a válla felett. Minden beteg mellett ott állt a panasz, a tünet, kezelés és végül az orvos véleménye.
 Az orvos szerint a járvány terjedését nem akadályozhatja meg, a betegek állapota (az orvosét is beleértve) reménytelen, a baj - tekintve az idegrendszer gyors összeomlásának szimptómáját - feltétlenül halálos.
@@ -886,17 +886,17 @@ Az orvos hűlő szívvel érezte: ez a vég.
 A százados kiment, és lekiáltott a katonáknak:
 - Mindenki menjen vissza a cirkálóra. Az ápolók vessék le az izolálóruhát, és valaki hozzon fel nekem öt világos szivart a köpenyemből.
 Közben a tanár már le is vette a búvárruháját, és a kerek ablakon át, apró darabokban, egy teljes zsömlét dobált ki a hajó tatján tipegő fregottmadaraknak.
-- A jelentésembreakprice - hebegte az orvos.
+- A jelentésem... - hebegte az orvos.
 - Nagyon világos - mondta a százados. - Igazán hálásak vagyunk a nagyszerű munkáért.
-- Ésbreakprice - próbálta kizökkenteni az orvostanárt a flegmájából - egybreakprice haláleset is volt.
-- Igen? - mondta inkább udvariasságból, mint érdeklődve a százados. - No nézdbreakprice csakugyanbreakprice Hol az az izé, az a tetem?
+- És... - próbálta kizökkenteni az orvostanárt a flegmájából - egy... haláleset is volt.
+- Igen? - mondta inkább udvariasságból, mint érdeklődve a százados. - No nézd... csakugyan... Hol az az izé, az a tetem?
 - Mivel pániktól tartottam, követségem utasítása ellenére úgy intézkedtem, hogy Mr. Gouldot nyomban eltemessék a tengerészhagyományoknak megfelelően - jelentette a kapitány.
 A tanár hátrafordult az ablakból, és elismerően mondta:
 - Nagy kár, hogy ön nem lett hajóorvos.
 Kínos szünet.
 - Miféle ragályt gyanított a hajón, kedves kolléga? - kérdezte Palmerston szelíden.
-- Gondolombreakprice az álomkór egy speciális fajtájabreakprice vagy más ragály.
-- Igen, igenbreakprice Érdekesbreakprice Na jó. Hát, kérem, reggeli után majd megvizsgáljuk az utasokat.
+- Gondolom... az álomkór egy speciális fajtája... vagy más ragály.
+- Igen, igen... Érdekes... Na jó. Hát, kérem, reggeli után majd megvizsgáljuk az utasokat.
 - És a hajó? - kérdezte a kapitány.
 - Az ördögbe is! Azonnal folytassa az útját Szingapur felé!
 7
@@ -917,9 +917,9 @@ Végül felkereste Wirth parancsnokot a kétszeresen lefejezett pincér személy
 - Kapitány úr! - mondta Fülig Jimmy megrendülten. - Az ön parancsát teljesítettem, és úgy járok most a hajón, mint egy Káin, megbélyegzett homlokkal.
 - Ne dolgozzon. Megkapja a teljes fizetését. A kérdés nyugvópontra jutott, ez a fő!
 - De nekem is kell egy nyugvópont, ahová a fejemet lehajthatom. Ennyit Káin is elvárt volna a helyemben!
-- Van egy üres elsőosztályú kabinbreakprice
+- Van egy üres elsőosztályú kabin...
 - Melyik?! - kérdezte felcsillanó szemmel. Eddig leghőbb vágya volt, hogy valaha elsőosztályú utas lehessen.
-- Természetesen a szerencsétlen véget ért Mr. Gould kabinjabreakprice Mi baja?
+- Természetesen a szerencsétlen véget ért Mr. Gould kabinja... Mi baja?
 - Semmi, csak meglepett kissé.
 - Fél?
 - Szó sincs róla - felelte hirtelen, mert elszégyellte magát. - Nagyon köszönöm.
@@ -931,9 +931,9 @@ A mosolyogva köszöngető százados és a nyájas Palmerston beszélgettek a ve
 - Mi a baja, uram? - kérdezték egy borogatásturbánt viselő úrtól.
 - Tegnap fejfájásom volt, és gyomorégés kínozott.
 - És ma?
-- Enyhülbreakprice aligbreakprice Nem is fáj! Dr. Hillár vagyok Bostonból. De a gyomorégésem most is erős.
+- Enyhül... alig... Nem is fáj! Dr. Hillár vagyok Bostonból. De a gyomorégésem most is erős.
 - Igazán örvendek. Palmerston tanár. Bostonban lakik egy unokahúgom. Bizonyos Ewering szenátorné.
-- Mrs. Ewering? Jól ismerem. A gyomorégés még ma is elővett reggeli utánbreakprice
+- Mrs. Ewering? Jól ismerem. A gyomorégés még ma is elővett reggeli után...
 - Hát ez nagyszerű. A boldogult Eweringgel milyen viszonyban volt?
 - Százados úr - siránkozott a stockholmi nő -, nekem tegnap hasogatott a karom és a lábam.
 - Nekem is. Egy bizonyos koron túl nincs másképp.
@@ -942,11 +942,11 @@ A gyerekek jókedvűen visítoztak.
 A százados és a tanár végigjárták a hajót, és ha valaki fájdalomról panaszkodott, szomorúan felelték, hogy ők is hasonló tünetekkel szenvednek.
 Másnap délben már vidámság volt ismét a Honolulu-Staron. Az utasok maguk is nevettek az ügyön.
 - Az ön naplójából - mondta a százados az orvosnak - világosan kitűnt, hogy gyomorrontás vagy vihar előtti indiszpozíció volt a hajón.
-- Ésbreakprice a halott?
+- És... a halott?
 - Nem az első gyengélkedő, aki meghal tengeri úton.
-- Mi abreakprice teendő?
+- Mi a... teendő?
 - Estére jó adag ópium, az megnyugtatja a hurutra hajlamos emésztőszerveket, és elalusznak majd tőle az ijedősek.
-breakpriceAz utasok engedelmesen bevették az ópiumdobozból adagolt gyógyszert, és másnap valamennyien sűrű csuklásról panaszkodtak.
+...Az utasok engedelmesen bevették az ópiumdobozból adagolt gyógyszert, és másnap valamennyien sűrű csuklásról panaszkodtak.
 Viszont az ügyvédnek elmúlt a gyomorégése.
 8
 - Ön mikor lépett a csavargói pályára?
@@ -958,14 +958,14 @@ Viszont az ügyvédnek elmúlt a gyomorégése.
 - Ezt talán mellőzzük.
 - Milyen szép szó, hogy mellőzni. Ezt én még sohasem mondtam. Pedig ismerem az értelmét.
 - Az ön környezetében mit mondanak például, ha valaki olyasmit tesz, ami nem tetszik.
-- Szó nélkül fejbe ütik az illetőt. Ez határozott rosszallást jelent. A kikötőben minden másbreakprice Ott bizonyos külön szabályok vannak, mint a kártyázásnál. De ezeket a szabályokat nem ismerik hátulról a csavargók.
-- Szóval ezek olyan izébreakprice vándor egyének? Akik a mezőkön és országúton hálnak?
+- Szó nélkül fejbe ütik az illetőt. Ez határozott rosszallást jelent. A kikötőben minden más... Ott bizonyos külön szabályok vannak, mint a kártyázásnál. De ezeket a szabályokat nem ismerik hátulról a csavargók.
+- Szóval ezek olyan izé... vándor egyének? Akik a mezőkön és országúton hálnak?
 - Nagy különbség! A kikötői csavargó lenézi az országútit.
 - Mi a különbség a kettő között?
 - Óriási! A kikötői csavargó hajón jár Batávia, Hamburg és az egész világ között. Az Istennek sem gyalogol.
 - És az országúti?
 - Nem géperejű csavargó. Az a különbség köztük, mint az úrvezető meg a gyalogjáró között.
-- Ésbreakprice Szingapurban hová megy, ha megérkezik?
+- És... Szingapurban hová megy, ha megérkezik?
 - Barátaimhoz. Például a Négy Vidám Halottmosó étterembe. Holland konyha, svéd puncs! Angol hidegvér!
 Mr. Irving az asztalon ült, a szamovár mellett. A vendége szemben vele egy széken. Fülig Jimmy érezte, hogy ez a fiú megkívánja tőle az ünnepélyes és úri magatartást, tehát nyakába akasztotta a kerékpár-áttételt, és emelt fejjel nézett a lornyonján keresztül.
 - Milyen a kikötő? Erről meséljen.
@@ -975,17 +975,17 @@ Mr. Irving az asztalon ült, a szamovár mellett. A vendége szemben vele egy sz
 - Szabatos!
 - Tessék?
 - Azt mondtam, hogy szabatos.
-- Hmbreakprice az ilyen szavakat talán mellőzzük!
+- Hm... az ilyen szavakat talán mellőzzük!
 - Haha!
 - Úgy látom, ön kinevet, Mr. Irving.
 - Nem, nem. Csak mulatságos, amit mond.
 - A kikötő alvilágában is megoszlik a társadalmi élet különféle alacsonyrangú és magasrangú egyénekre, mint az úgynevezett "civilizált társadalomban". Ezt a kifejezést egy ügyvéd kollégám mesélte.
 - Maga ügyvéd volt?!
-- Nem. Az ügyvéd volt vizsgálati fogoly. Ő mondta, hogy a társadalom olyan izébreakprice különféle iskolaszerű dologból áll.
+- Nem. Az ügyvéd volt vizsgálati fogoly. Ő mondta, hogy a társadalom olyan izé... különféle iskolaszerű dologból áll.
 - Osztályokat mondott, nem?
-- Igen. Osztályok vannak a világon az ügyvéd szerint. Egész jó hasonlat, mert néha valamelyik sétatéren az ember csakugyan úgy érzi magát, mintha osztályban lenne: ül egy padon, és nem tanul semmitbreakprice kész a tea.
+- Igen. Osztályok vannak a világon az ügyvéd szerint. Egész jó hasonlat, mert néha valamelyik sétatéren az ember csakugyan úgy érzi magát, mintha osztályban lenne: ül egy padon, és nem tanul semmit... kész a tea.
 - Töltsön, jóember.
-Fülig Jimmy kitöltötte a teát és rosszkedvűen nézegette a citromot. Rumosüveg nincs seholbreakprice
+Fülig Jimmy kitöltötte a teát és rosszkedvűen nézegette a citromot. Rumosüveg nincs sehol...
 - Felfüggesztem az udvari szokásokat - mondta a fiú kedves gőggel. - Kivételesen ihat velem a magánlakosztályomban egy csésze teát. Ez nagy kitüntetés.
 - Uram - felelte Fülig Jimmy szomorúan. - Mit ér a legnagyobb kitüntetés rum nélkül?
 - Az én társaságomban nem lehet berúgni.
@@ -1000,17 +1000,17 @@ Teáztak.
 - Ez a legelőkelőbb osztály?
 - Szó sincs róla. Van sok egyesület a Szingapuri klubvárosban, ahol szóba sem állnak "nehéz csempésszel".
 Mr. Irving kipirultan, csillogó szemmel hallgatta.
-- Ésbreakprice ezeknek "igazi" klubjuk van?
-- Azt elhiszem. Szingapurban az a leghíresebb, hogy "klubok" vannak. Kint a Szingapur folyó táján, a kínai negyeden túl következik a klubváros. Ott sok ilyen gomba izé van, a föld alattbreakprice
+- És... ezeknek "igazi" klubjuk van?
+- Azt elhiszem. Szingapurban az a leghíresebb, hogy "klubok" vannak. Kint a Szingapur folyó táján, a kínai negyeden túl következik a klubváros. Ott sok ilyen gomba izé van, a föld alatt...
 - Katakomba?
 - Igen. Az van ott. A sok föld alatti kijárás előnyös az egyleteknek.
 - Melyik a legelőkelőbb "klub"?
-- Hátbreakprice azt jogerőre emelt években mérik. Ha elosztjuk az összbüntetést a tagok számával, akkor megkapjuk az előkelőség végeredményét. A Játékos Halak, ahogy a hamiskártyásokat hidegvérük és gyerekes foglalkozásuk miatt hívják, összesen negyven évet ha ültek börtönben. Tizen. Darabja négy év. Az alvilág erkölcsi proletárjai. A Kivégző-asztaltársaság tagjai tizenheten százötven évvel már jobb embereknek számítanak arrafelé. Most ha még felsőbb köröket akar megismerni, ott a Kés vagy bevételi társaság. Ezek a középen vannak. Tizenkét tagbreakprice összesen hétszáz év börtönnel. Ez úgy jön ki, hogy több mint négyszáz évvel szökésben vannak a hatóságokkal szemben.
+- Hát... azt jogerőre emelt években mérik. Ha elosztjuk az összbüntetést a tagok számával, akkor megkapjuk az előkelőség végeredményét. A Játékos Halak, ahogy a hamiskártyásokat hidegvérük és gyerekes foglalkozásuk miatt hívják, összesen negyven évet ha ültek börtönben. Tizen. Darabja négy év. Az alvilág erkölcsi proletárjai. A Kivégző-asztaltársaság tagjai tizenheten százötven évvel már jobb embereknek számítanak arrafelé. Most ha még felsőbb köröket akar megismerni, ott a Kés vagy bevételi társaság. Ezek a középen vannak. Tizenkét tag... összesen hétszáz év börtönnel. Ez úgy jön ki, hogy több mint négyszáz évvel szökésben vannak a hatóságokkal szemben.
 - Szóval negyven év börtön a mob, az alacsony társadalmi réteg, hétszáz már a középosztály. Maga, kedves idegen, melyik társadalmi réteg tagja?
 - A felső ezerhez tartozom - felelte büszkén Jimmy.
-- Mibreakprice micsoda?breakprice - kérdezte ijedten a fiú.
+- Mi... micsoda?... - kérdezte ijedten a fiú.
 - Az ezerhez. Mert ilyen is létezik!
-- Ésbreakprice Hányanbreakprice vannak tagtársak az ezer évhez?
+- És... Hányan... vannak tagtársak az ezer évhez?
 - Öten. Több mint kétszáz év jut egyre. Ha az enyhítő körülményeket beszámítjuk, és levonunk a büntetés idejéből egyharmadot, amennyit jó magaviseletű raboknál elengednek, nettó ezer év marad.
 - Öt emberre semmiképpen sem juthat ezer év börtön!
 - A felsőbb ezrek klubjában tagnak lenni olyan, mint a lordság. A legidősebb fiúgyermekre száll az atya kitöltött összbüntetése. Ezért szövetségünk a Hűséges Almák néven is közismert.
@@ -1024,7 +1024,7 @@ Mr. Irving kipirultan, csillogó szemmel hallgatta.
 - Ha valamennyi bűncselekményüket letárgyalnák, és az előre látható halálos ítéleteket átszámítjuk egyenként 15 évi börtönre (a kitöltött vizsgálati fogsággal együtt), akkor a British Museum legrégibb múmiájának életkorát kapjuk végeredménynek.
 - És hány tagja van a Serény Múmiák klubjának?
 - Kettő. Szép. Nem? Az egyik a Nagy Bivaly. Nem szabad hozzá beszélni, csak akkor, ha ő megszólít valakit. Épp úgy viselkedik, mint ön, Mr. Irving.
-- Igenbreakprice Hmbreakprice No mindegybreakprice
+- Igen... Hm... No mindegy...
 - És ha valaki mégis szól hozzá, akkor esetleg hasba szúrja.
 - Ezt nem tapasztalhatta nálam, kedves José.
 - Igaz. De ön még olyan fiatal.
@@ -1037,20 +1037,20 @@ Fülig Jimmy arca elborult.
 - Neki van a világon a legtöbb esze. Fukar, kegyetlen, mogorva, és semmitől sem riad vissza, ha pénzről van szó. Mindenkit becsap, mindenből hasznot húz, senkivel sem barátkozik, egyedül járja a világot, és mint a neve is mutatja, teljesen piszkos.
 - És a Nagy Bivaly a barátja?
 - Gyűlölik egymást. Tíz év előtt egy osztozkodáson összevesztek, a Nagy Bivaly revolvert rántott, de Piszkos Fred kése gyorsabb volt. A Bivaly két teljes hónapig élet-halál között lebegett. Akkor megfogadta, hogy addig tartózkodik a rum élvezetétől, amíg Piszkos Fredet nem öli meg.
-- Ésbreakprice maga szeret így élni?breakprice
-- Hát nem lehet másképpbreakprice
+- És... maga szeret így élni?...
+- Hát nem lehet másképp...
 - Képzelje el, hogy én szerződtetem udvari mesélőnek! Ugyanis St. Antonio de Vicenzo Y. Galapagos főherceg vagyok, a Boldogság Szigetek uralkodója.
 - Felség, nem meglepetés számomra, hogy ön uralkodó. Már első találkozásunkkor ösztönösen éreztem, hogy egy jó házból való fiatalemberrel állok szemben.
-- Én a Boldogság Szigetek uralkodója vagyok. Székhelyem Almira, a szigetország fővárosa. És irigylem magát. Egyszerűen leszáll majd a hajóról, és elindul zsebre dugott kézzel, fütyörészve az utcán, a kikötőbenbreakprice Nyugodtan sétál. Nem vagyok nagy birodalom uralkodójabreakprice és mégis úgy érzem, hogy helytelen, ha a sors kegyelméből elfoglaljuk a trónt, mielőtt megismernénk közelebbről az embert. Ez oly kézenfekvőbreakprice
-"Kézenfekvő - gondolta Jimmy. - Húszéves elmúltam, és sohasem mondtam még ki ezt a szót, hogy kézenfekvőbreakprice"
-- Ésbreakprice? - kérdezte lázasan csillogó szemmel Mr. Irving. - Mi történik, ha új csavargó érkezik a kikötőbe? Hogy juthat el a "klubországba"?
-- Hát nem könnyű az érvényesülés. Összeköttetéseket kell keresnibreakprice Ajánlásokra hivatkoznibreakprice
-- Maga tud megfelelő összeköttetéstbreakprice az alvilág "jobb köreihez"?
+- Én a Boldogság Szigetek uralkodója vagyok. Székhelyem Almira, a szigetország fővárosa. És irigylem magát. Egyszerűen leszáll majd a hajóról, és elindul zsebre dugott kézzel, fütyörészve az utcán, a kikötőben... Nyugodtan sétál. Nem vagyok nagy birodalom uralkodója... és mégis úgy érzem, hogy helytelen, ha a sors kegyelméből elfoglaljuk a trónt, mielőtt megismernénk közelebbről az embert. Ez oly kézenfekvő...
+"Kézenfekvő - gondolta Jimmy. - Húszéves elmúltam, és sohasem mondtam még ki ezt a szót, hogy kézenfekvő..."
+- És...? - kérdezte lázasan csillogó szemmel Mr. Irving. - Mi történik, ha új csavargó érkezik a kikötőbe? Hogy juthat el a "klubországba"?
+- Hát nem könnyű az érvényesülés. Összeköttetéseket kell keresni... Ajánlásokra hivatkozni...
+- Maga tud megfelelő összeköttetést... az alvilág "jobb köreihez"?
 - Én? Olyan tekintélyem van Szingapurban, mint egy magántitkárnak.
 A magántitkári munkakört Fülig Jimmy mindig rendkívül nagyra értékelte. Nem tudta, hogy miben áll egy ilyen ember ténykedése, de úgy képzelte, hogy jól öltözködő, érdekes arcú úrnak kell lennie, igen nagy fizetéssel.
-- És ha énbreakprice megkérnémbreakprice hogy könnyítse megbreakprice a helyzetemetbreakprice amennyiben az lenne a tervem, hogybreakprice
+- És ha én... megkérném... hogy könnyítse meg... a helyzetemet... amennyiben az lenne a tervem, hogy...
 - Úgy képzeli, Mr. Irving, hogy elvegyül Szingapurban?
-- Figyeljen, jóember, és ne kérdezzen, mert az nem ildomosbreakprice
+- Figyeljen, jóember, és ne kérdezzen, mert az nem ildomos...
 - Ildomos!!! Ezt sem mondtam még soha. Pedig milyen kézenfekvő szó.
 - Beszéljünk bizalmasan, ön megérdemli, mert hűséges és tekintélytisztelő alattvaló. Én egyetlen lépést sem tehettem eddig nevelőm és Isten kegyelméből rokonom, néhai Mr. Gould, illetve Fernandez régens herceg nélkül. Saint-Cyrből csak a katonaiskola komor épületét ismerem. Londonban a királyi palotát és a Buckingham-kastélyt. Itt laktam.
 - Kézenfekvő - mondta, és belefújt a lornyon üres csöveibe.
@@ -1059,16 +1059,16 @@ A magántitkári munkakört Fülig Jimmy mindig rendkívül nagyra értékelte. 
 - Csak hallgasson végig. Itt van most életem egyetlen, talán utolsó alkalma, hogy azt tehessem rövid ideig, amihez kedvem van. Látni akarom az utca népét, a polgárokat és az alvilágot. Elkerülöm a kiszállásnál az udvartartást - vágta ki diadalmasan.
 A csavargó elképedt.
 - De ha nem érkezik meg, akkor felforgatják önért egész Szingapurt.
-- Ez azbreakprice Egy teljes hónapig kell Szingapurban maradnom, amíg elfoglalhatom a trónt. Két napot magamnak óhajtok. Az embernek. Érti? És addig, hogy békén hagyjanak, hogy ne kutassanak utánam, és úgy élhessek, ahogy kedvem tartja, maga, idegen, helyettesít engembreakprice Na mi az?
-- Csak köhögtembreakprice a teabreakprice és a meglepetésbreakprice
-- Ön kiszáll a hajóból, és ahol díszes sorfalat lát, zsakettes, egyenruhás urakból, oda megy. Gomperez Hidalgó, akit szintén nem láttam még soha, az udvarmester várja. Elviszik a kastélyba. Ott azután csak mondja, hogy gyengélkedik. Sétálgasson, olvassonbreakprice
-- Ezt talán mellőznémbreakprice
-- Szóval ha bármit kérdeznek vagy kívánnak, mondja azt: "most nem aktuálisbreakprice majd egy-két nap múlvabreakprice" Nem csinálhat hibát. Ha hibát csinál, az sem baj. Majd én rendbe hozok mindent.
-- De Felségbreakprice hogy énbreakprice ilyentbreakprice
+- Ez az... Egy teljes hónapig kell Szingapurban maradnom, amíg elfoglalhatom a trónt. Két napot magamnak óhajtok. Az embernek. Érti? És addig, hogy békén hagyjanak, hogy ne kutassanak utánam, és úgy élhessek, ahogy kedvem tartja, maga, idegen, helyettesít engem... Na mi az?
+- Csak köhögtem... a tea... és a meglepetés...
+- Ön kiszáll a hajóból, és ahol díszes sorfalat lát, zsakettes, egyenruhás urakból, oda megy. Gomperez Hidalgó, akit szintén nem láttam még soha, az udvarmester várja. Elviszik a kastélyba. Ott azután csak mondja, hogy gyengélkedik. Sétálgasson, olvasson...
+- Ezt talán mellőzném...
+- Szóval ha bármit kérdeznek vagy kívánnak, mondja azt: "most nem aktuális... majd egy-két nap múlva..." Nem csinálhat hibát. Ha hibát csinál, az sem baj. Majd én rendbe hozok mindent.
+- De Felség... hogy én... ilyent...
 - Nem felelős semmiért. Mint uralkodó úgy látom jónak, hogy fennforgó különleges okok miatt képviseltessem magamat néhány napig.
-- Fennforgóbreakprice fennforgóbreakprice ezbreakprice mindenesetre jó szóbreakprice De hát ezért becsuknakbreakprice
-- Én parancsolom, tehát semmi baja sem eshet! Ön segít abban, hogy két napig az alvilág egyszerű egyénei között éljek, és én megkóstoltatom magával, hogy milyen az, ha valaki uralkodóbreakprice
-- De hát az én külsőm igazán nem fejedelmibreakprice Leszámítva a lornyettetbreakprice Ez fennforgóbreakprice És ildomosbreakprice de hát egyébként esetlegbreakprice
+- Fennforgó... fennforgó... ez... mindenesetre jó szó... De hát ezért becsuknak...
+- Én parancsolom, tehát semmi baja sem eshet! Ön segít abban, hogy két napig az alvilág egyszerű egyénei között éljek, és én megkóstoltatom magával, hogy milyen az, ha valaki uralkodó...
+- De hát az én külsőm igazán nem fejedelmi... Leszámítva a lornyettet... Ez fennforgó... És ildomos... de hát egyébként esetleg...
 - Mr. Gould ruhái közül a hajó szabóműhelyében gyorsan rendbe hoznak vagy két öltözéket. Tehet vagy beszélhet, amit akar. Nem baj, ha azt gondolják majd egy-két napig, hogy az uralkodó ostoba.
 - Amíg én helyettesítem, felség, addig ez a hír nem terjedhet el.
 - Azt hiszem, ön jobban beválik az udvartartásban, mint én a csapszékben.
@@ -1088,7 +1088,7 @@ A hajónaplóban benne van a Honolulu-Star helyzete, úgy az északi, mint a dé
 - Kiderült, hogy kétmillió fonttal tévedtek. De csak a két pennyn keresztül jöttek rá.
 - Értem. De sajnos a szekrény után hiába kutattam. Megfoghatatlan.
 Egy új utas is beszállt a szigeten. Senki sem tudta, hogy mi dolga volt Paranganban. Ő sem. Bonifácnak hívták, és felszállt a Honolulu-Starra. Hallotta, hogy hajópincér kell, és nyomban jelentkezett. Majd gondoskodik róla, hogy Szingapurban kitegyék. Nem akart Tahitiba menni, de ha ezt megmondja, akkor Paranganban marad. Zsebre dugott kézzel sétált a fedélzeten.
-Egyszerrebreakprice Mit tesz Isten! Hiszen ez Fülig Jimmy!
+Egyszerre... Mit tesz Isten! Hiszen ez Fülig Jimmy!
 - Hahó!
 Az illető megfordult.
 "Bonifác!" - mondta magában rémülten. Ez az aljas patkány, aki állítólag rendőrspicli is volt. Ez leleplezi a parton! Vége a királyságnak! És leleplezve José Pombio!
@@ -1105,15 +1105,15 @@ Felemelte a lornyont, és végignézett Bonifácon.
 - Ez kézenfekvő.
 Megfordult, hogy továbbmenjen, de Bonifác eléje Lépett.
 - Mire való ez a komédia?
-- Eresszen utamrabreakprice
+- Eresszen utamra...
 Egy pillanatra Bonifácot bizonytalanság fogta el. Lehet, hogy téved? Lehet, hogy ez nem Fülig Jimmy? Megragadta.
-- Várjonbreakprice
-- Nem várok, jóemberbreakprice - felelte a rejtélyes utas, és pofon ütötte.
+- Várjon...
+- Nem várok, jóember... - felelte a rejtélyes utas, és pofon ütötte.
 Bonifác agya meglódult, a szeme előtt sötét lett, belerezdültek a fogai és elszédült.
 Az idegen továbbment.
-A másik sűrűn pislogott, azután megtapogatta az arcát, és diadalmasan nézett a távolodó felébreakprice
+A másik sűrűn pislogott, azután megtapogatta az arcát, és diadalmasan nézett a távolodó felé...
 - Most már beszélhetsz! Ilyen pofon csak egy van a világon! Istenemre, ez Fülig Jimmy!
-breakpriceAlkonyatkor már tisztán látszott Szingapur, és sorra gyúló lámpái mint sárgás csillagok ragyogtak fel az ég alján.
+...Alkonyatkor már tisztán látszott Szingapur, és sorra gyúló lámpái mint sárgás csillagok ragyogtak fel az ég alján.
  
 HARMADIK FEJEZET
 1
@@ -1144,7 +1144,7 @@ Fülig Jimmy hátán végigfutott a hideg. Eszébe jutott a rejtély, amelyet ta
 Mr. Irving mindent feljegyzett egy piros noteszbe, és elhatározta, hogy meg is tanulja.
 - A Velőnek mondja, hogy menjen sürgősen hosszú útra, mert Adenben kiszabadult a Hobbó Fischer.
 - Ezt sem értem.
-- Majd ott helyben meglátja felséged, hogy ez mind okos dolog, csak jegyezze felbreakprice Úgy.
+- Majd ott helyben meglátja felséged, hogy ez mind okos dolog, csak jegyezze fel... Úgy.
 - Köszönöm. Most menjen, és öltözzön néhai nagybátyám átalakított ruhájába. Jön a révkalauz hajója.
 - Hoplá! Felség, ezt valaki ellopta Mr. Gould Fernandez kajütjéből. Okmányok.
 És átadta a címeres szarvasbőr táskát. Őfelsége a belső zsebébe tette. Ezek Fernandez régensherceg diplomáciai levelezését tartalmazzák. És most nem érdekelte a diplomácia.
@@ -1152,16 +1152,16 @@ Mr. Irving mindent feljegyzett egy piros noteszbe, és elhatározta, hogy meg is
 - Felség! Használja jól ki az összeköttetéseimet! Szerencse fel!
 - Önnek is, barátom.
 Őfelsége kezet nyújtott. Fülig Jimmy szeretettel megrázta, és adott még egy utolsó bölcs tanácsot:
-- De a legjobb összeköttetés az alvilágban mégis csak egy jól irányzott ökölcsapás. Ez aztán igazán kézenfekvő, felségbreakprice
+- De a legjobb összeköttetés az alvilágban mégis csak egy jól irányzott ökölcsapás. Ez aztán igazán kézenfekvő, felség...
 2
 Őfelsége, mielőtt a hajó kikötött, Fülig Jimmy tanácsára vásárolt egy elég tiszta, de kopott ruhát, egy pár kitiport cipőt, trikót és sapkát. Jimmy, igen hosszas rábeszélésre, nekiadta az altiszti revolvert és az ólmosbotot. Az utóbbi felől rövid szakoktatást tartott.
 - A bal belső zsebbe tegye, felség, úgy, hogy a szíj felül legyen.
 - És ez mire való?
 - Hogyha baj van, kissé mozgatja a vállát, és akkor a hóna aljával megérzi, hogy helyén-e az ólmos. Ez egy nyugodt érzés. Az ember közvetlenebbül tárgyal a felekkel.
 - Azután?
-- Hát amikor komolyabb érvekre kerül a sor, az ember úgy tesz, mintha hanyagul vakarózna, a melle közepén kezdi, lassan a válla felé irányul ez a vakaródzásbreakprice
+- Hát amikor komolyabb érvekre kerül a sor, az ember úgy tesz, mintha hanyagul vakarózna, a melle közepén kezdi, lassan a válla felé irányul ez a vakaródzás...
 - De ez nem szép. Vakarózni!
-- A külvárosban még nem zárja ki az általános műveltséget. Szóval ha a kapirgáló ujjak megérzik a szíjat, akkor suhi!breakprice
+- A külvárosban még nem zárja ki az általános műveltséget. Szóval ha a kapirgáló ujjak megérzik a szíjat, akkor suhi!...
 - Mi az, hogy suhi?
 - Nyolc napon túl gyógyuló, mintegy tizenkét centiméteres zúzott seb, véraláfutásos elszíneződéssel, helyenként a koponyacsonton kisebb repedések.
 - Köszönöm.
@@ -1173,17 +1173,17 @@ Mr. Irving mindent feljegyzett egy piros noteszbe, és elhatározta, hogy meg is
 - A katonaiskola szerint is az a harcoló fél van előnyben, aki magához ragadja a kezdeményezést.
 - És egy söröskancsót vagy széklábat. Aztán durr bele!
 - Az mi?
-- Olyasmi, mint a suhi, csak később gyógyul, és a sértett munkabírását erősen csökkentibreakprice Mindig gyorsnak lenni!
-- Napóleon szerint is a gyorsaság fél sikerbreakprice
-- Tüskés Vaneknek is ez a véleménye. Úgy mondja, hogy az nevet utoljára, aki először ütbreakprice
-- Azt hiszembreakprice ilyesmire nem kerülhet sorbreakprice Egy uralkodó mégsem mehet ilyen messzire a tapasztalásban.
-- Azért nem árt az ilyent tudni. A karmatlai Radzsa is igen nagy úr, és szintén széttekintett egyszer álruhában Hongkong kikötőjében. Senki sem merte megérinteni, amikor megmondta a rangját. Na de amíg megmondta! breakprice Ott mi volt! Egy ideges ismeretlen valamilyen okból odament az álruhás Radzsához, és hirtelen negyvenháromszor pofon ütötte, úgyhogy nem is volt idő bemutatkozáshoz. Azóta a Radzsa csak úgy megy végig a kikötőnegyedben, hogy hírnökök járnak előtte, akik szétkürtölik nevét és hatalmát.
+- Olyasmi, mint a suhi, csak később gyógyul, és a sértett munkabírását erősen csökkenti... Mindig gyorsnak lenni!
+- Napóleon szerint is a gyorsaság fél siker...
+- Tüskés Vaneknek is ez a véleménye. Úgy mondja, hogy az nevet utoljára, aki először üt...
+- Azt hiszem... ilyesmire nem kerülhet sor... Egy uralkodó mégsem mehet ilyen messzire a tapasztalásban.
+- Azért nem árt az ilyent tudni. A karmatlai Radzsa is igen nagy úr, és szintén széttekintett egyszer álruhában Hongkong kikötőjében. Senki sem merte megérinteni, amikor megmondta a rangját. Na de amíg megmondta! ... Ott mi volt! Egy ideges ismeretlen valamilyen okból odament az álruhás Radzsához, és hirtelen negyvenháromszor pofon ütötte, úgyhogy nem is volt idő bemutatkozáshoz. Azóta a Radzsa csak úgy megy végig a kikötőnegyedben, hogy hírnökök járnak előtte, akik szétkürtölik nevét és hatalmát.
 Mr. Irving, miután partra lépett, elsősorban zsebre vágta a kezét. Ezt mindig is nagyon szerette volna. De hogy tehetne ilyesmit egy uralkodó? Különösen utcán. Amikor zsebre dugott kézzel elvegyült a Raffles Street áradatában, és nekivágott vaktában Szingapurnak, nyomban megértette, hogy az emberiség zöme miért nem készül az uralkodói pályára. Micsoda öröm! Két lábon járni az utcán, lökdösésben, egyedül!
 Zsebre dugott kézzel!
 Valaki nekiment, hogy a falnak tántorodott.
 - Bocsánat - mondta az illető, és elsietett.
-Először életében kutyába sem vették. Valaki rászólt, hogy ne bámészkodjon, a mindenségit, egy rendőr nem durván, de erőteljesen félretolta a kapitányság kapuja elől, mert éppen autó gördült ki az útra. Szemtelen utcai árusok az arca előtt rázogatták holmijaikat, egy bolt előtt valaki megragadta a karját, és százféle áru nevét karattyoltabreakprice
-Csupa főbenjáró bűnbreakprice
+Először életében kutyába sem vették. Valaki rászólt, hogy ne bámészkodjon, a mindenségit, egy rendőr nem durván, de erőteljesen félretolta a kapitányság kapuja elől, mert éppen autó gördült ki az útra. Szemtelen utcai árusok az arca előtt rázogatták holmijaikat, egy bolt előtt valaki megragadta a karját, és százféle áru nevét karattyolta...
+Csupa főbenjáró bűn...
 De milyen gyönyörűség!
 Kiült egy kávéház elé. Egyszerű, kispolgári hely volt, ahol néhány savanyú arcú ügynök, egy-két kiskereskedő és három japán díszműárus képviselte az üzlet esti forgalmát.
 Vizes kávét ivott, olcsó süteményt evett hozzá, és úgy érezte, hogy ez volt életének legjobb ízű étkezése. A pincér is ott álldogált mellette, de az utcára bámult.
@@ -1205,86 +1205,86 @@ Az emberek nem értették, hogy a buzgó fiúnak mi szüksége van negyven cipő
 - Gyűjti a súlyát?
 - Szétküldöm az újévi üdvözleteimhez mellékelve ismerőseimnek.
 - Hallja! Maga részeg? Hordja el magát!
-- Jóember, ön nem olyan hangon beszélbreakprice
-A tömeg hullámzásba jött, elsodorták a fiút, és a rendőr sehogy sem férkőzhetett közelebbbreakprice Jóindulatú ismeretlenek, akik éppen mellette álltak, szinte sorfallal vették körül, és vitték.
+- Jóember, ön nem olyan hangon beszél...
+A tömeg hullámzásba jött, elsodorták a fiút, és a rendőr sehogy sem férkőzhetett közelebb... Jóindulatú ismeretlenek, akik éppen mellette álltak, szinte sorfallal vették körül, és vitték.
 - Menjen, fiatalember - mondta jóakarói közül az egyik.
 - Ne kezdjen a rendőrökkel - korholta szelíden a másik.
 Ez jólesett neki. Szereti a nép.
 Újdonsült barátai egy mellékutcába tuszkolták. Négyen voltak. Köztük egy vörös hajú, térdnadrágos, sápadt, vézna külsejű fiatalember.
 - Csak menjen, barátom.
-- Köszönöm, barátaimbreakprice Igazán jólesik, hogy féltetek. Derék emberek vagytok.
+- Köszönöm, barátaim... Igazán jólesik, hogy féltetek. Derék emberek vagytok.
 - Szóra sem érdemes - mondta egy kis kövér nyájas mosollyal, és otthagyták, miután udvariasan megemelték a kalapjukat.
-A legközelebbi sarkon egy rúzs- és egy púderautomatát fedezett fel. Benyúlt a zsebébebreakprice
+A legközelebbi sarkon egy rúzs- és egy púderautomatát fedezett fel. Benyúlt a zsebébe...
 És elhűlt. A pénztárcája hiányzott! Kétrészes bőrerszény volt. Egyik felén nyílt a bankjegyek rekesze, másikon az aprópénznek való.
 Ötezer dollár volt benne!
-Most már eszébe jutott, hogy a négy jótevő nem ok nélkül préseltebreakprice Az a sovány sörtehajú egy pillanatra mintha hozzáért volna a zsebéhez.
+Most már eszébe jutott, hogy a négy jótevő nem ok nélkül préselte... Az a sovány sörtehajú egy pillanatra mintha hozzáért volna a zsebéhez.
 És biztosan kilopta a pénztárcáját. A címeres táska a belső zsebében megvolt. Érezték, úgy látszik, hogy hol a pénz.
 Utánuk futott!
 Először életében futott, de most nem érzett gyönyörűséget. "Ez hát a nép szeretete" - gondolta futás közben keserűen.
 - Megállni! - kiáltott utánuk, amikor meglátta őket a sarkon.
 A négy ember visszafordult, nyugodtan, tempósan.
 - Mi van? - kérdezte a sörtehajú.
-- A pénztárcámbreakprice eltűntbreakprice
+- A pénztárcám... eltűnt...
 - Na és? Azt hiszi, hogy tolvajok vagyunk?!
 - Maguk lökdöstek jobbra-balra!
-- Vigyázzon a szájárabreakprice!
-- Kérembreakprice ha nem tudnák, hogy ki vagyokbreakprice
-breakpricePontosan az történt vele, ami a Radzsával. A cingár, sápadt fiatalember pofon ütötte.
+- Vigyázzon a szájára...!
+- Kérem... ha nem tudnák, hogy ki vagyok...
+...Pontosan az történt vele, ami a Radzsával. A cingár, sápadt fiatalember pofon ütötte.
 De hogy! Fejedelmi pofon volt! Az első pofon, amit életében kapott. De ennek nem örült.
 A vékony kar boszorkányos lendületét nem is látta, csak valami tompa puffanással egyszersmind sok csillogó pont szökellt fel a szeme előtt, hogy fejjel a falnak repült, és fél térdre esett.
 Fel akart emelkedni.
-- Én egybreakprice
+- Én egy...
 A kis kövér botja végigvágott rajta, hogy őrjítő fájdalmat érzett a hátán, és egy rúgástól lerepült a gyalogjáróról.
 - Nesze! Majd adunk neked! Meggyanúsítani a rendes embereket!
 - Hálátlan fráter.
-A négy ember befordult a sarkon, ésbreakprice
+A négy ember befordult a sarkon, és...
 És röhögve futottak, ahogy csak a lábuk bírta.
-breakpriceLassan feltápászkodott. Mindene sajgott. De talán a legjobban az fájt, hogy létezik ilyen mélységes romlottság, amilyenről eddig fogalma sem volt.
+...Lassan feltápászkodott. Mindene sajgott. De talán a legjobban az fájt, hogy létezik ilyen mélységes romlottság, amilyenről eddig fogalma sem volt.
 Egy rendőr állt mellette.
 - Ejha! De ellátták a baját!
 Az orrából vér folyt, és a szája sarka is felrepedt.
-- Elloptákbreakprice a pénztárcámatbreakprice
+- Ellopták... a pénztárcámat...
 - Mennyi pénz volt benne?
 - Ötezer dollár.
 - Elmenjen innen! Ha bolondot űz belőlem, hát megjárja. Ötezer dollár nem ilyen ficsúrok pénztárcájában van.
 - Nézze, jó ember, most már úgysem csinálom tovább, én St. Antonio uralkodó főherceg vagyok.
 - És kicsoda, ha józan? Mi?
 - Kérem, vezessen a St. Antonio-palotába. Valahol egy dombon van a városon kívül.
-- Ott ni! Láthatja innen, ha az utca végén a kis ház teteje fölé nézbreakprice De ezt a hülyeséget hagyja abba. Elég a viccből.
+- Ott ni! Láthatja innen, ha az utca végén a kis ház teteje fölé néz... De ezt a hülyeséget hagyja abba. Elég a viccből.
 - Nem hiszi, hogy ezt komolyan állítom?
-- Lehetséges. Már volt rá eset, hogy hülyére vertek valakitbreakprice
+- Lehetséges. Már volt rá eset, hogy hülyére vertek valakit...
 - Hagyja abba ezt a modortalan hangot, mert megjárja!
 - Másképpen, hé! Mert aztán maga járja meg! Nézd csak! Igazolja magát!
 - Ott fenn a palotában majd igazolnak.
-- Hát ide hallgasson! Énnekem kötelességem minden bejelentett adatot ellenőrizni. De habreakprice
+- Hát ide hallgasson! Énnekem kötelességem minden bejelentett adatot ellenőrizni. De ha...
 - Figyelmeztetem rá, hogy minden tiszteletlen szóért felelni fog!
 A rendőr az ajkába harapott. Mit lehet tudni? Az ördög nem alszik.
 - Menjünk - mondta csendesen -, de ha becsapott, hát megjárja!
 A herceg ment elöl. Az orra vérét szárítgatta egy kendővel. A szívós bot ütésétől felrepedt hátán a kabát.
-"No, ha ez hercegbreakprice - gondolta a rendőr - akkor én indián főnök vagyok."
+"No, ha ez herceg... - gondolta a rendőr - akkor én indián főnök vagyok."
 A St. Antonio-kastély dombon épült, és dús, őserdőszerű park fogta körül a krémsárga, csúcsíves épületet. A rendőr csengetésére egy lakáj nyitott kaput.
 - A London square-i poszt vagyok. Ez az ember azt állítja, hogy a St. Antonio-kastélyban igazolják - mondta a rendőr, s a sáros szakadt ruhájú hercegre mutatott.
-- Ide hallgasson, lakáj - szólt közbe nyugodtan, friss csengésű hangon a fiatalember. - Én St. Antonio uralkodó herceg vagyok. Aki ma megérkezett ide az én nevemben, azt megbíztam, hogy helyettesítsenbreakprice
+- Ide hallgasson, lakáj - szólt közbe nyugodtan, friss csengésű hangon a fiatalember. - Én St. Antonio uralkodó herceg vagyok. Aki ma megérkezett ide az én nevemben, azt megbíztam, hogy helyettesítsen...
 A lakáj vállat vont.
 - Nem érkezett ide ma senki.
 A herceg idegesen toppantott.
 - Eh! Hát akkor bizonyára még mindig a városban időzik az az ember a kíséretemmel!
 - Ismétlem: nem értem, amit ön mond, fiatalember.
-- Mára várták ide a herceget, ésbreakprice
-- Nem vártak ide mára senkitbreakprice
+- Mára várták ide a herceget, és...
+- Nem vártak ide mára senkit...
 - Tudhattam volna, hogy mesebeszéd - dünnyögte lihegve a rendőr.
 - Jól gondolja meg, lakáj, hogy mit mond, mert ezért felelni fog!
 - Kérem, én nem ijedek meg az ön fenyegetéseitől, de biztosíthatom, hogy nem vártunk ide senkit. A kastélyban csak a kiszolgáló személyzet tartózkodik, és Mr. Greenwood tanár.
-- Ember! Miért nem mondta azonnal! Greenwood! Ő jól ismertbreakprice Két hónap előtt az angol királyi udvarban fogadtam.
+- Ember! Miért nem mondta azonnal! Greenwood! Ő jól ismert... Két hónap előtt az angol királyi udvarban fogadtam.
 - Ma érkezett, és alszik éppen.
 - Hozza ide! Keltse fel! Rohanni fog!
 A lakáj elment. A rendőr habozva nézett St. Antonio hercegre.
-- Ez az ember igazolni fogja, hogy önbreakprice Mr. izébreakprice uralkodó?
+- Ez az ember igazolni fogja, hogy ön... Mr. izé... uralkodó?
 - Minden kétséget kizáróan.
-- Hmbreakprice Hogy kerülhet egy uralkodó ilyen helyzetbe? Ilyen ruhában?
+- Hm... Hogy kerülhet egy uralkodó ilyen helyzetbe? Ilyen ruhában?
 - Nem hallotta ön a napkeleti uralkodó, Harun al Rasid történetét, aki álruhában járt az alattvalói között?
 - Nem szeretem a rajzfilmeket. Káprázik a szemem - felelte a rendőr kissé bizonytalanul.
-- Ne féljen - mondta kacagva a herceg. - Önnek nem eshet bántódása. Kötelességtudó, ha kissé ingerlékeny is. Gyanakvása nem sért, ez a tulajdonság fontos egy rendőrnél. Megjutalmazom, és valami kisebb kitüntetést kap, mert mégiscsak utánajárt az ügynekbreakprice
+- Ne féljen - mondta kacagva a herceg. - Önnek nem eshet bántódása. Kötelességtudó, ha kissé ingerlékeny is. Gyanakvása nem sért, ez a tulajdonság fontos egy rendőrnél. Megjutalmazom, és valami kisebb kitüntetést kap, mert mégiscsak utánajárt az ügynek...
 "Kedves fickó - gondolta a rendőr -, akár hülye, akár uralkodó."
 - Mindenesetre jó lenne, ha igazolnák.
 - Ne féljen, jóember. Greenwood igazol, és akkor kap az udvaromban egy pohár igazi angol sört.
@@ -1293,21 +1293,21 @@ De a Gondviselés ezen a napon úgy akarta, hogy a tikkadt rendőr ne igyék a S
 - Itt van az a bizonyos fiatalember, Mr. Greenwood.
 - Halló! My teacher! - kiáltotta boldogan a herceg, és tárt karokkal közeledett a tisztes külsejű tanárhoz. - I am happy, Mr. Greenwood!
 De a tanár nem viszonozta az örömkitörést, hátrahökkenten nyújtotta ki a karját.
-- Mit óhajt, kérem?!breakprice
-- Debreakprice Mr. Greenwoodbreakprice Mit jelentsen ezbreakprice
-- Abreakprice azt állítja, hogy nem ismeri?breakprice
-- Honnan ismerném, kérem?breakprice - hebegte a biológus ijedt jóakarattal.
+- Mit óhajt, kérem?!...
+- De... Mr. Greenwood... Mit jelentsen ez...
+- A... azt állítja, hogy nem ismeri?...
+- Honnan ismerném, kérem?... - hebegte a biológus ijedt jóakarattal.
 A herceg egy pillanatig úgy érezte, mintha a koponyáját egy roppant, láthatatlan kéz feszítené a közepénél kétfelé, hogy szinte érezte a homlokát recsegni.
-- Mr. Greenwoodbreakprice - hebegte. - Mr. Greenwoodbreakprice
+- Mr. Greenwood... - hebegte. - Mr. Greenwood...
 - Igazán sajnálom fiam, mert kétségbeesettnek látszik, de csakugyan nem ismerem - mondta szomorúan. - Honnan kellene ismernem?
-- Balmoralbreakprice ön Balmoralban volt két hónapjabreakprice
-- Ez igaz! Várjunk csak!breakprice És ott találkozott volna velem? St. Antonio főherceg környezetében?
+- Balmoral... ön Balmoralban volt két hónapja...
+- Ez igaz! Várjunk csak!... És ott találkozott volna velem? St. Antonio főherceg környezetében?
 - De hiszen én vagyok St. Antonio főherceg! Mr. Greenwood! Miféle tréfa ez?
 A tudós eléje lépett, és hosszan, kutatóan nézte a szemét.
-- Szegény fiúbreakprice Nem fáj a feje olykor?
+- Szegény fiú... Nem fáj a feje olykor?
 - Mr. Greenwood! - kiáltotta sápadtan. - Ez a félreértés eloszlik egyszer, és akkor én önt felköttetem. Mert ön egy gazember! Egy hitvány gazember!
 A lakáj és a rendőr egyszerre ragadták meg, de Greenwood rájuk kiáltott.
-- Ne merjék bántanibreakprice! Szegénybreakprice elmebeteg.
+- Ne merjék bántani...! Szegény... elmebeteg.
 Most valami egészen váratlan dolog történt.
 A herceg zsebre dugta a kezét, és nevetett. Szívből, jókedvűen. Erre már a rendőr és a lakáj is részvéttel nézték, pedig olyan egészséges, derűs kacagás volt ez, olyan pajzán, tiszta, csengő hangsorozat, mintha felséges tréfát hallott volna.
 - Mit nevet? - szólt rá idegesen a rendőr.
@@ -1316,12 +1316,12 @@ A herceg zsebre dugta a kezét, és nevetett. Szívből, jókedvűen. Erre már 
 NEGYEDIK FEJEZET
 Fülig Jimmy naplója
 I
-Akkoriban lejöttem a hajóról, akkor elhatároztam, hogy naplót írok. Ez akkor úgy volt, hogy előzőleg leereszkedőn csevegtem egy utassal, mert akkor már felvettem a sors akaratából nevelő lett halottnak néhai ruháitbreakprice
+Akkoriban lejöttem a hajóról, akkor elhatároztam, hogy naplót írok. Ez akkor úgy volt, hogy előzőleg leereszkedőn csevegtem egy utassal, mert akkor már felvettem a sors akaratából nevelő lett halottnak néhai ruháit...
 Mindegy. Szóval. A fő, ahogy mondani szokják, a szépirodalom. Mert naplót írni, ez később kiderül, mint egy tettes: az szépirodalom.
 Akkor kisült egy nagy marhaság. Mert a sors kifürkészhetetlensége következtében kifolyó halottnak ruháit megfelelőre átalakíttattam egy szabóval, aki utazott a hajón. De arra kise gondolna, hogy a halottnak inge is van. Azt nem renoválták, úgyhogy szűk volt. Ki hitte volna egy ekkora nagy megboldogultról, hogy kis nyaka van ingben? A kis nyaka van ingben? A kis nyak az ingét, az ingének, ingnyakának. Alighogy megfulladtam tőle. Ebből. Ettől.
 És még a cipő. Olyan óriási ember, és nem ment rám. Rá. A cipő rá a lábamra nem ment. Csak aligéppen.
 Ezzel szemben állt a nadrág. Azt burnusznak csavarhattam volna magam köré, mint az arabok, miután már benne voltam.
-Akkor ezt a szabó átalakította. De már a kalap karimája a vállamig ért. Azt kézbe vittem. Őfelsége a sors kegyelméből pénzt is adott, és mondta, hogy kiszálláskor majd keressem Gomperez hídlakót. Hídalvótbreakprice Higadoltbreakprice Ez spanyol cím, de nem is kell keresni, mert ők figyelik, hogy hol száll le az Irving, aki én vagyok, a király.
+Akkor ezt a szabó átalakította. De már a kalap karimája a vállamig ért. Azt kézbe vittem. Őfelsége a sors kegyelméből pénzt is adott, és mondta, hogy kiszálláskor majd keressem Gomperez hídlakót. Hídalvót... Higadolt... Ez spanyol cím, de nem is kell keresni, mert ők figyelik, hogy hol száll le az Irving, aki én vagyok, a király.
 Ez nem könnyű dolog az ilyen naplóírás, de majd belejövök, mint úrifiú a pofozkodásba.
 Előzőleg még társalgottunk őfelségével, mert szerett velem társalgani, gozni, logni (ez a jó!)
 - Magának érdekes élménye lesz - mondja ő.
@@ -1344,7 +1344,7 @@ Erre jót nevetett, mivel szokása neki ez. Ezneki.
 - No had folytatom.
 - No had.
 - Ezeket magának tudni kell. Alvarez volt elnököt száműzték családostál. Tól. A szigetrelépés halálosan tilos volt számára, és az általa kitalált törvényeket felfüggesztették. Mivel Warins nem talált ki törvényeket, ezek helyett őtet, magát függesztették fel személyesen. Rangjához méltójan, egy igen előkelő pálma koronájára. Mer őtet minden egyéb országban is felfűszték volna kalózos bűnök, gyilkolás, haláltokozó emberölés, rablás, gyújtogatás és sok más becsületsértés jutalmául. (Igazán nem könnyű egy ilyen napló írás.)
-Ilyeneket mesélt a hercegi király, aki ezenfelül uralkodó volt. Én meg hallgattam, mert ezeket nekem tudni illik. Ildomosbreakprice
+Ilyeneket mesélt a hercegi király, aki ezenfelül uralkodó volt. Én meg hallgattam, mert ezeket nekem tudni illik. Ildomos...
 - És akkormikor Alvarezt számosan űzték, viszont ezzel szemben Warins nevű kalózt felfüggesztették, több tárgy nem lévén trón követelőzőben? - mondom én.
 - Egy maradt. A halálrakötelezett kalóznak a fia. Ezt néhány éve elfokták a Hollandiaok, a Hollandusok. Ő még igen picinyke volt a harcok idején. Benntszülöttek rejtegették, és később ő is nagy rabló lett. Amikor elfokták felnőt korában, akkormár neki is sok vaj volt a fején. Bob Warins fiatalember, de máris szép sikert ért el a rablógyilkosi pályán. Úgyhogy tizenöt évre büntették őt. Akkor megesküdött a főtárgyaláson, hogyha kiszabadul, megöli a sziget uralkodóját az összes St. Antoniót és minden Alvarezt, és ő lesz az uralkodó, de erre vajmi alig van ha, aligha van kilátás, mert jól ül a kényszermunkában.
 Ennyit mesélt és azt is, hogy Sir Egmont, a sziget miniszterelnöke, aki őt jól ismeri, mert az anyjának a fivére és jó ember. Ez nem jön Szingapurba persze, mert akkor nem lehetne a heccet csinálni. De ha szó van róla, tudjam, hogy ő a sziget örökös miniszterelnöke, apjának tanácsadója, ősz, magas úr, a homlokán egy régi kardvágásból kifolyó forradás képez. Ered. Forradt homlokán egy régivágású kardhely van. Ő nem megy el sohasem Almirából, ha beszélnek, akkor ezt tudjam.
@@ -1360,10 +1360,10 @@ A herceg követte, mint valami alvajáró. Ismét a városban jártak, és egy k
 - Ne törődjék semmivel! Én megvendégelem.
 A herceg szelíden megrázta a fejét.
 - Ön nem vendégelhet meg egy uralkodót. Köszönöm, jóember.
-"Ki látott még ilyent? Ha igazán király lenne, akkor sem csinálhatná jobban. Szegénybreakprice"
+"Ki látott még ilyent? Ha igazán király lenne, akkor sem csinálhatná jobban. Szegény..."
 - Mióta érzi ezt a furcsa izét a fejében?
 - Én király vagyok!
-- Jól van, no! Hát jöjjön egy korty sörrebreakprice Uralkodó is megteheti. Oroszlánszívű Richard nemegyszer ivott a közlegények borából, amikor keresztes hadjáratba ment.
+- Jól van, no! Hát jöjjön egy korty sörre... Uralkodó is megteheti. Oroszlánszívű Richard nemegyszer ivott a közlegények borából, amikor keresztes hadjáratba ment.
 A fiú nagy bölcsen megfogta az állát, mint aki fontolóra vesz egy figyelmen kívül hagyott érvet.
 - Igaz - felelte azután -, egy angol király példája irányadó lehet.
 Bementek a csapszékbe, és a söntéspolcnál sört rendeltek.
@@ -1371,34 +1371,34 @@ Bementek a csapszékbe, és a söntéspolcnál sört rendeltek.
 - Ön megőrült, jóravaló rendőr! Sürgősen igyekeznem kell Almirába jutni, ahol rendbe hozok mindent. Azután következik a vizsgálat, és jaj lesz a bűnösöknek, még akkor is, ha Szingapurba szöktek, mert az angol király igen jó barátom, és könyörtelenül kiszolgáltatja őket.
 - De a Boldogság Szigetekre nem lehet csak úgy eljutni. Hiszen az nagyon messze van - igyekezett lelkére beszélni a rendőr. - Hajót bérelni oda igen sokba kerül, és más mód nincs, mert úgy tudom, hogy távol fekszik a rendszeres hajóútvonalaktól.
 - Igen. Valamikor rendszeres hajójáratok érintették. De amikor a nagyatyám elűzte a lázadó Alvarezt és kormányát, a sziget ismét visszaszerezte a régi előkelő hírét, és elkerülték a hajók.
-- Hmbreakprice erről hallottam valamit.
+- Hm... erről hallottam valamit.
 - Hallhatott róla, jószívű közeg. Nagy ügyet csináltak belőle undok üzletemberek, akik a forradalmi kormány elnökétől megvásárolták a sziget minden hasznot hajtó jogát, és ezt ez a Don Barrabas Alvarez nevű lator elnök csinálta.
 "Csodálatosan ismer minden adatot a rögeszméjéhez" - gondolta a rendőr, és szelíden szólt:
 - Nem juthat el oda, fiam. Higgye el! Most majd elkísérem egy csendes intézetbe, ahol nyugtalan uralkodókat ápolnak.
 A herceg döbbenten lépett hátra.
 - Maga közeg! Csak nem akar engem beszállíttatni a bolondokházába?
-- Ugyan, dehogybreakprice Hopp!
+- Ugyan, dehogy... Hopp!
 A herceg mint a villám, úgy ugrott ki az utcára. Ez volt a legrémületesebb fenyegetés, amellyel megfoghatatlan élménye során eddig szembekerült.
 Úgy futott, mintha tigrisek üldöznék, cikcakkban, összevissza, minden sarkon befordult. Nagyszerű, kisportolt szervezete úgy rázta le a köpcös, ötven év körüli, loholó rendőrt, hogy nyomába sem ért. De hátranézni nem mert, pillanatnyi időveszteséget sem kockáztatott, és így vagy félórát rohant eszeveszetten. Pedig már régen sok-sok utca választotta el a rendőrtől.
 Kelet nagyvárosaiban az utcák késő éjszakáig forgalmasak, mert a forróságtól szinte lángoló boulevard-okon csak alkonyatkor kezdődik az élet.
-Most mibreakprice? Hogy?breakprice Merre?breakprice
+Most mi...? Hogy?... Merre?...
 Forgott a világ körülötte a pállott, langyos éjszakában.
-A külváros felé járt. Nem messze folyót látott, és azt már tudta Fülig Jimmy utasításaiból, hogy ott kezdődik az alvilág. Mit csináljon? Talán Fülig Jimmy valamelyik "összeköttetése" segít rajta, hogy eljusson Almirába. Hol vannak a klubok? Kóválygottbreakprice
-Mindegybreakprice Az bizonyos, hogy rövidesen tisztázódni fog minden. Nem valószínű, hogy Fülig Jimmy és ivadékai üljenek ezután a St. Antoniók trónján.
-Az orra csúnyán feldagadt, a száját torzan meghosszabbította az, hogy felrepedt a szélén. Ruhája véres, sáros és szakadt voltbreakprice
-És nincs egy fillérje sem. Elsősorban hát megkeresi az alvilágot. Itt van valahol, az bizonyosbreakprice Bennszülöttek igyekeztek csoportokban zajongva a külváros felé, kulik rohantak kétkerekű riksákkal, és az izzó, nagy hold világát elhomályosította a dúsan szállongó por. Ez a por behatolt a gallérja mögé, és szúrta a bőrét, összevegyült a verejtékével, és undok, ragadó érzést okozott. És a szomjúság is kínozta. De hol igyon, és mit? Egy fillérje sem volt.
-Benyitott az első csapszékbe. Pipák bűze, alkohol és rongyok párája, lárma, csörgésbreakprice
-- Kérembreakprice kaphatnék egy pohár vizet?
+A külváros felé járt. Nem messze folyót látott, és azt már tudta Fülig Jimmy utasításaiból, hogy ott kezdődik az alvilág. Mit csináljon? Talán Fülig Jimmy valamelyik "összeköttetése" segít rajta, hogy eljusson Almirába. Hol vannak a klubok? Kóválygott...
+Mindegy... Az bizonyos, hogy rövidesen tisztázódni fog minden. Nem valószínű, hogy Fülig Jimmy és ivadékai üljenek ezután a St. Antoniók trónján.
+Az orra csúnyán feldagadt, a száját torzan meghosszabbította az, hogy felrepedt a szélén. Ruhája véres, sáros és szakadt volt...
+És nincs egy fillérje sem. Elsősorban hát megkeresi az alvilágot. Itt van valahol, az bizonyos... Bennszülöttek igyekeztek csoportokban zajongva a külváros felé, kulik rohantak kétkerekű riksákkal, és az izzó, nagy hold világát elhomályosította a dúsan szállongó por. Ez a por behatolt a gallérja mögé, és szúrta a bőrét, összevegyült a verejtékével, és undok, ragadó érzést okozott. És a szomjúság is kínozta. De hol igyon, és mit? Egy fillérje sem volt.
+Benyitott az első csapszékbe. Pipák bűze, alkohol és rongyok párája, lárma, csörgés...
+- Kérem... kaphatnék egy pohár vizet?
 A vendéglős mogorván nézett rá.
 - Azt kaphat. Úgy látszik, kapott ma már mást is.
 Felhajtotta a vizet és nagyot sóhajtott. Egy zongoraverkli szólt, kültelki alakok és mindenféle fajú nők szórakoztak itt.
-- Mondja, vendéglős úrbreakprice Ez itt már az alvilág?
-- Mi?breakprice Miféle alvilág?!
-- Hátbreakprice Ahol Szingapurban klubjuk van bizonyosbreakprice
+- Mondja, vendéglős úr... Ez itt már az alvilág?
+- Mi?... Miféle alvilág?!
+- Hát... Ahol Szingapurban klubjuk van bizonyos...
 - Elmenjen, amíg jó dolga van! Ide tisztességes emberek járnak! Kerékpárbajnok és állástalan idegenvezetők.
-- De kérembreakprice
+- De kérem...
 - Hordja el magát!
-breakpriceMost már okult. Szó nélkül kisietett. És később még néhány helyről kellett így elsietnie, hirtelen. Mindenki felháborodott a kérdésén. Még hogy alvilág! Csupa zenész, kiskereskedő és iparművész járt erre a külvárosban.
+...Most már okult. Szó nélkül kisietett. És később még néhány helyről kellett így elsietnie, hirtelen. Mindenki felháborodott a kérdésén. Még hogy alvilág! Csupa zenész, kiskereskedő és iparművész járt erre a külvárosban.
 Úgy látszott, hogy Szingapurban nincs is alvilág. De mit írnak a lapok annyit betörésről, rablásról, razziákról?
 Már a folyóparton járt, szabálytalanul épített, düledező vályogkunyhók mentén. Bennszülött és kínai szegények maró szaga terjengett. Szinte rosszul lett. Nyílt tűzhelyek körül, a porban ülve halat sütöttek. Csontvázszerű, lerongyolódott ópiumszívók, mezítelen gyerekcsapat, karattyoló, kócos asszonyok és néhol egy piszkos üveg mögött párákba süppedő, esti fény. Hihetetlenül züllött, rongyos európaiak is jártak erre, rossz arcúak, borotválatlanok, részegek.
 A folyón is nyüzsgött a keleti fajból özönlő szapora élet. Dzsunkákon laktak itt a part mellett. A raffiakunyhós, hosszú ladikokban főztek, harmonikáztak, szandált készítettek. A folyóba ömlő csatornák dögvészes köde borult erre a zsúfolt kínai nyomornegyedre.
@@ -1420,7 +1420,7 @@ A legcsekélyebb meglepetés sem látszott Trebitsch úron. Mintha errefelé má
 - Jön egy pohár sörre, hercegem?
 - Sajnos, nincs pénzem. Ötezer dolláromat ellopták.
 - Úgy? Ez kínos - felelte udvarias bólogatással. - No, nem baj, majd én megvendégelem.
-- Ön elhiszibreakprice hogy én főherceg vagyok?
+- Ön elhiszi... hogy én főherceg vagyok?
 - Miért ne? Ha ön elhiszi, hogy én Trebitsch vagyok!
 - De én az igazi St. Antonio főherceg vagyok!
 - Akkor hát tudja meg, hogy én is az igazi Trebitsch vagyok. De kérem, hogy ez maradjon köztünk!
@@ -1431,42 +1431,42 @@ A herceg éhes volt, fáradt, a szemei égtek, és a lerakódott por kesernyés 
 A herceg közel állt hozzá, hogy sírva fakadjon.
 - Uram! Értse meg, én csakugyan St. Antonio főherceg vagyok.
 - Én viszont esküszöm önnek, hogy az igazi Trebitsch vagyok - körülnézett, azután titokzatosan a fülébe súgta. - A Borneói Fahéj Tanya intézője voltam.
-Egy pillanatig várt, mint aki elkészült rá, hogy a fiatalember sápadtan hebegi: "Önbreakprice A Fahéj Tanya intézője voltbreakprice? Egek!"
-- Nagyon kérem - folytatta izgatottan -, hogy ez maradjon kettőnk titkabreakprice Most jöjjönbreakprice
+Egy pillanatig várt, mint aki elkészült rá, hogy a fiatalember sápadtan hebegi: "Ön... A Fahéj Tanya intézője volt...? Egek!"
+- Nagyon kérem - folytatta izgatottan -, hogy ez maradjon kettőnk titka... Most jöjjön...
 És tovább vezette.
-- Kérem, én az igazi St. Antonio főherceg vagyok, és ha tréfálbreakprice
-- Nem tréfáltam. Esküszöm, hogy csakugyan az igazi Trebitsch vagyok, és Borneón a Fahéj Tanya intézője voltambreakprice
+- Kérem, én az igazi St. Antonio főherceg vagyok, és ha tréfál...
+- Nem tréfáltam. Esküszöm, hogy csakugyan az igazi Trebitsch vagyok, és Borneón a Fahéj Tanya intézője voltam...
 A herceg végképp elkeseredett. Nagy nehezen találkozik egy jóindulatú emberrel, s az is paralitikus! Mert semmi kétség: az igazi Trebitsch, aki Borneón a Fahéj Tanya intézője volt, agyalágyult.
 - Hová készült felséged éppen? - kérdezte udvariasan.
-- Abreakprice az alvilágot keresem.
+- A... az alvilágot keresem.
 - Úgy? - állapította meg örömmel. - Akkor együtt mehetünk. Én is arra tartok.
-- breakpriceaz alvilágba?
+- ...az alvilágba?
 - Hogyne.
-- Aholbreakprice a klubok vannak?
-- Odabreakprice Minden éjjel ott feketézem.
+- Ahol... a klubok vannak?
+- Oda... Minden éjjel ott feketézem.
 Kissé nyugtalanul követte az igazi Trebitschet. Már a Szingapur deltája felé jártak, iszapos föld cuppogott a lábuk alatt, és egy külső pályaudvar sínei futottak a magasra töltött parton.
 Már csak olykor tűnt fel egy-egy düledező viskó, és néha sötét alakok osontak el valamerre. Ez félelmetes és titokzatos volt a herceg előtt, különösen a töltés felől kanyargó piros és ibolyaszínű jelzőlámpák fénye.
 Hová viszi ez az őrült?
 Úgy lépeget itt, nagy orrával, csíptetőjével, állandó nyájas mosolyával, mint egy tisztes nyárspolgár. A több ágra szakadó folyótorkolat felé mélyült a talaj, és cuppogott a lépéseik alatt. Már vagy másfél órája gyalogoltak a kihalt vidéken.
 - Hová vezet ön engem?
-- Hát ahová mondta, fenségbreakprice Abreakprice a túlvilágbabreakprice
+- Hát ahová mondta, fenség... A... a túlvilágba...
 - Az alvilágot mondtam!
 - Mindegy, mindegy! - bíztatta nyájasan, rikoltó fejhangján. - Csak jöjjön.
 Távoli vonatfütty hangzott elnyújtottan az éjszakában. A herceg megtorpant, lihegve, félájultan az elgyötörtségtől.
 - Nem megyek tovább!
-- Ugyanbreakprice Miért ez a hirtelen elhatározás?
-- Nembreakprice megyekbreakprice És vigyázzon jól. Én az igazi St. Antonio vagyok.
+- Ugyan... Miért ez a hirtelen elhatározás?
+- Nem... megyek... És vigyázzon jól. Én az igazi St. Antonio vagyok.
 - Uram, mire esküdjem meg önnek, hogy én viszont az igazi Trebitsch vagyok. Fogjunk össze!
 Mit tegyen? Zúgott a feje, és szédült.
 - Visszafordulok.
-- Fenség!breakprice Ott, százlépésnyire, ahol az a sárga fénypont látszik, elérjük a régi Holland-kikötőt. Ott megtalálja abreakprice azt a bizonyosbreakprice izébreakprice világot, amit olyan jól ismerekbreakprice
+- Fenség!... Ott, százlépésnyire, ahol az a sárga fénypont látszik, elérjük a régi Holland-kikötőt. Ott megtalálja a... azt a bizonyos... izé... világot, amit olyan jól ismerek...
 Csakugyan látszott valami ködbe mosódó fénypont néhány száz lépésnyire.
-Továbbhaladtak. Kabócák ciripeltek kórusban, és jobbra-balra loccsanások kísérték az útjukat, ahogy lábaik előtt szerteugráltak a békákbreakprice
+Továbbhaladtak. Kabócák ciripeltek kórusban, és jobbra-balra loccsanások kísérték az útjukat, ahogy lábaik előtt szerteugráltak a békák...
 - Kissé egyhangú vidék - magyarázta vidáman az igazi Trebitsch - de kellemes, üdítő séta.
-breakpriceA mocsaras táj záptojásbűze szinte fullasztó volt. És néha bokán felül süppedtek a sárba. De egyre közelebb értek a fényponthoz, amelyről kiderült, hogy egy lámpa. Néhány földhányás látszott jobbra-balra és a levegő szaga jelezte, hogy a tenger közelében vannak.
+...A mocsaras táj záptojásbűze szinte fullasztó volt. És néha bokán felül süppedtek a sárba. De egyre közelebb értek a fényponthoz, amelyről kiderült, hogy egy lámpa. Néhány földhányás látszott jobbra-balra és a levegő szaga jelezte, hogy a tenger közelében vannak.
 Több fénypont is látszott már a dombhullámokon, és a folyó partján egy-egy bennszülött is feltűnt. Dúdolva vagy lábukat lóbázva ültek a folyó felett. Valahonnan szájharmonika és bendzsó hallatszott. Az egyik holtág öblében rozsdás hajótest emelkedett ki a vízből feldúcolva, és moszkitók százezrei döngicséltek. Véresre csípték őket a szúnyogok. Az igazi Trebitsch atyai nevetéssel dorgálta a szúnyogokat.
 A herceget ájulás környékezte, és kimerülten suttogta:
-- Kérembreakprice ismét figyelmeztetembreakprice hogy holnap talánbreakprice az egész rendőrség engem keresbreakprice
+- Kérem... ismét figyelmeztetem... hogy holnap talán... az egész rendőrség engem keres...
 - Nem baj. Itt jól elbújhat, amíg az ügy elalszik.
 - De az Istenért! Értse meg, hogy én St. Antonio uralkodó főherceg vagyok. Igazán az vagyok.
 A nagyorrú megállt, és méltóságteljes haraggal végigmérte.
@@ -1494,12 +1494,12 @@ Valaki a herceg szemüveges kísérője felé kiáltott:
 A nagyorrú sajnálkozó mosollyal fordult a herceghez.
 - Ne hallgasson rájuk. Egynek sem volt gyerekszobája.
 Kituszkolta az ivó túlsó felén egy gyékényajtón. Vaksötétben haladtak a folyosón.
-- Miért hívják öntbreakprice olyan furcsa néven?
+- Miért hívják önt... olyan furcsa néven?
 Az ismeretlen cvikkeres a karjánál fogva vonszolta, de közben baráti bizalommal suttogta:
-- Ezeknek azt hazudtam, hogy Buzgó Mócsingnak hívnak. De maga biztos lehet abban, hogy én az igazi Trebitsch vagyokbreakprice Csak ne fecsegjen errőlbreakprice Hadd maradjak inkognitóban.
+- Ezeknek azt hazudtam, hogy Buzgó Mócsingnak hívnak. De maga biztos lehet abban, hogy én az igazi Trebitsch vagyok... Csak ne fecsegjen erről... Hadd maradjak inkognitóban.
 Ujját tiltóan a szája elé tartotta. Őfelsége még mondott volna valamit, de az igazi Trebitsch ezt súgta:
-- Isten önnelbreakprice Szegény fiúbreakprice Igazán sajnálombreakprice - rebegte, és belerúgott.
-breakpriceA herceg csak azt érezte, hogy megnyílik alatta a földbreakprice És zuhan.
+- Isten önnel... Szegény fiú... Igazán sajnálom... - rebegte, és belerúgott.
+...A herceg csak azt érezte, hogy megnyílik alatta a föld... És zuhan.
  
 HATODIK FEJEZET
 Fülig Jimmy naplója
@@ -1548,7 +1548,7 @@ No most jól nézek ki. Eddiggis nagy baj van. De most (folytatása következik)
 HETEDIK FEJEZET
 1
 Őfelsége nem esett keményre. Zizzenés csapott fel körülötte, és ernyedten, kábultan feküdt a szalmán, ahová lezuhant a magasból.
-Hűs széláram érintette az arcát, és sustorgó hangokat hallott. A tenger itt van valahol a közelébenbreakprice Enyhe ringás mozgatta megbreakprice
+Hűs széláram érintette az arcát, és sustorgó hangokat hallott. A tenger itt van valahol a közelében... Enyhe ringás mozgatta meg...
 Hajó! Hogy zuhanhatott egy hajóra a kocsmából?
 Valahol, ki tudja, milyen messzeségben, magasan felette az igazi Trebitsch hangja hallatszott le.
 - Hej, Tulipán! Új ember érkezett! Három dollárt kapok!
@@ -1566,9 +1566,9 @@ Kattanás. Éles fényű zseblámpa világa vetül a hercegre. Mintha ökölcsap
 - Soha! Lelketlen uzsorás! Inkább dobd a tengerbe. De gazságba nem megyek bele!
 - Kettőharminc, de egy fillérrel sem több.
 - Ötven!
-- Hát jó, de ezentúl nem veszek át rossz árut. A Veréb majd felviszi a pénztbreakprice
+- Hát jó, de ezentúl nem veszek át rossz árut. A Veréb majd felviszi a pénzt...
 A herceg képtelen volt arra, hogy egyetlen szót szóljon, amíg az alku folyt. A szeme lassanként megszokta a zseblámpa fényét, amelyet az ismeretlen vásárló alkudozás közben egy árbocszerű rúd szögére akasztott.
-breakpriceÉs most tekintsük meg őfelsége kissé káprázó szemével az illetőt, aki két dollár ötvenért, tehát aránylag jutányos áron, megvásárolta St. Antonio de Vicenzo Y Galapagos uralkodó főherceget, a Boldogság Szigetek királyát. Ilyen emberhez kéz alatt hozzájutni két és fél dollárért még manapság is alkalmi vétel.
+...És most tekintsük meg őfelsége kissé káprázó szemével az illetőt, aki két dollár ötvenért, tehát aránylag jutányos áron, megvásárolta St. Antonio de Vicenzo Y Galapagos uralkodó főherceget, a Boldogság Szigetek királyát. Ilyen emberhez kéz alatt hozzájutni két és fél dollárért még manapság is alkalmi vétel.
 A király tulajdonosa egy matróz volt.
 Alacsony termetű és hihetetlenül zömök, nem kövér egyén, akinek rövid, vastag karja széles, szőrös, ormótlan tenyerekben végződött. Törzse oszlopnyi combokon nyugodott. Húsos, gömbölyű, de barázdált arca vörös, tompa orra, sűrű, hosszú borostái és kurta pipája rajzfilmekre emlékeztették az embert. Fehér, tiszta vászonnadrágja, kék blúza és kerek szalagos matrózsapkája feltűntek ebben a környezetben szokatlan tisztaságukkal. Kurta matrózpipát szívott.
 - Másszon le a szénáról - mondta csendesen, de igen vontatottan.
@@ -1583,16 +1583,16 @@ Most átvillant a herceg agyán hogy eddig a csökönyössége miatt szenvedett,
 - Akkor ütni foglak - mondta sajnálkozva Tulipán.
 A tenger állandó sustorgása félelmes aláfestő zenével szolgált a beszélgetéshez. Tulipán, aki megvette a királyt, lassan felkelt, és körülnézett valami verőszerszám után.
 - Figyelmeztetem, hogy én Batáviából szabadultam, és a Szingapuri Klubok számára fontos üzenetet hozok - kiáltotta hirtelen őfelsége.
-breakpriceGyorsan eszébe idézte, amit Fülig Jimmy diktált, és ő tanulgatta a noteszéből, amíg a Honolulu-Star kikötött.
+...Gyorsan eszébe idézte, amit Fülig Jimmy diktált, és ő tanulgatta a noteszéből, amíg a Honolulu-Star kikötött.
 - Mit mondasz? - kérdezte bambán a matróz.
-- Én üzenetet hoztambreakprice Nagy Bivalynakbreakprice Velőnek, Tüskés Vaneknek és Piszkos Fred számárabreakprice
+- Én üzenetet hoztam... Nagy Bivalynak... Velőnek, Tüskés Vaneknek és Piszkos Fred számára...
 Az uralkodó tulajdonosa kivette pipáját a fogai közül, és a herceg elé lépett. Végre sikerült őfelségének olyan neveket is említeni, amelyek némi tiszteletet parancsoltak itt.
 Az angol királlyal nem sokra ment.
 - Te ismered a Nagy Bivalyt?
-- Igen! - vágta rá gyorsan. - Jól ismerem. Én az apám révénbreakprice tagja vagyok a Hűséges Almák klubjánakbreakprice
+- Igen! - vágta rá gyorsan. - Jól ismerem. Én az apám révén... tagja vagyok a Hűséges Almák klubjának...
 Most végre úgy néztek rá, mint amikor egy St. Antonio főherceg leveti az inkognitóját.
 És ehhez elég volt néhány rablóra hivatkozni.
-- A fene egye meg ezt a Buzgó Mócsingot - szitkozódott Tulipán. - Ilyen árut hoz két és fél dollárért. Jöjjön velem. De ide figyeljen: ha esetleg most hazudottbreakprice
+- A fene egye meg ezt a Buzgó Mócsingot - szitkozódott Tulipán. - Ilyen árut hoz két és fél dollárért. Jöjjön velem. De ide figyeljen: ha esetleg most hazudott...
 - Nem hazudtam!
 - Jobb ha megmondja az igazat, akkor nem történik semmi. Megy a hajóra, és én sem veszítek el két és fél dollárt.
 A vételár elvesztése igen fájdalmasan érintette.
@@ -1605,15 +1605,15 @@ Ráléptek a rézsút lejtő, keskeny deszkára, és gyorsan, nyugodtan haladtak
 - Még meggondolhatja!
 - Vezessen.
 Sebesen haladtak, mert őfelsége tulajdonosa jól ismerte az utat sötétben is. Egy domb mögül lámpa tűnt fel hirtelen. Citeráztak valahol, és énekeltek. Mit tegyen?
-- Álljunk meg egy pillanatrabreakprice - mondta színlelt, elhaló hangon. - A szívembreakprice
-- Na!breakprice
-- A szívembreakprice
-Tétova mozdulattal a mellkasa bal oldalán kaparászott, amerre a bot vanbreakprice Hogy is tanította Fülig Jimmy?breakprice A szíjbreakprice Most az ujján vanbreakprice Most a csukott öklére feszül.
+- Álljunk meg egy pillanatra... - mondta színlelt, elhaló hangon. - A szívem...
+- Na!...
+- A szívem...
+Tétova mozdulattal a mellkasa bal oldalán kaparászott, amerre a bot van... Hogy is tanította Fülig Jimmy?... A szíj... Most az ujján van... Most a csukott öklére feszül.
 Azután minden erejét összeszedve, a tanult előírás szerint ugyanazzal a mozdulattal, amivel kirántotta a botot, előrecsapott vele, fejre!
-Reccsenésbreakprice
+Reccsenés...
 Tulipán úgy állt egy pillanatig, mint aki fel sem veszi az ilyesmit, de bambán nyílt a szája, és a szeme kimeredt.
 Őfelsége, bár ezt nem is tanulta, ismét lesújtott. Csak úgy magánszorgalomból.
-Tulipán tompa puffanással zuhant a földrebreakprice A herceg rohant.
+Tulipán tompa puffanással zuhant a földre... A herceg rohant.
 Igaza volt Fülig Jimmynek: nincs nagyobb összeköttetés ezen a tájon, mint egy erőteljes csapás a fejre!
 2
 Egyszer csak végigvágódott. Valaki elgáncsolta a sötétben. Furcsa árnyak fogták körül.
@@ -1625,15 +1625,15 @@ Négy sötét alakot különböztetett meg.
 - Miért? - kérdezte egy kétméteres, kopasz csavargó.
 - Csempésztünk. Tagja vagyok a Hűséges Almák klubjának, és a Velőt is jól ismerem.
 - Ez biztos?
-- Igenbreakprice Vezessetek hozzá.
+- Igen... Vezessetek hozzá.
 - Felesleges. Én vagyok a Velő - felelte a kétméteres.
-Puffbreakprice Ez baj. De nyomban felelt. Hiszen könyv nélkül tudta.
+Puff... Ez baj. De nyomban felelt. Hiszen könyv nélkül tudta.
 - Azt üzeni egy cimborád Batáviából, hogy hordd el magad gyorsan, mert a Hobbó Fischer kiszabadult!
-- Igen?breakprice Azt látom, hogy tudsz a dolgaimról. De miért mondtad, hogy ismersz?
+- Igen?... Azt látom, hogy tudsz a dolgaimról. De miért mondtad, hogy ismersz?
 - Azért, hogy az üzenetet átadhassam.
 - Gyanús dolog. Ami a Hobbó Fischert illeti, fél a fene tőle.
 - Gyössz velünk - mondta egy másik.
-breakpriceMent. Négy embert nem üthet le. Elfutni nem lehet. Ez a végzet. Hiába! Egy kis öbölnél csónakba ültek, és addig eveztek, amíg magas partrész mellé értek. Itt egy odú előtt megálltak. Amikor a herceg ide belépett, és körülfogta a nedves talaj átható, fojtó szaga, nem volt biztos benne hogy látja-e még a csillagos eget.
+...Ment. Négy embert nem üthet le. Elfutni nem lehet. Ez a végzet. Hiába! Egy kis öbölnél csónakba ültek, és addig eveztek, amíg magas partrész mellé értek. Itt egy odú előtt megálltak. Amikor a herceg ide belépett, és körülfogta a nedves talaj átható, fojtó szaga, nem volt biztos benne hogy látja-e még a csillagos eget.
 Sokáig vezették zegzugos katakombákon át. Furcsa moraj hallatszott távolból. A zaj egyre közeledett, míg végül az egyik kanyar végén gyenge fényfolt tűnt fel.
 Boltozatos üregbe értek, ahol néhány lámpás világított, ormótlan kőkoloncok között.
 A hatalmas üregből folyosók és deszkaajtóval fedett melléküregek nyíltak.
@@ -1648,7 +1648,7 @@ Erre büszke volt. Ruházatával, külső megjelenésével, életével nem sokat
 - Batáviában.
 Az ősz csavargó feléje fordult. Azért hívták Portás Robbnak, mert ellenőrizte a belépőket. A Világ börtönintézményeinek nagy ismerője volt személyes tapasztalatok alapján.
 - Te Batáviában ültél?
-- Igenbreakprice
+- Igen...
 - Milyen a belső folyosó falfestése?
 A herceg agyán most átvillant, amit tanult!
 - Zöld olaj, világos kerettel! - felelte nyomban. - Jobbra van a főfoglár szobája, balra a keresztfolyosó.
@@ -1686,7 +1686,7 @@ A herceg szinte elfeledkezett minden bajáról, testi-lelki elcsigázottságár�
 - Az ott mi?
 - A régi matrózok egyesülete. Ezek olyanok, akik már részt vettek a "Tengerészlakomán".
 - Micsodán?
-- Hátbreakprice megesik, hogy egy mentőcsónakban sokáig hányódnak a vízen, és elfogy az élelembreakprice Ilyenkor kisorsolnak valakit, ésbreakprice hátbreakprice esetleg éhségükbenbreakprice
+- Hát... megesik, hogy egy mentőcsónakban sokáig hányódnak a vízen, és elfogy az élelem... Ilyenkor kisorsolnak valakit, és... hát... esetleg éhségükben...
 A szóban forgó társaság ajtaján ez állt kiírva:
 DIÉTÁS VÉN FIÚK
 TAROKK EGYESÜLETE
@@ -1718,7 +1718,7 @@ Csakugyan diplomatakülsejű, ősz ember volt, bagolyszemüveges, angol bajuszos
 - Azonfelül üzenetem van a Tüskés Vanek számára - mondta a herceg.
 A kegyelmes úr elgondolkozva nézte.
 - Ha ez mind így van - mondta azután csendesen -, akkor miért ütötte le a Tulipánt?
-breakpriceÉs a szekrény mögül előlépett bekötött fejjel Tulipán. Csendben körülfogták a herceget.
+...És a szekrény mögül előlépett bekötött fejjel Tulipán. Csendben körülfogták a herceget.
  
 NYOLCADIK FEJEZET
 Fülig Jimmy naplója
@@ -1748,7 +1748,7 @@ Még senki sem nem hallotta így könyörögni őt. De engem nem 6-ot meg, mert 
 De már alik hallottam a hangját, mert mialatt társalgottunk, még több koffert, ládát, bőröndöt raktam föléje, és csak messziről jött egy vékony, síri hang:
 - Jimmy, gondold meg, fijam.
 - Jó! Ha meggondoltam, visszajövök, és lehordom magáról a rakományt, de esz távolról sem biztosra vehető.
-Minek hitegessem szegény öreget?breakprice Most gugsolhat a kofferben, amíg reggel meg jönnek a rakodók, mert reggel kezdik. És akkor sem a középen felhalmozott ládákon, tehát délután is lesz holnapra, amíg a kapitány kigyön, ami úgy kell neki.
+Minek hitegessem szegény öreget?... Most gugsolhat a kofferben, amíg reggel meg jönnek a rakodók, mert reggel kezdik. És akkor sem a középen felhalmozott ládákon, tehát délután is lesz holnapra, amíg a kapitány kigyön, ami úgy kell neki.
 Mer sziftelen kutya ez. Ő talán meg is ölne az én helyembe engem, ha ő volna én, és én ő akkor, vagyis én ötet mint magamat megölném az én helyembe ő. Azért figyelmes olvasó megérti, csak gondolkozni kell rajta.
 Én is ezen godolonk goldonkoztam, amíg a csónak vitt, és a gyászoló rokonság ült köröttem, legelől a hídlakó, aki már nem volt kopasz, mert feltette a fekete hosszú kalapot.
 Most mi lesz, ha ez a szőr Egmont meglátja, hogy nem a király gyön, hanem én. Ő személyesen is ismeri a királyt, tehát nem téveszti meg modorom.
@@ -1811,7 +1811,7 @@ Erre köhögött.
 - No, majd jól fejbe ütöm - feleltem, és ezzel a kihallgatás végetért.
 Most mi lesz? Attól a csirkefogótól nem félek, de csakugyanbaj, hogy a király Szingapurban lekéste a csatlakozást a trónjához.
 És már régen ment a hajó a nyílt tengeren. Sétálok.
-breakpriceSzép este volt. Az ég csillagos, a tenger sima. Tükre.
+...Szép este volt. Az ég csillagos, a tenger sima. Tükre.
 Enyhe szellő és kellemesség. Pláne mer jóllaktam, ami nálam a természet szépségeihez tartozik.
 Már nem is látszott a part se. Csak tenger meg ég, és mert közeledett a nedves idő, nagy köd lett lassan, amibe belehaladt a hajó.
 Igen jó motoros volt ez, csudaszép és gyors is. Azután láttam, hogy egy tiszt áll mögöttem az udvarijas távlattal.
@@ -1821,22 +1821,22 @@ Igen jó motoros volt ez, csudaszép és gyors is. Azután láttam, hogy egy tis
 - De felség engedelmével, én itt a segédszárny vagyok.
 - Még akkor sem. Szeretek egyedül emlékelkedni, ez forog fenn.
 Mondom.
-- Parancsára de a felelőségembreakprice
+- Parancsára de a felelőségem...
 - Semmi felelősége itten nem kézenfekvő, és azonnal távozzon - szóltam királyi haraggal. Mire ő el.
 Rögtön jobban éreztem magamat, ahogy a szárnysegéd repült. Odament az egyik fiatal matrószhoz.
 Az biztos egy szárnyinas. És elküldte valahová. Most szőr Egmonthoz küldi bisztos.
 Attól félek, tehát pucoltam. Különbenis olyan köd lett, hogy az ember az orráig sem látott. Ilyenkor igazán jó csak a fedélzeten csavargani ogni.
-Bárha akkor emlékesztetett az éjjel engemet arra az iszonyú félelmetes éjszakára, amikor a kisportolt Mr. Gould, aki Fernandez néven régen herceg, nyakamba hulla miután vízbelökém, halva, majd pedig vízbelöke a Piszkos Fred, kit messziről néztem, amint hoszta fehérrel letakarva és ismét vízbedobá egy loccsanással, Fernandezt, Mr. Gouldotbreakprice Rémes éjszaka volt asz otbreakprice Akkor is ilyen ködben halattunk, és előzőleg és láttam a kapitány külsejével aszt a valakit a kísértetett. Aki két alakban járt ésbreakprice
+Bárha akkor emlékesztetett az éjjel engemet arra az iszonyú félelmetes éjszakára, amikor a kisportolt Mr. Gould, aki Fernandez néven régen herceg, nyakamba hulla miután vízbelökém, halva, majd pedig vízbelöke a Piszkos Fred, kit messziről néztem, amint hoszta fehérrel letakarva és ismét vízbedobá egy loccsanással, Fernandezt, Mr. Gouldot... Rémes éjszaka volt asz ot... Akkor is ilyen ködben halattunk, és előzőleg és láttam a kapitány külsejével aszt a valakit a kísértetett. Aki két alakban járt és...
 És megint láttam! Itt! Ezen a helyen. A kapitány kísértetett!
-breakpriceA köd mint melegvizes rongy feküdt az arcomonbreakprice csepegett minden, pedig nemvolt eső sem, csak nagy, nagy gőzös forró köd az egész véktelen Ocejánon és egyszercsak ahogy befordulok az egyik kabinnál, hát éppen beleütközök.
+...A köd mint melegvizes rongy feküdt az arcomon... csepegett minden, pedig nemvolt eső sem, csak nagy, nagy gőzös forró köd az egész véktelen Ocejánon és egyszercsak ahogy befordulok az egyik kabinnál, hát éppen beleütközök.
 A kísértetbe!
 Arc az archoz, a Hono-Lulu sztárkapitánya áll előttem!
 - No mi az, José? - kérdezi hidgadt nyugalommal és dohányoz.
 Én pedig kövédermedten, mint akit villámsujta. Mer esz a kísértet. Mer mit keres itt a Holono-Lusztár kapitánya.
-- Önbreakprice mit csinál? - kérdezem kissé idegesen, mivel kissé ideges voltam. Mer a köd, a nedves monszun előtti szélcsendesség idegességet képez.
+- Ön... mit csinál? - kérdezem kissé idegesen, mivel kissé ideges voltam. Mer a köd, a nedves monszun előtti szélcsendesség idegességet képez.
 - Én is Almirába utazom, José.
 - Ne mondja José. Én itt egy király megbízásából környezetét becsapom. Azt hiszik király vagyok.
-- Úgy?breakprice No én nem akarom ebben zavarni. Ellenben mondja. Mr. Gould kabinjában volt egy kis fiókos szekrény. Nem sejti, hogy ez hol lehet?
+- Úgy?... No én nem akarom ebben zavarni. Ellenben mondja. Mr. Gould kabinjában volt egy kis fiókos szekrény. Nem sejti, hogy ez hol lehet?
 Ennek most nincs más gondja!
 - Kapitány úr! Berendezési tárgyakat én nem csenek - feleltem királyhoz illően.
 - Nem is erre gondoltam. De talán látta. No mindegy.
@@ -1844,7 +1844,7 @@ Ennek most nincs más gondja!
 - Jó éjszakát király úr - felelte, és mosolyogva kezet fogott -, maga legény a talpán. Akar cigarettát?
 - Köszönöm, de itt királyi dolgom van.
 Odább ment és már elnyelé a szürkeség, ami gomolygott. Én pedig épen ahogy mentem vissza szőr Egmonttal találkozám, és vele volt a segédszárnyas.
-- Felségbreakprice aggódtam, hogy egyedül sétálgat.
+- Felség... aggódtam, hogy egyedül sétálgat.
 - Nem szeretek máskép.
 - Pedig uralkodónak még saját hajóján is ügyelni kell, mert felbérelt merénylők mindenhol lehetnek.
 - Azokat én majd jól fejbeütöm, csak azt tessék mondani énfelségemnek, hogy miért utaz velünk a Hollo-Nunulusztár kapitánya, tudtommal.
@@ -1855,31 +1855,31 @@ No ez jó.
 És úgy nézett rám, mintha én ép nem lennék elméjű.
 Nem szóltam. Ezt a históriát már túlonbőven ismertem, semhogy vitatkosszak. Tehát kísértet, aki kapitányos külsejű átszállt a hajóra.
 - Kérem felség tartózkodjék a kajütjébe, vagy pedig a segédszárnyassal kísértesse magát. Mondom jó. Azután visszamentem a fülkébe.
-De később ez jó az éjjelbe benne lehetett, kisliszoltam óvatosan. A szárnyas nem volt közelben. Azért láttam vagy tíz lépésnyire. A korlátra támaszkodva állt a könyökén. Mit tudja ő, hogy itt olyan uralkodó forog fenn, aki nesztelenül tud járni, mert trónörökös korában ezt az előélete megkívánta?breakprice
-Az ajtó sem nyikorgott, hát nem sokára jó messzibe voltam. Csak itt ott járt egy matróz, alig látható a ködben, azután hosszú ideig csakcsend, és cuppantak a cseppek, ahogy leesett a vasról a sok nedvességbreakprice
+De később ez jó az éjjelbe benne lehetett, kisliszoltam óvatosan. A szárnyas nem volt közelben. Azért láttam vagy tíz lépésnyire. A korlátra támaszkodva állt a könyökén. Mit tudja ő, hogy itt olyan uralkodó forog fenn, aki nesztelenül tud járni, mert trónörökös korában ezt az előélete megkívánta?...
+Az ajtó sem nyikorgott, hát nem sokára jó messzibe voltam. Csak itt ott járt egy matróz, alig látható a ködben, azután hosszú ideig csakcsend, és cuppantak a cseppek, ahogy leesett a vasról a sok nedvesség...
 Azon a helyen nem volt a kapitány formájú kísértet. Ez biztosan valami bűnügy háttere ami mögötte lappang. Kísértet?
 Én mindenesetre fejbeütöm. Ha jól bírja akkor csakugyan kísértet. De ebbe nem bízom. Csak olyan nehéz az ember melle, mintha a ködnek sujja lenne, pedig jól tudom, hogy a köd az légüres tér. De nagyon hasogat a fejem, pedig ez a nedves elő-monszun időnek a járása.
-Ez a halk duruzsolása a víznek is furcsabreakprice A kezem olyan vizes, mintha nem törülköztem volna. És hideg. Mikor pedig negyvenkétfokot mutat a pluszmérő árnyékban. És fázik a gyomrombreakprice És egyre csak nehezebb lesz ez a gőzfal, ahogy megyünk beléjebreakprice
+Ez a halk duruzsolása a víznek is furcsa... A kezem olyan vizes, mintha nem törülköztem volna. És hideg. Mikor pedig negyvenkétfokot mutat a pluszmérő árnyékban. És fázik a gyomrom... És egyre csak nehezebb lesz ez a gőzfal, ahogy megyünk beléje...
 Nagyon rossz járása van itt az időnek. Ilyenkor mindenki veszekedős szokott lenni a kocsmában. Ez az a járása az időnek, amitől trónörökös koromban hamar bicskázott az ember.
-Elannyira, hogy kigombolom ingem gallérom, de így is sós nyúlós, vizességgel vagyok teli, és úgy lüktet a torkom, mint egy percmutatóbreakprice
-Ottbreakprice Ez a csillanás a ködben egy sapkaellenző visszfénye! Most elő a zseblámpásom, mer azt koronázás előttről megtartottambreakprice
+Elannyira, hogy kigombolom ingem gallérom, de így is sós nyúlós, vizességgel vagyok teli, és úgy lüktet a torkom, mint egy percmutató...
+Ott... Ez a csillanás a ködben egy sapkaellenző visszfénye! Most elő a zseblámpásom, mer azt koronázás előttről megtartottam...
 Utánasietek és amikor a közelébe érek gombon nyomom a lámpást. Fény a ködben! És látom.
 Ő az!
-A kapitány! Mosolyog, int és sietbreakprice
+A kapitány! Mosolyog, int és siet...
 De én utána.
 Megáljjon.
-Azonban előbb ér a kabinok közé, és elnyeli a köd. De hallom a nyikorgást. Ajtónyikorgás volt a közelben valahol! Ez bement egy kajütbe. Csak nem látni hová. Mert ködbreakprice
+Azonban előbb ér a kabinok közé, és elnyeli a köd. De hallom a nyikorgást. Ajtónyikorgás volt a közelben valahol! Ez bement egy kajütbe. Csak nem látni hová. Mert köd...
 Ha kell én átkutatom az összes kajütöt! De szembenézek a kísértettel!
 Az első kabin ablaka sötét. Ez volt? Lenyomom a kilincset és benyitok. Sötét van bent is.
-De nemcsak sötét, hanem mozdulattalan minden és a bal szememen át szúr a monszunidő bele, és egy ködből való hegyes tűt az agyambabreakprice
+De nemcsak sötét, hanem mozdulattalan minden és a bal szememen át szúr a monszunidő bele, és egy ködből való hegyes tűt az agyamba...
 A sötét és a csend valami olyan különös, hogy a nyelvem száraz lesz és mintha a torkom megvastagodna.
 Én ott féltem, és a szívem olyan hideg lett, meg a térdem megingott.
 Jaj mi ez?
 Felnyomom a gombot, hogy a zseblámpa újra világítson.
 És azt hiszem, hogy megőrültem!
-Ha lett volna bennem hang én sikoltok. De nem volt. Csak becsaptam az ajtót és futottam, de remegve, mintha maláriás roham ráznabreakprice futottam és reszkettem.
+Ha lett volna bennem hang én sikoltok. De nem volt. Csak becsaptam az ajtót és futottam, de remegve, mintha maláriás roham rázna... futottam és reszkettem.
 Mert a zseblámpa fénye megmutatta a kabint és az asztalon egy nyitott koporsóban ott feküdt sárgán, szalmaszínű bajusszal, fekete szemgödörrel Mr. Gould!
-A Fernandezbreakprice Aki régen herceg, akit eddig kétszer a vízbe dobtak (folytatása következik.)
+A Fernandez... Aki régen herceg, akit eddig kétszer a vízbe dobtak (folytatása következik.)
  
 KILENCEDIK FEJEZET
 1
@@ -1900,7 +1900,7 @@ Ott ült továbbá egy ládán Buzgó Mócsing, akiről a herceg tudta csak, hog
 Az igazi Trebitsch felháborodottan lépett eléjük.
 - Ezt kikérem magamnak! Én leszállítottam az árut - és a herceg felé fordult -, maga a tanúm.
 - A te árud fejbe ütött! És megszökött.
-- Erős és ügyes embereket kértél. Hát aki téged leüt, az nem gyenge, és ha elszökik, akkor ügyes isbreakprice Nézzék meg ezt a fiút! Csupa erő! Ne hagyja magát szidni, barátombreakprice
+- Erős és ügyes embereket kértél. Hát aki téged leüt, az nem gyenge, és ha elszökik, akkor ügyes is... Nézzék meg ezt a fiút! Csupa erő! Ne hagyja magát szidni, barátom...
 A herceg újabban gyanúsan népies tüneteket észlelt magán. Például hirtelen haragú lett, és ilyenkor ütni szeretett volna. Most is szép lassan felforrt.
 - Maga piszok rabszolgakereskedő! - kiáltotta dühösen. - Hitvány gazember!
 - Most nem erről van szó - felelte idegesen az igazi Trebitsch. - Személyeskedéssel nem megyünk semmire.
@@ -1914,9 +1914,9 @@ A herceg ismét rávetette magát, de egy újabb pofon, megtoldva egy gyors rúg
 - Adjanak egy pohár vizet! - suttogta a herceg. - Délután ittam utoljára.
 Rongy- és pálinkaszagú kazán volt ez a kis bódé, a mocsaras vidék talajgőzöktől súlyos forróságában.
 A kocsmáros megvető arckifejezéssel betöltött egy fél pohárka pálinkát, és vízzel hígította. A herceg felhajtotta, és úgy érezte egy pillanatig, hogy nyomban megfullad. Minden erejére szükség volt, hogy ne köhögjön.
-Azután forróság öntötte el. És nekiugrott a türelmesen várakozó igazi Trebitschnek. A rúgást elkerülte, a csattanó pofont most nem éreztebreakprice Csak lihegett a mohó vágytólbreakprice
+Azután forróság öntötte el. És nekiugrott a türelmesen várakozó igazi Trebitschnek. A rúgást elkerülte, a csattanó pofont most nem érezte... Csak lihegett a mohó vágytól...
 Megölni!
-Propellerszerű sebességgel zuhogtak az ökölcsapásai, és az ördög tudja, honnan származott ez a mozdulata, térddel gyomorba rúgta az ellenfelét, hogy felbukott. Zuhanás közben az igazi Trebitsch magával rántotta. Hörögve, harapva, bokszolva gurultak a földönbreakprice A herceg vérében lángra kapott a pálinka. Forrón zúgott az agya, állati, gyilkos, pusztító örömmel verte az ellenfél fejét a padlóhoz.
+Propellerszerű sebességgel zuhogtak az ökölcsapásai, és az ördög tudja, honnan származott ez a mozdulata, térddel gyomorba rúgta az ellenfelét, hogy felbukott. Zuhanás közben az igazi Trebitsch magával rántotta. Hörögve, harapva, bokszolva gurultak a földön... A herceg vérében lángra kapott a pálinka. Forrón zúgott az agya, állati, gyilkos, pusztító örömmel verte az ellenfél fejét a padlóhoz.
 Amikor újra felugrottak, mint valami tigris vetette magát a harcba. Rúgott és ütött, míg egy horogütéstől Buzgó Mócsing a lebuj sarkába repült, és mielőtt felállhatott volna, őfelsége a legelső keze ügyébe kerülő üres ládát belevágta, és már ugrott volna az alélt emberre, hogy megölje, de visszarántották.
 - Hohó!
 - Eressz! - hörögte.
@@ -1939,23 +1939,23 @@ Kifejezéstelenül nézett a fiúra. Fatörzs vastagságú karizmán egy horgony
 - Öljön meg - mondta a herceg -, azt hazudtam, hogy ismerem magát.
 A Nagy Bivaly üres, halott tekintete mozdulatlanul meredt rá.
 - Ki vagy?
-- Fülig Jimmybreakprice öccsebreakprice - megpróbált előkelő rokonságára hivatkozni. Ilyesmi sokszor beválik.
+- Fülig Jimmy... öccse... - megpróbált előkelő rokonságára hivatkozni. Ilyesmi sokszor beválik.
 - Hazudsz.
 A petróleum és a föld szaga langyos tömbként állt az odúban. A Nagy Bivaly felemelkedett, lomhán, nyugodtan.
 - Ki lökött be hozzám?
-- Nembreakprice tudombreakprice
+- Nem... tudom...
 A herceg vakargatni kezdte a mellét, szépen befelé, a bot irányába.
 Azután lesújtott! De a Nagy Bivaly keze boszorkányos gyorsasággal kapta el, és magához rántotta. Amikor a fiú nekizuhant fejjel a hatalmas mellkasnak, úgy érezte egy másodpercig, hogy ez az ember könnyedén eldobhatná őt, mint valami kis kavicsot. Elkábult.
 Rövid mozdulattal kilódította az ivóba.
 - Ez az ember le akart ütni ólmosbottal!
 Az ivóban tartózkodók (igen sokan elmentek, amikor a herceget belökték a Nagy Bivalyhoz) vigyorogtak.
 - Azt akartam, hogy megnézzétek, mielőtt szétlapítom!
-- Azt mondta, hogy ismer tégedbreakprice - jegyezte meg a kocsmáros.
+- Azt mondta, hogy ismer téged... - jegyezte meg a kocsmáros.
 A Nagy Bivaly megfogta a herceg nyakát.
-- Majd mondd a halaknak isbreakprice
-- Én a Piszkos Fredhez jöttembreakprice! - kiáltotta kétségbeesetten, mert érezte, hogy a nagy marok egyetlen szorítására vége lesz.
+- Majd mondd a halaknak is...
+- Én a Piszkos Fredhez jöttem...! - kiáltotta kétségbeesetten, mert érezte, hogy a nagy marok egyetlen szorítására vége lesz.
 Nagy Bivaly szomorú, kegyetlen szemei egy pillanatnyi szünetet jeleztek.
-- Mi?breakprice Te ismeredbreakprice Fredet?breakprice
+- Mi?... Te ismered... Fredet?...
 - Csak úgy, ahogy téged - jegyezte meg a vendéglős.
 - Ez tévedés - mondta valaki, aki most lépett be a helyiségbe, de nem vették észre. - A kölyök csakugyan jól ismer, és ne merd megölni, Bivaly!
 Piszkos Fred állt az ajtóban.
@@ -1991,8 +1991,8 @@ De olyan kedves volt esz asz asszonyság és úgy átölelt, megcsókolt és biz
 Az anyai csók és ölelés mégis asz enyém volt és nem cseréltem volna el egy igazi szépleány csókjáért.
 Mer ilyen marhaságok vannak és én koronámra mondom (ami királynál nem csekélység), akkor éppen úgy szerettem ezt az asszonykirályt, mint a magam valódi mamáját.
 Pedig azt nagyon szerettem, pedig Davonshireben nyugossza örök álmát szegény amilyen jó volt, a sírban szegény.
-Nem szégyelem leírni esztet, mert még egy csavargónak is lehet mamája épp úgy, mint a jobb embereknekbreakprice
-breakpriceHogy a tárgyra térjek, én már gyerekkoromban is nagyon kíváncsi voltam, mint természetű. Én egyszer feltörtem az iskolába lort Nelszon mellszobrát, hogy lássam, mivan benne.
+Nem szégyelem leírni esztet, mert még egy csavargónak is lehet mamája épp úgy, mint a jobb embereknek...
+...Hogy a tárgyra térjek, én már gyerekkoromban is nagyon kíváncsi voltam, mint természetű. Én egyszer feltörtem az iskolába lort Nelszon mellszobrát, hogy lássam, mivan benne.
 Semmi sem volt benne, csak légüres tér. De aszt láttam. Így voltam most is, mer nem tuttam, hogy mi ez a játék velem itten? És egyedül maradtam Gombperec higaldóval, aki bizonyára mindent tud belül az agyvelejében erről az ügyről, és szívesen feltörtem volna a fejit, mint ahogy a mellszobrot szokás, hogy lássam, mivan benne.
 Lehet, hogy csak légüres tér.
 - Felség - mondja a hídlakó -, óhajt pihenni?
@@ -2021,15 +2021,15 @@ A Nagy Bivaly szorította a herceg nyakát.
 - Mert én ölöm meg! És aki ebben megakadályoz, az mehet a fiú után.
 A mesztic óriás bambán nézett egy másodpercig.
 - Ez a gazember a Honolulu-Staron utazott - kezdte vészjósló arccal a kapitány. - Tudta, hogy egy ládában voltam a hajófenékben, és mielőtt kikötött a hajó, ez a kölyök felfordította a bőröndöt, és rátett egy csomó nehéz poggyászt.
-- Kérem ez tévedésbreakprice - mondta a herceg - fogalmam sem volt róla, hogy ön is a hajón van, Mr. Piszkos.
-- Hazudsz! Te voltál! Éjfélig feküdtem a fedelére borított bőröndben!breakprice Majdnem megfulladtam!breakprice
-- Ha-ha-habreakprice
+- Kérem ez tévedés... - mondta a herceg - fogalmam sem volt róla, hogy ön is a hajón van, Mr. Piszkos.
+- Hazudsz! Te voltál! Éjfélig feküdtem a fedelére borított bőröndben!... Majdnem megfulladtam!...
+- Ha-ha-ha...
 A Nagy Bivaly felkacagott, és amikor Piszkos Fred nagy léptekkel megindult, hogy jogos áldozatát követelje, eléje állt.
 - Ez a fiú mától kezdve a barátom! Értetted?
 - A fiút én megölöm!
 Feszült várakozás.
 - Verekedni akarsz?
-- Végezni akarok veled! Ez a suhanc, aki bolondot csinált belőled, tetszik nekem! Jaj annak, aki hozzányúlbreakprice
+- Végezni akarok veled! Ez a suhanc, aki bolondot csinált belőled, tetszik nekem! Jaj annak, aki hozzányúl...
 A kapitány lassan át- meg áthúzta csúf kecskekörmeit a szakállán. Arca ezer ráncba vonult egy gúnyos vigyor köré:
 - Itt mindenki fél tőled, mert nem tudják, hogy buta vagy. Olyan buta, hogy az erőd sem számít. De én elbánok veled Bivaly! Tudhatod!
 A toprongyos, szakállas, kissé öreg Piszkos Fred úgy beszélt Szingapur rémével, mintha egy jámbor kecskegidát szánna, mert ostobán a sínekre tévedt. Mi volt az, ami mégis visszatartotta ezt a kolosszust, hogy szétlapítsa egyetlen csapással a gondozatlan, ősz kapitányt? Talán a szennyes kezek egyike, a bal, amelyet hanyagul a nadrágzsebébe süllyesztett, miközben jobbjával a szakállát cirógatta.
@@ -2043,7 +2043,7 @@ Az a bal kéz egy kést vagy pisztolyt szorongat, és Piszkos Fred nem szokott h
 - Csakugyan szorgalmas fiú - jegyezte meg Piszkos Fred összehúzott fél szemmel. - Azért mégis végzek vele.
 A Nagy Bivaly szinte rávetette már magát, de Piszkos Fred zsebében még jobban kipúposodott az a kés vagy valami, ahogy megszorította.
 A Nagy Bivaly kihúzta magát.
-- Nekem ez a fiú tetszik! - mondta végül is határozottan. - Nemcsak azért, mert kicsúfolt egy vén bolondot, hanem azért is, mert nem ijedt meg itt senkitőlbreakprice Vadsuhanc! A barátom vagy! Menj a szobámba! Ezentúl együtt lakunk, és senki sem fog bántani!
+- Nekem ez a fiú tetszik! - mondta végül is határozottan. - Nemcsak azért, mert kicsúfolt egy vén bolondot, hanem azért is, mert nem ijedt meg itt senkitől... Vadsuhanc! A barátom vagy! Menj a szobámba! Ezentúl együtt lakunk, és senki sem fog bántani!
 Általános megdöbbenést idézett elő a kijelentés. Az embergyűlölő Nagy Bivaly lakótársat vesz magához? Egy kölyköt?
 - Csak fecsegj. Minél többet beszélsz, annál nevetségesebbé teszed magad, mert a fiúval végzek - dörmögte Piszkos Fred, és leült a földre. Miután a Nagy Bivaly elment őfelségével, a kapitány még mindenfélét morgott magában halkan, azután a vendéglőshöz fordult:
 - Egy átkozott detektív elkobozta a kikötőben a revolveremet, de ami rosszabb: a késemet is. Kinek van egy bicskája?
@@ -2056,15 +2056,15 @@ Az óriás egy pillanatra zavarba jött. Azután kiment az odúból, és rövide
 - Honnan jössz?
 - Batáviából szöktem.
 - Mit akarsz itt?
-- Nem tudombreakprice Ésbreakprice most aludni akarok. Kimerült vagyok.
-És végigfeküdt a gyékényen. A Nagy Bivaly gyékényén. Több gyékény nem volt a helyiségben. Az óriás ott ült keresztbe font lábain, mozdulatlanul, reggelig. És nézte az alvót. Vigyázott rábreakprice
+- Nem tudom... És... most aludni akarok. Kimerült vagyok.
+És végigfeküdt a gyékényen. A Nagy Bivaly gyékényén. Több gyékény nem volt a helyiségben. Az óriás ott ült keresztbe font lábain, mozdulatlanul, reggelig. És nézte az alvót. Vigyázott rá...
 És másnap már mindenki tudta, hogy a Nagy Bivaly elvesztette az eszét. Egy kölyköt becéz, mintha a dadája lenne, vigyáz rá, és magával cipeli mindenfelé.
 Jaj lenne annak, aki belekötne vagy bántaná. A Nagy Bivaly, aki soha életében senkit sem szeretett, tisztára megvadult a szeretettől.
 Este valaki bekiáltott:
 - A Kegyelmes összehívja a Hidegek Tanácsát! Egy óra múlva vár téged is!
 A Nagy Bivaly először a keze ügyébe eső üveget emelte fel, hogy hozzávágja a hírnökhöz. De a herceg egy könnyű mozdulattal elvette tőle.
 - Ezt nem szeretem - mondta szemrehányóan, és a mesztic úgy pislogott, mint egy megszégyenített kutya.
-- Monddbreakprice hogy ott leszek - motyogta azután a bekukkantó egyénnek. - De várj csak. A Vadsuhancot is viszem, mert Piszkos Fred esetleg kihasználná az alkalmat, hogy megtámadja.
+- Mondd... hogy ott leszek - motyogta azután a bekukkantó egyénnek. - De várj csak. A Vadsuhancot is viszem, mert Piszkos Fred esetleg kihasználná az alkalmat, hogy megtámadja.
 A hírnök szinte támolyogva ment el. Soha ilyen csodát! A Nagy Bivaly meghülyült!
 - Mi az a Hidegek Tanácsa? - kérdezte a fiú.
 - Minden társaságnak van egy elnöke, és ezek az elnökök is egy klubban vannak. Ez a Hidegek-klubja. Olyanról tanácskoznak, ami itt mindenkinek fontos.
@@ -2074,22 +2074,22 @@ A hírnök szinte támolyogva ment el. Soha ilyen csodát! A Nagy Bivaly meghül
 - Nem olyan mint mi. De nagy bűnt követett el, amiért halálra ítélték.
 - Hol?
 - A Boldogság Szigetek fővárosában. St. Antonio uralkodó főherceg ítélte halálra.
-- Mi?breakprice Hogy hívják a Kegyelmest?
-- Alvarez néven köztársasági elnök voltbreakprice Mi bajod?!
+- Mi?... Hogy hívják a Kegyelmest?
+- Alvarez néven köztársasági elnök volt... Mi bajod?!
 Őfelsége elszédült kissé.
 3
 - Erről mondj el mindent - kérte a Nagy Bivalyt.
 - Nem lehet itt sokat tudni. Alvarez éppen Warinsszal, a kalózzal harcolt, amikor mindkettőjükre lecsapott St. Antonio. Alvarez pénz nélkül érkezett ide. Ez már régen volt. Többen menekültek onnan az ő emberei. Sok nagyvállalat hirtelen megszűnt Almirában, és ezek újra gazdagok lennének, ha St. Antonio elveszítené a trónt, és megint Alvarez köztársasága jönne. Ezek a vállalatok segítik pénzzel, és Alvarez megszervezte itt az állástalan matrózokat meg egyéb népeket a klubokban. Minden klub vezetője, ha kell, egy csomó embert állít a tagjai közül, és Alvarez valami alkalmat vár, hogy ezeket felfegyverezze, és rajtaüssön St. Antonión. Az is így rohanta meg őt. Ha elfoglalná a szigetet, akkor az nagy jutalmat, nyugodt életet hozna a klubok lakóinak. De addig is pénzt és mindenfélét ad nekünk.
-- De hátbreakprice az angolok védik a St. Antoniókatbreakprice - mondta a herceg, aki egészen elképedt mindattól, amit hallott.
-- Politikához nem értekbreakprice Az biztos, hogy Alvarez nemcsak az alvilággal érintkezikbreakprice Vannak magas állású urak, akik tudnak a klubrólbreakprice Különösen amerikaiakbreakprice ezeknek sok pénzük fekszik a megbukott köztársaságban. De ez mind homályosbreakprice
-Őfelsége csüggedten hallgatott. Mennyi intrika, mennyi alattomos terv lappang a trónja körülbreakprice
+- De hát... az angolok védik a St. Antoniókat... - mondta a herceg, aki egészen elképedt mindattól, amit hallott.
+- Politikához nem értek... Az biztos, hogy Alvarez nemcsak az alvilággal érintkezik... Vannak magas állású urak, akik tudnak a klubról... Különösen amerikaiak... ezeknek sok pénzük fekszik a megbukott köztársaságban. De ez mind homályos...
+Őfelsége csüggedten hallgatott. Mennyi intrika, mennyi alattomos terv lappang a trónja körül...
 Mi lenne, ha ezek tudnák, hogy ő, St. Antonio, itt van a fogságukban? Nyomban megölnék.
 A herceg elindult, és Nagy Bivaly, mint valami óriási mameluk, követte. Azon az úton ment le, amelyen Velő és társai felhozták. Ez az este még most is élénk színekben virult az arcán. A daganatok kék, zöld és vörös véraláfutásai között egy felismerhető vonása sem maradt meg a csinos, angyalarcú fiatalembernek. Inkább torzképre hasonlított, mint emberre. Két szeme szinte eltűnt egy-egy fekete daganatban.
 Vagy tízen üldögéltek a Kegyelmes körül, különlegesen torzonborz, fantasztikus külsejű egyének. Közöttük Tulipán és mellette egy hozzá hasonló alak. Ez az ember éppolyan tömzsi volt, mint őfelsége régebbi tulajdonosa, de teljesen sertésszerű, gömbölyű, borostás fejjel. A tömzsi egyén a Diétás Víg Fiúk sportklubjának elnöke volt, és Kannibál Béby néven közrettegésnek örvendett.
 Ott volt még Piszkos Fred, a kapitány. Egy felfordított ládán ült, és késével a körmét piszkálta.
 A középen egy zöldruhás, sovány, hihetetlenül hosszú férfi ült, karvalyorrú fejjel. Ez kétezer fontot ért élve vagy halva, és Holdvilág Charley volt itt a neve. Egy részeg, rongyos, ősz nő is részt vett a Hidegek-tanácsában, akit Mimózának hívtak, és kábítószerekben specialista volt. És az amerikai íróasztalnál, káprázatos eleganciával, ott ült a Kegyelmes. Már csak a Nagy Bivalyt várták, de végre megérkezett.
 - A Vadsuhanc nem vehet részt a Hidegek Tanácsában - rikácsolta Mimóza.
-- Semmi közöd hozzá, boszorkány! Majd éppen te mondod megbreakprice - vicsorított rá a mesztic óriás.
+- Semmi közöd hozzá, boszorkány! Majd éppen te mondod meg... - vicsorított rá a mesztic óriás.
 - Kint várok - súgta a fiú -, nem kell veszekedést kezdeni.
 Nagy Bivaly nem ellenkezett, és a herceg kiment. A klubhelyiség előcsarnokában pillanatnyilag csak Portás Robb üldögélt elmerülten, aki Buzgó Mócsinggal kockázott. Egy Brussából érkezett méregkeverő meglepte Robbot a kockákkal, amelyek egyik felükön némi ólommal voltak preparálva, azért ügyes dobással úgy játszhatott velük az ember, hogy a nehezebbik lapjukra essenek, és a jó eredmény ne pusztán a szerencsétől függjön. Miután mindketten ismerték a kockának ezt a tulajdonságát, a játék korrekt volt.
 Különben csak átsiettek egyes alakok ide vagy oda gyűlésre. Szokatlan izgalom, sürgés-forgás látszott az alvilágban.
@@ -2105,22 +2105,22 @@ MINDEN TOVÁBBI KARCOLÁS FELESLEGES!
 JELSZAVUNK:
 NINCS ÚJ A LAP ALATT!
 - Halló! - kiáltotta a Buzgó Mócsing barátságosan, mintha a legjobb cimborák lennének. - Mi újság? Apropó, nem akarom megbántani, de ön tartozik nekem.
-- Énbreakprice önnek?
-- Na nem kell nagyon a szívére venni. Ez a Tulipán visszavette a két és fél dollárt. Én nem tehetek arról, hogy maga nem volt alkalmas eladásra. De nem lényegesbreakprice Ne csináljon gondot belőle. Ha lesz miből, megfizeti. Ilyen összeggel nem érdemes tartozni. Igaz?
+- Én... önnek?
+- Na nem kell nagyon a szívére venni. Ez a Tulipán visszavette a két és fél dollárt. Én nem tehetek arról, hogy maga nem volt alkalmas eladásra. De nem lényeges... Ne csináljon gondot belőle. Ha lesz miből, megfizeti. Ilyen összeggel nem érdemes tartozni. Igaz?
 Ekkora szemtelenségtől őfelsége elképedt.
 - Ez igazán furcsa - kezdte dühösen, de az igazi Trebitsch mosolyogva legyintett:
-- Sokféle furcsaságot fog még tapasztalni itt, ha Piszkos Fred nem vágja el a nyakát, amire, sajnos, kevés az esélyebreakprice Itt csak a Nagy Bivaly és Tüskés Vanek mert eddig ujjat húzni vele.
+- Sokféle furcsaságot fog még tapasztalni itt, ha Piszkos Fred nem vágja el a nyakát, amire, sajnos, kevés az esélye... Itt csak a Nagy Bivaly és Tüskés Vanek mert eddig ujjat húzni vele.
 - Tüskés Vanek! - kiáltotta a herceg. - Halló! Hol találom?! Üzenetem van számára.
 - Ott van a Pudingok között, ha érdekli magát. Egy vörös hajú disznó!
 És dühösen elment. A Pudingok ajtaját egy folyosóval arrébb az igazi Trebitsch megmutatta.
 - Kik ezek a Pudingok? - kérdezte őfelsége, akit nem kínozhatott annyira semmi, hogy mohó érdeklődése csökkenjen.
-- Izébreakprice Ezek biztosítással foglalkoznak.
+- Izé... Ezek biztosítással foglalkoznak.
 - Mi? Hülyéskedik velem? Mi ellen biztosíthatnak ezek valakit?
-- Álmatlanság ellenbreakprice
+- Álmatlanság ellen...
 - Ember! Ne csúfolódjon.
-- Becsületszavamra. Ha egy kereskedő bizonyos összeget fizet, akkor biztosítják arról, hogy tőlük nyugodtan alhatbreakprice És az ilyen helyre nem is törnek bebreakprice Tehát kettős biztosítás: Álmatlanság és betörés ellen!
-- Szóvalbreakprice Zsarolók?
-- Hátbreakprice Ez kissé erős kifejezés, de igaz!breakprice Azért hívják őket Pudingoknak, mert akit kiszemelnek, az addig remeg tőlük, amíg fizet.
+- Becsületszavamra. Ha egy kereskedő bizonyos összeget fizet, akkor biztosítják arról, hogy tőlük nyugodtan alhat... És az ilyen helyre nem is törnek be... Tehát kettős biztosítás: Álmatlanság és betörés ellen!
+- Szóval... Zsarolók?
+- Hát... Ez kissé erős kifejezés, de igaz!... Azért hívják őket Pudingoknak, mert akit kiszemelnek, az addig remeg tőlük, amíg fizet.
 - Ahá! És a puding is remeg.
 - De nem fizet. Ez az egyetlen hibája ennek a tésztának.
 Közben odaértek a Pudingokhoz.
@@ -2141,19 +2141,19 @@ A herceg nekifeküdt az ajtónak, és benyitott. Olyasféle helyiségbe ért, am
 Egy rácsos hajólámpa függött a mennyezetről, az szolgáltatta a világítást, de igen gyengén.
 - Ki az? - dörmögte a homályban egy borízű basszus.
 - A Tüskés Vaneket keresem.
-- Úgy?breakprice Itt vagyok.
+- Úgy?... Itt vagyok.
 Oldalról eléje lépett valaki.
 A hercegnek tátva maradt a szája.
 Az a tüskés hajú, sovány, vörös egyén volt, aki harmadmagával ellopta a pénztárcáját. Ez nem ismerte meg a homályban a torzképpé kékült és dagadt, piszkos, rongyos suhancban azt a finom külsejű idegent, akit kifosztottak.
 - Mit akarsz?
-A herceg ismét azt az óriás verekedővágyat érezte, amely az első összecsapás után állandóan küzdésre ingerelte, ha bántották. Máris elfelejtette az üzenetet, mindentbreakprice
+A herceg ismét azt az óriás verekedővágyat érezte, amely az első összecsapás után állandóan küzdésre ingerelte, ha bántották. Máris elfelejtette az üzenetet, mindent...
 - A pénzemet akarom!
 Tüskés Vanek, aki maga is sápadt, suhancszerű ember volt, és senki sem hitte, hogy mire képes, amíg nem került sor verekedésre, közel hajolt a fiú arcához.
 - Hát ez ki?!
-- Semmi közöd hozzá! Gyáván és orvul megütöttél, miután elloptad a pénzemetbreakprice
+- Semmi közöd hozzá! Gyáván és orvul megütöttél, miután elloptad a pénzemet...
 A homályos sarkok megelevenedtek. Néhány imbolygó, fenyegető árny közeledett.
-- Várjatok!breakprice Hogy kerülsz ide, te kölyök?
-- Talán húszan jöttök rám megint? Délelőtt is négyen bántatok el velembreakprice Gyáva sakálok!
+- Várjatok!... Hogy kerülsz ide, te kölyök?
+- Talán húszan jöttök rám megint? Délelőtt is négyen bántatok el velem... Gyáva sakálok!
 - Mindenki menjen innen! - üvöltötte Vanek. - Ez a kölyök emlegesse meg, hogy sakálnak nevezett.
 - Helyes - felelte a fiú, és megnyalta az ajkait izgatottan. - De később se lépjenek közbe.
 Basszus hang szólalt meg a sötét sarokból.
@@ -2304,26 +2304,26 @@ TIZENHARMADIK FEJEZET
 1
 A sötét folyosón tért magához őfelsége. Ide röpítették ki Vanek és barátai, miután elájult.
 Bizonytalan léptekkel elindult, hogy megkeresse a helyiséget, ahol a Hidegek tanácskoztak. Jobbra ment egy folyosón, úgy tudta, hogy ott az ajtó. Azután balra fordult, mert világosságot látott. De csak egy cigánytanyára ért, ahol egy öregasszony halat sütött, és néhány rongyos, bamba arcú bennszülött hevert.
-Mintha lépéseket hallana maga mögött messze, a homálybólbreakprice
+Mintha lépéseket hallana maga mögött messze, a homályból...
 Sietett.
-Mindenfelé folyosók, ládákkal, szeméttel zsúfolt aknákbreakprice Egy hosszú, sötét labirintus végén ismét fényt pillantott megbreakprice Most már világosan hallotta, hogy követi valaki. Meggyorsította lépéseit. Az illető mögötte futni kezdett.
-Maga sem tudta, miért, ő is futásnak eredt. Már egész közel csattogtak az idegen lépteibreakprice Megfordult, de elkésettbreakprice
+Mindenfelé folyosók, ládákkal, szeméttel zsúfolt aknák... Egy hosszú, sötét labirintus végén ismét fényt pillantott meg... Most már világosan hallotta, hogy követi valaki. Meggyorsította lépéseit. Az illető mögötte futni kezdett.
+Maga sem tudta, miért, ő is futásnak eredt. Már egész közel csattogtak az idegen léptei... Megfordult, de elkésett...
 Megrúgták hátul a bokáját, hogy összeakadt a két lába, és végigesett. Valaki a hátára térdelt, és arccal a földre szorította.
-- Figyeljenbreakprice - suttogta a hang. - Nem kell tartania tőlem. Jóbarátja vagyokbreakprice Maradjon nyugton.
+- Figyeljen... - suttogta a hang. - Nem kell tartania tőlem. Jóbarátja vagyok... Maradjon nyugton.
 Ki ez a jóbarát, aki elgáncsolta, hogy kishíján betörte a fejét?
 - Bármi történjék, de jól jegyezze meg: bármi, maga nem árulja el, hogy kicsoda!
 - Maga tudja, hogy ki vagyok?
 - Hogyne. St. Antonio herceg!
-- Kicsoda önbreakprice
+- Kicsoda ön...
 - Az Intelligence Service embere. Ha nem követ el ostobaságot, akkor minden rendben lesz. A legkisebb hiba romlásba dönti magát, a hozzátartozóit és a szigetországot.
 - Mit kell tennem?
-- Semmit. Csak ne leplezze le magát. Ússzon az árral, és minden jó leszbreakprice Én mindig a közelében vagyokbreakprice Úgy, ahogy eddigbreakprice Bízzon bennem, fiambreakprice
+- Semmit. Csak ne leplezze le magát. Ússzon az árral, és minden jó lesz... Én mindig a közelében vagyok... Úgy, ahogy eddig... Bízzon bennem, fiam...
 - Kicsoda maga?
 Az árny távolodott.
 - Megálljon!
-- Nem szabad utánam kutatnibreakprice Sok ember romlását idézné elő, ha leleplezne. Ha felismerne valamiről, akkor is letagadom a személyazonosságot. Kár foglalkozni ezzel - súgta az idegen.
-- Mióta van a közelembenbreakprice?
-- Évek ótabreakprice
+- Nem szabad utánam kutatni... Sok ember romlását idézné elő, ha leleplezne. Ha felismerne valamiről, akkor is letagadom a személyazonosságot. Kár foglalkozni ezzel - súgta az idegen.
+- Mióta van a közelemben...?
+- Évek óta...
 A herceg felugrott, hogy megfogja, de az ismeretlen már eltávolodott.
 2
 - Az egyik keresztfolyosónál ismét meglátta hűséges őrzőjét.
@@ -2331,7 +2331,7 @@ A Nagy Bivaly jött, és fújtatott, mint valami lokomotív.
 - Bántott valaki?
 - Senki - felelte a herceg. A Tüskés Vanekkel fennálló ügyét nem akarta másra hárítani. - És ne gyámkodjék felettem, mert akkor nem lakom együtt magával!
 A Nagy Bivaly komikus volt, ahogy megrémült.
-- Ne bolondozzbreakprice - mondta erőltetett vigyorral. - Csak nem hagyod ott öreg barátodat?breakprice Hát jól van no, nem bánom, arra jársz, amerre akarszbreakprice
+- Ne bolondozz... - mondta erőltetett vigyorral. - Csak nem hagyod ott öreg barátodat?... Hát jól van no, nem bánom, arra jársz, amerre akarsz...
 A fiú megsajnálta a kolosszust, aki olyan bolondul megszerette.
 - Nem akarom, hogy maga miatt féljenek tőlem.
 - De a Piszkos Fred! Az elvágja a nyakadat.
@@ -2343,7 +2343,7 @@ Valaki futva jött.
 - Azonnal jöjjön a Vöröskaromhoz.
 - Mit akar tőle? - kérdezte kissé ijedten a Nagy Bivaly.
 - Nem mondja. De te is gyere. A Hidegek Törvénye elé kerül a fiú.
-- Mi?!breakprice És ha azt mondom, hogy nem ülhet senki törvényt a Vadsuhanc felett? - mondta a Nagy Bivaly falfehéren.
+- Mi?!... És ha azt mondom, hogy nem ülhet senki törvényt a Vadsuhanc felett? - mondta a Nagy Bivaly falfehéren.
 - Így mondta a Vöröskarom - felelte a másik.
 Ki lehet az, akinek a nevétől a Nagy Bivaly is elsápadt? Akitől a mesztic óriás is fél?
 Ki ez a Vöröskarom? És miért hivatja őt? Mi az a Hidegek Törvénye?
@@ -2354,11 +2354,11 @@ A Nagy Bivaly elszántan útnak indult. Szokatlanul komor volt az arca. Most kif
 - Minden. Ő meg a Kegyelmes döntenek arról, hogy mi legyen. De ő a Kegyelmesnek is parancsol. Ő mindenkinek parancsol, és egy intésére az alvilág minden embere megmozdul.
 - Te félsz tőle?
 Nagy Bivaly habozott.
-- Elpusztít, ha akar. És olyan szeme van, hogy nem lehet bírni. Egészen zöld lesz, és mintha világítana. A tenger változik át úgy, ha hirtelen felhő mögé bújik a napbreakprice
-Közben a folyosó végén már nappali világosság látszott. A herceg nem értette, hogy hova mennek. Az alvilág vezére talán nem lakik itt? Csónakba ülnek?breakprice De nem lát ilyesmit a bejáróhoz kötvebreakprice
+- Elpusztít, ha akar. És olyan szeme van, hogy nem lehet bírni. Egészen zöld lesz, és mintha világítana. A tenger változik át úgy, ha hirtelen felhő mögé bújik a nap...
+Közben a folyosó végén már nappali világosság látszott. A herceg nem értette, hogy hova mennek. Az alvilág vezére talán nem lakik itt? Csónakba ülnek?... De nem lát ilyesmit a bejáróhoz kötve...
 Néhány méternyire a nyílástól a Nagy Bivaly megállt.
 - Itt vagyunk.
-- Hol?breakprice
+- Hol?...
 Meglepetten felkiáltott. A folyosó oldalában, a falban, kis fafülke látszott, amelyen nem volt ajtó.
 - Gyere.
 Belépett a kamrába. A mesztic megrántott egy kötelet és néhány másodperc múlva emelkedtek.
@@ -2372,11 +2372,11 @@ Hogy kerülnek a Vöröskarom nevű rabló környezetébe haditengerészek? És 
 - Te itt fegyvert mersz húzni? - kérdezte a tiszt.
 - Tudni akarom, hogy mit terveztek a kölyökkel!
 - Azt Vöröskarom fogja megmondani. Érted?
-Hmbreakprice Egy angol sorhajóhadnagy tegeződik Nagy Bivallyal?
+Hm... Egy angol sorhajóhadnagy tegeződik Nagy Bivallyal?
 - Jegyezd meg, Főorvos, hogy a pokolba küldelek téged és a pojácáidat, ha valaki hozzáér a Vadsuhanchoz.
 - Tegye le a revolverét - mondta a fiú. - Nincs értelme.
 Nyugodtan odalépett a Nagy Bivalyhoz, és elvette a revolverét. A kolosszus morogva tűrte, mint egy oroszlán, ha a szelídítő a torkába nyúl mutatvány közben.
-- Hát ha te akarod, nem bánom, de annyit mondok, hogy egy haja szála se görbüljön meg a kölyöknek, mert akkorbreakprice
+- Hát ha te akarod, nem bánom, de annyit mondok, hogy egy haja szála se görbüljön meg a kölyöknek, mert akkor...
 A tengerészek közrefogták őket, és vezették. Az ablakon látszott a tenger és a távoli kikötő. A herceg csodálkozva nézett jobbra-balra a finoman berendezett lakásban. Már vagy a harmadik szobán mentek át.
 A tükörben megpillantotta az arcát. Az orra szép, kékesvörös uborkává nőtt. A szája keresztben repedt át, nyúlszerűvé duzzadt, két szeme sötétibolya daganatokba mélyült. Haja kócos volt, ruhája csupa rongy és piszok. Kevés jellegzetesebb fegyháztöltelék bolyongott ez idő tájt a külvárosban, mint őfelsége St. Antonio herceg.
 Azután beléptek egy szobába, és szemben az ajtóval ott ült egy asztal körül a Hidegek Törvénye.
@@ -2423,20 +2423,20 @@ Igy odamondtam! Egyenesen neki!
 Erre kissé falfehére halotthalványult. Jól visszavágtam. Mer ha én nem vagyok a király és idáig hagyott engem fajulni, akkor ő is palástbünös és ezért mellém ítélik a szomszéd kötélre bíróilag.
 Egész elém állt. De én nem ijedék, mer esz nem családi nekünk.
 Igy szóla:
-- Debreakprice azt könnyű bebizonyítani, hogy ön ép nem elméjü és gyámság jön. Én leszek a régen herceg és önt a főleg várba életfogytig várja abreakprice
+- De... azt könnyű bebizonyítani, hogy ön ép nem elméjü és gyámság jön. Én leszek a régen herceg és önt a főleg várba életfogytig várja a...
 Itt valami nőt mondott, aki vár. Bizonyos Ella. Az várja a bolond uralkodót. Bizonyára ápolónő. Tudom már! Aszt mondá:
 - Önt várja a Citad Ella!
 - Nésze - mondtam -, én nem vagyok egy szivbajos uralkodó és velem nem lehet a sors kegyelméből kitólni. Én nem hoszok törvényt, amig nem vagyok személyesen itt. Mer most csak helyettem vagyok itt. Maj ha visszatér az igaszi. Asz hoz.
-- Három nap gondolkozási időt kap. Ha addigbreakprice nem szánja el magát, akkor cselekszek! Értibreakprice felség?!
+- Három nap gondolkozási időt kap. Ha addig... nem szánja el magát, akkor cselekszek! Érti... felség?!
 - Nem vagyok hülye - mondám kegyesen.
 - És mi a válasza?
 - Az, hogy majt pont magától kapok szivrohamot az ijedségből folyólag.
-- Debreakprice
+- De...
 Kegyesen csengeték a gombon:
 - A kihallgatódzás véget nyert!
 És nem felelhete mer jött a Hidlakó fehér parókában fekete maslival hátul.
 Ekmont remegve dühtől távoza.
-- Esz a paróka régi francia aloncs nevezetübreakprice Esz jó? - mondta a Hidlakó.
+- Esz a paróka régi francia aloncs nevezetü... Esz jó? - mondta a Hidlakó.
 - Olyan azzal a maslival, mintha egy hibbant ősz nő bakfisnak hinné magát. De jobb, mint saját fénycsiszolt, hajtalan skalpja.
 Mondám. Ő fordula és mente. És olyan volt hátulról nézvést copffjában a fekete propellerrel, mint egy különös hitroplán.
 Én pedig bementem a könyvtárszobába és kivettem a polcról, a könyvek tára mögül pálinkát. És ivék.
@@ -2461,7 +2461,7 @@ Igy mondá!
 - Ilyen gaz ez asz Agmont?
 - Fél. Nagyon fél.
 - Mitől?
-- Asz régi történet. Husz év előtt én nem voltam királynő, hanem Wilbour Tehodor fregattkapitány felesége voltam, és született egy gyerekünk. Az elhunyt király, St. Antonio főherceg egyszer látott Tahitiben, ahol laktunk és belém szeretett. Neki is volt akkor egy gyereke és felesége. Én hát nem is álltam vele szóba mint asszony. Hiszen nős, családos volt. Ő akkor éppen trón nélkül élt Tahitiben, mer lázadás miatt menekült. Felesége a királynő sohasem látta Almirát. Azután egy ragályba meghalt felesége és gyereke, és nagyon szerencsétlen volt és sokat járt hozzánk. Kedvelte férjemet, és fivérem, Egmont, bizalmasa lett. Akkor asz én gyermekem volt kétéves. A férjem Wilbour Theorod fregattkapitány akkor úton volt. Ő sohasem volt jóviszonyban Ekmont fivéremmel. És egyszercsak Ekmont aszt jelenté nekem, hogy Theodor betegen jött haza fregattján, és a Szingapuri kórházban van. És engem yachtra ültetett, hogy hoszá menjek. És akkor amikor a yacht nyílt tengeren volt kisült, hogy Ekmont hazudott és elvittek Almirába. Erővel. A gyermekemet előre elvitték tőlem, és miatta én is mentem. Csukott kocsiba vittek a kikötőből a Főlegvárba, de a nép éljenzett. Asztat hitték hogy én vagyok a királyné. Mer a király ezt hirdette ki. Pedig a királyné az igazi trónörökössel még Tahitiben meghalt. De a nép ezt nem tutta, csak látták, hogy jön egy gyerek meg egy nő. De az én voltam. Mit csinálhattam én a főlegvárban? Férjemet nem értesíthettem. Vele elhitették, hogy elhagytam. Belekellett nyugodni lassan, lassan. És a gyerekem igy trónörökös lett. Egmont mindig tudott engem tenorizálni. Most is. A St. Antonio, akit maga ismer, az Wilbour Theodor fija, és ezt senki sem tudja, ő se tudja, csak Egmont, én és most maga. És tutta a meghalálozott, a néhai király bátyja, Fernandez, aki régen herceg voltbreakprice
+- Asz régi történet. Husz év előtt én nem voltam királynő, hanem Wilbour Tehodor fregattkapitány felesége voltam, és született egy gyerekünk. Az elhunyt király, St. Antonio főherceg egyszer látott Tahitiben, ahol laktunk és belém szeretett. Neki is volt akkor egy gyereke és felesége. Én hát nem is álltam vele szóba mint asszony. Hiszen nős, családos volt. Ő akkor éppen trón nélkül élt Tahitiben, mer lázadás miatt menekült. Felesége a királynő sohasem látta Almirát. Azután egy ragályba meghalt felesége és gyereke, és nagyon szerencsétlen volt és sokat járt hozzánk. Kedvelte férjemet, és fivérem, Egmont, bizalmasa lett. Akkor asz én gyermekem volt kétéves. A férjem Wilbour Theorod fregattkapitány akkor úton volt. Ő sohasem volt jóviszonyban Ekmont fivéremmel. És egyszercsak Ekmont aszt jelenté nekem, hogy Theodor betegen jött haza fregattján, és a Szingapuri kórházban van. És engem yachtra ültetett, hogy hoszá menjek. És akkor amikor a yacht nyílt tengeren volt kisült, hogy Ekmont hazudott és elvittek Almirába. Erővel. A gyermekemet előre elvitték tőlem, és miatta én is mentem. Csukott kocsiba vittek a kikötőből a Főlegvárba, de a nép éljenzett. Asztat hitték hogy én vagyok a királyné. Mer a király ezt hirdette ki. Pedig a királyné az igazi trónörökössel még Tahitiben meghalt. De a nép ezt nem tutta, csak látták, hogy jön egy gyerek meg egy nő. De az én voltam. Mit csinálhattam én a főlegvárban? Férjemet nem értesíthettem. Vele elhitették, hogy elhagytam. Belekellett nyugodni lassan, lassan. És a gyerekem igy trónörökös lett. Egmont mindig tudott engem tenorizálni. Most is. A St. Antonio, akit maga ismer, az Wilbour Theodor fija, és ezt senki sem tudja, ő se tudja, csak Egmont, én és most maga. És tutta a meghalálozott, a néhai király bátyja, Fernandez, aki régen herceg volt...
 Esz nagyon regényes história.
 - És - kérdem - mit tett a fregattkapitány Wilbour Theodor?
 - Ő keresett sokáig. Aszután évek mulva megtalált. De a fija miatt hallgatott, hiszen már akkor trónörökös volt és csendben elment. Ekmontnak pedig írt, hogy ha a fia király lesz, megmond neki mindent. Esz lesz a bosszuja. És Ekmont mindég félt ettől, és ha mostan törvény jön, hogy asz én királynői családom is örökölheti a trónt, akkor ő mekkoronásztatja saját magát és a fijamat kisemmizi a trónból.
@@ -2500,13 +2500,13 @@ A Nagy Bivaly kétségbeesett kedvencének hihetetlen szemtelensége miatt.
 A Hidegek Törvénye fenyegető zúgással vette tudomásul a szemtelenséget.
 Vöröskarom felugrott. Most olyan volt a szeme, amilyennek a Nagy Bivaly leírta. Egészen furcsa, arannyal vegyített hidegzöld, mint amikor a tengeren új szín vonul végig, mert a napot egy átsiető felleg elfedi.
 Úgy látszott, hogy egyetlen szót fog csak mondani, és a herceget már viszik elveszejteni. De lassan kihunyt a méregzöld szemfény.
-- Ne merészeljen ilyen hangon beszélni, mertbreakprice
+- Ne merészeljen ilyen hangon beszélni, mert...
 - Felesleges kísérletezés, hogy megijesszen. Nem félek.
 - Mondtam nektek, hogy szemtelen a kölyök, és megérett arra, hogy elintézzék - szólt bele Piszkos Fred.
 - Mióta ítélkezik a Hidegek Törvényén ez az alak? - szólt fogcsikorgatva a Nagy Bivaly.
 Többen nyomban a fiú pártjára keltek csak azért, mert a kapitányt senki sem szerette.
 - Rakjál ki mindent a zsebedből - szólt közbe a Kegyelmes. - Megnézzük, mi van nála, ott a kabátjában!
-Most eszébe jutott! - a szarvasbőr táska! Fernandez herceg irataival! Ha megtudják itt, hogy kicsodabreakprice Egy percig sem él!
+Most eszébe jutott! - a szarvasbőr táska! Fernandez herceg irataival! Ha megtudják itt, hogy kicsoda... Egy percig sem él!
 A Főorvos nevű tengerésztiszt elvette az írásokat, és átadta Vöröskaromnak.
 A nő alighogy belenézett az iratokba, meglepetten felkiáltott. Azután még ijesztőbb aranyzöld fényt kapott a szeme.
 De nevetett.
@@ -2536,7 +2536,7 @@ A Vöröskarom feléje fordult.
 - Maga azért készült visszatérni, hogy uralkodjék a Boldogság Szigeteken?
 - Ezt beismerem.
 - Ezt a levelet és az okmányt Fernandez régens, St. Antonio herceg gyámja írta Warinshoz.
-"Hmbreakprice Mi lehet azokban az írásokban?"
+"Hm... Mi lehet azokban az írásokban?"
 - Tudni akarok mindent! - mondta Vöröskarom, és elvette a Kegyelmestől az írásokat. Gyorsan átfutotta.
 - Micsoda aljasság! - kiáltotta, és dühös megvetés villant fel sokszínű szemében. - Szóval összejátszott azzal az alantas régens herceggel, hogy elteszi láb alól a fiatal St. Antoniót.
 - Nem igaz! Gyalázatos rágalom!
@@ -2545,9 +2545,9 @@ A Vöröskarom feléje fordult.
 - A mi tüzünknél akarta megsütni a pecsenyéjét! - kiáltotta gúnyosan a Kegyelmes. - Még szerencse, hogy Bonifác klubtag feljelentette Fülig Jimmyt.
 A herceg szinte fuldoklott a fájdalomtól, amikor belenézett az írásokba, és felismerte a régens keze vonását. Milyen szörnyűség! Tehát Fernandez bácsi összejátszott egy trónbitorlóval, egy kalóz fiával, aki szökött fegyenc!
 - Világos! - mondta a Vöröskarom. - Megölték a herceget, és Fülig Jimmy a régens segítségével átvette az uralkodó szerepét.
-- Te most menjbreakprice - mondta a Kegyelmes a leánynak. - Jelentsd be egy bizonyos úrnak, hogy beszélni akarunk vele.
+- Te most menj... - mondta a Kegyelmes a leánynak. - Jelentsd be egy bizonyos úrnak, hogy beszélni akarunk vele.
 Miután a lány kiment, egy ideig csend volt.
-- Hát ez rejtélyes - szólt a Kegyelmes -, hogy akarja Fülig Jimmy a családdal elhitetni az azonosságotbreakprice Mi a véleménye, Fred?
+- Hát ez rejtélyes - szólt a Kegyelmes -, hogy akarja Fülig Jimmy a családdal elhitetni az azonosságot... Mi a véleménye, Fred?
 - Piszkos Fred, mit szól az ügyhöz? - kérdezte Tulipán.
 A kapitány bóbiskolt.
 - Magát nem érdekli a dolog?
@@ -2559,10 +2559,10 @@ A kapitány bóbiskolt.
 - Letagadta, hogy ismeri Bonifácot.
 - Ezt meg tudom érteni. Én sem dicsekszem vele.
 - Mi a véleménye?
-- Nem árt ezt a kölyköt elintéznibreakprice - Utálattal látták, hogy Piszkos Fred most is csak a fiú elleni bosszújával törődik.
-- Ésbreakprice az Almirába siető angol cirkálók Fülig Jimmy királyságát védik - szólt közbe Holdvilág Charley. - Mert két cirkáló van állandóan a közelben.
+- Nem árt ezt a kölyköt elintézni... - Utálattal látták, hogy Piszkos Fred most is csak a fiú elleni bosszújával törődik.
+- És... az Almirába siető angol cirkálók Fülig Jimmy királyságát védik - szólt közbe Holdvilág Charley. - Mert két cirkáló van állandóan a közelben.
 - Nem valószínű, hogy Fülig Jimmy trónjáért az angolok közbelépjenek.
-Ez csakugyan valószínűtlennek látszott, és őfelsége kezdte rosszul érezni magát. Veszélyes lehet, ha az angolok védelmére szorulnakbreakprice és Fülig Jimmy ül a trónon.
+Ez csakugyan valószínűtlennek látszott, és őfelsége kezdte rosszul érezni magát. Veszélyes lehet, ha az angolok védelmére szorulnak... és Fülig Jimmy ül a trónon.
 - Itt a perc - mondta a Kegyelmes -, amelyre évek óta várunk! Elmegyünk Almirába! Leleplezzük Fülig Jimmyt, és a zűrzavarban visszaállítjuk a köztársaságot. Akkor ti valamennyien nagy jutalmat kaptok az embereitekkel együtt.
 - És ez a kalózkölyök?
 - Végezzetek vele!
@@ -2579,22 +2579,22 @@ Akkormég úgy hitte, hogy ő jön helyettem királynak. Pedig én mentem helyet
 No mintegy. Reméljük a legjobbat. Én csupa jobbhelyre attam ajánlást őfelségének ezért, ha nem lesz baja, akkor örülhet, hogy megúszta.
 Mostanában a könyvtárban pálinka helyett könyvet is néztem több alkalommal. Nagy uralkodók volt a címe, és tanultam ebből a szakmát.
 Itten van asz, hogy minden uralkodónak családi fája van, de amint látom, aszon nevek nőnek. Aszután áll, hogy egy uralkodó, bizonyos Bonepárti aszt monta, hoty kenyérrel és vassal Kínáig is eljut Franciaországból. Asz nem kunszt. Próbálja meg egy vas nélkül, ahogy én szoktam. Továbbá uralkodók kegyesek, leereszkedők és fent ségesek és nem tetsző egyéneket a vár fogán lelövetnek. Vagy pedig lefejezték a nyakukat.
-Meg eszt modják: "Uralkodása alatt népe felvirágzott és a főtéren egy szoborba megőregítették mását. Népe célját tűszte ki boldogulásulbreakprice"
+Meg eszt modják: "Uralkodása alatt népe felvirágzott és a főtéren egy szoborba megőregítették mását. Népe célját tűszte ki boldogulásul..."
 Van itt egy 8-adik Hendrik, asz mindég a hóhérnál tartott válópert. Igazán elvesztették érte fejüket a nők.
 Hát esz nem érdekes. Sokkal izgatóbb, hogy a főlegvár erkélyén át látok jönni egy ismerős alakot.
-És megrémültembreakprice Szentatyámbreakprice
+És megrémültem... Szentatyám...
 Miféle csoda?
 Ez Bonifác!
 Semmi 2-ség. Ez a szélhámos megismert a hajón és megsejtette asz üzenetet! Ide jön zsarolni! Na megállj! Sajátkezüleg csengeték, és amikor jött a lakáj, kinek cipőjét még mindig hordám (saját lábulag), a hídlakót kértem.
 Na jött. Copffján a propeller, ruhája zöld és mintha holta után márványba megöregítették volna.
 - Gombperec úr! Egy ember jön a főlegvár felé! Fogassa el.
 - Miért felség?
-- Ez az én dolgom. Azonnal fogassa el, vessék börtönbe és hajnalban a vár fogánbreakprice
+- Ez az én dolgom. Azonnal fogassa el, vessék börtönbe és hajnalban a vár fogán...
 - Felség! - rebegé.
 - Csend! Kora hajnalban a vár fogán felpofozni és kitoloncolni a szigetről. Többé nem látogathatja.
-- Debreakprice ez nem törvényes eljárás! Én itten egy miniszter rangjában a törvény őre vagyok.
+- De... ez nem törvényes eljárás! Én itten egy miniszter rangjában a törvény őre vagyok.
 - Kollegám egy bizonyos 8-adik Hendrik, aki szintén szigeti király volt, még Mórhus Tamás nevű miniszterét is lefejezé.
-- Felségbreakprice ez nagyon régi volt.
+- Felség... ez nagyon régi volt.
 - Majt én visszahozom ezeket a régi szép időket. Menjen s tegye amit parancsolni kegyem vala. Aszt az embert hajnalban a vár fogán egy balegyenessel kitoloncolni.
 Rezgett a feje szegénykének, amíg ment. De parancs az parancs, jól tudám.
 Amikor kinésztem asz ablakon, éppen elfogták eszt a sakál Bonifácot. És ha nem nésztem volna királyi tekintélyemet, enenkezüleg kenek le neki, mert ilyesmit nem jó másra bízni.
@@ -2606,52 +2606,52 @@ Meghajolt és távozott, mer harisnyában volt. Én is készültem a cipőt leh�
 - Jöhet - mondom én.
 És jőtt: Egy másodpercig farkasszemet néztünk. Azutág szóla:
 - Kész van az államtanácshoz?
-- Igen. Csakbreakprice megfürödtem éppen.
+- Igen. Csak... megfürödtem éppen.
 - Röviden: ha a mai államtanács nem pikkelyezi a trónöröklési törvényt, akkor gyámság alá jön, és a Citag Ella várja magát.
 Bisztos egy öreg nő, hogy így ijeszt vele. Mostan baj volt aszonban a gyámság miatt.
-- Nézze Egmontbreakprice esztbreakprice úgy áll a dolog, hogy adjon időt mégbreakprice mondjukbreakprice
+- Nézze Egmont... eszt... úgy áll a dolog, hogy adjon időt még... mondjuk...
 - Hiába 5-öl 6-ol. Esz fiksz! Esz hadüzenet. Áll Timátum!
 Ez valami bentszülött átok lehet. De mingyár elment.
 Én meg ott álltam megfürödve.
 Most mi legyen? A királynő kért, hogy ne írjam alá. A király sem akarhattya, hogy én a képébe törvényt hosszak.
 Kinésztem.
-Sok, sok csillag volt és nehéz nedves esti levegőbreakprice Mindenfelé a pálmák és a szapad természet jó szagai, meg arra messze a sima fekete Indiai Oceján.
+Sok, sok csillag volt és nehéz nedves esti levegő... Mindenfelé a pálmák és a szapad természet jó szagai, meg arra messze a sima fekete Indiai Oceján.
 Eh! Fülig Jimmy! Mire vársz? Vigyél el néhány ékszeres kitüntetést orgaszda barátaidnak és gyerünk! Nem teneked való az uralkodói ipar!
 Már most vaty két napig nem jól alszom asz ágyban és nincs étvágyam. Toulonban egy vizes bálán jobban hálnék és fejedelmi lenne utaszni egy hajófenékbe.
-Esz nekem elég volt! Mire elmúlik a monszun, jó lenne valami lármás kikötőbe lennibreakprice
+Esz nekem elég volt! Mire elmúlik a monszun, jó lenne valami lármás kikötőbe lenni...
 Hát gyerünk. És eszennel kiváltó tisztelettel ajánlom magamat! Néhány kisebb fém emléktárgyat, aranyt meg ilyent azért viszek. Asz ember ingyen nem uralkodik! Ahogy a királynő mutatta, elfordítok a kép mellett egy fát és a keret odébmegy. Én besliszolok és visszatolom.
 Jó napot. Csak várjon a tisztelt államtanács harisnyába, amíg náthát kap. Végigmegyek a folyosón. Mert a zseblámpámat megőrzém uralkodásom idején. Keszdetétől napjainkig.
 Néhány szép nagy patkány riadtan szétfutkál. Helyes kis állatok eszek. És végül gyövök egy nagy kapuhoz. Eszt kinyitom és ottan vatyok a hetyoldalnál.
 Szabad ég alatt!
-Teleszívom magamat a friss levegővel! De nagy öröm, ha az ember tetronidzálhatja magátbreakprice Ott van a vasúti sín fűvel benővebreakprice Istenem! Hogy is van a csavargók nagy mondása?
+Teleszívom magamat a friss levegővel! De nagy öröm, ha az ember tetronidzálhatja magát... Ott van a vasúti sín fűvel benőve... Istenem! Hogy is van a csavargók nagy mondása?
 "Mindenütt jó, de a legjobb sehol!"
 Hohó!
 És már indulnék, amikor egyszerre egy csendes hang mondja:
 - Jó estét José.
 Ott állt előttem a kísértetkapitány, és egy pisztolyt tart az arcom elé, de nyugodt és közömbös, mint mindig, és sapkaernyőjén, meg a gummiköpenyén folydogáló párák vízcsöppjein megcsillan a holdfény.
-- Magabreakprice? - mondom kissé rekedten, mert furcsa volt.
+- Maga...? - mondom kissé rekedten, mert furcsa volt.
 - Igen.
 - Ki maga?
 - Mindegy José. Így nem hagynak ott egy trónt, battyúval, éjszaka!
 - Mi köze?
-- Csendbreakprice Még szükség van magára José. Maradnia kell, érti?breakprice
+- Csend... Még szükség van magára José. Maradnia kell, érti?...
 - És ha nem?
 - Akkor lelövöm.
 De ezt szinte szelíden mondta. És cigarettázik.
 - Mondja José, igazán nem tudja, mi lett avval a szekrénnyel, ami Fernandez szobájában volt, aki régen herceg?
 Mit akar ez evvel? Valami kígyó zörren a bokorban.
 - Feleljen, de őszintén, mert nagyon fontos lehet.
-- Felelek. Nem tudok a szekrényrőlbreakprice Dehát esz miért fontos?
-- Merbreakprice lehet, hogy amikor én magával vízbedobattam Fernandezt, akkor a halott helyett ez a szekrény volt a lepedő alatt.
-- Aszt nem lehet! Láttam a halott kezét kilógni. Szürke, nagy kézbreakprice
+- Felelek. Nem tudok a szekrényről... Dehát esz miért fontos?
+- Mer... lehet, hogy amikor én magával vízbedobattam Fernandezt, akkor a halott helyett ez a szekrény volt a lepedő alatt.
+- Aszt nem lehet! Láttam a halott kezét kilógni. Szürke, nagy kéz...
 Valósággal felderült az arca:
 - Esz biztos?!
-- Bisztosbreakprice Dehátbreakprice
+- Bisztos... Dehát...
 - Menjen vissza, José.
-Könnyű szél jött erre át a dagállyal a tenger felől és sós szag voltbreakprice Láttam is messze, ahoty egy repülő hal felugrott a viszből és tükrözve fitszánkoltbreakprice
+Könnyű szél jött erre át a dagállyal a tenger felől és sós szag volt... Láttam is messze, ahoty egy repülő hal felugrott a viszből és tükrözve fitszánkolt...
 De jó lenne menni.
-- Vissza José - mondta ismét csendben és nekem vissza kellett meni, pedig olyan csuda ködök jöttek befelé a tengerrőlbreakprice
-- Hmbreakprice - jegyeztem neki mentében. - Félek az államtanácstólbreakprice
+- Vissza José - mondta ismét csendben és nekem vissza kellett meni, pedig olyan csuda ködök jöttek befelé a tengerről...
+- Hm... - jegyeztem neki mentében. - Félek az államtanácstól...
 - Nem lesz államtanács! - kiáltá utánam és becsapta a kaput.
 Hallottam, ahogy egy nagy sziklát dübörgőn rágurít.
 Fogva voltam, most már. Erre nincs többé kijárás. De miért mondá, hogy nem lesz államtanács?
@@ -2668,14 +2668,14 @@ A herceget összekötözték. Nyugodtan tűrte. Jól tudta, hogy meg kell halnia
 Odalépett a Nagy Bivalyhoz, és kezet nyújtott.
 - Köszönöm, hogy segíteni akart rajtam, és sajnálom, hogy nem jutalmazhatom meg ezért.
 A Nagy Bivaly arcán valami bornírt megilletődés látszott. Úgy fogta a fiú kezét, mintha nem tudná, mi az. Nézte a finom kis mocskos ujjakat, forgatta, tapogatta.
-- Te kölyökbreakprice te voltál az első emberbreakprice akivelbreakprice szívesen voltambreakprice ésbreakprice
+- Te kölyök... te voltál az első ember... akivel... szívesen voltam... és...
 Körülnézett sötéten, de annyi revolvermarkolatot fogtak körülötte mindenre elszánt emberek, hogy tehetetlen kínjában megcsikordult a foga, hangosan, bántón.
 - Gyerünk - mondta Holdvilág Charley -, vigyétek ezt a férget a Vészkijárathoz.
-Két haditengerészet elvezette, és ezzel befejeződött St. Antonio uralkodó herceg őfelsége rövid találkozása a szabadsággalbreakprice
+Két haditengerészet elvezette, és ezzel befejeződött St. Antonio uralkodó herceg őfelsége rövid találkozása a szabadsággal...
 Most nem vitték a lifthez. A ház belsejéből néhány lépcső vezetett le valahová. Azután föld alatti folyosókon át haladtak sokáig vaksötétben.
 - Menj előre! - mondta az egyik kísérő.
 Engedelmeskedett.
-Egyszerre megcsúszott, és gurultbreakprice gurult. Nem sokat. Néhány métert mindössze egy sáros, meredek lejtőn.
+Egyszerre megcsúszott, és gurult... gurult. Nem sokat. Néhány métert mindössze egy sáros, meredek lejtőn.
 Mi ez neki? Fel sem kiáltott. Az egyik haditengerész hangja zúgott végig a boltozatok között:
 - Ördög Will!
 Fénypont közeledett imbolyogva, majd megjelent egy ember, csakugyan olyan, mint az ördög. Szénfekete néger volt, egy lámpással és egy revolverrel felszerelve.
@@ -2693,7 +2693,7 @@ Az ördög leszólt fentről.
 - Nem kell.
 - Pálinka sem?
 - Az sem. Mi lesz itt velem?
-- Hátbreakprice bizonyára meghalsz. Nem a legrosszabb. Volt egy nagybátyám, az leprát kapott.
+- Hát... bizonyára meghalsz. Nem a legrosszabb. Volt egy nagybátyám, az leprát kapott.
 Jó fiú ez. Vigasztalni akarja. A herceg a síkos lejtő alján ült, és nézte a meredek falakat, ahogy a szeme megszokta a félhomályt.
 - Másfelől is le lehet ide jutni? - kérdezte az ördögöt.
 - Nem hiszem.
@@ -2709,13 +2709,13 @@ Csendben voltak. Loccsanás hallatszott. Cseppek hullottak.
 - Kegyetlen, de bölcs szokás.
 A csobbanások közelebbről hallatszottak! Jön a dagály!
 - Azért a ruhádat nekem adhatod, meg ha van valamid. Ámbár nem úgy nézel ki, mint akinek valamije lehet - tette hozzá mélységes emberismerettel.
-- Ésbreakprice ez az ajtó minek?
+- És... ez az ajtó minek?
 - Azon jön be a víz. Ostobaság az egész. Valamikor ott lakóhely volt, amíg a tenger nem mosta alá a partot. Azóta még nem rothadt ki egészen az ajtó.
 A kis csapóajtó megbillent. Némi víz szüremlett már az aknáig, és mozgatta a laza szárnyat. Jó, hogy mint Warins hal meg. Nem méltó vég egy St. Antonióhoz.
-- Nem jó mesterség az enyém - mondta az Ördög. - Mert némelyik ordít, átkozódik. Volt, amelyik követ dobott rám. Pedig hát mit tehetek én az egészről?breakprice Ha nem lenne egy-egy jó ruha néha, hát semmiért sem vállalnám. - És még hozzátette nyomatékkal. - Mert a ruhát, azt nekem lehet adni. Minek elvinni a halakhoz nem?
+- Nem jó mesterség az enyém - mondta az Ördög. - Mert némelyik ordít, átkozódik. Volt, amelyik követ dobott rám. Pedig hát mit tehetek én az egészről?... Ha nem lenne egy-egy jó ruha néha, hát semmiért sem vállalnám. - És még hozzátette nyomatékkal. - Mert a ruhát, azt nekem lehet adni. Minek elvinni a halakhoz nem?
 Ezt a herceg is belátta. A szabadon lengő ajtószárnyak sűrűn nyikordultak a befelé szüremlő víztől. Az akna alját már néhány centiméter víz borította el.
 - Kapd el! - kiáltotta a herceg, és feldobta a mocskos, szakadt blúzát. Azután a nadrágot.
-- Köszönömbreakprice - vigyorgott boldogan az Ördög. - Csakugyan nem akarsz heringet?
+- Köszönöm... - vigyorgott boldogan az Ördög. - Csakugyan nem akarsz heringet?
 - Nem kérek.
 Ott állt mezítelenül, bokáig vízben, és a dagály egyre erősebben áramlott. De még térdig sem ért a víz, amikor néhányan érte jöttek.
 Közeledett a Főorvos nevű haditengerész.
@@ -2728,15 +2728,15 @@ A víz már térdig ért. A herceg elkapta a kötelet. Felrántották.
 - Az már az enyém! - hördült fel a néger.
 - Add oda, mert beverem a fejedet.
 Siralmas arccal nyújtotta át a holmikat.
-- Szép eljárásbreakprice - siránkozott az Ördög. - Elveszik, ami jogosan az enyém!
+- Szép eljárás... - siránkozott az Ördög. - Elveszik, ami jogosan az enyém!
 Ismét felmentek. A herceg nem sok reménnyel tért vissza. Mit reméljen?
 Abba a szobába vitték, ahol az imént állt a Hidegek előtt. Amikor végignézett a bíráin, szinte sajnálta, hogy nincs még vége az egésznek.
 - Warins - mondta a Vöröskarom. - A halálítéletét megváltoztattuk.
 - Úgy. És mi fog velem történni?
-- Feleségül vesz engembreakprice
+- Feleségül vesz engem...
 2
 Csodálkozva állt.
-- Nem értem, kérembreakprice - szólt azután.
+- Nem értem, kérem... - szólt azután.
 - Megmenekült a haláltól - magyarázta türelmetlenül Vöröskarom. - El fog venni engem feleségül.
 - Sajnos - felelte a herceg - akkor mégiscsak végem.
 - Miért? - kérdezte ámultan Vöröskarom.
@@ -2747,12 +2747,12 @@ Az aranyfényű, hideg zöld szemek félelmetesen ragyogtak. A szép kis száj f
 Most igazán ijesztő volt a leány.
 - Maga söpredék! Maga csúfolódni merészel?
 - Nem csúfolódom, és tisztelem önt, sőt kissé félek is e pillanatban, de a fenyegetés nem megfelelő mód arra, hogy tetszésemet megnyerje.
-- Magabreakprice maga mit gondol - mondta, és utálattal nézett a kék-lila hurkákkal lepett daganatokra a herceg arca helyén -, miért akarom, hogy feleségül vegyen?
+- Maga... maga mit gondol - mondta, és utálattal nézett a kék-lila hurkákkal lepett daganatokra a herceg arca helyén -, miért akarom, hogy feleségül vegyen?
 - Bizonyára megfelelő élettársnak képzel. De ebben téved. Én szeretem az italt és a szabad életet.
 - Bolond.
-- Az igaz, de nem annyira, hogy elvegyem. Ön igen csinos, azonban nekem nem tetszik. Telt idomú, fekete hölgyeket szeretek. - És újra a matrózok felé fordult. - Gyerünk, fiúk, mert elmúlik a dagály, és akkor ülhetek hat órát abban a gödörbenbreakprice
+- Az igaz, de nem annyira, hogy elvegyem. Ön igen csinos, azonban nekem nem tetszik. Telt idomú, fekete hölgyeket szeretek. - És újra a matrózok felé fordult. - Gyerünk, fiúk, mert elmúlik a dagály, és akkor ülhetek hat órát abban a gödörben...
 A herceg jól tudta, hogy álnéven kötött házasságok éppolyan érvényesek, mintha St. Antonio főherceg néven esküdne meg a leánnyal.
-- Hát akkorbreakprice Majd megtanítom, hogy másképp kell beszélni velembreakprice Itt elbánnak az ilyen pökhendi kölyökkel.
+- Hát akkor... Majd megtanítom, hogy másképp kell beszélni velem... Itt elbánnak az ilyen pökhendi kölyökkel.
 - Tulipán - mondta Holdvilág Charley -, ezt az alakot egy guanótelepre add el.
 A herceg egykedvűen vállat vont:
 - Tehetnek velem, amit akarnak. Nem nősülök. Ölessen meg, tépjenek szét, süssenek meg lassú tűzön: én élek-halok a fekete hajú, telt idomú nőkért.
@@ -2763,7 +2763,7 @@ A nő most már nevetett, és szó nélkül kiment, de nagyon bevágta az ajtót
 - Mit teketóriázunk! - kiáltotta Holdvilág Charley.
 - Igen vagy nem? Feleljen!
 - Ne feleljen - mondta Kannibál Béby. - Adjatok neki öt perc gondolkodási időt. Vigyétek a Szárítóba.
-- Kérembreakprice
+- Kérem...
 Újra vitték.
 A Szárító egy gömbölyű üreg volt. Olyasféle, mint valami ókori sírbolt, sima kemény fallal körülvéve. Pedig nem emberi kéz formálta ezt az üreget. Kínai díszműkészítők laktak a kültelken, és itt hevítették a formált agyagot, földbe vájt kemencékben. Éjjel-nappal izzó, betapasztott gödrök fogták körül ezt a Szárítónak nevezett kavernát. Az amúgy is pokoli forróság itt elviselhetetlen volt.
 Sok mindent elmondtak már a Szárítóban, amit nem szántak közlésre. Őfelsége először azt hitte, hogy nyomban megfullad, amikor betaszították és a nyílást elzárták egy kővel.
@@ -2781,32 +2781,32 @@ Tuthattam volna előbb is. Hiszen esz a Wirth nevű kapitán, amint hallottam cs
 Erre is magamtól gyöttem rá.
 A rentőrség Jáváról mostan ír: Aszongya. Elnyerte a megállapítást, hogy a fegyenc nem a Bolondság Sziget felé vette útját, amint aszt elejinte hittük, hogy bosszút álljon, hanem zseniális módon a kiráj elé szökött Por-Cueszbe. És ő is a Holo-Nununsztáron gyött, mert Szingaporban kishijján elfoktuk a nyomát. Tugyuk egy Bonifác nevűnek a bejelentéséről (esz a spicli mék kihússza tőlem a legmagasabb lutrit) hogy a Nono-Holasztárlulu fedelezén gyött, Warins Szingapurba. Megnyerte továbbá az állapítást: A hajó kapitánya Porc-Tueznél megbeteg lett és itt egy kitűnő írásokkal ellátott amerikai kapitán vette át a veszetését a Hollo-Sztárnulunak, de most már tugyuk, esz hamis írás volt mind. Így főt ételezhető, hogy Warins mekmérgeszte a kapitánt és hamis iratokkal elutazott hejette a Holono-Luszátoron Szingapurba.
 Hát enyi elég volt, hogy rágyöjjek: Warins volt a kapitán! Eszért akarta, hogy engedéj dacára a hajóról viszbedobgyam Fernánteszt, aki régen hercek. És Szingapurba átslisszolt az Almira yachtra.
-Asz viszont bisztos, hogy eszt a szegény Egmontott ő ölte meg. És ebből az alkalomból távozott a titkos ajtón. Ahol később nekem szembeállt revolverrel. Eszért monta, hogy "nem lesz államtanács". Mer tudta, hogy Ekmont pillanatnyi elhalálozása mijat elhalasztjákbreakprice
-breakpriceA szigeten igen erős a nyugtalansák. Félnek a bentszülöttektől, akik szeretik Warinst. És látom asz ablakból a kikötőt, hogy minden felé kis csoportok tárgyalnak iszgatottan.
+Asz viszont bisztos, hogy eszt a szegény Egmontott ő ölte meg. És ebből az alkalomból távozott a titkos ajtón. Ahol később nekem szembeállt revolverrel. Eszért monta, hogy "nem lesz államtanács". Mer tudta, hogy Ekmont pillanatnyi elhalálozása mijat elhalasztják...
+...A szigeten igen erős a nyugtalansák. Félnek a bentszülöttektől, akik szeretik Warinst. És látom asz ablakból a kikötőt, hogy minden felé kis csoportok tárgyalnak iszgatottan.
 Itt a palotában is igen begyulladt udvari előkelőségek járkálnak. Eszt a szőr Ekmontot ott ölték meg kés általi halálra, a tanácsterem előtti szobában, ahogy éntőlem kiment. Orvul és esz igen csúf szokás. Én akkor szökni akartam a képen át, de előbb átmentem máshová néhány ingóságos emlékért, eszalatt Warins megölte Ekmontot és épen előttem kilógott a képkereten. Aszután enkem visszakergetett a szabadból.
 És én mostan itt jól nézek ki.
 A királynő gyött hozzám át a képen eképen:
-- Magabreakprice maga volt? - kérdezi izgatottan és a szeme ki van sírva és olyan sok szenvedés látszik szegényen.
+- Maga... maga volt? - kérdezi izgatottan és a szeme ki van sírva és olyan sok szenvedés látszik szegényen.
 - Mit tetszik?
 - Maka ölte?
 - De kirájné kérem! - kijáltom. - Én nem vagyok ajjas gyilkos! Én szemtől szembe esetlek odaszúrok, de nem hátulról. A Fülig Jimmynek mindenki nyugodtan hátat fordít.
-- Nembreakprice Bocsásson megbreakprice Maga nem lehetettbreakprice
+- Nem... Bocsásson meg... Maga nem lehetett...
 - Warins volt!
-- Debreakprice miért Egmontot?
+- De... miért Egmontot?
 - Mer engem ismer a hajóról, hogy nem vagyok király. Hiszen együtt gyöttünk. Ezért nem akar megölni, nem tehetek róla, igazán sajnálom.
 A királyné az ujjait töredezte.
 - Idefigyeljen. Az angol katonai ataséf írt. Hogy Szingapurban álhírek vannak a király személyéről. És szeretné megcáflani.
 Esz baj! Egy katonai adatséf asz nagy úr.
 - Mi lesz? - kérdezte tőlem.
 - Én eltűnök - mondom. - És asz kisebb baj, mintha a svingli kiderül.
-- Debreakprice akkor nincs királybreakprice
-- Asz igaz, hogy valakinek kell asz államügyek folyását irányba képeszni, dehát én méksembreakprice
-- Istenembreakprice istenembreakprice
+- De... akkor nincs király...
+- Asz igaz, hogy valakinek kell asz államügyek folyását irányba képeszni, dehát én méksem...
+- Istenem... istenem...
 - Hát mitől kegyeskedik így ijedezni? - kérdém.
-- Ha az angolok leszedik rólunk a kezüket, akkor Alvarez itten terem hajókkalbreakprice Szingapurban vár mindenféle söpredék élén egy alkalmatbreakprice
+- Ha az angolok leszedik rólunk a kezüket, akkor Alvarez itten terem hajókkal... Szingapurban vár mindenféle söpredék élén egy alkalmat...
 - Dehát a főherceg és Piszkos Fret hol vannak?
-- Semmi hírbreakprice Menjen legalább maga. - Sóhajtott - meneküljön innen. Maga jószívű, de rég fiúbreakprice Itt most összeomlás lesz, harc, halál.
-- Én nem hagyom cserbenbreakprice Itt maradok.
+- Semmi hír... Menjen legalább maga. - Sóhajtott - meneküljön innen. Maga jószívű, de rég fiú... Itt most összeomlás lesz, harc, halál.
+- Én nem hagyom cserben... Itt maradok.
 Odagyött és személyesen mekfokta a kezemet. Egy könny jött ki szegénynek.
 - Várjunk - mondám -, talán történni fog valami.
 És történt.
@@ -2814,23 +2814,23 @@ Délután megölték Gombperec hídlakót kopasz fejével.
 Az olaj tisztviselők csomagoltak, és a sziget lakóji fegyvereket tisztogattak és Gombperecet is hátva szúrták. A rentőrség ismét volt pontra jutott.
 Én mek felvettem a szekrénből az én eccerű csavargói öltözékemet és mondám a királynőnek.
 - Mostan kisliszolok.
-- Mégisbreakprice megy?
+- Mégis... megy?
 - Igen. Vadászni. Megkereseni ezt a Warinst és ütögetni fogom, amíg nem éli túl. Akkor rend lesz.
-- A bentszülöttekbreakprice
+- A bentszülöttek...
 - Én nem vagyok egy begyulladós uralkodó. Eszt kell csinálni. Nagy vadászás lesz asz éjjel. És ha nem térek vissza, asz nem jelenti, hogy mexöktem innen, hanem hogy állandó tartózkodási helyem van Almirában uralkodásom végétől, feltámadásig.
 És ismét mekfogta önhatalmúlag a keszemet.
 - Nem sokat számít most már az sem ha Warinstól megszabadult.
 - Miért nem sokat?
-- Mer eszértbreakprice
+- Mer eszért...
 Írást mutatott, amit a katonai ataséf küldött:
-Hogy értesíti az udvart: a kósza hírekre való tekintés miat Parker tengernagy holnapra kihallgatódzást kér őfelségétőlbreakprice
-Hmbreakprice Esz baj.
+Hogy értesíti az udvart: a kósza hírekre való tekintés miat Parker tengernagy holnapra kihallgatódzást kér őfelségétől...
+Hm... Esz baj.
 - Kihallgassam? - kérdém.
 - Parkert? Úgy ismeri a fiamat, mint én! Az idén nyáron két hétig hajóján látta vendégül a királyt.
 Puff neki.
-- Hátbreakprice ne fogadjabreakprice Én most gyengéskedembreakprice
-- Parker Admirálistbreakprice nem fogadni?breakprice Végebreakprice Az angolok ilyesmiben nem ismernek tréfát.
-Itt nagy baj van. Aszt láttam. De mindegy. A kiskapun gyorsan kisurrantam, és vadászatra indultam az éjszakábanbreakprice Semmit sem bánok, most csak meglássam valahol a tengerészruhás Warinst! Csak mekfoghassam a nyakát és akkorbreakprice (Megfojtása következik. )
+- Hát... ne fogadja... Én most gyengéskedem...
+- Parker Admirálist... nem fogadni?... Vége... Az angolok ilyesmiben nem ismernek tréfát.
+Itt nagy baj van. Aszt láttam. De mindegy. A kiskapun gyorsan kisurrantam, és vadászatra indultam az éjszakában... Semmit sem bánok, most csak meglássam valahol a tengerészruhás Warinst! Csak mekfoghassam a nyakát és akkor... (Megfojtása következik. )
  
 TIZENKILENCEDIK FEJEZET
 1
@@ -2855,7 +2855,7 @@ Piszkos Fred az asztalon heverő szarvasbőr táska tartalmában turkált, és e
 - Ez a bennszülöttek szerződése az öreg Warinsszal, akit a St. Antoniók felkötöttek. Ez a fiú tizenkét éves volt, amikor apját, a kalóz Warinst felkötötték. Azóta Bob Warinst nem látták a szigeteken. A bennszülöttek nem ismerik személyesen, csak a totem igazolja, hogy ő Warins Bob.
 És nézte az ábrákkal teleírt bőrdarabot. Lassan kezdték sejteni, de csak homályosan. Az bizonyos, hogy már keveri a kártyát.
 - Beszéljen már, az Istenért! - dühöngött a Kegyelmes.
-- Egyszerű - mondta Piszkos Fred. - Szerzünk egy suhancot, aki ezzel a totemmel a bennszülöttek előtt mint Warins jelenik meg, és kezünkre játssza a törzsek segítségétbreakprice Ezt az egyént később megölnénk.
+- Egyszerű - mondta Piszkos Fred. - Szerzünk egy suhancot, aki ezzel a totemmel a bennszülöttek előtt mint Warins jelenik meg, és kezünkre játssza a törzsek segítségét... Ezt az egyént később megölnénk.
 - És addig?
 - Addig feleségül venné a Vöröskarmot.
 Az említett Vöröskarom éppen akkor lépett a szobába, és csodálkozva állt meg.
@@ -2874,7 +2874,7 @@ Vöröskarom elgondolkozva nézte az apját. Sokat szenvedett Alvarez. És minde
 Most felugrott a Nagy Bivaly ordítva:
 - De miért ne az igazi Warins vegye el a leányt? Miért csaljunk?!
 Piszkos Fred paprikavörösen rikácsolta:
-- Mert azt mondtam, hogy annak meg kell halni! Kimondtuk, és kész! És senki se merészeljebreakprice
+- Mert azt mondtam, hogy annak meg kell halni! Kimondtuk, és kész! És senki se merészelje...
 - Tán fenyegetsz! - ugrott fel Holdvilág Charley. - Azt hiszed, te parancsolsz nekünk? Tudd meg, hogy a véleményem most már ugyanaz, ami a Nagy Bivalyé! A fiúra szükség van!
 Örült, hogy oka volt elhagyni a Piszkos Freddel közös tábort. És a többi is dühödt kéjjel pártolta Warinst.
 - Azért sem öljük meg!
@@ -2882,7 +2882,7 @@ Piszkos Fred paprikavörösen rikácsolta:
 Úgy látszott, hogy nyomban meglincselik.
 - Csendet kérek! - szólt a Kegyelmes. - Úgy határoztam, hogy ebben az ügyben a leányom döntsön.
 - A fiút kiszabadítjuk - mondta határozottan Vöröskarom -, mert hozzá megyek feleségül. Hívjátok a Prófétát!
-breakpricePiszkos Fred egy sötét oldalfolyosón megelégedetten sodorgatta a szakállát. Az volt a kötelessége, hogy a herceget védje, és pillanatnyilag éppen az életét mentette meg. Mert Piszkos Fred még abból is hasznot tudott húzni, hogy mindenki gyűlöli. Megszerezte a Nagy Bivalyt a herceg testőrének, önmaga ellen, de mellékesen mindenki ellen. Azután kirántotta a halálítéletből azzal, hogy vadul követelte a halálát. A herceg élvezte Piszkos Fred népszerűtlenségének minden előnyét.
+...Piszkos Fred egy sötét oldalfolyosón megelégedetten sodorgatta a szakállát. Az volt a kötelessége, hogy a herceget védje, és pillanatnyilag éppen az életét mentette meg. Mert Piszkos Fred még abból is hasznot tudott húzni, hogy mindenki gyűlöli. Megszerezte a Nagy Bivalyt a herceg testőrének, önmaga ellen, de mellékesen mindenki ellen. Azután kirántotta a halálítéletből azzal, hogy vadul követelte a halálát. A herceg élvezte Piszkos Fred népszerűtlenségének minden előnyét.
 2
 Mindenki kereste az alvilág misszionáriusát, Burtont, akinek Próféta volt a gúnyneve, de sehol sem találták. Később feleslegessé is vált a keresése, mert a herceg a telt idomú, fekete nőkre való hivatkozással visszautasította Anna Alvarez kezét.
 Buzgó Mócsing, aki különös átmenetet képezett itt a magántitkár, a gyorsküldönc és a hóhér között, szokott helyén bóbiskolt a ruhatári fülke mellett. A közelében Portás Robb, a börtönrendszerek ellenőrző szakértője hideg mártást evett csirkével. A Főorvos felrázta az igazi Trebitschet.
@@ -2898,35 +2898,35 @@ A Kegyelmes kiadta a "riadót". Mennek Almira ellen. Akár Warins nélkül is.
 - Igen, Holdvilág Charley vezeti a Papetet.
 Közben Buzgó Mócsing, az igazi Trebitsch elaludt ültében. Hortyogott, és a szemüvege rezgett az orrán. Végül odaesett a Szárító nyílását elzáró kő peremére.
 Az alvó nem veszi észre, hogy valaki macskaléptekkel odaoson, elhúzza a követ, és ledob valamit a Szárítóba, azután elsiet.
-breakpriceŐfelsége közben már kissé meghalt. Levetett minden ruhadarabot, nedvességtől patakzó teste égett és viszketett, az ajka felhasadozott, a gégéje fájt, és hörögve lélegzettbreakprice
+...Őfelsége közben már kissé meghalt. Levetett minden ruhadarabot, nedvességtől patakzó teste égett és viszketett, az ajka felhasadozott, a gégéje fájt, és hörögve lélegzett...
 Egyszer csak leesett a magasból egy összegyűrt írás. És leesett a kő pereméről Buzgó Mócsing drótszemüvege, hosszú, fekete zsinórral, amíg ő gyanútlanul hortyogott. A herceg kibontotta az írást. Kézzel írt, hevenyészett levél volt. Káprázó szemmel olvasta az öngyújtója fényénél:
     Felség!
     Burton nevű lelkész néhány év előtt meghalt. Aki itt Próféta gúnynéven az ő irataival szélhámoskodik, nem pap. Egyezzen bele a házasságba. (Mivel nem pap esketi, tehát érvénytelen.) Egyezzen bele mindenbe, akkor Almirába viszik, és ez a fő. Ott úgyis vége a kalandnak, és simán tisztázódik az ügye. A Titkos Szolgálatban vakon bízhat!
     Ne kutasson utánam. Nem fedhetem fel magamat.
     Leghűségesebb embere
-Az írást eltette. Sokkal jobban érdekelte a szemüveg. Ezt leejtette az illető, amikor az üreg fölé hajolt. Szinte lángolt a teste, de mégis megkísérelte, hogy gondolkozzék. Hol látta ezt a zsinóros üveget?breakprice Ki hord ilyen kispolgári drótcsíptetőt az alvilágban?
+Az írást eltette. Sokkal jobban érdekelte a szemüveg. Ezt leejtette az illető, amikor az üreg fölé hajolt. Szinte lángolt a teste, de mégis megkísérelte, hogy gondolkozzék. Hol látta ezt a zsinóros üveget?... Ki hord ilyen kispolgári drótcsíptetőt az alvilágban?
 Buzgó Mócsing! Az igazi Trebitsch! Ő A Titkos Szolgálat embere! Kétségtelen! Buzgó Mócsing megszólította, amikor az első nap ott ácsorgott a kardnyelő körül!
-Igaz, hogy eladta a Tulipánnak (két és fél dollárért), de talán később kiszabadította volnabreakprice Zseniális tettető ez az emberbreakprice
-Mostbreakprice meg kell tudni biztosan, hogy a szemüveg az övé-e. Akkor kétségtelen, hogy az igazi Trebitsch az Intelligence Service embere!
-breakpriceA szemhéjai forrón szúrtak, és a nyelve hasadozottbreakprice A levelet apró darabokra tépte, és falat kapart rábreakprice Azután újra elájult.
+Igaz, hogy eladta a Tulipánnak (két és fél dollárért), de talán később kiszabadította volna... Zseniális tettető ez az ember...
+Most... meg kell tudni biztosan, hogy a szemüveg az övé-e. Akkor kétségtelen, hogy az igazi Trebitsch az Intelligence Service embere!
+...A szemhéjai forrón szúrtak, és a nyelve hasadozott... A levelet apró darabokra tépte, és falat kapart rá... Azután újra elájult.
 3
 Közben Alvarez kétlaki életének úribb felét élte az Orientál Szálló teraszán. Innen látszik a tenger és a sok-sok pálma. Egy amerikai úrral beszélgetnek. A roppant selyemernyő árnya alatt is éget a forróság.
 - Nagyon érdekes - mondja az ősz amerikai. - Bennünket, amerikaiakat a legcsekélyebb sziget sorsa is érint az Indiai-óceánon.
 - Nem is szólva az amerikai tőkéről, amelynek az én köztársaságom lehetőséget ad, hogy terjeszkedjék a civilizáció előnyére. Ehhez kérek támogatást.
 - Támogatást kér?
 - Csak akkor, ha bebizonyosodik, hogy a sziget jelenlegi királya bitorolja a St. Antoniók trónját.
-- Én megígérem önnek - mondta az amerikai admirális habozva és minden szótagot fontolgatva, mint amikor a gyógyszerész halálos mérget adagol kanalas orvossághoz -, hogy beszélek illetékes körökkel. És ha kedve vanbreakprice ellátogathat mint vendégem a Boston cirkálón Almirába.
+- Én megígérem önnek - mondta az amerikai admirális habozva és minden szótagot fontolgatva, mint amikor a gyógyszerész halálos mérget adagol kanalas orvossághoz -, hogy beszélek illetékes körökkel. És ha kedve van... ellátogathat mint vendégem a Boston cirkálón Almirába.
 - És számíthatok amerikai segítségre?
 Az admirális felállt.
-- Mi a St. Antoniók angol védnökségét tiszteljük, de ha - ismét adagolt - nincsenek ott az uralkodó hercegekbreakprice akkor hátbreakprice - Gondolkozott. - És Warins? - kérdezte hirtelen.
+- Mi a St. Antoniók angol védnökségét tiszteljük, de ha - ismét adagolt - nincsenek ott az uralkodó hercegek... akkor hát... - Gondolkozott. - És Warins? - kérdezte hirtelen.
 - Warins a vőlegényem - szólt közbe a leány -, és ezzel, azt hiszem, hosszú időre megoldottuk a kormányzat kérdését.
 Az admirális tágra nyílt szemmel meredt a gyönyörű leányra, azután megértéssel bólintott.
-- Ön nagyon okosbreakprice Ésbreakprice azt hiszembreakprice (egy kávéskanálnyi adag) számíthatnak ránk. Illetvebreakprice rámbreakprice (Végül határozottan.) Illetve Amerika pártfogására.
+- Ön nagyon okos... És... azt hiszem... (egy kávéskanálnyi adag) számíthatnak ránk. Illetve... rám... (Végül határozottan.) Illetve Amerika pártfogására.
 4
-breakpriceŐfelsége arra tért magához, hogy bár pokoli meleg van, az arcán hűs simítás vonult át. Vizes ruhát borított rá valaki.
+...Őfelsége arra tért magához, hogy bár pokoli meleg van, az arcán hűs simítás vonult át. Vizes ruhát borított rá valaki.
 Vöröskarom térdelt mellette, selyemruhában, az agyagverem földjén.
-- Micsoda gazság ilyent tenni! Jobban van?breakprice
-- Igenbreakprice feleli elhalóan - de az ízlésem sajnos nem változott.
+- Micsoda gazság ilyent tenni! Jobban van?...
+- Igen... feleli elhalóan - de az ízlésem sajnos nem változott.
 - Ostobaság. Nem tudtam arról, ami magával történt. Fel tud már jönni ebből az undok veremből?
 - Nem vihetnének mindjárt oda, ahol legközelebb kínoznak?
 - Senki sem fogja kínozni többé!
@@ -2934,20 +2934,20 @@ Egy tengerész segítségével felvezették az odúból. Ott ül a kő mellett, 
 - Maga miatt mennyi bajom van - mondja dühösen a hercegnek. - Oda a szemüvegem.
 Hohó! Hiszen ez jeladás!
 - Nem ez volt? - kérdezi nyomatékkal és mohón, miközben átnyújtja a verembe hullott szemüveget.
-- Debreakprice Ó! Köszönöm!
+- De... Ó! Köszönöm!
 A herceg sokatmondóan rákacsintott. Az igazi Trebitsch bámulva kérdi.
-- Mi az?breakprice A szemébe esett valami?
-- Jó, jó - feleli őfelsége és újra hunyorít. Az igazi Trebitsch már nem is csodálja. Amit ezzel a fiúval itt csinálnak, attól nem csoda, ha hibbant lettbreakprice Azonnal elsiet.
+- Mi az?... A szemébe esett valami?
+- Jó, jó - feleli őfelsége és újra hunyorít. Az igazi Trebitsch már nem is csodálja. Amit ezzel a fiúval itt csinálnak, attól nem csoda, ha hibbant lett... Azonnal elsiet.
 - Jól érzi magát teljesen? - kérdez a leány diplomatikus nyájassággal, mert kiismerte az elvetemedett, konok ifjú természetrajzát.
-- Jólbreakprice De most már nagyon szeretném tudni, hogy mi lesz velem?
-- Választhat Warins: a rendőrségre akar inkább menni, vagy elvesz feleségülbreakprice
+- Jól... De most már nagyon szeretném tudni, hogy mi lesz velem?
+- Választhat Warins: a rendőrségre akar inkább menni, vagy elvesz feleségül...
 - Semhogy bezárjanak, inkább elveszem önt. De miért kívánja ezt tőlem?
 - Elfoglaljuk a St. Antoniók trónját a klubok népével.
 - Azt hiszi, hogy ott kő kövön maradhat, ahol ennyi csirkefogó segít a honfoglalásban?
 - Én nem félek tőlük!
 - Mert nem tudja, mi az, uralkodni! - kiáltotta hevesen a herceg.
 - Magát talán kiskorától kezdve egyébre sem tanították?
-- Tessék?breakprice Hmbreakprice Hát a kalóz Warinsok jól uralkodtak állítólagbreakprice És hogy képzeli kérem ott a szigetenbreakprice Postafordultával éljünk majd családi életet?
+- Tessék?... Hm... Hát a kalóz Warinsok jól uralkodtak állítólag... És hogy képzeli kérem ott a szigeten... Postafordultával éljünk majd családi életet?
 - Azt hiszi, hogy van annyi esztendő és van olyan puszta sziget, ahol a közelembe jöhet?
 - Olyan csúnya vagyok? - kérdezte lehangoltan őfelsége, és megnézte magát egy zsebtükörben.
 A torzult képű csavargó vonásait még rútabbá tette a hőség. Kék és bíborszínű daganatain felpattogzott a bőre.
@@ -2963,10 +2963,10 @@ Valaki megjelent a misszionáriussal, aki eddig künn várakozott. Magas, fekete
 - Bob Warins - szólt a templomhoz szokott, messze hangzó, csengő tenorban a misszionárius. - Akarod feleségül venni Anna Alvarezt?
 Lelkesültnek alig nevezhető "igen" hangzott el. Azért a herceg elismeréssel adózott magában a Prófétának. Micsoda színész lett volna ebből az álhittérítőből!
 - És te Anna Alvarez, akarod férjedül Bob Warinst?
-- Igenbreakprice
+- Igen...
 Ekkor a pap összetette a kezüket, és úgy fogta, miközben a házastársi kötelességekre figyelmeztette őket. Majd így szólt.
 - Bob Warins! Anna Alvarez! Isten és ember előtt házastársak vagytok, immár egy test, egy lélek!
-Valamennyi rabló fedetlen fővel állt, és nagyon komolyak voltak. A misszionárius elővette az imakönyvétbreakprice Vöröskarom valami egészen furcsát érzett. Dacára, hogy aki mellette áll, az egy torz képű, piszkos alvilági szörnybreakprice De Anna Alvarez mégiscsak polgárnő volt, aki életében először esküdött meg arra, hogy holtáig szeretni fog egy embertbreakprice
+Valamennyi rabló fedetlen fővel állt, és nagyon komolyak voltak. A misszionárius elővette az imakönyvét... Vöröskarom valami egészen furcsát érzett. Dacára, hogy aki mellette áll, az egy torz képű, piszkos alvilági szörny... De Anna Alvarez mégiscsak polgárnő volt, aki életében először esküdött meg arra, hogy holtáig szeretni fog egy embert...
 - Az isten áldása kísérjen utatokon, gyermekeim - mondta végül a misszionárius, és elment.
 Senki sem sietett szerencsekívánatait kifejezni az ifjú párnak.
 - Jól csinálta - mondta kissé idegesen őfelsége. - Még jó, hogy ez a Próféta a mennyország helyett itt a pokolban tartózkodik.
@@ -2976,7 +2976,7 @@ Senki sem sietett szerencsekívánatait kifejezni az ifjú párnak.
  
 HUSZADIK FEJEZET
 1
-A herceg kiszédelgett a nagy teremből. Uram, Atyám! Mit tett?!! Elvette a lázadó elnök polgári származású leányátbreakprice mert ha Warins Bob néven is eskették, jól tudta, hogy az álnéven kötött házasság érvényes.
+A herceg kiszédelgett a nagy teremből. Uram, Atyám! Mit tett?!! Elvette a lázadó elnök polgári származású leányát... mert ha Warins Bob néven is eskették, jól tudta, hogy az álnéven kötött házasság érvényes.
 Összevissza bolyongott a katakombák folyosóin, amelyek ezen a napon szokatlanul élénkek voltak. Végre megpillantotta az igazi Trebitschet. Őt kereste!
 - Ember! Ez mi volt, ami odabent történt ma a pappal? - kérdezte lihegve.
 - Hogyhogy? - érdeklődött riadtan az igazi Trebitsch. - Esküvő lehetett. Nem?
@@ -2992,9 +2992,9 @@ A herceg kiszédelgett a nagy teremből. Uram, Atyám! Mit tett?!! Elvette a lá
 - Természetesen.
 - Miért nem értesített, hogy a Próféta nincs itt?
 - Én is csak most hallottam, hogy a kínaiak elől bujkál. Fél, hogy este agyonverik.
-- Micsoda szörnyűségbreakprice Te jó Isten! - Megragadta Buzgó Mócsingot: - Mondja, ember. Legalább van valami terve?
+- Micsoda szörnyűség... Te jó Isten! - Megragadta Buzgó Mócsingot: - Mondja, ember. Legalább van valami terve?
 - Igen. Este kimegyünk huszan dorongokkal a Próféta elé.
-- Jól vanbreakprice Látom, hogy hiába keresek közvetlen érintkezést magával. Nem kérdezek semmit. De egyre figyelmeztetem: ha tőrbe csalt, akkor megölöm!
+- Jól van... Látom, hogy hiába keresek közvetlen érintkezést magával. Nem kérdezek semmit. De egyre figyelmeztetem: ha tőrbe csalt, akkor megölöm!
 És otthagyta. Buzgó Mócsing elhűlt ámulattal nézett utána és kétségbeesett tájékozatlanságában felvonta a két vállát:
 - Csak tudnám, hogy mit akar tőlem?
 2
@@ -3023,7 +3023,7 @@ A herceg szédelgett, amikor a napvilágra ért. A hajót kísérő cápák uszo
 - Nagy Bivaly hol van? - kérdezte a kísérőjétől.
 - Nem lehetett őket Piszkos Freddel egy hajóra engedni.
 - És Vöröskarom, illetve nejem őnagysága?
-- Ő a parancsnok. Mindenki szereti, és mégis félnek tőlebreakprice Igazi férfi!breakprice
+- Ő a parancsnok. Mindenki szereti, és mégis félnek tőle... Igazi férfi!...
 - Úgy? Akkor minek megy férjhez?
 Jó forró nap ragyogott a fedélzeten. Őfelsége kimondhatatlanul élvezte a sétát. Piszkos Fred hangja süvöltött rá:
 - Hej! Főorvos! Hogy merted felhozni a Vadsuhancot? Aki fogoly, az fogoly! Ezt nem tűröm!
@@ -3045,7 +3045,7 @@ A herceg arra már visszanyerte régi, szelíd angyalszerű kifejezését. Miut�
 Tulipán bizalmatlankodva mondta a kormányosnak:
 - Biztosan főz valamit a Vöröskarommal.
 - Lehet, hogy főznek valamit - dünnyögte a Főorvos is tűnődve.
-breakpriceAmikor Vöröskarom este kisétált a fedélzetre, néhány sötét pillantással találkozott a tekintete. Csak Piszkos Fred tisztelgett széles, nyájas mosollyal, és most kiderült, hogy mennyivel kellemesebb az arca, ha mogorva.
+...Amikor Vöröskarom este kisétált a fedélzetre, néhány sötét pillantással találkozott a tekintete. Csak Piszkos Fred tisztelgett széles, nyájas mosollyal, és most kiderült, hogy mennyivel kellemesebb az arca, ha mogorva.
 - Nagyszerű utunk van, parancsnok! - jelentette gavalléros alázattal, és a rekedt Petters, aki távolabb állt, megvetően köpött.
 Ki hitte volna! Piszkos Fred mint stréber! Víziószerű! A parancsnok sem lehetett elragadtatva tőle, mert rövidesen a kabinjába ment.
 Reggelre feltűnt a távolban Tahiti. Vöröskarom kisétált a fedélzetre. A korlátnál egy ismeretlen egyént látott, jóképű, vidám, kadétruhás fiatalembert, nagy fekete szemekkel, aki néhány dió meg egy pakli kártya segítségével bűvészmutatványokkal szórakoztatta a legénységet. Nagyszerűen mulattak az emberek, és amikor Vöröskarom kijött, elhalt a mosoly. Csak Piszkos Fred köszönt harsányan a hídról.
@@ -3061,33 +3061,33 @@ Sokáig idegesen járkált, azután csengetett:
 - Miért szólít szenyoritának? Én asszony vagyok.
 - De ennek nincs gyakorlati jelentősége. Diplomáciai állapot.
 - Miért került olyan szörnyű külsővel elém?
-- Néhány emberrel verekednem kellett előzőleg. Szökött fegyenccel előfordulbreakprice
-- Magabreakprice gyilkolta meg St. Antonio herceget?
+- Néhány emberrel verekednem kellett előzőleg. Szökött fegyenccel előfordul...
+- Maga... gyilkolta meg St. Antonio herceget?
 A fiú kedves mosollyal bólintott.
 - Természetesen.
-- Ésbreakprice Fernandez régenst is?
+- És... Fernandez régenst is?
 - Hogyne. Kérek még egy kis teát.
-- Hánybreakprice embert ölt meg életében?
+- Hány... embert ölt meg életében?
 Őfelsége tűnődött, mint aki utánaszámol, mert nem szeretne hozzávetőlegesen sem tévedni.
-- Nabreakprice hát Istenembreakprice pontosan nem is tudnám megmondanibreakprice Ha leszámítom a bennszülötteket, mintegy negyvenre tehető áldozataim száma.
+- Na... hát Istenem... pontosan nem is tudnám megmondani... Ha leszámítom a bennszülötteket, mintegy negyvenre tehető áldozataim száma.
 Anna Alvarez nyitott szájjal, rémülten nézte.
 - És tudott aludni?
 Őfelsége sóhajtva legyintett.
 - Amíg az ember nőtlen.
-Mennyi könnyed, kedves előkelőség, diákos bájbreakprice És gyilkos! Egy kalóz fia! A totem és az írások kétségtelenné teszik, hogy Bob Warins ül itt.
+Mennyi könnyed, kedves előkelőség, diákos báj... És gyilkos! Egy kalóz fia! A totem és az írások kétségtelenné teszik, hogy Bob Warins ül itt.
 - Ön úgy beszél, mintha gúnyolódna! Nem tudom, mennyi az igaz abból, amit mond.
 - Megmondjam? - Őfelsége felállt, és odament Anna Alvarezhez. - Egyszer hazudtam önnek.
 - Miben hazudott?
-- Abban - felelte St. Antonio herceg lesütött szemmel -, hogy a telt idomú, fekete nőket kedvelem. Ebből egy szó sem igazbreakprice Sajnos pontosan az olyan szőke, karcsú hölgyekért szokásom meghalni, mint amilyen önbreakprice
-breakpriceÉs mielőtt még Vöröskarom felelhetett volna, gyorsan átkarolta, és megcsókolta.
+- Abban - felelte St. Antonio herceg lesütött szemmel -, hogy a telt idomú, fekete nőket kedvelem. Ebből egy szó sem igaz... Sajnos pontosan az olyan szőke, karcsú hölgyekért szokásom meghalni, mint amilyen ön...
+...És mielőtt még Vöröskarom felelhetett volna, gyorsan átkarolta, és megcsókolta.
 De alaposan.
 Anna Alvarez vagy két másodpercig tűrte, tehetetlenségből vagy másért, ki tudja? Azután teljes erejével eltaszította a herceget.
-- Kalóz! Briganti!breakprice Ez példátlan, amit merészelt! Példátlan!
+- Kalóz! Briganti!... Ez példátlan, amit merészelt! Példátlan!
 - A házastársak közötti gyengédség megnyilvánulása korunkban elég ritka eset, de mégsem példátlan.
 És vigyorgott. És borzasztó kedves volt a kadétruhában.
 Azután tisztelgett:
-- Jó éjszakátbreakprice Anna Alvarez.
-A nő arcán különös kín vonaglott átbreakprice "Gyilkosbreakprice" - mondta magában. "Kalózbreakprice rablóbreakprice"
+- Jó éjszakát... Anna Alvarez.
+A nő arcán különös kín vonaglott át... "Gyilkos..." - mondta magában. "Kalóz... rabló..."
 Rémülten vette észre, hogy mindezek dacára képtelen arra, hogy utálja!
  
 HUSZONEGYEDIK FEJEZET
@@ -3098,43 +3098,43 @@ Tizenkét óra tájban valami zajt hallott a szomszéd helyiségből. Elővette 
 A Nagy Bivaly állt mellette.
 - Mit akarsz? - hebegte az igazi Trebitsch.
 - A Vadsuhanccal kell beszélnem.
-- Hogy kerülsz ide?breakprice
-- Még Szingapurban elbújtambreakprice
+- Hogy kerülsz ide?...
+- Még Szingapurban elbújtam...
 - Ebből baj lesz! Minek keversz engem bele?
 - Benned bízom. Egyszer megmentettelek, amikor négy kínai agyon akart verni. Nem fogsz elárulni.
 - Gondolod?
-- Tudom, mert nemcsak hálás vagy, hanem gyáva isbreakprice Hívd a Vadsuhancot.
-- Azt nem! Ölj meg, vagy akármitbreakprice
-- Ne is folytasd, maradunk az ölésnélbreakprice
-- Na! Na!breakprice Hátraugrott a készségesen mozduló óriás kezek elől. - Hívom márbreakprice
+- Tudom, mert nemcsak hálás vagy, hanem gyáva is... Hívd a Vadsuhancot.
+- Azt nem! Ölj meg, vagy akármit...
+- Ne is folytasd, maradunk az ölésnél...
+- Na! Na!... Hátraugrott a készségesen mozduló óriás kezek elől. - Hívom már...
 Szomorúan elindult. Egész biztos, hogy megint nekirohan ez a bolond. Amint felért, megpillantotta a herceget. A korláton ült, és ukulelén játszott. Azonfelül énekelt, és a matrózok zöme körülfogta.
 Mit tagadjuk, őfelsége alaposan megváltozott, amióta Fülig Jimmyvel elcserélte legmagasabb személyét. Olyan csodálatos népi tüneteket produkált, amelyek távol állhattak az ősi St. Antoniók vérétől. Ilyen volt például a dal és a pofon. Őfelsége úgy pofozkodott és énekelt, hogy vén matrózok első látásra a szívükbe fogadták.
 Vöröskarom megjelent a parancsnoki szoba ajtajában. Piszkos Fred, aki eddig mindenkinek hátat fordított, gáláns meghajlással szalutált, és olyan volt, mint egykor ünnepelt, vidéki színészek, amikor elhatalmasodik rajtuk az aggkori elmegyengeség.
-- Jó estét Vöröskarombreakprice - mondta és megvetően a szórakozókra mutatott. - Nem nekünk való társaság.
+- Jó estét Vöröskarom... - mondta és megvetően a szórakozókra mutatott. - Nem nekünk való társaság.
 Vöröskarmot kellemetlenül érintette Piszkos Fred hűséges ragaszkodása. De mit tegyen?
 - Warins, kérem!
 - Parancs!
-Odasietett. Beszélgetve sétáltak Vöröskarommal a korlát mentén. A leány beszél, a fiú mosolyogva bólogat, ő is mond valamit, azutánbreakprice
+Odasietett. Beszélgetve sétáltak Vöröskarommal a korlát mentén. A leány beszél, a fiú mosolyogva bólogat, ő is mond valamit, azután...
 Azután egy kecses ugrással a tengerbe veti magát!
 Mindenki dermedten áll! Itt is, ott is sötét uszonyok csillannak meg a holdfényben. Cápák!
-Zaj, futkosásbreakprice lármabreakprice
-- A csónakotbreakprice Hiába!breakprice Vége!breakprice.
+Zaj, futkosás... lárma...
+- A csónakot... Hiába!... Vége!....
 - Eresszenek le egy csónakot! - sikoltja halálfehéren Vöröskarom.
 Csak Piszkos Fred nyugodt. Bekiált a szócsőbe:
-- Lassíts!breakprice Vissza! Állj!
-Feltűnik a fiú feje, amint küzd a viharos habokkal. Gyakorlatlan úszó ehhez! Mielőtt a cápák valamelyike elkapja, talán megfullad. Sivítva nyikordul egy csónak kötele, amint fut a csigán. A küzdő kis ponttól nem messze roppant uszonyok villognakbreakprice
-Végebreakprice! Vöröskarom remegő kézzel megkapaszkodik. A döbbent emberek feje felett valami átsuhanbreakprice Egy loccsanás.
-A kapitányi híd üresbreakprice És egy szakállas fej bukkan ki a vízből, távol a hajótól.
+- Lassíts!... Vissza! Állj!
+Feltűnik a fiú feje, amint küzd a viharos habokkal. Gyakorlatlan úszó ehhez! Mielőtt a cápák valamelyike elkapja, talán megfullad. Sivítva nyikordul egy csónak kötele, amint fut a csigán. A küzdő kis ponttól nem messze roppant uszonyok villognak...
+Vége...! Vöröskarom remegő kézzel megkapaszkodik. A döbbent emberek feje felett valami átsuhan... Egy loccsanás.
+A kapitányi híd üres... És egy szakállas fej bukkan ki a vízből, távol a hajótól.
 - Piszkos Fred beugrott a hídról!
 Összevissza kiabálnak.
-Ni!breakprice Ott úszik! Elérte a fiút!breakprice Tempózó jobb karja hatalmas ívben átcsap egy hullámon, és elkapja! De körül uszonyok villognak, itt is, ott isbreakprice Miféle külön istene van ennek, hogy elérte a fiúval a csónakot?
-Már itt is vannakbreakprice A látszólag vén, keshedt kapitány úgy hozza fel karján a fiút, mintha pehely lenne.
+Ni!... Ott úszik! Elérte a fiút!... Tempózó jobb karja hatalmas ívben átcsap egy hullámon, és elkapja! De körül uszonyok villognak, itt is, ott is... Miféle külön istene van ennek, hogy elérte a fiúval a csónakot?
+Már itt is vannak... A látszólag vén, keshedt kapitány úgy hozza fel karján a fiút, mintha pehely lenne.
 - Vigye a kajütömbe! - súgja remegve Vöröskarom, de a fiú magához tér, hiszen csak sokat ivott a sós vízből. Talpra áll, és megrázkódik.
 - Hé! Őrült úr! - sivítja Petters. - Kevesen mondhatják el magukról errefelé, hogy kint vannak a vízből!
-- Amitbreakprice értem tettbreakprice kezdi a herceg Piszkos Fred felé.
+- Amit... értem tett... kezdi a herceg Piszkos Fred felé.
 - Mit fecsegsz? - mordul rá a vén medve. - Fütyülök rád. Ha annyit bajlódtam egy üzlettel, azt nem adom a cápáknak. Érted?
-Dünnyögve a kabinjába ment, és kiivott egy üveg rumot. Hiába! Ez ilyen ember. A cápák szájából kilopja az ennivalót, ha üzletről van szó, de szíve nincs a kutyának egy csepp sem. Az biztos. Valaki azt mondja, hogy két cápa úszott már a fiú felé, de amikor meglátták a kapitányt, csüggedten visszafordultakbreakprice
-Ezt a történetet az óvatos cápákról még évek múlva is mesélték a kikötőkben, és mindenki elhittebreakprice
+Dünnyögve a kabinjába ment, és kiivott egy üveg rumot. Hiába! Ez ilyen ember. A cápák szájából kilopja az ennivalót, ha üzletről van szó, de szíve nincs a kutyának egy csepp sem. Az biztos. Valaki azt mondja, hogy két cápa úszott már a fiú felé, de amikor meglátták a kapitányt, csüggedten visszafordultak...
+Ezt a történetet az óvatos cápákról még évek múlva is mesélték a kikötőkben, és mindenki elhitte...
 2
 Mi volt az ugrás előzménye? Ennyi:
 - Beszéljünk okosan - mondta Vöröskarom. - Rövidesen megérkezünk. - Aranyzöld szemei egészen szomorú fényben ragyogtak. És fogyott valamit az utolsó napokban. - Mit tenne, ha megszabadulna?
@@ -3148,24 +3148,24 @@ Mi volt az ugrás előzménye? Ennyi:
 - Úgy? Hát bizonyítsa majd be, Warins Bob, hogy mivel húzhatja át a számításaimat?
 - Például ezzel.
 Hopp! Szép ívben átröpült a korláton, és csak egy loccsanás hangzott.
-A többit tudjukbreakprice
+A többit tudjuk...
 Őfelsége talán szívesen meghalt volna. Végre is itt egy szörnyű komplikáció van. Megnősült. Elvett egy polgári nőt.
 És ráadásul csúnyán beleszeretett. Mi lesz ebből? De amikor száraz ruhában ismét kilépett a fedélzetre, mégis örült a megkerült életnek.
-- Vadsuhanc - súgta eleve ijedten a Buzgó Mócsing mellette. - Gyöjjön a fülkémbebreakprice Na! Mit akar?!
+- Vadsuhanc - súgta eleve ijedten a Buzgó Mócsing mellette. - Gyöjjön a fülkémbe... Na! Mit akar?!
 A herceg megragadta:
 - Miféle terve van?
 - Aljas hazug volt az illető, aki bebeszélte önnek, hogy én egy mérnök vagyok, vagy hadvezér, csupa tervvel.
 - És miért hiszi, hogy jóra fordul minden?
-- Van Istenbreakprice - próbált felelni kínban. - Jöjjön, kérem.
+- Van Isten... - próbált felelni kínban. - Jöjjön, kérem.
 - Fog valamit tenni vagy nem?!
 - Letelepszem Hawaiiban, ott él egy unokanővérem - mondta őszintén és kissé ijedten, mert a herceg egy fenyegető mozdulatot tett, de azután követte.
 A fülkébe érve két iszonyú kar úgy ölelte át, hogy nem kapott percekig levegőt.
-- Tebreakprice Kölyökbreakprice Hát élsz?
+- Te... Kölyök... Hát élsz?
 Őfelsége meghatva látta a Nagy Bivalyt. Megint olyan furcsán fogta a fiú ujjait, és nézte, mint valami idegen holmit. Alacsony, széles homloka elborult.
 - Rosszul bántak veled?
 - Egyáltalán nem. Remek fiúk, és nagyszerűen mulattunk.
-Megelégedetten nézte a védencét. Micsoda finom, szép külső. Ha neki ilyen fia lehetett volna valahabreakprice
-- Ide hallgass: azt tudod, hogy a Vöröskarom fel akar használni a terveihezbreakprice
+Megelégedetten nézte a védencét. Micsoda finom, szép külső. Ha neki ilyen fia lehetett volna valaha...
+- Ide hallgass: azt tudod, hogy a Vöröskarom fel akar használni a terveihez...
 - Tudom. Maga mondja meg, mit tegyünk? - kérdezte a herceg Buzgó Mócsingot.
 - Együnk valamit - ajánlotta ez jó szívvel. - Abból nem jöhet ki bonyodalom.
 - Ide hallgass - mondta a Nagy Bivaly. - Két nap múlva a Boldogság Szigetek magasságban leszünk. Akkor te csónakba ülsz velem, és elszökünk. Ha elérjük a Boldogság Szigeteket, hát nyert ügyed van.
@@ -3173,11 +3173,11 @@ Megelégedetten nézte a védencét. Micsoda finom, szép külső. Ha neki ilyen
 - Nem kell szökni! A Radzeer elviszi magukat a sziget közelébe, és mehetnek, ahová tetszik! - szólalt meg egy hang mögöttük.
 Vöröskarom állt ott! Az utolsó szavaknál nyitott be a fülkébe.
 3
-Az ügy előzményéhez tartozik, hogy Mrs. Warins, illetve St. Antonio hercegnő érintetlenül küldte vissza a vacsoráját. Azután kisétált a fedélzetre. Itt kisebb csoportokban izgatottan vitatkoztak az emberek. Ésbreakprice hát nem valami barátságos módon néztek feléje.
+Az ügy előzményéhez tartozik, hogy Mrs. Warins, illetve St. Antonio hercegnő érintetlenül küldte vissza a vacsoráját. Azután kisétált a fedélzetre. Itt kisebb csoportokban izgatottan vitatkoztak az emberek. És... hát nem valami barátságos módon néztek feléje.
 - Főorvos! - szólt Vöröskarom.
 - Parancsol?
 - Nem szeretem a kétszínűséget. Valami bajuk van velem?
-- Nézzebreakprice mi mindig szerettük magát - mondta a Főorvos. - De hát ami a Vadsuhanccal történikbreakprice
+- Nézze... mi mindig szerettük magát - mondta a Főorvos. - De hát ami a Vadsuhanccal történik...
 - Talán átpártoltak? - kérdi gúnyosan, és maga sem tudja, hogy miért fáj úgy a szíve.
 - Ha egyszer hozzáment feleségül, miért akarja megölni?! Mi nem vagyunk tisztességes emberek, sok itt a tolvaj, a rabló és más szakmunkás, de az a véleményünk, akiket a pap összeadott, azok ne gyilkolják egymást!
 Vöröskarom egészen sápadt volt, és a száját rágta.
@@ -3203,20 +3203,20 @@ A fordulat kissé meglepte őfelségét.
 - Nos? - fordult feléje Vöröskarom. - Mit fog tenni? Megölet? Bezárat?
 - Egyik sem sürgős - mondta a herceg, és az emberekhez fordult. - Kedves barátaim, elsősorban oldozzátok fel a kapitányt, ha csakugyan én parancsolok.
 Némi habozás után a Főorvos elvágta Piszkos Fred kötelét. Ez leporolta magát, és durván ráförmedt.
-- Hol a sapkám?breakprice - felszedte valahonnan, zsebre vágta a kezét, és a fülkéjébe ment megvető módján. És attól fogva nem látták. Ismét szakított a Radzeerrel.
+- Hol a sapkám?... - felszedte valahonnan, zsebre vágta a kezét, és a fülkéjébe ment megvető módján. És attól fogva nem látták. Ismét szakított a Radzeerrel.
 - Most pedig figyeljetek rám - szólt őfelsége. - Én nem köthetek veletek üzletet. Mert lázadók vagytok. A lázadókat én nem szeretem. Azonfelül becsapni sem akarlak benneteket: ha a Szigetre érek, és uralomra jutok, valamennyieteket deportálnálak.
 Döbbent csend lett.
 - A mindenségit!.. - jegyezte meg valaki. Azután egy ideig tanakodtak.
 - Vöröskarom! - mondta a Főorvos. - Mi ezt nem tudtuk. Vedd át újra a parancsnokságot.
-- Nos? - kérdezte őfelsége mosolyogva. - Mit fog tenni? Megölet? Bezárat?breakprice
+- Nos? - kérdezte őfelsége mosolyogva. - Mit fog tenni? Megölet? Bezárat?...
 - Emberek! - kezdte Vöröskarom. - Nem törődöm azzal, ami történt. A cél szentesít minden eszközt. De csak akkor szövetkezünk újra, ha Bob Warinst szabadon bocsátjátok.
 Ez bomba volt! Tátott szájjal álltak! Mi van itt?!
 - Mindegy.
 - Legyen becsületes a játék. A Vadsuhanc mehet. Holnap este a Boldogság Szigetek magasságában élelemmel és amire szüksége van, csónakba szállhat.
-- Köszönömbreakprice És ha nincs kifogása ellene, úgy magammal vinném a Nagy Bivalyt.
+- Köszönöm... És ha nincs kifogása ellene, úgy magammal vinném a Nagy Bivalyt.
 Súlyos köd nehezedett a hajóra, ami csak fokozta az idegességet. A herceg párától fényes gumikabátjában, tiszti sapkájában szinte egykedvűen állt ott, a lázadók között, az óceánon. Most látszott, hogy ez az angyalarcú fiú igazi férfi.
 A lázadók zavartan álltak, ugyanazt a kínos témát érintették gondolatban. Végül Petters kimondta:
-- Jó lenne megkérdezni Piszkos Fredetbreakprice
+- Jó lenne megkérdezni Piszkos Fredet...
 Mert az ördög látott ilyent. Ahogy kihúzza a lábát közülük az a vén, szívtelen kutya, hát megáll minden.
 5
 Leeresztették a csónakot. Néhány ládát, hordót, ponyvát és egyéb holmit helyeztek el benne.
@@ -3224,20 +3224,20 @@ Leeresztették a csónakot. Néhány ládát, hordót, ponyvát és egyéb holmi
 - Azt a szélhámost? Minek?
 - Ne törődj semmivel, csak hozd, ha kell, erőszakkal.
 Ezután bement Vöröskaromhoz búcsúzni, és a Nagy Bivaly, mint hűséges mameluk, hozta az igazi Trebitschet. A nyakánál fogva.
-- De kérembreakprice - hápogta ijedten. - Ez a fiú őrültbreakprice Összetéveszt egy jósnővel!
+- De kérem... - hápogta ijedten. - Ez a fiú őrült... Összetéveszt egy jósnővel!
 - Beszállsz, vagy ledoblak?
 Buzgó Mócsing az előbbi mellett döntött.
 Őfelsége kissé búskomoran állt gyönyörű, szőke felesége mellett, akivel mindezideig csak diplomáciai viszonya volt.
-- Annabreakprice Nem győzöm hangsúlyozni, hogy a telt idomú, fekete nők iránt mennyire közömbös voltam mindigbreakprice
-- Maga tréfára vesz sok mindentbreakprice
+- Anna... Nem győzöm hangsúlyozni, hogy a telt idomú, fekete nők iránt mennyire közömbös voltam mindig...
+- Maga tréfára vesz sok mindent...
 Eh! Hát mi van vele? Hogy áll itt égő arccal, könnyes szemmel egy gyilkos előtt?
 - Ha győzök, akkor is van még megoldás. Mondjuk, ossza meg velem a trónt mint igazi élettárs.
 - Magával?! Soha! - kiáltotta.
 - Kérem - felelte csüggedten az uralkodó. - Ha nem, hát nem.
 - Kalózivadék felesége legyek?!
-- Nincs igaza, ha lenézi a felmenő ági rokonaimat, de hátbreakprice bele kell nyugodnom.
-Nehéz szívvel fogta a nő kezét. Istenembreakprice Ő itt szép csendben beleszeretett a feleségébe. De hát ki gondol manapság ilyesmire? És megcsókolta a leányt, szokott alaposságával.
-breakpriceVöröskarom iszonyúan szégyenkezve, de némán tűrte. Azután ott állt egyedül a szobában, és a ködös fedélzet homályából még feléje villant az elmaradó alak nedves gumikabátja, tiszti sapkájabreakprice
+- Nincs igaza, ha lenézi a felmenő ági rokonaimat, de hát... bele kell nyugodnom.
+Nehéz szívvel fogta a nő kezét. Istenem... Ő itt szép csendben beleszeretett a feleségébe. De hát ki gondol manapság ilyesmire? És megcsókolta a leányt, szokott alaposságával.
+...Vöröskarom iszonyúan szégyenkezve, de némán tűrte. Azután ott állt egyedül a szobában, és a ködös fedélzet homályából még feléje villant az elmaradó alak nedves gumikabátja, tiszti sapkája...
 Keservesen sírt.
  
 HUSZONKETTEDIK FEJEZET
@@ -3245,9 +3245,9 @@ HUSZONKETTEDIK FEJEZET
 XI
 Itt olyan jó nyugodt csönt van, ha az ember a szabadbaért, és lefelé ment a hegyoldalban. Valami madár nevet a fák között három egyforma hangon állandóan.
 Nem is tudom, mitől leszek szomorú. Itten valami romlás, valami végzet lóg le a levegőből és fáj a szivem. Eszek itten dolgosznak békében, és egyszercsak lecsap derült égből a veszély, mintha a földből nőtt volna ki!
-breakpriceÉs ottan van a kikötőben két darab angol torpedó leromboló és nem szól semmit.
+...És ottan van a kikötőben két darab angol torpedó leromboló és nem szól semmit.
 Eszt a Warinst most mekkeresem, és a vasbottal kipuhatolom a fejit, hogy légüres tér van-e ott? Ezzel tartozom népemnek, és őseimnek, akik bizonyára letekingetnek néha rám a menyei toloncházból.
-Megyek az elátkozott sínek utánbreakprice Meglátom a gyorsfényképészt. Kinn áll és a fogát piszkálja.
+Megyek az elátkozott sínek után... Meglátom a gyorsfényképészt. Kinn áll és a fogát piszkálja.
 - Jóestét felsék - mongya. - Szép időnk van.
 - Jóestét alattvalóm - felelem.
 - Felséged fényképét kitettem transzparensnek.
@@ -3259,11 +3259,11 @@ Megnézem. Ott álltam élő nagyságban az üveg alatt revolverrel. Egy uralkod
 Aszt hiszem, hogy mielőtt elutazok, eszt a képet sajnálatomra ellopom innét, kénytelen. De miféle csoda tűnt elém a kirakatban! Ott van kint Pollino tűzoltó! A hídlakó és Ekmont, aki megszűnt. Az udvar utánzott! Esz tetszett.
 - No jóéjszakát Firmin alattvaló.
 Én megyek. Kinn a tengeren valahol nagy vihar lehetett, mer jó sok köd gurul a sziget belseje felé lassanként. Tuttam, hogy keressem a szellem-kapitánt, aki most már senki mint Warins Bob. Ahol erdő van és benne a szülöttek. Ott lesz!
-Ázott fák csaptak az arcomba, pedig nem is esett. És tszuppogott a föld a lábom alatt. És mindég több sűrű köd jött, és muszáj volt köhögnibreakprice mer itt az erdőben még fullasztóbb, mivel a sok trópusi fa lélekzik. Ezt egy nagy tudós magyarászta, aki az adeni fegyházban lelkész volt. Azonban léptek neszelnek oldalt felé. Semmit sem láték jóformánbreakprice De valami mozog!breakprice Megvan!
+Ázott fák csaptak az arcomba, pedig nem is esett. És tszuppogott a föld a lábom alatt. És mindég több sűrű köd jött, és muszáj volt köhögni... mer itt az erdőben még fullasztóbb, mivel a sok trópusi fa lélekzik. Ezt egy nagy tudós magyarászta, aki az adeni fegyházban lelkész volt. Azonban léptek neszelnek oldalt felé. Semmit sem láték jóformán... De valami mozog!... Megvan!
 Egy tengerészeti sapka fogója csillog a fehér holdas ködben. A kapitány-kísértet lehet csak, azaz Warins Bob! A fák köszt a ködben éppen errejön az árny. Megint csillog valami! Nedves sapka ellenező! Kapitányi!
 Egy alaposat ütök a vasbottal, éppen az árnyalak tetejére. Azt sem mondja, hogy "pardon" és elájula. Eszt csinálja utánam bármelyik nagy Péter vagy Lajos!
-Vállamra doptam az ájult alakot és vittembreakprice
-Egyenesen a főlegvár titkos kisbejáratához sietek, ott fel a lépcsőn, végig a folyosón, be a lakosztályomba és odavágom a dögöt a padlóra, hogy csak úgy döngbreakprice
+Vállamra doptam az ájult alakot és vittem...
+Egyenesen a főlegvár titkos kisbejáratához sietek, ott fel a lépcsőn, végig a folyosón, be a lakosztályomba és odavágom a dögöt a padlóra, hogy csak úgy döng...
 Szent Isten!
 Esz akit én leütöttem, őfelségem az igazi St. Antonio herceg Szingapurból. És úgy vágtam fejbe, hogy alig van élet benne. (Vége következik.)
  
@@ -3274,11 +3274,11 @@ Nehéz húzni a jókora ladikot, és Buzgó Mócsing nagyokat nyög.
 - Mit teszünk, ha elérjük a partot? - kérdi tőle őfelsége.
 - Egy hálaimát rebegünk - feleli Buzgó Mócsing.
 - Ide figyeljen, Trebitsch! Ha kiderül, hogy megtévesztett, akkor jaj magának!
-Buzgó Mócsing siránkozva fordult a Nagy Bivalyhoz. - Ha én mondom neked, hogy nem normálisbreakprice
+Buzgó Mócsing siránkozva fordult a Nagy Bivalyhoz. - Ha én mondom neked, hogy nem normális...
 Őfelsége a távolba nézett, amerről lassan kibontakozott az egzotikus sziget partjának bizonytalan körvonala.
-- Csak azt sajnálom - dörmögte a Nagy Bivaly -, hogy azzal a gyalázatos Freddel nem tudtam leszámolnibreakprice
+- Csak azt sajnálom - dörmögte a Nagy Bivaly -, hogy azzal a gyalázatos Freddel nem tudtam leszámolni...
 - Azt nem szalasztottad el - mondta egy gazdátlan hang, és a csónak orrában felhalmozott depó mögül előbújt Piszkos Fred, a kapitány!
-breakpriceEgy ideig némán bámultak rá. A Nagy Bivalynak tátva maradt a szája meglepetésében.
+...Egy ideig némán bámultak rá. A Nagy Bivalynak tátva maradt a szája meglepetésében.
 - No mit csodáltok?
 - Most végzünk egymással, Fred - kiáltja végül Nagy Bivaly.
 - Én köpök rád. - És megtette. - Az üzletem végett jöttem veletek.
@@ -3286,39 +3286,39 @@ breakpriceEgy ideig némán bámultak rá. A Nagy Bivalynak tátva maradt a szá
 Piszkos Fred a sapkája alá nyúlt, és a fejét vakarta.
 - Mondd csak, Nagy Bivaly, miféle rakomány lehet a te koponyádban agyvelő helyett? Te azt hiszed, hogy ez a fiú itt Warins?
 - Ha nem az, akkor kicsoda?
-- St. Antonio uralkodó herceg!breakprice Hé! Nézd a hülye, hát nem kiejti az evezőt?
+- St. Antonio uralkodó herceg!... Hé! Nézd a hülye, hát nem kiejti az evezőt?
 2
-- Tebreakprice magabreakprice - hebegte a Nagy Bivaly - St. Antoniobreakprice?
+- Te... maga... - hebegte a Nagy Bivaly - St. Antonio...?
 - Igen barátom - felelte őfelsége. - Kétszeres jutalmat érdemel a hűsége, miután ezt nem tudta.
 - És kétszer kell lefejeztetni ezt a gazembert, aki meg akarta ölni! - kiáltotta Fredre, aki egy kurta pipát piszkálgatott nagy gonddal.
 - Mit szól ehhez, kapitány? - kérdezte a herceg.
-- Mármint én?breakprice Semmit. Tudom, hogy felség kiutal tízezer dollárt, és esetleg kinevez valami herceggé, mert a rablógyilkos Nagy Bivaly kezeiből kiszabadítottambreakprice Nincs valakinek egy hosszú tűje?
-- Mikor szabadítottad meg az én kezeimből a Vadsubreakprice őfelségét?!
-- Amikor meg akartad fojtani. Éppen akkor érkeztem a Négy Bölcs Sintérhez. Azt mondtam, hogy őfelsége nevetségessé tett és gyűlölöm, erre azonnal védelmedbe vetted, és ezt akartambreakprice Azért ne fejeztesse le kétszer, felség. Elég lesz egyszer is. Nekem van szívem.
-- Azt akarja mondanibreakprice - kérdezte a herceg - hogy az én érdekemben tette?
+- Mármint én?... Semmit. Tudom, hogy felség kiutal tízezer dollárt, és esetleg kinevez valami herceggé, mert a rablógyilkos Nagy Bivaly kezeiből kiszabadítottam... Nincs valakinek egy hosszú tűje?
+- Mikor szabadítottad meg az én kezeimből a Vadsu... őfelségét?!
+- Amikor meg akartad fojtani. Éppen akkor érkeztem a Négy Bölcs Sintérhez. Azt mondtam, hogy őfelsége nevetségessé tett és gyűlölöm, erre azonnal védelmedbe vetted, és ezt akartam... Azért ne fejeztesse le kétszer, felség. Elég lesz egyszer is. Nekem van szívem.
+- Azt akarja mondani... - kérdezte a herceg - hogy az én érdekemben tette?
 - Ezt a politikát űztem végig. Amikor elvitték önt megölni, én addig örültem, amíg visszahozatták, csak azért, hogy én megpukkadjak a méregtől. Azután elkezdtem a Vöröskarmot szeretni, és addig szerettem, amíg elhidegült tőle mindenki, és fellázadtak ellene. Mert az én szeretetem öl, butít és nyomorba dönt.
 - Gratulálok - kiáltotta nevetve a király. - Zseniális munka volt. De miért állt az én oldalamra?
 - Mert tudtam, hogy Bob Warins meghalt.
-- Mit mond?!breakprice Mikor halt meg?
+- Mit mond?!... Mikor halt meg?
 - Amikor leszúrtam.
 3
 Késő éjszaka volt, mire elérték a szigetet. A parton tüzet raktak, és megpihentek kissé.
 - Most mondjon el mindent, kapitány. Hol ölte meg Warins Bobot?
-- A Honolulu-Staron. Wirth kapitány, az angol haditengerészet Titkos Szolgálatának egy tagja leváltotta Port Szuezben a Honolulu-Star kapitányát. Engem régen ismerbreakprice ugyanis valamikor tengerésztiszt voltambreakprice
-- Te?breakprice - motyogta a Nagy Bivaly. - Tengerésztiszt voltál?
+- A Honolulu-Staron. Wirth kapitány, az angol haditengerészet Titkos Szolgálatának egy tagja leváltotta Port Szuezben a Honolulu-Star kapitányát. Engem régen ismer... ugyanis valamikor tengerésztiszt voltam...
+- Te?... - motyogta a Nagy Bivaly. - Tengerésztiszt voltál?
 - Igen. Onnan küzdöttem le magam idáig. Wirth kapitány felfedezett a fenékben, de azt mondta, maradhatok, csak tartsam én is nyitva a szememet. Később Fülig Jimmy üzleti ügyei úgy kívánták, hogy időnként megmérgezze a hajó utasait, és vesztegzár alá került a Honolulu-Star. Ez kapóra jött valakinek, aki végezni akart Fernandez régens herceggel, mert a gyilkos tudta, hogy vesztegzár-eljárás esetén nincs vizsgálatra és boncolásra mód, hiszen a tetemet azonnal el kell temetni.
 - De én sürgönyileg kivételesen haladékot kaptam Szingapurból - szólt közbe a herceg.
-- Igenbreakprice Ez kissé kínos lehetett a gyilkosnak. Bob Warins is fellopakodott a hajóra. Nem Almira felé szökött a fegyházból, hanem Északnak, egyenesen Port Szuezbe, és bevárta Felséged hajóját. A hajón olyan köpenyben és sapkában járt éjszaka a ködös sötét fedélzeten hogy futólag Wirth kapitánynak hitték, majd pedig kísértetnek. Amikor Fülig Jimmy segítségül hívott, én is találkoztam a kapitánysapkás Warinsszal a fedélzeten, és szembenéztem vele. Ő pisztolyt rántott én kést. Azután meghalt.
+- Igen... Ez kissé kínos lehetett a gyilkosnak. Bob Warins is fellopakodott a hajóra. Nem Almira felé szökött a fegyházból, hanem Északnak, egyenesen Port Szuezbe, és bevárta Felséged hajóját. A hajón olyan köpenyben és sapkában járt éjszaka a ködös sötét fedélzeten hogy futólag Wirth kapitánynak hitték, majd pedig kísértetnek. Amikor Fülig Jimmy segítségül hívott, én is találkoztam a kapitánysapkás Warinsszal a fedélzeten, és szembenéztem vele. Ő pisztolyt rántott én kést. Azután meghalt.
 - És biztos, hogy ő volt?
 - Nála volt a saját körözvénye a fényképével. A fedélzeten egy elszabadult tetem gurult arra. Fernandez régensherceg. Pillanatok alatt odakötöztem a helyére Warins Bobot. Ezt dobták a vízbe a régensherceg helyett, Fernandezt visszavittem a kajütjébe, ahol később Fülig Jimmy nyakára zuhant. Fülig Jimmyt ez az eset legalábbis gondolkodóba ejthette. Lejött hozzám, és kért, hogy dobjam újra vízbe a halottat. Kint várt rám a kajüt előtt. Én bementem, de érthetetlen módon Fernandez teteme eltűnt!
 - Én vittem el - mondta a herceg -, véletlenül benyitottam, és megláttam a halottat. Elrejtettem az én kabinomban, és a másnap érkező Palmerston tanárt megkértem, hogy vigye Fernandez tetemét Szingapurba, ahol majd gondoskodnak az elszállításáról. Az egészségügyi hajó elvitte a halottat. Bizonyára az Almira yachtra került, ahol bebalzsamozták és hazavitték.
 Hallgattak. A fülledt éjszakában egy kakadu rikoltott élesen.
-- Szép életet élt Fernandez herceg - szólt a kapitány -, de igen hányatott halála voltbreakprice
+- Szép életet élt Fernandez herceg - szólt a kapitány -, de igen hányatott halála volt...
 - És hová lett az a Wirth kapitány?
 - Átadta Szingapurban a kapitányi szolgálatot, és követte Fülig Jimmyt, hogy ne csináljon valami ostobaságot mint király. Wirth nem hitte el nekem, hogy Warins meghalt. Azt gondolta, hogy egy eltűnt kajütszekrényt kötöztem Fernandez teteme helyére. Pedig a szekrényt Fülig Jimmy megnyugtatására dobtam a tengerbe lepedőben, a halott régens helyett. Ha ez a csavargó nem zár el a ládában, akkor felségedet Tahitibe viszem. Így késtem egy napot, és ez csinálta a zavart.
 - De hát - kiáltott Buzgó Mócsing - azt is mondják meg végre, hogy mi voltam én ebben az ügyben?
 - Egy nagy ló - felelte Piszkos Fred rövid megfontolás után.
-breakpriceÉs később őfelsége kíséret nélkül elindult, hogy visszatérjen ősei trónjára, a fellegvárba. Ám ebből az alkalomból Fülig Jimmy jól fejbe vágta.
+...És később őfelsége kíséret nélkül elindult, hogy visszatérjen ősei trónjára, a fellegvárba. Ám ebből az alkalomból Fülig Jimmy jól fejbe vágta.
  
 HUSZONNEGYEDIK FEJEZET
 1
@@ -3327,8 +3327,8 @@ Az admirális figyelmesen végighallgatta a történetet.
 - Önök szerint St. Antonio herceg meghalt?
 - Igen - felelte a Kegyelmes.
 - Borzasztóan sajnálom. Nagyon szerettem ezt a rokonszenves fiatalembert. Warins mindenesetre véres fejjel megy el a szigetről!
-- Tengernagy úrbreakprice Bob Warins a férjembreakprice Kérem, erre mindenesetre legyen tekintettel, habreakprice elfogjabreakprice - szólt közbe Anna Alvarez.
-- Szenyorita - mondta tiszteletteljes hangon a tengernagy -, Bob Warins sorsáról nem döntenek az ön hozzászólása nélkülbreakprice
+- Tengernagy úr... Bob Warins a férjem... Kérem, erre mindenesetre legyen tekintettel, ha... elfogja... - szólt közbe Anna Alvarez.
+- Szenyorita - mondta tiszteletteljes hangon a tengernagy -, Bob Warins sorsáról nem döntenek az ön hozzászólása nélkül...
 - És ami a továbbiakat illeti? - kérdezi az amerikai.
 - Ha csakugyan egy csavargó bitorolja a trónt, úgy a Home Fleet egyetlen rombolója sem mozdul az uralmáért - felelte az angol.
 - Hogyan lehetne a kérdést dűlőre vinni?
@@ -3340,36 +3340,36 @@ A királyi vár nagytermében valamennyi csillár teljes fényben ragyogott. A d
 - Hiszed, hogy az a csavargó megjelenik itt? - kérdezte Alvarez a leányát. De Anna alig figyelt. Valahova a semmibe nézett, szomorú volt.
 Most minden tekintet az ajtóra tapadt. Egy küldöttség érkezik, hófehér szakállú kapitány vezeti, vadonatúj egyenruhában: Piszkos Fred!
 De nemcsak ő jött el. Mögötte ott áll Holdvilág Charley, a Főorvos, a Kannibál Béby és a Nagy Bivaly. Ilyent még nem látott a St. Antoniók ősi várkastélya! Kínos eleganciájuk tudatában félszegen topognak. Pollino miniszter odalép a kapitányhoz:
-- Örülök, urambreakprice Önről sokat hallottambreakprice Hol kapta a kitüntetéseit?
-- A Simon Arzt áruházbanbreakprice
-breakpriceAz arcokon várakozás, izgalom, ünnepélyesség. Azután nagy csend.
+- Örülök, uram... Önről sokat hallottam... Hol kapta a kitüntetéseit?
+- A Simon Arzt áruházban...
+...Az arcokon várakozás, izgalom, ünnepélyesség. Azután nagy csend.
 - Őfelsége a király! - jelenti Gomperez hidalgó utóda.
 Két tiszt toppan be feszesen. Azután gyors, de határozott, kemény lépések hallatszottak, és megjelenik mosolyogva az uralkodó! A világ legfiatalabb marsallja! A nagy csendben egy izgatott röffenés hallatszik.
-- A Vadsuhanc!breakprice
+- A Vadsuhanc!...
 De ezt mintha nem is hallanák. Mindenki Parker admirálist nézi, aki a királyhoz lép.
 - Felség! - mondja őszinte örömmel. - Igazán boldog vagyok, hogy üdvözölhetem a birodalmában.
-De most nagy zűrzavar támad, mert Anna Alvarez elájulbreakprice
+De most nagy zűrzavar támad, mert Anna Alvarez elájul...
 3
 Amikor magához tér, fáradt feje egy arany vállrózsán pihen. Senki sincs körülöttük. Csendes kis szalonban vannak.
-- Anna - mondta az uralkodó -, remélem, most már nem lesz kifogása a családom ellenbreakprice
-- Óbreakprice magabreakprice kicsúfolt - feleli dühösen, de a fejét ott felejti a vállrózsán.
-- Ha válni akar, mindenesetre kitűnő oka van rá. Esküvő előtt többszörös gyilkosnak mondtam magamat, és utóbb kiderült, hogy megtévesztettembreakprice Nos? Elválikbreakprice
+- Anna - mondta az uralkodó -, remélem, most már nem lesz kifogása a családom ellen...
+- Ó... maga... kicsúfolt - feleli dühösen, de a fejét ott felejti a vállrózsán.
+- Ha válni akar, mindenesetre kitűnő oka van rá. Esküvő előtt többszörös gyilkosnak mondtam magamat, és utóbb kiderült, hogy megtévesztettem... Nos? Elválik...
 Alvarez leánya nem felelt. Úgy látszott, gondolkodik. De a fejét végképp ottfelejtette a vállrózsán, és amíg a döntést mérlegelte, addig őfelsége megcsókolta.
 Természetesen szokott alaposságával tette ezt.
 4
 Piszkos Fred kihallgatáson volt az özvegy királyné magánlakosztályában.
 - Ne sírj, Helena. Ez a fiú mindenért kárpótolhat téged is.
-- Mennyit szenvedtembreakprice Hiszen a te fiad. Azt hittem, hogy kiütközött belőle az apja vére.
+- Mennyit szenvedtem... Hiszen a te fiad. Azt hittem, hogy kiütközött belőle az apja vére.
 - Hát vízzé nem vált - mondta öntelt mosollyal Piszkos Fred, a kapitány. - Neki sohasem kell megtudni, hogy nem vérbeli St. Antonio. Minek?
-- Monddbreakprice Theodorbreakprice Fernandezt tebreakprice ölted meg?
+- Mondd... Theodor... Fernandezt te... ölted meg?
 - Nem. Az amerikai Titkos Szolgálat egy kapitánya tette. Fernandez megállapodott Warinsszal. Fernandez gyűlölte az idegen vérből befogadott St. Antoniót. Inkább Warinsszal szövetkezett, aki megengedte volna, hogy japánpárti kínaiak számára fegyvert szállítsanak innen. Tehát az amerikai végzett Fernandezzel.
 Hallgatnak.
 - Isten áldjon, Helena.
-- Hová mész, Theodor?breakprice
-- A tengerrebreakprice
-Az asszony lehajtott fejjel a szőnyeget nézibreakprice
-- Megbocsátottál nekembreakprice Theodor?
-Csendbreakprice A királyné lassan felemeli a fejét, és egyedül van a szobában. Piszkos Fred, a kapitány, szép csendben elment, és nem látta többé soha.
+- Hová mész, Theodor?...
+- A tengerre...
+Az asszony lehajtott fejjel a szőnyeget nézi...
+- Megbocsátottál nekem... Theodor?
+Csend... A királyné lassan felemeli a fejét, és egyedül van a szobában. Piszkos Fred, a kapitány, szép csendben elment, és nem látta többé soha.
  
 HUSZONÖTÖDIK FEJEZET
 Fülig Jimmy levele az uralkodóhoz
@@ -3377,7 +3377,7 @@ XII
 Kelt mint itt Szanfranciszkóban uralkodásunk elmúltával magamkezűleg.
 Igen tisztelt kiráj úr, kedves mamája és T. neje őfelsége! Mai nappal keltfent levelét vettem és kibontám.
 Ezennel felelek tisztelettel értesíteni!
-Szíves mekhívására, hogy udvarára telepeggyek nyugodt életre, amit Felség gondtalanít, van szerencsém őszinte sajnálattal. Mer ott nekem nagy strapa a tétlenség. Én városi lakós vagyok, ha nem is bejelentett, ami csak egy üres formalinság. De városi lakos nehezen szokja a vidéket. És egy sziget, akármilyen kicsiny, mégiscsak királyi udvar, tehát nem a nagyvilág. Pedig szívesen emlékszem vissza uralkodásom naccerű idejére, amej felvirágzásba hoszta a országotbreakprice És asz sem lepne meg, ha Almirában megöregítenék fénykoromat és a főt téren szobrommal találkoznék sétálva. Mer a nép bezárt engem a szívébe, és jó, hogy mégsem kell zacskót ragasztani, amint egyéb bezárás esetén ez fentforog.
+Szíves mekhívására, hogy udvarára telepeggyek nyugodt életre, amit Felség gondtalanít, van szerencsém őszinte sajnálattal. Mer ott nekem nagy strapa a tétlenség. Én városi lakós vagyok, ha nem is bejelentett, ami csak egy üres formalinság. De városi lakos nehezen szokja a vidéket. És egy sziget, akármilyen kicsiny, mégiscsak királyi udvar, tehát nem a nagyvilág. Pedig szívesen emlékszem vissza uralkodásom naccerű idejére, amej felvirágzásba hoszta a országot... És asz sem lepne meg, ha Almirában megöregítenék fénykoromat és a főt téren szobrommal találkoznék sétálva. Mer a nép bezárt engem a szívébe, és jó, hogy mégsem kell zacskót ragasztani, amint egyéb bezárás esetén ez fentforog.
 Voltam Szingapurban is a klubbokban. Már nem az, ami volt. Vanek lebukott egy lopásból kifolyó rajtaérésből. Azt hiszem jól esne neki, ha felséged írna egy pár sort. Hadd lássa a Vanek, hogy felséged nem felejti el barátait, ha aszok bajba jutnak. Buszkó Mocsink mondta, irjam mek; hogy felséged, ha van miből, megadhatná neki a két és fél dollárt, amit felsékedért Tulipánt nevű közös barátunknak visszafizetett. Mert egy uralkodó nem csinálhat adósságot. Eszt ő monja. Mi uralkodók tudjuk, hogy ez nem igaz. De mikor ült ez a Mócsink egy trónon?
 Itt már minden nem a réki. Unalmas és csendes lett. Szegény Velő kétoldali pisztolylövésben mekhalt, pedig üzentem neki, hogy a Hobo Fischer kiszabadult. Mondom: unalmas itt minden és csendes, úgyhogy azonnal Honkongba mentem, mert ott sincs semmi dolgom. És az ilyesmit én elintézem.
 Jelenleg ugyanebben az ügyben tartózkodom Szanfranciszkóba.
@@ -3386,18 +3386,18 @@ Ha mektenné felsék, én egy Firmin nevű úrban felejtettem a késem. Ott van 
 És revolvert foga:
 - Itt az idő José - mondá. - Elmehet. De most nagyon gyorsan.
 - Ki maga? - kérdem hüjén.
-- Én Wirth kapitány vagyok. A Titkos Szolgáktól. A kikötőben egy motoros várja és elviszi Tahitibebreakprice És ő adott nekem pénct is. (Aszért köszönöm, hogy felséked is küldött. A pénc az egyetlen jó, amiből nem árt a sok.)
+- Én Wirth kapitány vagyok. A Titkos Szolgáktól. A kikötőben egy motoros várja és elviszi Tahitibe... És ő adott nekem pénct is. (Aszért köszönöm, hogy felséked is küldött. A pénc az egyetlen jó, amiből nem árt a sok.)
 Amikor elmentem, az útban aszt gondolám, elhozom a fényképemet ettől a Firmintől. Ahoty odaértem, belestem asz ablakon és mekrémültem.
 Ott feküdt a halottarcú öreg nő, de jól fejbeütve. Aszonban volt neki élete még, mert vizzel öntöztem.
-- Urambreakprice - mondta - megölt. Firminbreakprice A részvényekbreakprice
-breakpriceHát kiderülne, hogy asz a Firmin meg az asszony részvényesek voltak Alvarec elnök uralmában. Amikor asz elnököt elkergették a részvények folyama árbaesett. De mekvoltak nekik kettőjüknek értéktelenül. És múltkor jött Ekmont meg Gombperec fényképezni és közben mondták, hogy az értéktelen részvényt mekveszik tőlük. Firmin eladta potomért. De az asszony mondá, hogy ő nem adja. Esz emlék. Így hát csak Firminét vitték el. Mire gyött a Pollino fényképeszni, neki nem juta részvén. Eszért él ma is, csak tudná minek?
+- Uram... - mondta - megölt. Firmin... A részvények...
+...Hát kiderülne, hogy asz a Firmin meg az asszony részvényesek voltak Alvarec elnök uralmában. Amikor asz elnököt elkergették a részvények folyama árbaesett. De mekvoltak nekik kettőjüknek értéktelenül. És múltkor jött Ekmont meg Gombperec fényképezni és közben mondták, hogy az értéktelen részvényt mekveszik tőlük. Firmin eladta potomért. De az asszony mondá, hogy ő nem adja. Esz emlék. Így hát csak Firminét vitték el. Mire gyött a Pollino fényképeszni, neki nem juta részvén. Eszért él ma is, csak tudná minek?
 Az történt előzőleg, hogy Ekmont és a többi gyászoló rokon megtudták Bonifác fogolytól, hogy gyön Alvarez csapatokkal és győz. Nekik majd menekülni kell. Iken ám, de akkor a részvének régi, jó folyamára lesz érvényes megint! És itt megvették a régi részvéneket.
 Amikor már Firmin is mektutta, hogy visszajön Alva Rez, akkor maj megőrült, hoty potomér atta a papirokat. De Ekmont kirugatá. Gombperec dettó. Erre ő megölte őket, mer tutta, hogy Warinst fogják gyanúsitani a tényállással. Vékül leüté és kirablá részvényeiből a halálfejű úrinőt.
 Amikor felálltam a sebesült asszony mellől, ez éppen jókor volt. Mer lesujtott rám hátulról esz a Firmin, aki valamiért visszagyött. De már ép felálltam, nem talált.
 No asztán következett egy rövid testgyakorlás miután elástam (S.K.) Ámde benne felejtettem a műszert a fényképészbe.
 Ezzel zárom soraimat alanti tisztelettel felségednek régi barátja, ma is és a kedves mama őfelségének és az uralkodó őnacsságának kézcsókkal. KeIt most lent: Néhai kollégája:
 az eksz Fülig Jimmy, sajátulag.
-Almirában ma is szívesen emlékeznek vissza Fülig Jimmyre, az első uralkodójára a világnak, aki népével pertut ivott. És ma is érvényben ban a "LEX FÜLIG 193breakprice 1. T.c.: A KÜLSŐ MEGJELENÉS KÖTELEZŐ EGYSZERŰSÉGÉRŐL, A KORONATANÁCSBAN", amely szerint harisnyában kell a koronatanácsban részt venni. A Nagy Bivaly ott maradt Almirában mint őfelsége testőre, és igen jó dolga volt.
+Almirában ma is szívesen emlékeznek vissza Fülig Jimmyre, az első uralkodójára a világnak, aki népével pertut ivott. És ma is érvényben ban a "LEX FÜLIG 193... 1. T.c.: A KÜLSŐ MEGJELENÉS KÖTELEZŐ EGYSZERŰSÉGÉRŐL, A KORONATANÁCSBAN", amely szerint harisnyában kell a koronatanácsban részt venni. A Nagy Bivaly ott maradt Almirában mint őfelsége testőre, és igen jó dolga volt.
 *
 És Piszkos Fred?
 Valaki mesélte, hogy nemrég Alaszkában látták, ahol játékbarlangot nyitott az örök hó birodalmában, és állítólag az aranyásók komoly formában foglalkoznak a gondolattal, hogy meglincselik. De mire kivitelre kerül a sor, a kapitány már bizonyára messze jár, mert olyan éles az esze, mint a borotva.

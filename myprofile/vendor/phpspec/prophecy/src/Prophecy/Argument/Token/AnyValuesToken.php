@@ -47,6 +47,6 @@ class AnyValuesToken implements TokenInterface
      */
     public function __toString()
     {
-        return '* [, breakprice]';
+        return '* [, ...]';
     }
 }

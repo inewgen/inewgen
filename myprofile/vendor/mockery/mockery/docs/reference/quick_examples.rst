@@ -70,7 +70,7 @@ Creates a mock object which multiple query calls and a single update call.
             $mock->shouldReceive('query')->andReturn(1, 2, 3);
             $mock->shouldReceive('update')->with(5)->andReturn(NULL)->once();
 
-            // breakprice test code here using the mock
+            // ... test code here using the mock
         }
 
     }
@@ -95,7 +95,7 @@ Expect all queries to be executed before any updates.
             $mock->shouldReceive('query')->andReturn(1, 2, 3)->ordered();
             $mock->shouldReceive('update')->andReturn(NULL)->once()->ordered();
 
-            // breakprice test code here using the mock
+            // ... test code here using the mock
         }
 
     }
@@ -121,10 +121,10 @@ and where queries are expected with several different params.
             $db->shouldReceive('startup')->once()->ordered();
             $db->shouldReceive('query')->with('CPWR')->andReturn(12.3)->once()->ordered('queries');
             $db->shouldReceive('query')->with('MSFT')->andReturn(10.0)->once()->ordered('queries');
-            $db->shouldReceive('query')->with("/^breakprice.$/")->andReturn(3.3)->atLeast()->once()->ordered('queries');
+            $db->shouldReceive('query')->with("/^....$/")->andReturn(3.3)->atLeast()->once()->ordered('queries');
             $db->shouldReceive('finish')->once()->ordered();
 
-            // breakprice test code here using the mock
+            // ... test code here using the mock
         }
 
     }

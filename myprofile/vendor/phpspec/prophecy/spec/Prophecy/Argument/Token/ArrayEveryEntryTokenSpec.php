@@ -33,7 +33,7 @@ class ArrayEveryEntryTokenSpec extends ObjectBehavior
     function its_string_representation_tells_that_its_an_array_containing_only_value($value)
     {
         $value->__toString()->willReturn('value');
-        $this->__toString()->shouldBe('[value, breakprice, value]');
+        $this->__toString()->shouldBe('[value, ..., value]');
     }
 
     /**

@@ -116,7 +116,7 @@ class Loop
             } while (true);
         };
 
-        // bind the closure to $this from the shell scope variablesbreakprice
+        // bind the closure to $this from the shell scope variables...
         if (self::bindLoop()) {
             $that = null;
             try {

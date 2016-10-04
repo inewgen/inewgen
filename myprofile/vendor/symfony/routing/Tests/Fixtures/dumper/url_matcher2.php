@@ -300,7 +300,7 @@ class ProjectUrlMatcher extends Symfony\Component\Routing\Tests\Fixtures\Redirec
 
         if (0 === strpos($pathinfo, '/a')) {
             // a
-            if ($pathinfo === '/a/abreakprice') {
+            if ($pathinfo === '/a/a...') {
                 return array('_route' => 'a');
             }
 

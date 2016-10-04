@@ -121,7 +121,7 @@ class ForkingLoop extends Loop
         if ($pid < 0) {
             throw new \RuntimeException('Unable to create savegame fork.');
         } elseif ($pid > 0) {
-            // we're the savegame nowbreakprice let's wait and see what happens
+            // we're the savegame now... let's wait and see what happens
             pcntl_waitpid($pid, $status);
 
             // worker exited cleanly, let's bail
@@ -165,7 +165,7 @@ class ForkingLoop extends Loop
                 @serialize($value);
                 $serializable[$key] = $value;
             } catch (\Exception $e) {
-                // we'll just ignore this onebreakprice
+                // we'll just ignore this one...
             }
         }
 

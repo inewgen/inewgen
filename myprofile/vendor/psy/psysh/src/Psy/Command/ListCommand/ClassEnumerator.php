@@ -29,7 +29,7 @@ class ClassEnumerator extends Enumerator
         //
         //     ls --classes Foo
         //
-        // breakprice for listing classes in the Foo namespace
+        // ... for listing classes in the Foo namespace
 
         if ($reflector !== null || $target !== null) {
             return;

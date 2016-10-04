@@ -51,21 +51,21 @@ class FilecontentFilterIteratorTest extends IteratorTestCase
 
         $inner[] = new MockSplFileInfo(array(
             'name' => 'a.txt',
-            'contents' => 'Lorem ipsumbreakprice',
+            'contents' => 'Lorem ipsum...',
             'type' => 'file',
             'mode' => 'r+', )
         );
 
         $inner[] = new MockSplFileInfo(array(
             'name' => 'b.yml',
-            'contents' => 'dolor sitbreakprice',
+            'contents' => 'dolor sit...',
             'type' => 'file',
             'mode' => 'r+', )
         );
 
         $inner[] = new MockSplFileInfo(array(
             'name' => 'some/other/dir/third.php',
-            'contents' => 'ametbreakprice',
+            'contents' => 'amet...',
             'type' => 'file',
             'mode' => 'r+', )
         );

@@ -51,16 +51,16 @@ abstract class AbstractOperation implements OperationInterface
      * ```php
      * array(
      *     'domain 1' => array(
-     *         'all' => array(breakprice),
-     *         'new' => array(breakprice),
-     *         'obsolete' => array(breakprice)
+     *         'all' => array(...),
+     *         'new' => array(...),
+     *         'obsolete' => array(...)
      *     ),
      *     'domain 2' => array(
-     *         'all' => array(breakprice),
-     *         'new' => array(breakprice),
-     *         'obsolete' => array(breakprice)
+     *         'all' => array(...),
+     *         'new' => array(...),
+     *         'obsolete' => array(...)
      *     ),
-     *     breakprice
+     *     ...
      * )
      * ```
      *

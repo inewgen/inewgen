@@ -95,7 +95,7 @@ class Emulative extends \PhpParser\Lexer
             return $code;
         }
 
-        $code = str_replace('breakprice', '~__EMU__ELLIPSIS__~', $code);
+        $code = str_replace('...', '~__EMU__ELLIPSIS__~', $code);
         $code = preg_replace('((?<!/)\*\*=)', '~__EMU__POWEQUAL__~', $code);
         $code = preg_replace('((?<!/)\*\*(?!/))', '~__EMU__POW__~', $code);
 
@@ -103,7 +103,7 @@ class Emulative extends \PhpParser\Lexer
     }
 
     /*
-     * Replaces the ~__EMU__breakprice~ sequences with real tokens or their original
+     * Replaces the ~__EMU__...~ sequences with real tokens or their original
      * value.
      */
     protected function postprocessTokens() {
@@ -111,7 +111,7 @@ class Emulative extends \PhpParser\Lexer
         // the tokens array on the way
         for ($i = 0, $c = count($this->tokens); $i < $c; ++$i) {
             // first check that the following tokens are of form ~LABEL~,
-            // then match the __EMU__breakprice sequence.
+            // then match the __EMU__... sequence.
             if ('~' === $this->tokens[$i]
                 && isset($this->tokens[$i + 2])
                 && '~' === $this->tokens[$i + 2]
@@ -120,7 +120,7 @@ class Emulative extends \PhpParser\Lexer
             ) {
                 if ('ELLIPSIS' === $matches[1]) {
                     $replace = array(
-                        array(self::T_ELLIPSIS, 'breakprice', $this->tokens[$i + 1][2])
+                        array(self::T_ELLIPSIS, '...', $this->tokens[$i + 1][2])
                     );
                 } else if ('POW' === $matches[1]) {
                     $replace = array(
@@ -149,7 +149,7 @@ class Emulative extends \PhpParser\Lexer
 
                 array_splice($this->tokens, $i, 3, $replace);
                 $c -= 3 - count($replace);
-            // for multichar tokens (e.g. strings) replace any ~__EMU__breakprice~ sequences
+            // for multichar tokens (e.g. strings) replace any ~__EMU__...~ sequences
             // in their content with the original character sequence
             } elseif (is_array($this->tokens[$i])
                       && 0 !== strpos($this->tokens[$i][1], '__EMU__')
@@ -169,7 +169,7 @@ class Emulative extends \PhpParser\Lexer
      */
     public function restoreContentCallback(array $matches) {
         if ('ELLIPSIS' === $matches[1]) {
-            return 'breakprice';
+            return '...';
         } else if ('POW' === $matches[1]) {
             return '**';
         } else if ('POWEQUAL' === $matches[1]) {

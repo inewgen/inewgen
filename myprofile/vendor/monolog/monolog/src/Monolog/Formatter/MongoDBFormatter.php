@@ -66,7 +66,7 @@ class MongoDBFormatter implements FormatterInterface
                 }
             }
         } else {
-            $record = '[breakprice]';
+            $record = '[...]';
         }
 
         return $record;

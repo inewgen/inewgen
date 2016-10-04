@@ -119,7 +119,7 @@ slabbetje voor, zonder datti 't zelf wist. Maar den volgenden dag
 keeki weer en dacht daarbij: "Mon âme prend son élan vers l'infini."
 
 Potgieter zei dat de vent gek was en dat in den tijd van Piet
-Heinbreakpricebreakprice..
+Hein........
 
 Dichtend vervolgde 't dichtertje z'n tocht door de woestenijen van
 Amsterdam. Zoover 't oog reikte, niets dan Nederlandsche menschen. Weer
@@ -285,7 +285,7 @@ Toen kreeg i haar. Negentien jaar was i. Hij schreef haar een briefje
 datti twee dagen in Amsterdam was en datti haar graag wilde spreken. Ze
 kenden elkaars namen, Amsterdam is ten slotte ook maar een dorp. Ze
 hattem die honderd dagen erg gemist en ze kwam. Haar moe vond 't goed,
-"als 't een nette burgerjongen was en ze hield van 'mbreakprice.., maar
+"als 't een nette burgerjongen was en ze hield van 'm....., maar
 geen scharrelpartij." Ze kwam, 's avonds bij de Muiderpoort en hij
 zei dat ze zeker wel begreep, watti haar vragen wou. 't Was zoo raar,
 zoo gewoon, hij kon heelemaal niet dichten. En ze zei natuurlijk dat
@@ -558,7 +558,7 @@ die vrouwen zitten en er gaan er voorbij op straat. "O God," denkt i,
 "als er nu eens een wonder gebeurde, als nu eens in eens van al die
 vrouwen al de kleeren afvielen?" Een dichtertje dat den waanzin nabij
 is denkt rare dingen. U en ik lezer denken nooit zoo iets. En mijn
-lezeressenbreakprice.. heilige onschuld, ik moet er niet aan denken.
+lezeressen..... heilige onschuld, ik moet er niet aan denken.
 
 
 
@@ -568,7 +568,7 @@ V.
 
 Zes jaar waren ze getrouwd. En terwijl zij iederen morgen brood sneed
 en boterhammen smeerde en thee schonk voor hem, voor kleine Bobi, voor
-'t dienstmeisje en soms voor de werksterbreakprice. Snijd eens één keer brood
+'t dienstmeisje en soms voor de werkster.... Snijd eens één keer brood
 en smeer eens boterhammen voor vier kinderen, als je 't niet gewend
 bent, wat de ongelukkige schrijver van deze geschiedenis eens gedaan
 heeft, volslagen uitzinnig word je d'r van. Op d'n duur zal 't wel
@@ -735,7 +735,7 @@ zijn wang en aanschouwde het bruine knobbeltje boven de holte, die
 een gedicht was en de kleine haartjes die glinsterden in de zon en
 glimlachte. Daarna keek hij weer ernstig langs z'n voeten en zag zijn
 Rijn wenden tusschen zijn bergen en peinsde: "Hoe was hij er ook weer
-toe gekomen, 't Duitsche rijk te laten stichten? Die Pruisenbreakprice.."
+toe gekomen, 't Duitsche rijk te laten stichten? Die Pruisen....."
 
 En z'n edel, hareloos gelaat versomberde, er kwamen twee diepe plooien
 boven z'n rechten sterken neus.
@@ -1083,11 +1083,11 @@ degelijk heer hielden.
 "Zeg is 't waar, dat je tegenwoordig iederen avond op kantoor zit?" Hij
 knikte. "Moet dat?" Hij haalde z'n schouders op. "Waarom doe je 't
 dan?" Hij lachte weer. "Om vooruit te komen in de wereld. 't Wordt
-je niet cadeau gedaan." 't Leek haar nix prettigbreakprice "Wat zou jij
+je niet cadeau gedaan." 't Leek haar nix prettig... "Wat zou jij
 dan willen?"
 
-"Kijkenbreakprice en denkenbreakprice en schrijven," zei ze en bloosde heel
-evenbreakprice "ten minste als je dat kunt."
+"Kijken... en denken... en schrijven," zei ze en bloosde heel
+even... "ten minste als je dat kunt."
 
 Hij glimlachte akelig wijs. "Nix gedaan, Doortje. Je wordt er nix
 beter van, 't stomste vee is 't beste af. Geloof je niet dat Bovenkerk
@@ -1556,7 +1556,7 @@ Toen vielen ze samen peilloos diep door 't licht en ze voelden hun
 lijven als zingende zonnen.
 
 Maar in z'n achterhoofd was een plek ijskoud en daar dacht hij:
-"Dit is de wraak, zij boet voor een wereld"breakprice
+"Dit is de wraak, zij boet voor een wereld"...
 
 De Duivel zat in "de Kroon," in 't midden, bij een pilaar. Hij legde
 z'n dunne gouden horloge voor zich op 't tafeltje. De twee knobbels
@@ -3067,7 +3067,7 @@ Van mij wilde Bekker weten waar dat op uit moest loopen, dat kon
 toch zoo niet doorgaan. En 't ging ook zoo niet door, want na de
 zomervacantie kwam ze niet meer terug.
 
-"Meiden," zei Bekker, "dat is niks gedaanbreakprice Ze veerde als ze
+"Meiden," zei Bekker, "dat is niks gedaan... Ze veerde als ze
 liep." Hij draaide de lamp wat op en sloeg een blad om van 't
 boek waar-i in las. "Waar zou ze nu zijn?" "Zou ze zoenen?" Een
 stukje vuur uit zijn pijp viel op 't boek. Hij doofde 't met een
@@ -3075,7 +3075,7 @@ lucifersdoosje. "Verdomme, een gat, dat heb ik stom gedaan." "'t Is
 beter zoo, meiden is niks gedaan, je schiet er niet mee op, ze leiden
 je maar af. Op een afstand zijn ze aardig, om gedichten op te maken."
 
-Hij las. Na een poosje keek hij weer opbreakprice "Weet je wat een raar
+Hij las. Na een poosje keek hij weer op... "Weet je wat een raar
 ding is? Toen ze me dien middag inhaalde ging ze rakelings langs
 me heen. Er was zoo te zeggen niks tusschen ons, een beetje kleeren
 van haar en zoo goed als geen kleeren van mij." (Bekker liep zomer
@@ -3290,7 +3290,7 @@ schilderen. Een lolletje is 't niet. Wat zei-di ook weer?" "Wie?" vroeg
 ik. "Die vent in dat boek, wat zei-di ook weer dat kunstenaars
 waren?" "Gebenedijden, Bavink." "Weet je wat ik denk, Koekebakker? Dat
 't dezelfde vent is, die de spoorboekjes gemaakt heeft. Daar heb ik
-ook nooit iets van begrepen, hoe iemand dat kon. Gebenedijdenbreakprice God
+ook nooit iets van begrepen, hoe iemand dat kon. Gebenedijden... God
 is overal? Of niet, Koekebakker? Dat zeggen ze toch?"
 
 Ik knikte. De duisternis begon nu overal uit 't water te klimmen,
@@ -3673,7 +3673,7 @@ Toen ging de deur open en Bekker verscheen. Hij was zenuwachtig
 en verlegen. Hoe het mij ging. Ik zag er goed uit. Het speet hem
 vreeselijk. Hij had een klant over uit Bordeaux. Die mijnheer was
 speciaal overgekomen om met hem te spreken.  Hij geloofde niet, dat
-hij hem voor vanavond laat kwijt zou rakenbreakprice "Je begrijpt--kerel
+hij hem voor vanavond laat kwijt zou raken... "Je begrijpt--kerel
 wat zie je d'r toch goed uit. Kom je nu van Algiers?" Ik begreep
 't volkomen. Ja, ik kwam van Algiers. "Waar logeer je, als 't kan,
 kom ik vanavond om 9 uur bij je." Ik logeerde nergens, mijn geld
@@ -3711,7 +3711,7 @@ zeggen. Och, ik wist vooruit dat 't op niet veel zou uitloopen. Waar
 loopt tegenwoordig 't leven van een Amsterdammer op uit? In mijn
 jongenstijd heb ik vaak genoeg gewenscht, dat er nu eindelijk eens
 iets zou gebeuren. Maar er gebeurde nooit iets. Zelfs verhuisd zijn
-we nooit. En laterbreakprice.
+we nooit. En later....
 
 Alleen Hoyer weet waar de boel op uitloopt. Hij heeft wat geërfd en zit
 flink in de duiten. Hij is lid van de S. D. A. P. en leest "Het Volk".

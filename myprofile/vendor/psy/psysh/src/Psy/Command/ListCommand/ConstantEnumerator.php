@@ -29,7 +29,7 @@ class ConstantEnumerator extends Enumerator
         //
         //     ls --constants Foo
         //
-        // breakprice for listing constants in the Foo namespace
+        // ... for listing constants in the Foo namespace
         if ($reflector !== null || $target !== null) {
             return;
         }

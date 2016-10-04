@@ -34,7 +34,7 @@ class TraitEnumerator extends Enumerator
         //
         //     ls --traits Foo
         //
-        // breakprice for listing traits in the Foo namespace
+        // ... for listing traits in the Foo namespace
 
         if ($reflector !== null || $target !== null) {
             return;

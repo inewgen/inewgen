@@ -376,7 +376,7 @@ class Inline
         $len = strlen($sequence);
         ++$i;
 
-        // [foo, bar, breakprice]
+        // [foo, bar, ...]
         while ($i < $len) {
             switch ($sequence[$i]) {
                 case '[':
@@ -436,7 +436,7 @@ class Inline
         $len = strlen($mapping);
         ++$i;
 
-        // {foo: bar, bar:foo, breakprice}
+        // {foo: bar, bar:foo, ...}
         while ($i < $len) {
             switch ($mapping[$i]) {
                 case ' ':

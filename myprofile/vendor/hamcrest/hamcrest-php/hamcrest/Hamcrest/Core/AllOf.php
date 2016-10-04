@@ -48,9 +48,9 @@ class AllOf extends DiagnosingMatcher
     /**
      * Evaluates to true only if ALL of the passed in matchers evaluate to true.
      *
-     * @factory breakprice
+     * @factory ...
      */
-    public static function allOf(/* argsbreakprice */)
+    public static function allOf(/* args... */)
     {
         $args = func_get_args();
 

@@ -71,9 +71,9 @@ specified amount of time.
 
     // Continue sending as normal
     for ($lotsOfRecipients as $recipient) {
-      breakprice
+      ...
 
-      $mailer->send( breakprice );
+      $mailer->send( ... );
     }
 
 Throttler Plugin
@@ -136,9 +136,9 @@ will cause your program to ``sleep()`` for enough time to average out the rate.
 
     // Continue sending as normal
     for ($lotsOfRecipients as $recipient) {
-      breakprice
+      ...
 
-      $mailer->send( breakprice );
+      $mailer->send( ... );
     }
 
 Logger Plugin
@@ -217,9 +217,9 @@ get the contents of the log.
 
     // Continue sending as normal
     for ($lotsOfRecipients as $recipient) {
-     breakprice
+     ...
 
-     $mailer->send( breakprice );
+     $mailer->send( ... );
     }
 
     // Dump the log contents

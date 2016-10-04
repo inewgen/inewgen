@@ -185,10 +185,10 @@ class Swift_Mime_Headers_ParameterizedHeader extends Swift_Mime_Headers_Unstruct
         $maxValueLength = $this->getMaxLineLength() - strlen($name.'=*N"";') - 1;
         $firstLineOffset = 0;
 
-        // If it's not already a valid parameter valuebreakprice
+        // If it's not already a valid parameter value...
         if (!preg_match('/^'.self::TOKEN_REGEX.'$/D', $value)) {
             // TODO: text, or something else??
-            // breakprice and it's not ascii
+            // ... and it's not ascii
             if (!preg_match('/^'.$this->getGrammar()->getDefinition('text').'*$/D', $value)) {
                 $encoded = true;
                 // Allow space for the indices, charset and language

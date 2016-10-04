@@ -10,7 +10,7 @@ Instance mocking means that a statement like:
 
     $obj = new \MyNamespace\Foo;
 
-breakpricewill actually generate a mock object. This is done by replacing the real
+...will actually generate a mock object. This is done by replacing the real
 class with an instance mock (similar to an alias mock), as with mocking public
 methods. The alias will import its expectations from the original mock of
 that type (note that the original is never verified and should be ignored

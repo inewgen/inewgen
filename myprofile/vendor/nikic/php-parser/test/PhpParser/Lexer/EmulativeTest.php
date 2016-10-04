@@ -93,8 +93,8 @@ class EmulativeTest extends LexerTest
             array("yield\r\nfrom", array(
                 array(Tokens::T_YIELD_FROM, "yield\r\nfrom"),
             )),
-            array('breakprice', array(
-                array(Tokens::T_ELLIPSIS, 'breakprice'),
+            array('...', array(
+                array(Tokens::T_ELLIPSIS, '...'),
             )),
             array('**', array(
                 array(Tokens::T_POW, '**'),

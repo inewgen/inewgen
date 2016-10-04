@@ -22,15 +22,15 @@ $capsule->addConnection([
     'prefix'    => '',
 ]);
 
-// Set the event dispatcher used by Eloquent modelsbreakprice (optional)
+// Set the event dispatcher used by Eloquent models... (optional)
 use Illuminate\Events\Dispatcher;
 use Illuminate\Container\Container;
 $capsule->setEventDispatcher(new Dispatcher(new Container));
 
-// Make this Capsule instance available globally via static methodsbreakprice (optional)
+// Make this Capsule instance available globally via static methods... (optional)
 $capsule->setAsGlobal();
 
-// Setup the Eloquent ORMbreakprice (optional; unless you've used setEventDispatcher())
+// Setup the Eloquent ORM... (optional; unless you've used setEventDispatcher())
 $capsule->bootEloquent();
 ```
 
@@ -67,4 +67,4 @@ class User extends Illuminate\Database\Eloquent\Model {}
 $users = User::where('votes', '>', 1)->get();
 ```
 
-For further documentation on using the various database facilities this library provides, consult the [Laravel framework documentation](https://laravel.com/docs).
+For further documentation on using the various database facilities this library provides, consult the [Laravel framework documentation](http://laravel.com/docs).

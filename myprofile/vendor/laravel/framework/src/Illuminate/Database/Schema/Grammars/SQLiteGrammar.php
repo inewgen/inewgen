@@ -202,7 +202,7 @@ class SQLiteGrammar extends Grammar
      */
     public function compileForeign(Blueprint $blueprint, Fluent $command)
     {
-        // Handled on table creationbreakprice
+        // Handled on table creation...
     }
 
     /**

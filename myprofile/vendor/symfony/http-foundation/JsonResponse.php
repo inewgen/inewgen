@@ -27,19 +27,18 @@ class JsonResponse extends Response
     protected $data;
     protected $callback;
 
-    // Encode <, >, ', &, and " characters in the JSON, making it also safe to be embedded into HTML.
+    // Encode <, >, ', &, and " for RFC4627-compliant JSON, which may also be embedded into HTML.
     // 15 === JSON_HEX_TAG | JSON_HEX_APOS | JSON_HEX_AMP | JSON_HEX_QUOT
-    const DEFAULT_ENCODING_OPTIONS = 15;
-
-    protected $encodingOptions = self::DEFAULT_ENCODING_OPTIONS;
+    protected $encodingOptions = 15;
 
     /**
+     * Constructor.
+     *
      * @param mixed $data    The response data
      * @param int   $status  The response status code
      * @param array $headers An array of response headers
-     * @param bool  $json    If the data is already a JSON string
      */
-    public function __construct($data = null, $status = 200, $headers = array(), $json = false)
+    public function __construct($data = null, $status = 200, $headers = array())
     {
         parent::__construct('', $status, $headers);
 
@@ -47,22 +46,11 @@ class JsonResponse extends Response
             $data = new \ArrayObject();
         }
 
-        $json ? $this->setJson($data) : $this->setData($data);
+        $this->setData($data);
     }
 
     /**
-     * Factory method for chainability.
-     *
-     * Example:
-     *
-     *     return JsonResponse::create($data, 200)
-     *         ->setSharedMaxAge(300);
-     *
-     * @param mixed $data    The json response data
-     * @param int   $status  The response status code
-     * @param array $headers An array of response headers
-     *
-     * @return JsonResponse
+     * {@inheritdoc}
      */
     public static function create($data = null, $status = 200, $headers = array())
     {
@@ -97,22 +85,6 @@ class JsonResponse extends Response
     }
 
     /**
-     * Sets a raw string containing a JSON document to be sent.
-     *
-     * @param string $json
-     *
-     * @return JsonResponse
-     *
-     * @throws \InvalidArgumentException
-     */
-    public function setJson($json)
-    {
-        $this->data = $json;
-
-        return $this->update();
-    }
-
-    /**
      * Sets the data to be sent as JSON.
      *
      * @param mixed $data
@@ -126,7 +98,7 @@ class JsonResponse extends Response
         if (defined('HHVM_VERSION')) {
             // HHVM does not trigger any warnings and let exceptions
             // thrown from a JsonSerializable object pass through.
-            // If only PHP did the samebreakprice
+            // If only PHP did the same...
             $data = json_encode($data, $this->encodingOptions);
         } else {
             try {
@@ -146,7 +118,9 @@ class JsonResponse extends Response
             throw new \InvalidArgumentException(json_last_error_msg());
         }
 
-        return $this->setJson($data);
+        $this->data = $data;
+
+        return $this->update();
     }
 
     /**

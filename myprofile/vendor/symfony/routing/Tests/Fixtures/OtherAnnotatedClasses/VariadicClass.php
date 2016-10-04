@@ -13,7 +13,7 @@ namespace Symfony\Component\Routing\Tests\Fixtures\OtherAnnotatedClasses;
 
 class VariadicClass
 {
-    public function routeAction(breakprice$params)
+    public function routeAction(...$params)
     {
     }
 }

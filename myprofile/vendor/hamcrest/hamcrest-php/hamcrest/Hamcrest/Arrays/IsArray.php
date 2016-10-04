@@ -90,9 +90,9 @@ class IsArray extends TypeSafeMatcher
     /**
      * Evaluates to true only if each $matcher[$i] is satisfied by $array[$i].
      *
-     * @factory breakprice
+     * @factory ...
      */
-    public static function anArray(/* argsbreakprice */)
+    public static function anArray(/* args... */)
     {
         $args = func_get_args();
 

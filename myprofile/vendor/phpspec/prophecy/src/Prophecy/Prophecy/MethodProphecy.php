@@ -355,7 +355,7 @@ class MethodProphecy
     }
 
     /**
-     * Checks currently registered [with should(breakprice)] prediction.
+     * Checks currently registered [with should(...)] prediction.
      */
     public function checkPrediction()
     {

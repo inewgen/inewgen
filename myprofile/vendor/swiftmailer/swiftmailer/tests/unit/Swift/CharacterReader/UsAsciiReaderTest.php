@@ -8,7 +8,7 @@ class Swift_CharacterReader_UsAsciiReaderTest extends \PHPUnit_Framework_TestCas
         $c .= $bytes;
         $size = $v->validateCharacter($c);
         if (-1 == $size) {
-            throw new Exception( breakprice invalid char .. );
+            throw new Exception( ... invalid char .. );
         } elseif (0 == $size) {
             return $c; //next character in $os
         }

@@ -256,7 +256,7 @@ abstract class Swift_Mime_Headers_AbstractHeader implements Swift_Mime_Header
                     );
                 $phraseStr = '"'.$phraseStr.'"';
             } else {
-                // breakprice otherwise it needs encoding
+                // ... otherwise it needs encoding
                 // Determine space remaining on line if first line
                 if ($shorten) {
                     $usedLength = strlen($header->getFieldName().': ');

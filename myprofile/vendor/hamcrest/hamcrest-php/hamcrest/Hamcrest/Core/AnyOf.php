@@ -33,9 +33,9 @@ class AnyOf extends ShortcutCombination
     /**
      * Evaluates to true if ANY of the passed in matchers evaluate to true.
      *
-     * @factory breakprice
+     * @factory ...
      */
-    public static function anyOf(/* argsbreakprice */)
+    public static function anyOf(/* args... */)
     {
         $args = func_get_args();
 
@@ -45,9 +45,9 @@ class AnyOf extends ShortcutCombination
     /**
      * Evaluates to false if ANY of the passed in matchers evaluate to true.
      *
-     * @factory breakprice
+     * @factory ...
      */
-    public static function noneOf(/* argsbreakprice */)
+    public static function noneOf(/* args... */)
     {
         $args = func_get_args();
 

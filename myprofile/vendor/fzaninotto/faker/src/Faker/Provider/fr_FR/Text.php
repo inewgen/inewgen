@@ -135,7 +135,7 @@ mais, avant de partir, hésita.
 
 -- Que cherchez-vous? demanda le professeur.
 
--- Ma casbreakprice fit timidement le nouveau, promenant autour de lui
+-- Ma cas... fit timidement le nouveau, promenant autour de lui
 des regards inquiets.
 
 -- Cinq cents vers à toute la classe! exclamé d'une voix furieuse,
@@ -475,7 +475,7 @@ fois étudiant et marié, couché dans son lit comme tout à l'heure,
 traversant une salle d'opérés comme autrefois. L'odeur chaude des
 cataplasmes se mêlait dans sa tête à la verte odeur de la rosée;
 il entendait rouler sur leur tringle les anneaux de fer des lits
-et sa femme dormirbreakprice Comme il passait par Vassonville, il
+et sa femme dormir... Comme il passait par Vassonville, il
 aperçut, au bord d'un fossé, un jeune garçon assis sur l'herbe.
 
 -- Êtes-vous le médecin? demanda l'enfant.
@@ -665,7 +665,7 @@ tapisserie et toucher du piano. Ce fut le comble!
 
 -- C'est donc pour cela, se disait-elle, qu'il a la figure si
 épanouie quand il va la voir, et qu'il met son gilet neuf, au
-risque de l'abîmer à la pluie? Ah! cette femme! cette femme!breakprice
+risque de l'abîmer à la pluie? Ah! cette femme! cette femme!...
 
 Et elle la détesta, d'instinct. D'abord, elle se soulagea par des
 allusions, Charles ne les comprit pas; ensuite, par des réflexions
@@ -763,9 +763,9 @@ bien, tout doucement, un jour chassant l'autre, un printemps sur
 un hiver et un automne par-dessus un été, ça a coulé brin à brin,
 miette à miette; ça s'en est allé, c'est parti, c'est descendu, je
 veux dire, car il vous reste toujours quelque chose au fond, comme
-qui diraitbreakprice un poids, là, sur la poitrine! Mais, puisque c'est
+qui dirait... un poids, là, sur la poitrine! Mais, puisque c'est
 notre sort à tous, on ne doit pas non plus se laisser dépérir, et,
-parce que d'autres sont morts, vouloir mourirbreakprice Il faut vous
+parce que d'autres sont morts, vouloir mourir... Il faut vous
 secouer, monsieur Bovary; ça se passera! Venez nous voir; ma fille
 pense à vous de temps à autre, savez-vous bien, et elle dit comme
 ça que vous l'oubliez. Voilà le printemps bientôt; nous vous
@@ -864,7 +864,7 @@ dans le temps qu'il ne la connaissait pas encore. Mais jamais il
 ne put la voir en sa pensée, différemment qu'il ne l'avait vue la
 première fois, ou telle qu'il venait de la quitter tout à l'heure.
 Puis il se demanda ce qu'elle deviendrait, si elle se marierait,
-et à qui? hélas! le père Rouault était bien riche, et elle!breakprice si
+et à qui? hélas! le père Rouault était bien riche, et elle!... si
 belle! Mais la figure d'Emma revenait toujours se placer devant
 ses yeux, et quelque chose de monotone comme le ronflement d'une
 toupie bourdonnait à ses oreilles: «Si tu te mariais, pourtant! si
@@ -923,7 +923,7 @@ Ils s'arrêtèrent. Charles se taisait.
 -- Mais contez-moi votre histoire! est-ce que je ne sais pas tout?
 dit le père Rouault, en riant doucement.
 
--- Père Rouaultbreakprice, père Rouaultbreakprice, balbutia Charles.
+-- Père Rouault..., père Rouault..., balbutia Charles.
 
 -- Moi, je ne demande pas mieux, continua le fermier. Quoique sans
 doute la petite soit de mon idée, il faut pourtant lui demander
@@ -2170,7 +2170,7 @@ il s'était placé dessus quelque chose qui ne s'effacerait pas.
 
 Ce fut donc une occupation pour Emma que le souvenir de ce bal.
 Toutes les fois que revenait le mercredi, elle se disait en
-s'éveillant: «Ah! il y a huit joursbreakprice il y a quinze joursbreakprice, il
+s'éveillant: «Ah! il y a huit jours... il y a quinze jours..., il
 y a trois semaines, j'y étais!» Et peu à peu, les physionomies se
 confondirent dans sa mémoire, elle oublia l'air des contredanses,
 elle ne vit plus si nettement les livrées et les appartements;
@@ -2184,7 +2184,7 @@ l'armoire, entre les plis du linge où elle l'avait laissé, le
 porte-cigares en soie verte.
 
 Elle le regardait, l'ouvrait, et même elle flairait l'odeur de sa
-doublure, mêlée de verveine et de tabac. À qui appartenait-il?breakprice
+doublure, mêlée de verveine et de tabac. À qui appartenait-il?...
 Au Vicomte. C'était peut-être un cadeau de sa maîtresse. On avait
 brodé cela sur quelque métier de palissandre, meuble mignon que
 l'on cachait à tous les yeux, qui avait occupé bien des heures et
@@ -2826,9 +2826,9 @@ moins, si je savais quel dessert offrir à la société que vous
 attendez! Bonté divine! les commis du déménagement recommencent
 leur tintamarre dans le billard! Et leur charrette qui est restée
 sous la grande porte! L'Hirondelle est capable de la défoncer en
-arrivant! Appelle Polyte pour qu'il la remise!breakprice Dire que, depuis
+arrivant! Appelle Polyte pour qu'il la remise!... Dire que, depuis
 le matin, monsieur Homais, ils ont peut-être fait quinze parties
-et bu huit pots de cidre!breakprice Mais ils vont me déchirer le tapis,
+et bu huit pots de cidre!... Mais ils vont me déchirer le tapis,
 continuait-elle en les regardant de loin, son écumoire à la main.
 
 -- Le mal ne serait pas grand, répondit M. Homais vous en
@@ -2840,23 +2840,23 @@ achèteriez un autre.
 répète, vous vous faites tort! vous vous faites grand tort! Et
 puis les amateurs, à présent, veulent des blouses étroites et des
 queues lourdes. On ne joue plus la bille; tout est changé! Il faut
-marcher avec son siècle! Regardez Tellier, plutôtbreakprice
+marcher avec son siècle! Regardez Tellier, plutôt...
 
 L'hôtesse devint rouge de dépit. Le pharmacien ajouta:
 
 -- Son billard, vous avez beau dire, est plus mignon que le vôtre;
 et qu'on ait l'idée, par exemple de monter une poule patriotique
-pour la Pologne ou les inondés de Lyonbreakprice
+pour la Pologne ou les inondés de Lyon...
 
 -- Ce ne sont pas des gueux comme lui qui nous font peur!
 interrompit l'hôtesse, en haussant ses grosses épaules. Allez!
 allez! monsieur Homais, tant que le Lion d'or vivra, on y viendra.
 Nous avons du foin dans nos bottes, nous autres! Au lieu qu'un de
 ces marins vous verrez le Café français fermé, et avec une belle
-affiche sur les auvents!breakprice Changer mon billard, continuait-elle
+affiche sur les auvents!... Changer mon billard, continuait-elle
 en se parlant à elle-même, lui qui m'est si commode pour ranger ma
 lessive, et sur lequel, dans le temps de la chasse, j'ai mis
-coucher jusqu'à six voyageurs!breakprice Mais ce lambin d'Hivert qui
+coucher jusqu'à six voyageurs!... Mais ce lambin d'Hivert qui
 n'arrive pas!
 
 -- L'attendez-vous pour le dîner de vos messieurs? demanda le
@@ -3087,7 +3087,7 @@ toujours; j'aime à changer de place.
 cloué aux mêmes endroits!
 
 -- Si vous étiez comme moi, dit Charles, sans cesse obligé d'être
-à chevalbreakprice
+à cheval...
 
 -- Mais, reprit Léon. s'adressant à madame Bovary, rien n'est plus
 agréable, il me semble; quand on le peut, ajouta-t-il.
@@ -3201,7 +3201,7 @@ ménage: buanderie, cuisine avec office, salon de famille,
 fruitier, etc. C'était un gaillard qui n'y regardait pas! Il
 s'était fait construire, au bout du jardin, à côté de l'eau, une
 tonnelle tout exprès pour boire de la bière en été, et si Madame
-aime le jardinage, elle pourrabreakprice
+aime le jardinage, elle pourra...
 
 -- Ma femme ne s'en occupe guère, dit Charles; elle aime mieux,
 quoiqu'on lui recommande l'exercice, toujours rester dans sa
@@ -3209,7 +3209,7 @@ chambre, à lire.
 
 -- C'est comme moi, répliqua Léon; quelle meilleure chose, en
 effet, que d'être le soir au coin du feu avec un livre, pendant
-que le vent bat les carreaux, que la lampe brûle?breakprice
+que le vent bat les carreaux, que la lampe brûle?...
 
 -- N'est-ce pas? dit-elle, en fixant sur lui ses grands yeux noirs
 tout ouverts.
@@ -3553,7 +3553,7 @@ devant la boutique de Lheureux, sous la tente grise qui avançait.
 Madame Bovary dit qu'elle allait voir son enfant, mais qu'elle
 commençait à être lasse.
 
--- Sibreakprice, reprit Léon, n'osant poursuivre.
+-- Si..., reprit Léon, n'osant poursuivre.
 
 -- Avez-vous affaire quelque part? demanda-t-elle.
 
@@ -3641,15 +3641,15 @@ de sabots elle tourna la tête: c'était la nourrice!
 
 Alors la paysanne, la tirant à l'écart, derrière un orme, se mit à
 lui parler de son mari, qui, avec son métier et six francs par an
-que le capitainebreakprice
+que le capitaine...
 
 -- Achevez plus vite, dit Emma.
 
 -- Eh bien, reprit la nourrice poussant des soupirs entre chaque
 mot, j'ai peur qu'il ne se fasse une tristesse de me voir prendre
-du café toute seule; vous savez, les hommesbreakprice
+du café toute seule; vous savez, les hommes...
 
--- Puisque vous en aurez, répétait Emma, je vous en donnerai!breakprice
+-- Puisque vous en aurez, répétait Emma, je vous en donnerai!...
 Vous m'ennuyez!
 
 -- Hélas! ma pauvre chère dame, c'est qu'il a, par suite de ses
@@ -3659,7 +3659,7 @@ cidre l'affaiblit.
 -- Mais dépêchez-vous, mère Rolet!
 
 -- Donc, reprit celle-ci faisant une révérence, si ce n'était pas
-trop vous demanderbreakprice, -- elle salua encore une fois, -- quand
+trop vous demander..., -- elle salua encore une fois, -- quand
 vous voudrez, -- et son regard suppliait, -- un cruchon d'eau-de-
 vie, dit-elle enfin, et j'en frotterai les pieds de votre petite,
 qui les a tendres comme la langue.
@@ -3999,15 +3999,15 @@ des phrases qu'il avait dites, le son de sa voix, toute sa
 personne; et elle répétait, en avançant ses lèvres comme pour un
 baiser:
 
--- Oui, charmant! charmant!breakprice N'aime-t-il pas? se demanda-t-elle.
-Qui donc?breakprice mais c'est moi!
+-- Oui, charmant! charmant!... N'aime-t-il pas? se demanda-t-elle.
+Qui donc?... mais c'est moi!
 
 Toutes les preuves à la fois s'en étalèrent, son coeur bondit. La
 flamme de la cheminée faisait trembler au plafond une clarté
 joyeuse; elle se tourna sur le dos en s'étirant les bras.
 
 Alors commença l'éternelle lamentation: «Oh! si le ciel l'avait
-voulu! Pourquoi n'est-ce pas? Qui empêchait donc?breakprice»
+voulu! Pourquoi n'est-ce pas? Qui empêchait donc?...»
 
 Quand Charles, à minuit, rentra, elle eut l'air de s'éveiller, et,
 comme il fit du bruit en se déshabillant, elle se plaignit de la
@@ -4080,7 +4080,7 @@ suis toujours arrangé, si ce n'est avec la mienne, cependant!
 Emma sourit.
 
 -- C'était pour vous dire, reprit-il d'un air bonhomme après sa
-plaisanterie, que ce n'est pas l'argent qui m'inquiètebreakprice Je vous
+plaisanterie, que ce n'est pas l'argent qui m'inquiète... Je vous
 en donnerais, s'il le fallait.
 
 Elle eut un geste de surprise.
@@ -4091,7 +4091,7 @@ d'aller loin pour vous en trouver; comptez-y!
 Et il se mit à demander des nouvelles du père Tellier, le maître
 du Café Français, que M. Bovary soignait alors.
 
--- Qu'est-ce qu'il a donc, le père Tellier?breakprice Il tousse qu'il en
+-- Qu'est-ce qu'il a donc, le père Tellier?... Il tousse qu'il en
 secoue toute sa maison, et j'ai bien peur que prochainement il ne
 lui faille plutôt un paletot de sapin qu'une camisole de flanelle?
 Il a fait tant de bamboches quand il était jeune! Ces gens-là,
@@ -4133,7 +4133,7 @@ silence, comme il l'eût été par ses paroles.
 -- En quoi lui déplais-je? se demandait-il.
 
 Léon, cependant, finit par dire qu'il devait, un de ces jours,
-aller à Rouen, pour une affaire de son étudebreakprice
+aller à Rouen, pour une affaire de son étude...
 
 -- Votre abonnement de musique est terminé, dois-je le reprendre?
 
@@ -4141,7 +4141,7 @@ aller à Rouen, pour une affaire de son étudebreakprice
 
 -- Pourquoi?
 
--- Parce quebreakprice
+-- Parce que...
 
 Et, pinçant ses lèvres, elle tira lentement une longue aiguillée
 de fil gris.
@@ -4439,7 +4439,7 @@ Mais le curé, de temps à autre, regardait dans l'église, où tous
 les gamins agenouillés se poussaient de l'épaule, et tombaient
 comme des capucins de cartes.
 
--- Je voudrais savoirbreakprice, reprit-elle.
+-- Je voudrais savoir..., reprit-elle.
 
 -- Attends, attends, Riboudet, cria l'ecclésiastique d'une voix
 colère, je m'en vas aller te chauffer les oreilles, mauvais
@@ -4453,7 +4453,7 @@ vite, s'il le voulait, car il est plein d'esprit. Et moi
 quelquefois, par plaisanterie, je l'appelle donc Riboudet (comme
 la côte que l'on prend pour aller à Maromme), et je dis même: mon
 Riboudet. Ah! ah! Mont-Riboudet! L'autre jour, j'ai rapporté ce
-mot-là à Monseigneur, qui en a ribreakprice il a daigné en rire. -- Et
+mot-là à Monseigneur, qui en a ri... il a daigné en rire. -- Et
 M. Bovary, comment va-t-il?
 
 Elle semblait ne pas entendre. Il continua:
@@ -4465,12 +4465,12 @@ rire épais, et moi, je le suis des âmes!
 
 Elle fixa sur le prêtre des yeux suppliants.
 
--- Ouibreakprice, dit-elle, vous soulagez toutes les misères.
+-- Oui..., dit-elle, vous soulagez toutes les misères.
 
 -- Ah! ne m'en parlez pas, madame Bovary! Ce matin même, il a
 fallu que j'aille dans le Bas-Diauville pour une vache qui avait
 l'enfle; ils croyaient que c'était un sort. Toutes leurs vaches,
-je ne sais commentbreakprice Mais, pardon! Longuermarre et Boudet! sac à
+je ne sais comment... Mais, pardon! Longuermarre et Boudet! sac à
 papier! voulez-vous bien finir!
 
 Et, d'un bond, il s'élança dans l'église.
@@ -4491,7 +4491,7 @@ dents, les cultivateurs sont bien à plaindre!
 
 -- Assurément! les ouvriers des villes, par exemple.
 
--- Ce ne sont pas euxbreakprice
+-- Ce ne sont pas eux...
 
 -- Pardonnez-moi! j'ai connu là de pauvres mères de famille, des
 femmes vertueuses, je vous assure, de véritables saintes, qui
@@ -4499,14 +4499,14 @@ manquaient même de pain.
 
 -- Mais celles, reprit Emma (et les coins de sa bouche se
 tordaient en parlant), celles, monsieur le curé, qui ont du pain,
-et qui n'ont pasbreakprice
+et qui n'ont pas...
 
 -- De feu l'hiver, dit le prêtre.
 
 -- Eh! qu'importe?
 
 -- Comment! qu'importe? Il me semble, à moi, que lorsqu'on est
-bien chauffé, bien nourribreakprice, car enfinbreakprice
+bien chauffé, bien nourri..., car enfin...
 
 -- Mon Dieu! mon Dieu! soupirait-elle.
 
@@ -4527,7 +4527,7 @@ Puis, se ravisant:
 -- Mais vous me demandiez quelque chose? Qu'est-ce donc? Je ne
 sais plus.
 
--- Moi? Rienbreakprice, rienbreakprice, répétait Emma.
+-- Moi? Rien..., rien..., répétait Emma.
 
 Et son regard, qu'elle promenait autour d'elle, s'abaissa
 lentement sur le vieillard à soutane. Ils se considéraient tous
@@ -4540,7 +4540,7 @@ serons encore surpris, j'en ai peur! Aussi, à partir de
 l'Ascension, je les tiens recta tous les mercredis une heure de
 plus. Ces pauvres enfants! on ne saurait les diriger trop tôt dans
 la voie du Seigneur, comme, du reste, il nous l'a recommandé lui-
-même par la bouche de son divin Filsbreakprice Bonne santé, madame; mes
+même par la bouche de son divin Fils... Bonne santé, madame; mes
 respects à monsieur votre mari!
 
 Et il entra dans l'église, en faisant dès la porte une
@@ -4561,7 +4561,7 @@ et continuaient derrière elle:
 
 -- Qu'est-ce qu'un chrétien?
 
--- C'est celui qui, étant baptisébreakprice, baptisébreakprice, baptisé.
+-- C'est celui qui, étant baptisé..., baptisé..., baptisé.
 
 Elle monta les marches de son escalier en se tenant à la rampe,
 et, quand elle fut dans sa chambre, se laissa tomber dans un
@@ -4799,7 +4799,7 @@ l'horizon ni ce qu'elle pensait au fond d'elle-même.
 
 Elle releva sa tête d'un mouvement brusque:
 
--- Oui, adieubreakprice, partez!
+-- Oui, adieu..., partez!
 
 Ils s'avancèrent l'un vers l'autre; il tendit la main, elle
 hésita.
@@ -4875,7 +4875,7 @@ puisque leur organisation nerveuse est beaucoup plus malléable que
 la nôtre.
 
 -- Ce pauvre Léon! disait Charles, comment va-t-il vivre à
-Paris?breakprice S'y accoutumera-t-il?
+Paris?... S'y accoutumera-t-il?
 
 Madame Bovary soupira.
 
@@ -4895,7 +4895,7 @@ même des dames du faubourg Saint-Germain qui en deviennent
 amoureuses, ce qui leur fournit, par la suite, les occasions de
 faire de très beaux mariages.
 
--- Mais, dit le médecin, j'ai peur pour lui quebreakprice là-basbreakprice
+-- Mais, dit le médecin, j'ai peur pour lui que... là-bas...
 
 -- Vous avez raison, interrompit l'apothicaire, c'est le revers de
 la médaille! et l'on y est obligé continuellement d'avoir la main
@@ -4973,7 +4973,7 @@ mousse. Quels bons soleils ils avaient eus! quelles bonnes après-
 midi, seuls, à l'ombre, dans le fond du jardin! Il lisait tout
 haut, tête nue, posé sur un tabouret de bâtons secs; le vent frais
 de la prairie faisait trembler les pages du livre et les capucines
-de la tonnellebreakprice Ah! il était parti, le seul charme de sa vie, le
+de la tonnelle... Ah! il était parti, le seul charme de sa vie, le
 seul espoir possible d'une félicité! Comment n'avait-elle pas
 saisi ce bonheur-là, quand il se présentait! Pourquoi ne l'avoir
 pas retenu à deux mains, à deux genoux, quand il voulait s'enfuir?
@@ -5280,7 +5280,7 @@ on s'ennuie! on voudrait habiter la ville, danser la polka tous
 les soirs! Pauvre petite femme! Ça bâille après l'amour, comme une
 carpe après l'eau sur une table de cuisine. Avec trois mots de
 galanterie, cela vous adorerait; j'en suis sûr! ce serait tendre!
-charmant!breakprice Oui, mais comment s'en débarrasser ensuite?
+charmant!... Oui, mais comment s'en débarrasser ensuite?
 
 Alors les encombrements du plaisir, entrevus en perspective, le
 firent, par contraste, songer à sa maîtresse. C'était une
@@ -5313,14 +5313,14 @@ trop de temps!
 Puis il recommença:
 
 -- C'est qu'elle a des yeux qui vous entrent au coeur comme des
-vrilles. Et ce teint pâle!breakprice Moi, qui adore les femmes pâles!
+vrilles. Et ce teint pâle!... Moi, qui adore les femmes pâles!
 
 Au haut de la côte d'Argueil, sa résolution était prise
 
 -- Il n'y a plus qu'à chercher les occasions. Eh bien, j'y
 passerai quelquefois, je leur enverrai du gibier, de la volaille;
 je me ferai saigner, s'il le faut; nous deviendrons amis, je les
-inviterai chez moibreakprice Ah! parbleu! ajouta-t-il, voilà les comices
+inviterai chez moi... Ah! parbleu! ajouta-t-il, voilà les comices
 bientôt; elle y sera, je la verrai. Nous commencerons, et
 hardiment, car c'est le plus sûr.
 
@@ -5380,7 +5380,7 @@ Croient-ils que le préfet sera bien aise de dîner là-bas, sous une
 tente, comme un saltimbanque? Ils appellent ces embarras-là, faire
 le bien du pays! Ce n'était pas la peine, alors, d'aller chercher
 un gargotier à Neufchâtel! Et pour qui? pour des vachers! des va-
-nu-pieds!breakprice
+nu-pieds!...
 
 L'apothicaire passa. Il portait un habit noir, un pantalon de
 nankin, des souliers de castor, et par extraordinaire un chapeau,
@@ -5399,7 +5399,7 @@ fromage.
 -- Non, rien! ce n'est rien! reprit Homais. Je voulais vous
 exprimer seulement, madame Lefrançois, que je demeure d'habitude
 tout reclus chez moi. Aujourd'hui cependant, vu la circonstance,
-il faut bien quebreakprice
+il faut bien que...
 
 -- Ah! vous allez là-bas? dit-elle avec un air de dédain.
 
@@ -5438,7 +5438,7 @@ improductives et quelles les nutritives, s'il est bon de les
 arracher par-ci et de les ressemer par-là, de propager les unes,
 de détruire les autres; bref, il faut se tenir au courant de la
 science par les brochures et papiers publics, être toujours en
-haleine, afin d'indiquer les améliorationsbreakprice
+haleine, afin d'indiquer les améliorations...
 
 L'aubergiste ne quittait point des yeux la porte du café Français,
 et le pharmacien poursuivit:
@@ -5451,7 +5451,7 @@ fabrication et de ses effets; suivi de quelques réflexions
 nouvelles à ce sujet, que j'ai envoyé à la Société agronomique de
 Rouen; ce qui m'a même valu l'honneur d'être reçu parmi ses
 membres, section d'agriculture, classe de pomologie; eh bien, si
-mon ouvrage avait été livré à la publicitébreakprice
+mon ouvrage avait été livré à la publicité...
 
 Mais l'apothicaire s'arrêta, tant madame Lefrançois paraissait
 préoccupée.
@@ -5479,7 +5479,7 @@ circonstances imaginables.
 L'hôtesse donc se mit à lui raconter cette histoire, qu'elle
 savait par Théodore, le domestique de M. Guillaumin, et, bien
 qu'elle exécrât Tellier, elle blâmait Lheureux. C'était un
-enjôleur, un rampantbreakprice
+enjôleur, un rampant...
 
 -- Ah! tenez, dit-elle, le voilà sous les halles; il salue madame
 Bovary, qui a un chapeau vert. Elle est même au bras de
@@ -5541,7 +5541,7 @@ sentier, entraînant madame Bovary; il cria:
 -- Comme vous l'avez congédié! dit-elle en riant.
 
 -- Pourquoi, reprit-il, se laisser envahir par les autres? et,
-puisque, aujourd'hui, j'ai le bonheur d'être avec vousbreakprice
+puisque, aujourd'hui, j'ai le bonheur d'être avec vous...
 
 Emma rougit. Il n'acheva point sa phrase. Alors il parla du beau
 temps et du plaisir de marcher sur l'herbe. Quelques marguerites
@@ -5621,7 +5621,7 @@ cuir verni. Elles étaient si vernies, que l'herbe s'y reflétait.
 Il foulait avec elles les crottins de cheval, une main dans la
 poche de sa veste et son chapeau de paille mis de côté.
 
--- D'ailleurs, ajouta-t-il, quand on habite la campagnebreakprice
+-- D'ailleurs, ajouta-t-il, quand on habite la campagne...
 
 -- Tout est peine perdue, dit Emma.
 
@@ -5632,7 +5632,7 @@ habit!
 Alors ils parlèrent de la médiocrité provinciale, des existences
 qu'elle étouffait, des illusions qui s'y perdaient.
 
--- Aussi, disait Rodolphe, je m'enfonce dans une tristessebreakprice
+-- Aussi, disait Rodolphe, je m'enfonce dans une tristesse...
 
 -- Vous! fit-elle avec étonnement. Mais je vous croyais très gai?
 
@@ -5640,7 +5640,7 @@ qu'elle étouffait, des illusions qui s'y perdaient.
 mettre sur mon visage un masque railleur; et cependant que de
 fois, à la vue d'un cimetière, au clair de lune, je me suis
 demandé si je ne ferais pas mieux d'aller rejoindre ceux qui sont
-à dormirbreakprice
+à dormir...
 
 -- Oh! Et vos amis? dit-elle. Vous n'y pensez pas.
 
@@ -5667,7 +5667,7 @@ parlant à lui-même:
 
 -- Oui! tant de choses m'ont manqué! toujours seul! Ah! si j'avais
 eu un but dans la vie, si j'eusse rencontré une affection, si
-j'avais trouvé quelqu'unbreakprice Oh! comme j'aurais dépensé toute
+j'avais trouvé quelqu'un... Oh! comme j'aurais dépensé toute
 l'énergie dont je suis capable, j'aurais surmonté tout, brisé
 tout!
 
@@ -5676,7 +5676,7 @@ plaindre.
 
 -- Ah! vous trouvez? fit Rodolphe.
 
--- Car enfinbreakprice, reprit-elle, vous êtes libre.
+-- Car enfin..., reprit-elle, vous êtes libre.
 
 Elle hésita:
 
@@ -5806,11 +5806,11 @@ ensanglantait nos places publiques, où le propriétaire, le
 négociant, l'ouvrier lui-même, en s'endormant le soir d'un sommeil
 paisible, tremblaient de se voir réveillés tout à coup au bruit
 des tocsins incendiaires, où les maximes les plus subversives
-sapaient audacieusement les basesbreakprice»
+sapaient audacieusement les bases...»
 
 -- C'est qu'on pourrait, reprit Rodolphe, m'apercevoir d'en bas;
 puis j'en aurais pour quinze jours à donner des excuses, et, avec
-ma mauvaise réputationbreakprice
+ma mauvaise réputation...
 
 -- Oh! vous vous calomniez, dit Emma.
 
@@ -5824,7 +5824,7 @@ de communication, comme autant d'artères nouvelles dans le corps
 de l'État, y établissent des rapports nouveaux; nos grands centres
 manufacturiers ont repris leur activité; la religion, plus
 affermie, sourit à tous les coeurs; nos ports sont pleins, la
-confiance renaît, et enfin la France respire!breakprice»
+confiance renaît, et enfin la France respire!...»
 
 -- Du reste, ajouta Rodolphe, peut-être, au point de vue du monde,
 a-t-on raison?
@@ -5854,7 +5854,7 @@ agriculteurs et ouvriers des campagnes; vous, pionniers pacifiques
 d'une oeuvre toute de civilisation! vous, hommes de progrès et de
 moralité! vous avez compris, dis-je, que les orages politiques
 sont encore plus redoutables vraiment que les désordres de
-l'atmosphèrebreakprice»
+l'atmosphère...»
 
 -- Il se rencontre un jour, répéta Rodolphe, un jour, tout à coup,
 et quand on en désespérait. Alors des horizons s'entrouvrent,
@@ -5883,7 +5883,7 @@ esprits oisifs, mais plus de cette intelligence profonde et
 modérée, qui s'applique par-dessus toute chose à poursuivre des
 buts utiles, contribuant ainsi au bien de chacun, à l'amélioration
 commune et au soutien des États, fruit du respect des lois et de
-la pratique des devoirsbreakprice»
+la pratique des devoirs...»
 
 -- Ah! encore, dit Rodolphe. Toujours les devoirs, je suis assommé
 de ces mots-là. Ils sont un tas de vieilles ganaches en gilet de
@@ -5894,7 +5894,7 @@ de chérir ce qui est beau, et non pas d'accepter toutes les
 conventions de la société, avec les ignominies qu'elle nous
 impose.
 
--- Cependantbreakprice, cependantbreakprice, objectait madame Bovary.
+-- Cependant..., cependant..., objectait madame Bovary.
 
 -- Eh non! pourquoi déclamer contre les passions? Ne sont-elles
 pas la seule belle chose qu'il y ait sur la terre, la source de
@@ -6003,7 +6003,7 @@ et par cette route là-bas qu'il était parti pour toujours! Elle
 crut le voir en face, à sa fenêtre; puis tout se confondit, des
 nuages passèrent; il lui sembla qu'elle tournait encore dans la
 valse, sous le feu des lustres, au bras du vicomte, et que Léon
-n'était pas loin, qui allait venir breakprice et cependant elle sentait
+n'était pas loin, qui allait venir ... et cependant elle sentait
 toujours la tête de Rodolphe à côté d'elle. La douceur de cette
 sensation pénétrait ainsi ses désirs d'autrefois, et comme des
 grains de sable sous un coup de vent, ils tourbillonnaient dans la
@@ -6064,7 +6064,7 @@ Et il saisit sa main; elle ne la retira pas.
 
 «Ensemble de bonnes cultures!» cria le président.
 
--- Tantôt, par exemple, quand je suis venu chez vousbreakprice
+-- Tantôt, par exemple, quand je suis venu chez vous...
 
 «À M. Bizet, de Quincampoix.»
 
@@ -6089,11 +6089,11 @@ aussi complet.
 
 -- Aussi, moi, j'emporterai votre souvenir.
 
-«Pour un bélier mérinosbreakprice»
+«Pour un bélier mérinos...»
 
 -- Mais vous m'oublierez, j'aurai passé comme une ombre.
 
-«À M. Belot, de Notre-Damebreakprice»
+«À M. Belot, de Notre-Dame...»
 
 -- Oh! non, n'est-ce pas, je serai quelque chose dans votre
 pensée, dans votre vie?
@@ -6149,7 +6149,7 @@ chuchotaient:
 
 -- Enfin y est-elle? s'écria Tuvache.
 
--- Oui!breakprice la voilà!
+-- Oui!... la voilà!
 
 -- Qu'elle approche donc!
 
@@ -6268,14 +6268,14 @@ l'ivresse! Je voudrais que l'on inscrivît, hebdomadairement, à la
 porte de la mairie, sur un tableau ad hoc, les noms de tous ceux
 qui, durant la semaine, se seraient intoxiqués avec des alcools.
 D'ailleurs, sous le rapport de la statistique, on aurait là comme
-des annales patentes qu'on irait au besoinbreakprice Mais excusez.
+des annales patentes qu'on irait au besoin... Mais excusez.
 
 Et il courut encore vers le capitaine.
 
 Celui-ci rentrait à sa maison. Il allait revoir son tour.
 
 -- Peut-être ne feriez-vous pas mal, lui dit Homais, d'envoyer un
-de vos hommes ou d'aller vous-mêmebreakprice
+de vos hommes ou d'aller vous-même...
 
 --Laissez-moi donc tranquille, répondit le percepteur, puisqu'il
 n'y a rien!
@@ -6372,7 +6372,7 @@ phrases de politesse.
 -- Gravement? s'écria-t-elle.
 
 -- Eh bien, fit Rodolphe en s'asseyant à ses côtés sur un
-tabouret, non!breakprice C'est que je n'ai pas voulu revenir.
+tabouret, non!... C'est que je n'ai pas voulu revenir.
 
 -- Pourquoi?
 
@@ -6381,14 +6381,14 @@ tabouret, non!breakprice C'est que je n'ai pas voulu revenir.
 Il la regarda encore une fois, mais d'une façon si violente
 qu'elle baissa la tête en rougissant. Il reprit:
 
--- Emmabreakprice
+-- Emma...
 
 -- Monsieur! fit-elle en s'écartant un peu.
 
 -- Ah! vous voyez bien, répliqua-t-il d'une voix mélancolique, que
 j'avais raison de vouloir ne pas revenir; car ce nom, ce nom qui
 remplit mon âme et qui m'est échappé, vous me l'interdisez! Madame
-Bovary!breakprice Eh! tout le monde vous appelle comme cela!breakprice Ce n'est
+Bovary!... Eh! tout le monde vous appelle comme cela!... Ce n'est
 pas votre nom, d'ailleurs; c'est le nom d'un autre!
 
 Il répéta:
@@ -6397,10 +6397,10 @@ Il répéta:
 
 Et il se cacha la figure entre les mains.
 
--- Oui, je pense à vous continuellement!breakprice Votre souvenir me
-désespère! Ah! pardon!breakprice Je vous quittebreakprice Adieu!breakprice J'irai
-loinbreakprice, si loin, que vous n'entendrez plus parler de moi!breakprice Et
-cependantbreakprice, aujourd'huibreakprice, je ne sais quelle force encore m'a
+-- Oui, je pense à vous continuellement!... Votre souvenir me
+désespère! Ah! pardon!... Je vous quitte... Adieu!... J'irai
+loin..., si loin, que vous n'entendrez plus parler de moi!... Et
+cependant..., aujourd'hui..., je ne sais quelle force encore m'a
 poussé vers vous! Car on ne lutte pas contre le ciel, on ne
 résiste point au sourire des anges! On se laisse entraîner par ce
 qui est beau, charmant, adorable!
@@ -6416,7 +6416,7 @@ regardais votre maison, le toit qui brillait sous la lune, les
 arbres du jardin qui se balançaient à votre fenêtre, et une petite
 lampe, une lueur, qui brillait à travers les carreaux, dans
 l'ombre. Ah! vous ne saviez guère qu'il y avait là, si près et si
-loin, un pauvre misérablebreakprice
+loin, un pauvre misérable...
 
 Elle se tourna vers lui avec un sanglot.
 
@@ -6441,13 +6441,13 @@ deux, quand Charles entra.
 Le médecin, flatté de ce titre inattendu, se répandit en
 obséquiosités, et l'autre en profita pour se remettre un peu.
 
--- Madame m'entretenait, fit-il donc, de sa santébreakprice
+-- Madame m'entretenait, fit-il donc, de sa santé...
 
 Charles l'interrompit: il avait mille inquiétudes, en effet; les
 oppressions de sa femme recommençaient. Alors Rodolphe demanda si
 l'exercice du cheval ne serait pas bon.
 
--- Certes! excellent, parfait!breakprice Voilà une idée! Tu devrais la
+-- Certes! excellent, parfait!... Voilà une idée! Tu devrais la
 suivre.
 
 Et, comme elle objectait qu'elle n'avait point de cheval,
@@ -6612,7 +6612,7 @@ Elle se leva pour partir. Il la saisit au poignet. Elle s'arrêta.
 Puis, l'ayant considéré quelques minutes d'un oeil amoureux et
 tout humide, elle dit vivement:
 
--- Ah! tenez, n'en parlons plusbreakprice Où sont les chevaux?
+-- Ah! tenez, n'en parlons plus... Où sont les chevaux?
 Retournons.
 
 Il eut un geste de colère et d'ennui. Elle répéta:
@@ -6652,9 +6652,9 @@ l'herbe, des grenouilles sautaient pour se cacher.
 -- J'ai tort, j'ai tort, disait-elle. Je suis folle de vous
 entendre.
 
--- Pourquoi?breakprice Emma! Emma!
+-- Pourquoi?... Emma! Emma!
 
--- Oh! Rodolphe!breakprice fit lentement la jeune femme en se penchant
+-- Oh! Rodolphe!... fit lentement la jeune femme en se penchant
 sur son épaule.
 
 Le drap de sa robe s'accrochait au velours de l'habit. Elle
@@ -6703,12 +6703,12 @@ qui brûlaient.
 -- Eh bien, j'ai passé cette après-midi chez M. Alexandre; il a
 une ancienne pouliche encore fort belle, un peu couronnée
 seulement, et qu'on aurait, je suis sûr, pour une centaine
-d'écusbreakprice
+d'écus...
 
 Il ajouta:
 
--- Pensant même que cela te serait agréable, je l'ai retenuebreakprice,
-je l'ai achetéebreakprice Ai-je bien fait? Dis-moi donc.
+-- Pensant même que cela te serait agréable, je l'ai retenue...,
+je l'ai achetée... Ai-je bien fait? Dis-moi donc.
 
 Elle remua la tête en signe d'assentiment; puis, un quart d'heure
 après:
@@ -6790,7 +6790,7 @@ coup, au fond de la chambre, elle aperçut un homme qui dormait.
 C'était Rodolphe. Elle poussa un cri.
 
 -- Te voilà! te voilà! répétait-il. Comment as-tu fait pour
-venir?breakprice Ah! ta robe est mouillée!
+venir?... Ah! ta robe est mouillée!
 
 -- Je t'aime! répondit-elle en lui passant les bras autour du cou.
 
@@ -6884,7 +6884,7 @@ est mon enfant.
 
 -- Ah! fort bien! fort bien! Quant à moi, tel que vous me voyez,
 dès la pointe du jour je suis là; mais le temps est si crassineux,
-qu'à moins d'avoir la plume juste au boutbreakprice
+qu'à moins d'avoir la plume juste au bout...
 
 -- Bonsoir, monsieur Binet, interrompit-elle en lui tournant les
 talons.
@@ -6918,10 +6918,10 @@ Puis, à Emma, qui voulait monter dans l'appartement de madame
 Homais:
 
 -- Non, restez, ce n'est pas la peine, elle va descendre.
-Chauffez-vous au poêle en attendantbreakprice Excusez-moibreakprice Bonjour,
+Chauffez-vous au poêle en attendant... Excusez-moi... Bonjour,
 docteur (car le pharmacien se plaisait beaucoup a prononcer ce mot
 docteur, comme si en l'adressant à un autre, il eût fait rejaillir
-sur lui-même quelque chose de la pompe qu'il y trouvait)breakprice Mais
+sur lui-même quelque chose de la pompe qu'il y trouvait)... Mais
 prends garde de renverser les mortiers! va plutôt chercher les
 chaises de la petite salle; tu sais bien qu'on ne dérange pas les
 fauteuils du salon.
@@ -6945,7 +6945,7 @@ personnes qui s'en arrangent.
 
 Elle étouffait.
 
--- Donnez-moi encorebreakprice
+-- Donnez-moi encore...
 
 -- Il ne s'en ira donc jamais! pensait-elle.
 
@@ -7050,7 +7050,7 @@ Il souffla la lumière.
 
 -- Pourquoi?
 
--- Maisbreakprice pour te défendre, reprit Emma.
+-- Mais... pour te défendre, reprit Emma.
 
 -- Est-ce de ton mari? Ah! le pauvre garçon!
 
@@ -7172,11 +7172,11 @@ presque apercevoir son père se courbant vers l'âtre pour saisir
 les pincettes. Comme il y avait longtemps qu'elle n'était plus
 auprès de lui, sur l'escabeau, dans la cheminée, quand elle
 faisait brûler le bout d'un bâton à la grande flamme des joncs
-marins qui pétillaient!breakprice
+marins qui pétillaient!...
 
 Elle se rappela des soirs d'été tout pleins de soleil. Les
 poulains hennissaient quand on passait, et galopaient,
-galopaientbreakprice Il y avait sous sa fenêtre une ruche à miel, et
+galopaient... Il y avait sous sa fenêtre une ruche à miel, et
 quelquefois les abeilles, tournoyant dans la lumière, frappaient
 contre les carreaux comme des balles d'or rebondissantes. Quel
 bonheur dans ce temps-là! quelle liberté! quel espoir! quelle
@@ -7220,7 +7220,7 @@ Rodolphe, le soir, la trouva plus sérieuse que d'habitude.
 Et il manqua consécutivement à trois rendez-vous. Quand il revint,
 elle se montra froide et presque dédaigneuse.
 
--- Ah! tu perds ton temps, ma mignonnebreakprice
+-- Ah! tu perds ton temps, ma mignonne...
 
 Et il eut l'air de ne point remarquer ses soupirs mélancoliques,
 ni le mouchoir qu'elle tirait.
@@ -7249,8 +7249,8 @@ exemple, ne voudrait-il pas débarrasser ce pauvre Hippolyte, du
 Lion d'or? Notez qu'il ne manquerait pas de raconter sa guérison à
 tous les voyageurs, et puis (Homais baissait la voix et regardait
 autour de lui) qui donc m'empêcherait d'envoyer au journal une
-petite note là-dessus? Eh! mon Dieu! un article circulebreakprice, on en
-parlebreakprice, cela finit par faire la boule de neige! Et qui sait? qui
+petite note là-dessus? Eh! mon Dieu! un article circule..., on en
+parle..., cela finit par faire la boule de neige! Et qui sait? qui
 sait?
 
 En effet, Bovary pouvait réussir; rien n'affirmait à Emma qu'il ne
@@ -7291,7 +7291,7 @@ se prenait à sourire lourdement. Puis il l'attaquait par la
 vanité:
 
 -- N'es-tu pas un homme, saprelotte? Que serait-ce donc, s'il
-t'avait fallu servir, aller combattre sous les drapeaux?breakprice Ah!
+t'avait fallu servir, aller combattre sous les drapeaux?... Ah!
 Hippolyte!
 
 Et Homais s'éloignait, déclarant qu'il ne comprenait pas cet
@@ -7390,15 +7390,15 @@ face de l'Europe comme un réseau, la lumière cependant commence à
 pénétrer dans nos campagnes. C'est ainsi que, mardi, notre petite
 cité d'Yonville s'est vue le théâtre d'une expérience chirurgicale
 qui est en même temps un acte de haute philanthropie. M. Bovary,
-un de nos praticiens les plus distinguésbreakprice»
+un de nos praticiens les plus distingués...»
 
 -- Ah! c'est trop! c'est trop! disait Charles, que l'émotion
 suffoquait.
 
--- Mais non, pas du tout! comment donc!breakprice «A opéré d'un pied-
-botbreakprice» Je n'ai pas mis le terme scientifique, parce que, vous
-savez, dans un journalbreakprice, tout le monde peut-être ne comprendrait
-pas; il faut que les massesbreakprice
+-- Mais non, pas du tout! comment donc!... «A opéré d'un pied-
+bot...» Je n'ai pas mis le terme scientifique, parce que, vous
+savez, dans un journal..., tout le monde peut-être ne comprendrait
+pas; il faut que les masses...
 
 -- En effet, dit Bovary. Continuez.
 
@@ -7432,7 +7432,7 @@ cure si remarquable.»
 Ce qui n'empêcha pas que, cinq jours après, la mère Lefrançois
 n'arrivât tout effarée en s'écriant:
 
--- Au secours! il se meurt!breakprice J'en perds la tête!
+-- Au secours! il se meurt!... J'en perds la tête!
 
 Charles se précipita vers le Lion d'or, et le pharmacien qui
 l'aperçut passant sur la place, sans chapeau, abandonna la
@@ -7494,7 +7494,7 @@ malade lui-même. Il venait à chaque heure, à tout moment.
 Hippolyte le regardait avec des yeux pleins d'épouvante et
 balbutiait en sanglotant:
 
--- Quand est-ce que je serai guéri?breakprice Ah! sauvez-moi!breakprice Que je
+-- Quand est-ce que je serai guéri?... Ah! sauvez-moi!... Que je
 suis malheureux! que je suis malheureux!
 
 Et le médecin s'en allait, toujours en lui recommandant la diète.
@@ -7526,7 +7526,7 @@ Espérons que, tout comme eux, tu nous donneras de bons exemples!
 Ainsi, par précaution, qui donc t'empêcherait de réciter matin et
 soir un «Je vous salue, Marie, pleine de grâce», et un «Notre
 Père, qui êtes aux cieux»? Oui fais cela! pour moi, pour
-m'obliger. Qu'est-ce que ça coûte?breakprice Me le promets-tu?
+m'obliger. Qu'est-ce que ça coûte?... Me le promets-tu?
 
 Le pauvre diable promit. Le curé revint les jours suivants. Il
 causait avec l'aubergiste et même racontait des anecdotes
@@ -7621,7 +7621,7 @@ Mais l'apothicaire, en rougissant, avoua qu'il était trop sensible
 pour assister à une pareille opération.
 
 -- Quand on est simple spectateur, disait-il, l'imagination, vous
-savez, se frappe! Et puis j'ai le système nerveux tellementbreakprice
+savez, se frappe! Et puis j'ai le système nerveux tellement...
 
 -- Ah bah! interrompit Canivet, vous me paraissez, au contraire,
 porté à l'apoplexie. Et, d'ailleurs, cela ne m'étonne pas; car,
@@ -7634,7 +7634,7 @@ le coffre est bon! Je vis tantôt d'une manière, tantôt d'une
 autre, en philosophe, au hasard de la fourchette. C'est pourquoi
 je ne suis point délicat comme vous, et il m'est aussi
 parfaitement égal de découper un chrétien que la première volaille
-venue. Après ça, direz-vous, l'habitudebreakprice, l'habitude!breakprice
+venue. Après ça, direz-vous, l'habitude..., l'habitude!...
 
 Alors, sans aucun égard pour Hippolyte, qui suait d'angoisse entre
 ses draps, ces messieurs engagèrent une conversation où
@@ -7743,7 +7743,7 @@ vers sa femme en lui disant:
 -- Laisse-moi! fit-elle, toute rouge de colère.
 
 -- Qu'as-tu? qu'as-tu? répétait-il stupéfait. Calme-toi! reprends-
-toi!breakprice Tu sais bien que je t'aime! breakprice viens!
+toi!... Tu sais bien que je t'aime! ... viens!
 
 -- Assez! s'écria-t-elle d'un air terrible.
 
@@ -7773,7 +7773,7 @@ existence affreuse!
 -- Est-ce que j'y peux quelque chose? s'écria-t-il un jour,
 impatienté.
 
--- Ah! si tu voulais! breakprice
+-- Ah! si tu voulais! ...
 
 Elle était assise par terre, entre ses genoux, les bandeaux
 dénoués, le regard perdu.
@@ -7782,7 +7782,7 @@ dénoués, le regard perdu.
 
 Elle soupira.
 
--- Nous irions vivre ailleursbreakprice, quelque partbreakprice
+-- Nous irions vivre ailleurs..., quelque part...
 
 -- Tu es folle, vraiment! dit-il en riant. Est-ce possible?
 
@@ -7917,7 +7917,7 @@ l'escalier; elle jeta l'or au fond de son tiroir et prit la clef.
 Trois jours après, Lheureux reparut.
 
 -- J'ai un arrangement à vous proposer, dit-il; si, au lieu de la
-somme convenue, vous vouliez prendrebreakprice
+somme convenue, vous vouliez prendre...
 
 -- La voilà, fit-elle en lui plaçant dans la main quatorze
 napoléons.
@@ -7927,7 +7927,7 @@ désappointement, il se répandit en excuses et en offres de service
 qu'Emma refusa toutes; puis elle resta quelques minutes palpant
 dans la poche de son tablier les deux pièces de cent sous qu'il
 lui avait rendues. Elle se promettait d'économiser, afin de rendre
-plus tardbreakprice
+plus tard...
 
 -- Ah bah! songea-t-elle, il n'y pensera plus.
 
@@ -7965,7 +7965,7 @@ calembours ses protestations.
 me passer de toi, sais-tu bien? J'ai quelquefois des envies de te
 revoir où toutes les colères de l'amour me déchirent. Je me
 demande: «Où est-il? Peut-être il parle à d'autres femmes? Elles
-lui sourient, il s'approchebreakprice» Oh! non, n'est-ce pas, aucune ne
+lui sourient, il s'approche...» Oh! non, n'est-ce pas, aucune ne
 te plaît? Il y en a de plus belles; mais, moi, je sais mieux
 aimer! Je suis ta servante et ta concubine! Tu es mon roi, mon
 idole! tu es bon! tu es beau! tu es intelligent! tu es fort!
@@ -8025,7 +8025,7 @@ point sa propre cause.
 
 -- Sortez! fit la jeune femme se levant d'un bond.
 
--- Emma!breakprice maman!breakprice s'écriait Charles pour les rapatrier.
+-- Emma!... maman!... s'écriait Charles pour les rapatrier.
 
 Mais elles s'étaient enfuies toutes les deux dans leur
 exaspération. Emma trépignait en répétant:
@@ -8074,7 +8074,7 @@ parenthèses si abondamment qu'il n'y comprenait rien.
 
 -- Allons, mon pauvre ange, du courage, console-toi, patience!
 
--- Mais voilà quatre ans que je patiente et que je souffre!breakprice Un
+-- Mais voilà quatre ans que je patiente et que je souffre!... Un
 amour comme le nôtre devrait s'avouer à la face du ciel! Ils sont
 à me torturer. Je n'y tiens plus! Sauve-moi!
 
@@ -8085,12 +8085,12 @@ perdit la tête et qu'il lui dit:
 
 -- Que faut-il faire? que veux-tu?
 
--- Emmène-moi! s'écria-t-elle. Enlève-moi!breakprice Oh! je t'en supplie!
+-- Emmène-moi! s'écria-t-elle. Enlève-moi!... Oh! je t'en supplie!
 
 Et elle se précipita sur sa bouche, comme pour y saisir le
 consentement inattendu qui s'en exhalait dans un baiser.
 
--- Maisbreakprice reprit Rodolphe.
+-- Mais... reprit Rodolphe.
 
 -- Quoi donc?
 
@@ -8117,11 +8117,11 @@ dans la dégustation anticipée de son bonheur prochain. C'était
 avec Rodolphe un éternel sujet de causeries. Elle s'appuyait sur
 son épaule, elle murmurait:
 
--- Hein! quand nous serons dans la malle-poste!breakprice Y songes-tu?
+-- Hein! quand nous serons dans la malle-poste!... Y songes-tu?
 Est-ce possible? Il me semble qu'au moment où je sentirai la
 voiture s'élancer, ce sera comme si nous montions en ballon, comme
 si nous partions vers les nuages. Sais-tu que je compte les
-jours?breakprice Et toi?
+jours?... Et toi?
 
 Jamais madame Bovary ne fut aussi belle qu'à cette époque; elle
 avait cette indéfinissable beauté qui résulte de la joie, de
@@ -8212,13 +8212,13 @@ doublé.
 
 -- Vous partez en voyage? demanda-t-il.
 
--- Non! maisbreakprice, n'importe, je compte sur vous, n'est-ce pas? et
+-- Non! mais..., n'importe, je compte sur vous, n'est-ce pas? et
 vivement!
 
 Il s'inclina.
 
--- Il me faudrait encore, reprit-elle, une caissebreakprice, pas trop
-lourdebreakprice, commode.
+-- Il me faudrait encore, reprit-elle, une caisse..., pas trop
+lourde..., commode.
 
 -- Oui, oui, j'entends, de quatre-vingt-douze centimètres environ
 sur cinquante, comme on les fait à présent.
@@ -8275,7 +8275,7 @@ près de la terrasse, sur la margelle du mur.
 Et cependant il la regardait singulièrement, d'une façon tendre.
 
 -- Est-ce de t'en aller? reprit-elle, de quitter tes affections,
-ta vie? Ah! je comprendsbreakprice Mais, moi, je n'ai rien au monde! tu
+ta vie? Ah! je comprends... Mais, moi, je n'ai rien au monde! tu
 es tout pour moi. Aussi je serai tout pour toi, je te serai une
 famille, une patrie; je te soignerai, je t'aimerai.
 
@@ -8316,9 +8316,9 @@ tombait toute seule de l'espalier.
 
 Et, comme se parlant à elle-même:
 
--- Oui, il fera bon voyagerbreakprice Pourquoi ai-je le coeur triste,
-cependant? Est-ce l'appréhension de l'inconnubreakprice, l'effet des
-habitudes quittéesbreakprice, ou plutôtbreakprice? Non, c'est l'excès du
+-- Oui, il fera bon voyager... Pourquoi ai-je le coeur triste,
+cependant? Est-ce l'appréhension de l'inconnu..., l'effet des
+habitudes quittées..., ou plutôt...? Non, c'est l'excès du
 bonheur! Que je suis faible, n'est-ce pas? Pardonne-moi!
 
 -- Il est encore temps! s'écria-t-il. Réfléchis, tu t'en
@@ -8333,13 +8333,13 @@ pas de précipice ni d'océan que je ne traverserais avec toi. À
 mesure que nous vivrons ensemble, ce sera comme une étreinte
 chaque jour plus serrée, plus complète! Nous n'aurons rien qui
 nous trouble, pas de soucis, nul obstacle! Nous serons seuls, tout
-à nous, éternellementbreakprice Parle donc, réponds-moi.
+à nous, éternellement... Parle donc, réponds-moi.
 
-Il répondait à intervalles réguliers: «Ouibreakprice oui!breakprice» Elle lui
+Il répondait à intervalles réguliers: «Oui... oui!...» Elle lui
 avait passé les mains dans ses cheveux, et elle répétait d'une
 voix enfantine, malgré de grosses larmes qui coulaient:
 
--- Rodolphe! Rodolphe!breakprice Ah! Rodolphe, cher petit Rodolphe!
+-- Rodolphe! Rodolphe!... Ah! Rodolphe, cher petit Rodolphe!
 
 Minuit sonna.
 
@@ -8362,7 +8362,7 @@ gai:
 -- Certainement.
 
 -- C'est à l'hôtel de Provence, n'est-ce pas, que tu
-m'attendras?breakprice à midi?
+m'attendras?... à midi?
 
 Il fit un signe de tête.
 
@@ -8395,7 +8395,7 @@ m'expatrier, avoir la charge d'une enfant.
 
 Il se disait ces choses pour s'affermir davantage.
 
--- Et, d'ailleurs, les embarras, la dépensebreakprice Ah! non, non, mille
+-- Et, d'ailleurs, les embarras, la dépense... Ah! non, non, mille
 fois non! cela eût été trop bête!
 
 
@@ -8449,7 +8449,7 @@ faire tomber en cascades, de sa main droite dans sa main gauche.
 Enfin, ennuyé, assoupi, Rodolphe alla reporter la boîte dans
 l'armoire en se disant:
 
--- Quel tas de blagues!breakprice
+-- Quel tas de blagues!...
 
 Ce qui résumait son opinion; car les plaisirs, comme des écoliers
 dans la cour d'un collège, avaient tellement piétiné sur son
@@ -8462,19 +8462,19 @@ son nom gravé sur la muraille.
 Il écrivit:
 
 «Du courage, Emma! du courage! Je ne veux pas faire le malheur de
-votre existencebreakprice»
+votre existence...»
 
 -- Après tout, c'est vrai, pensa Rodolphe; j'agis dans son
 intérêt; je suis honnête.
 
 «Avez-vous mûrement pesé votre détermination? Savez-vous l'abîme
 où je vous entraînais, pauvre ange? Non, n'est-ce pas? Vous alliez
-confiante et folle, croyant au bonheur, à l'avenirbreakprice Ah!
+confiante et folle, croyant au bonheur, à l'avenir... Ah!
 malheureux que nous sommes! insensés!»
 
 Rodolphe s'arrêta pour trouver ici quelque bonne excuse.
 
--- Si je lui disais que toute ma fortune est perdue?breakprice Ah! non,
+-- Si je lui disais que toute ma fortune est perdue?... Ah! non,
 et d'ailleurs, cela n'empêcherait rien. Ce serait à recommencer
 plus tard. Est-ce qu'on peut faire entendre raison à des femmes
 pareilles!
@@ -8504,12 +8504,12 @@ réfléchi d'abord, et je me reposais à l'ombre de ce bonheur idéal,
 comme à celle du mancenillier, sans prévoir les conséquences.»
 
 -- Elle va peut-être croire que c'est par avarice que j'y
-renoncebreakprice Ah! n'importe! tant pis, il faut en finir!
+renonce... Ah! n'importe! tant pis, il faut en finir!
 
 «Le monde est cruel, Emma. Partout où nous eussions été, il nous
 aurait poursuivis. Il vous aurait fallu subir les questions
 indiscrètes, la calomnie, le dédain, l'outrage peut-être.
-L'outrage à vous! Oh!breakprice Et moi qui voudrais vous faire asseoir
+L'outrage à vous! Oh!... Et moi qui voudrais vous faire asseoir
 sur un trône! moi qui emporte votre pensée comme un talisman! Car
 je me punis par l'exil de tout le mal que je vous ai fait. Je
 pars. Où? Je n'en sais rien, je suis fou! Adieu! Soyez toujours
@@ -8533,7 +8533,7 @@ Et il y avait un dernier adieu, séparé en deux mots: À Dieu! ce
 qu'il jugeait d'un excellent goût.
 
 -- Comment vais-je signer, maintenant? se dit-il. Votre tout
-dévoué?breakprice Non. Votre ami?breakprice Oui, c'est cela.
+dévoué?... Non. Votre ami?... Oui, c'est cela.
 
 «Votre ami.»
 
@@ -8547,7 +8547,7 @@ trempa son doigt et il laissa tomber de haut une grosse goutte,
 qui fit une tache pâle sur l'encre; puis, cherchant à cacheter la
 lettre, le cachet _Amor nel cor_ se rencontra.
 
--- Cela ne va guère à la circonstancebreakprice Ah bah! n'importe!
+-- Cela ne va guère à la circonstance... Ah bah! n'importe!
 
 Après quoi, il fuma trois pipes et s'alla coucher.
 
@@ -8561,7 +8561,7 @@ saison, des fruits ou du gibier.
 
 -- Si elle te demande de mes nouvelles, dit-il, tu répondras que
 je suis parti en voyage. Il faut remettre le panier à elle-même,
-en mains propresbreakprice Va, et prends garde!
+en mains propres... Va, et prends garde!
 
 Girard passa sa blouse neuve, noua son mouchoir autour des
 abricots, et marchant à grands pas lourds dans ses grosses
@@ -8669,8 +8669,8 @@ Elle eut un sanglot.
 
 -- Quoi donc t'étonne? Il s'absente ainsi de temps à autre pour se
 distraire, et, ma foi! je l'approuve. Quand on a de la fortune et
-que l'on est garçon!breakprice Du reste, il s'amuse joliment, notre ami!
-c'est un farceur. M. Langlois m'a contébreakprice
+que l'on est garçon!... Du reste, il s'amuse joliment, notre ami!
+c'est un farceur. M. Langlois m'a conté...
 
 Il se tut par convenance, à cause de la domestique qui entrait.
 
@@ -8728,7 +8728,7 @@ fille: embrasse-la donc!
 L'enfant avançait les bras vers sa mère pour se pendre à son cou.
 Mais, détournant la tête, Emma dit d'une voix saccadée:
 
--- Non, nonbreakprice personne!
+-- Non, non... personne!
 
 Elle s'évanouit encore. On la porta sur son lit.
 
@@ -8745,14 +8745,14 @@ d'avoir dans les occasions sérieuses de la vie.
 paroxysme est passé.
 
 -- Oui, elle repose un peu maintenant! répondit Charles, qui la
-regardait dormir. Pauvre femme!breakprice pauvre femme!breakprice la voilà
+regardait dormir. Pauvre femme!... pauvre femme!... la voilà
 retombée!
 
 Alors Homais demanda comment cet accident était survenu. Charles
 répondit que cela l'avait saisie tout à coup, pendant qu'elle
 mangeait des abricots.
 
--- Extraordinaire!breakprice reprit le pharmacien. Mais il se pourrait
+-- Extraordinaire!... reprit le pharmacien. Mais il se pourrait
 que les abricots eussent occasionné la syncope! Il y a des natures
 si impressionnables à l'encontre de certaines odeurs! et ce serait
 même une belle question à étudier, tant sous le rapport
@@ -8762,7 +8762,7 @@ connaissaient l'importance, eux qui ont toujours mêlé des aromates
 provoquer des extases, chose d'ailleurs facile à obtenir chez les
 personnes du sexe, qui sont plus délicates que les autres. On en
 cite qui s'évanouissent à l'odeur de la corne brûlée, du pain
-tendrebreakprice
+tendre...
 
 -- Prenez garde de l'éveiller! dit à voix basse Bovary.
 
@@ -9141,7 +9141,7 @@ véritable école de morale et de diplomatie.
 -- Moi, dit Binet, j'ai vu autrefois une pièce intitulée le _Gamin
 de Paris_, où l'on remarque le caractère d'un vieux général qui
 est vraiment tapé! Il rembarre un fils de famille qui avait séduit
-une ouvrière, qui à la finbreakprice
+une ouvrière, qui à la fin...
 
 -- Certainement! continuait Homais, il y a la mauvaise littérature
 comme il y a la mauvaise pharmacie, mais condamner en bloc le plus
@@ -9170,13 +9170,13 @@ les lois de la décence souvent se trouvaient offensées.
 L'ecclésiastique se contenta de pousser un gémissement, et le
 pharmacien poursuivit:
 
--- C'est comme dans la Bible; il y abreakprice savez-vousbreakprice, plus d'un
-détailbreakprice piquant, des chosesbreakprice vraimentbreakprice gaillardes!
+-- C'est comme dans la Bible; il y a... savez-vous..., plus d'un
+détail... piquant, des choses... vraiment... gaillardes!
 
 Et, sur un geste d'irritation que faisait M. Bournisien:
 
 -- Ah! vous conviendrez que ce n'est pas un livre à mettre entre
-les mains d'une jeune personne, et je serais fâché qu'Athaliebreakprice
+les mains d'une jeune personne, et je serais fâché qu'Athalie...
 
 -- Mais ce sont les protestants, et non pas nous, s'écria l'autre
 impatienté, qui recommandent la Bible!
@@ -9209,7 +9209,7 @@ entendre.
 
 -- Parbleu! ils en font bien d'autres! exclama l'apothicaire.
 
--- Monsieur!breakprice reprit l'ecclésiastique avec des yeux si
+-- Monsieur!... reprit l'ecclésiastique avec des yeux si
 farouches, que le pharmacien en fut intimidé.
 
 -- Je veux seulement dire, répliqua-t-il alors d'un ton moins
@@ -9223,7 +9223,7 @@ Mais il n'y resta que deux minutes. Puis, dès qu'il fut parti,
 M. Homais dit au médecin:
 
 -- Voilà ce qui s'appelle une prise de bec! Je l'ai roulé, vous
-avez vu, d'une manière!breakprice Enfin, croyez-moi, conduisez Madame au
+avez vu, d'une manière!... Enfin, croyez-moi, conduisez Madame au
 spectacle, ne serait-ce que pour faire une fois dans votre vie
 enrager un de ces corbeaux-là, saprelotte! Si quelqu'un pouvait me
 remplacer, je vous accompagnerais moi-même. Dépêchez-vous! Lagardy
@@ -9292,7 +9292,7 @@ XV
 La foule stationnait contre le mur, parquée symétriquement entre
 des balustrades. À l'angle des rues voisines, de gigantesques
 affiches répétaient en caractères baroques: «_Lucie de
-Lamermoor_breakprice Lagardybreakprice Opérabreakprice, etc.» Il faisait beau; on avait
+Lamermoor_... Lagardy... Opéra..., etc.» Il faisait beau; on avait
 chaud; la sueur coulait dans les frisures, tous les mouchoirs
 tirés épongeaient les fronts rouges; et parfois un vent tiède, qui
 soufflait de la rivière, agitait mollement la bordure des tentes
@@ -9400,7 +9400,7 @@ voix de la chanteuse ne lui semblait être que le retentissement de
 sa conscience, et cette illusion qui la charmait quelque chose
 même de sa vie. Mais personne sur la terre ne l'avait aimée d'un
 pareil amour. Il ne pleurait pas comme Edgar, le dernier soir, au
-clair de lune, lorsqu'ils se disaient: «À demain; à demain!breakprice» La
+clair de lune, lorsqu'ils se disaient: «À demain; à demain!...» La
 salle craquait sous les bravos; on recommença la strette entière;
 les amoureux parlaient des fleurs de leur tombe, de serments,
 d'exil, de fatalité, d'espérances, et quand ils poussèrent l'adieu
@@ -9440,7 +9440,7 @@ robe. Emma rêvait au jour de son mariage; et elle se revoyait là-
 bas, au milieu des blés, sur le petit sentier, quand on marchait
 vers l'église. Pourquoi donc n'avait-elle pas, comme celle-là,
 résisté, supplié? Elle était joyeuse, au contraire, sans
-s'apercevoir de l'abîme où elle se précipitaitbreakprice Ah! si, dans la
+s'apercevoir de l'abîme où elle se précipitait... Ah! si, dans la
 fraîcheur de sa beauté, avant les souillures du mariage et la
 désillusion de l'adultère, elle avait pu placer sa vie sur quelque
 grand coeur solide, alors la vertu, la tendresse, les voluptés et
@@ -9509,8 +9509,8 @@ taches sur sa belle robe de taffetas cerise, il murmurait d'un ton
 bourru les mots d'indemnité, de frais, de remboursement. Enfin,
 Charles arriva près de sa femme, en lui disant tout essoufflé:
 
--- J'ai cru, ma foi, que j'y resterais! Il y a un monde!breakprice un
-monde!breakprice
+-- J'ai cru, ma foi, que j'y resterais! Il y a un monde!... un
+monde!...
 
 Il ajouta:
 
@@ -9532,7 +9532,7 @@ Mais, vite, se rappelant à la convenance de la situation, elle
 secoua dans un effort cette torpeur de ses souvenirs et se mit à
 balbutier des phrases rapides.
 
--- Ah! bonjourbreakprice Comment! vous voilà?
+-- Ah! bonjour... Comment! vous voilà?
 
 -- Silence! cria une voix du parterre, car le troisième acte
 commençait.
@@ -9580,13 +9580,13 @@ la chanteuse lui parut exagéré.
 -- Elle crie trop fort, dit-elle en se tournant vers Charles, qui
 écoutait.
 
--- Ouibreakprice peut-êtrebreakprice un peu, répliqua-t-il, indécis entre la
+-- Oui... peut-être... un peu, répliqua-t-il, indécis entre la
 franchise de son plaisir et le respect qu'il portait aux opinions
 de sa femme.
 
 Puis Léon dit en soupirant
 
--- Il fait une chaleurbreakprice
+-- Il fait une chaleur...
 
 -- Insupportable! c'est vrai.
 
@@ -9641,7 +9641,7 @@ laisser, en plus, deux pièces blanches, qu'il fit sonner contre le
 marbre.
 
 -- Je suis fâché, vraiment, murmura Bovary, de l'argent que
-vousbreakprice
+vous...
 
 L'autre eut un geste dédaigneux plein de cordialité, et, prenant
 son chapeau:
@@ -9649,12 +9649,12 @@ son chapeau:
 -- C'est convenu, n'est-ce pas, demain, à six heures?
 
 Charles se récria encore une fois qu'il ne pouvait s'absenter plus
-longtemps; mais rien n'empêchait Emmabreakprice
+longtemps; mais rien n'empêchait Emma...
 
--- C'est quebreakprice, balbutia-t-elle avec un singulier sourire, je ne
-sais pas tropbreakprice
+-- C'est que..., balbutia-t-elle avec un singulier sourire, je ne
+sais pas trop...
 
--- Eh bien! tu réfléchiras, nous verrons, la nuit porte conseilbreakprice
+-- Eh bien! tu réfléchiras, nous verrons, la nuit porte conseil...
 
 Puis à Léon, qui les accompagnait:
 
@@ -9735,9 +9735,9 @@ successivement dans tous les hôtels de la ville.
 
 -- Oui, dit-elle, et j'ai eu tort. Il ne faut pas s'accoutumer à
 des plaisirs impraticables, quand on a autour de soi mille
-exigencesbreakprice
+exigences...
 
--- Oh! je m'imaginebreakprice
+-- Oh! je m'imagine...
 
 -- Eh! non, car vous n'êtes pas une femme, vous.
 
@@ -9802,7 +9802,7 @@ Elle ne répondait pas. Il continua:
 -- Je m'imaginais quelquefois qu'un hasard vous amènerait. J'ai
 cru vous reconnaître au coin des rues; et je courais après tous
 les fiacres où flottait à la portière un châle, un voile pareil au
-vôtrebreakprice
+vôtre...
 
 Elle semblait déterminée à le laisser parler sans l'interrompre.
 Croisant les bras et baissant la figure, elle considérait la
@@ -9823,8 +9823,8 @@ qu'il ne pouvait assouvir.
 -- J'aimerais beaucoup, dit-elle, à être une religieuse d'hôpital.
 
 -- Hélas! répliqua-t-il, les hommes n'ont point de ces missions
-saintes, et je ne vois nulle part aucun métierbreakprice, à moins peut-
-être que celui de médecinbreakprice
+saintes, et je ne vois nulle part aucun métier..., à moins peut-
+être que celui de médecin...
 
 Avec un haussement léger de ses épaules, Emma l'interrompit pour
 se plaindre de sa maladie où elle avait manqué mourir; quel
@@ -9856,7 +9856,7 @@ retirer de ses yeux bleus; tout son visage rayonna.
 
 Il attendait. Enfin elle répondit:
 
--- Je m'en étais toujours doutéebreakprice
+-- Je m'en étais toujours doutée...
 
 Alors, ils se racontèrent les petits événements de cette existence
 lointaine, dont ils venaient de résumer, par un seul mot, les
@@ -9870,7 +9870,7 @@ chambre, toute sa maison.
 
 -- Ah! que j'ai pensé à eux, savez-vous? Souvent je les revoyais
 comme autrefois, quand, par les matins d'été, le soleil frappait
-sur les jalousiesbreakprice et j'apercevais vos deux bras nus qui
+sur les jalousies... et j'apercevais vos deux bras nus qui
 passaient entre les fleurs.
 
 -- Pauvre ami! fit-elle en lui tendant la main.
@@ -9903,7 +9903,7 @@ existence; cela faisait comme des immensités sentimentales où elle
 se reportait; et elle disait de temps à autre, à voix basse et les
 paupières à demi fermées:
 
--- Oui, c'est vrai!breakprice c'est vrai!breakprice c'est vraibreakprice
+-- Oui, c'est vrai!... c'est vrai!... c'est vrai...
 
 Ils entendirent huit heures sonner aux différentes horloges du
 quartier Beauvoisine, qui est plein de pensionnats, d'églises et
@@ -9922,7 +9922,7 @@ noir entre des toits pointus.
 Elle se leva pour allumer deux bougies sur la commode, puis elle
 vint se rasseoir.
 
--- Eh bienbreakprice fit Léon.
+-- Eh bien... fit Léon.
 
 -- Eh bien? répondit-elle.
 
@@ -9947,8 +9947,8 @@ blanche, il ajouta:
 
 -- Qui nous empêche donc de recommencer?
 
--- Non, mon ami, répondit-elle. Je suis trop vieillebreakprice vous êtes
-trop jeunebreakprice oubliez-moi! D'autres vous aimerontbreakprice vous les
+-- Non, mon ami, répondit-elle. Je suis trop vieille... vous êtes
+trop jeune... oubliez-moi! D'autres vous aimeront... vous les
 aimerez.
 
 -- Pas comme vous! s'écria-t-il.
@@ -9992,20 +9992,20 @@ Et l'occasion était perdue, car elle partait dès le lendemain.
 -- Oui.
 
 -- Il faut pourtant que je vous voie encore, reprit-il; j'avais à
-vous direbreakprice
+vous dire...
 
 -- Quoi?
 
--- Une chosebreakprice grave, sérieuse. Eh! non, d'ailleurs, vous ne
-partirez pas, c'est impossible! Si vous saviezbreakprice Écoutez-moibreakprice
-Vous ne m'avez donc pas compris? vous n'avez pas deviné?breakprice
+-- Une chose... grave, sérieuse. Eh! non, d'ailleurs, vous ne
+partirez pas, c'est impossible! Si vous saviez... Écoutez-moi...
+Vous ne m'avez donc pas compris? vous n'avez pas deviné?...
 
 -- Cependant vous parlez bien, dit Emma.
 
 -- Ah! des plaisanteries! Assez, assez! Faites, par pitié, que je
-vous revoiebreakprice une foisbreakprice une seule.
+vous revoie... une fois... une seule.
 
--- Eh bienbreakprice
+-- Eh bien...
 
 Elle s'arrêta; puis, comme se ravisant:
 
@@ -10013,7 +10013,7 @@ Elle s'arrêta; puis, comme se ravisant:
 
 -- Où vous voudrez.
 
--- Voulez-vousbreakprice
+-- Voulez-vous...
 
 Elle parut réfléchir, et, d'un ton bref:
 
@@ -10139,12 +10139,12 @@ semblait se conduire d'une façon monstrueuse, le voler en quelque
 sorte, et presque commettre un sacrilège.
 
 Mais un froufrou de soie sur les dalles, la bordure d'un chapeau,
-un camail noirbreakprice C'était elle! Léon se leva et courut à sa
+un camail noir... C'était elle! Léon se leva et courut à sa
 rencontre.
 
 Emma était pâle. Elle marchait vite.
 
--- Lisez! dit-elle en lui tendant un papierbreakprice Oh non!
+-- Lisez! dit-elle en lui tendant un papier... Oh non!
 
 Et brusquement elle retira sa main, pour entrer dans la chapelle
 de la Vierge, où, s'agenouillant contre une chaise, elle se mit en
@@ -10182,7 +10182,7 @@ un grand cercle de pavés noirs, sans inscriptions ni ciselures:
 -- Voilà, fit-il majestueusement, la circonférence de la belle
 cloche d'Amboise. Elle pesait quarante mille livres. Il n'y avait
 pas sa pareille dans toute l'Europe. L'ouvrier qui l'a fondue en
-est mort de joiebreakprice
+est mort de joie...
 
 -- Partons, dit Léon.
 
@@ -10240,13 +10240,13 @@ Emma par le bras. Le Suisse demeura tout stupéfait, ne comprenant
 point cette munificence intempestive, lorsqu'il restait encore à
 l'étranger tant de choses à voir. Aussi, le rappelant:
 
--- Eh! monsieur. La flèche! la flèche!breakprice
+-- Eh! monsieur. La flèche! la flèche!...
 
 -- Merci, fit Léon.
 
 -- Monsieur a tort! Elle aura quatre cent quarante pieds, neuf de
 moins que la grande pyramide d'Égypte. Elle est toute en fonte,
-ellebreakprice
+elle...
 
 Léon fuyait; car il lui semblait que son amour, qui, depuis deux
 heures bientôt, s'était immobilisé dans l'église comme les
@@ -10280,7 +10280,7 @@ L'enfant partit comme une balle, par la rue des Quatre-Vents;
 alors ils restèrent seuls quelques minutes, face à face et un peu
 embarrassés.
 
--- Ah! Léon!breakprice Vraimentbreakprice, je ne saisbreakprice si je doisbreakprice!
+-- Ah! Léon!... Vraiment..., je ne sais... si je dois...!
 
 Elle minaudait. Puis, d'un air sérieux:
 
@@ -10451,7 +10451,7 @@ Tout a son importance dans les opérations délicates de notre art!
 Mais que diable! il faut établir des distinctions et ne pas
 employer à des usages presque domestiques ce qui est destiné pour
 les pharmaceutiques! C'est comme si on découpait une poularde avec
-un scalpel, comme si un magistratbreakprice
+un scalpel, comme si un magistrat...
 
 -- Mais calme-toi! disait madame Homais.
 
@@ -10465,13 +10465,13 @@ va! ne respecte rien! casse! brise! lâche les sangsues! brûle la
 guimauve! marine des cornichons dans les bocaux! lacère les
 bandages!
 
--- Vous aviez pourtantbreakprice dit Emma.
+-- Vous aviez pourtant... dit Emma.
 
--- Tout à l'heure! -- Sais-tu à quoi tu t'exposais?breakprice N'as-tu
+-- Tout à l'heure! -- Sais-tu à quoi tu t'exposais?... N'as-tu
 rien vu, dans le coin, à gauche, sur la troisième tablette? Parle,
 réponds, articule quelque chose!
 
--- Je nebreakprice sais pas, balbutia le jeune garçon.
+-- Je ne... sais pas, balbutia le jeune garçon.
 
 -- Ah! tu ne sais pas! Eh bien, je sais, moi! Tu as vu une
 bouteille, en verre bleu, cachetée avec de la cire jaune, qui
@@ -10525,10 +10525,10 @@ en pâte, à te goberger!
 
 Mais Emma, se tournant vers madame Homais:
 
--- On m'avait fait venirbreakprice
+-- On m'avait fait venir...
 
 -- Ah! mon Dieu! interrompit d'un air triste la bonne dame,
-comment vous dirai-je bien?breakprice C'est un malheur!
+comment vous dirai-je bien?... C'est un malheur!
 
 Elle n'acheva pas. L'apothicaire tonnait:
 
@@ -10541,8 +10541,8 @@ L'enfant se baissa. Homais fut plus prompt, et, ayant ramassé le
 volume, il le contemplait, les yeux écarquillés, la mâchoire
 ouverte.
 
--- L'amourbreakprice conjugal! dit-il en séparant lentement ces deux
-mots. Ah! très bien! très bien! très joli! Et des gravures!breakprice Ah!
+-- L'amour... conjugal! dit-il en séparant lentement ces deux
+mots. Ah! très bien! très bien! très joli! Et des gravures!... Ah!
 c'est trop fort!
 
 Madame Homais s'avança.
@@ -10560,16 +10560,16 @@ volume ouvert entre ses doigts, roulant les yeux, suffoqué,
 tuméfié, apoplectique. Puis il vint droit à son élève, et, se
 plantant devant lui les bras croisés:
 
--- Mais tu as donc tous les vices, petit malheureux?breakprice Prends
-garde, tu es sur une pente!breakprice Tu n'as donc pas réfléchi qu'il
+-- Mais tu as donc tous les vices, petit malheureux?... Prends
+garde, tu es sur une pente!... Tu n'as donc pas réfléchi qu'il
 pouvait, ce livre infâme, tomber entre les mains de mes enfants,
 mettre l'étincelle dans leur cerveau, ternir la pureté d'Athalie,
 corrompre Napoléon! Il est déjà formé comme un homme. Es-tu bien
-sûr, au moins, qu'ils ne l'aient pas lu? peux-tu me certifierbreakprice?
+sûr, au moins, qu'ils ne l'aient pas lu? peux-tu me certifier...?
 
--- Mais enfin, monsieur, fit Emma, vous aviez à me direbreakprice?
+-- Mais enfin, monsieur, fit Emma, vous aviez à me dire...?
 
--- C'est vrai, madamebreakprice Votre beau-père est mort!
+-- C'est vrai, madame... Votre beau-père est mort!
 
 En effet, le sieur Bovary père venait de décéder l'avant-veille,
 tout à coup, d'une attaque d'apoplexie, au sortir de table; et,
@@ -10596,7 +10596,7 @@ moins que tu sois homme toi-même et que ton tempérament soit fait.
 Au coup de marteau d'Emma, Charles, qui l'attendait, s'avança les
 bras ouverts et lui dit avec des larmes dans la voix:
 
--- Ah! ma chère amiebreakprice
+-- Ah! ma chère amie...
 
 Et il s'inclina doucement pour l'embrasser. Mais, au contact de
 ses lèvres, le souvenir de l'autre la saisit, et elle se passa la
@@ -10604,7 +10604,7 @@ main sur son visage en frissonnant.
 
 Cependant elle répondit:
 
--- Oui, je saisbreakprice, je saisbreakprice
+-- Oui, je sais..., je sais...
 
 Il lui montra la lettre où sa mère narrait l'événement, sans
 aucune hypocrisie sentimentale. Seulement, elle regrettait que son
@@ -10634,7 +10634,7 @@ Et ce fut tout.
 
 Un quart d'heure après, il ajouta:
 
--- Ma pauvre mère?breakprice que va-t-elle devenir, à présent?
+-- Ma pauvre mère?... que va-t-elle devenir, à présent?
 
 Elle fit un geste d'ignorance.
 
@@ -10671,7 +10671,7 @@ personnifié de son incurable ineptie:
 cheminée les violettes de Léon.
 
 -- Oui, fit-elle avec indifférence; c'est un bouquet que j'ai
-acheté tantôtbreakprice à une mendiante.
+acheté tantôt... à une mendiante.
 
 Charles prit les violettes, et, rafraîchissant dessus ses yeux
 tout rouges de larmes, il les humait délicatement. Elle les retira
@@ -10721,15 +10721,15 @@ particulier.
 
 Puis, d'une voix basse:
 
--- C'est relativement à cette affairebreakprice, vous savez?
+-- C'est relativement à cette affaire..., vous savez?
 
 Charles devint cramoisi jusqu'aux oreilles.
 
--- Ah! ouibreakprice, effectivement.
+-- Ah! oui..., effectivement.
 
 Et, dans son trouble, se tournant vers sa femme:
 
--- Ne pourrais-tu pasbreakprice, ma chériebreakprice?
+-- Ne pourrais-tu pas..., ma chérie...?
 
 Elle parut le comprendre, car elle se leva, et Charles dit à sa
 mère:
@@ -10775,7 +10775,7 @@ maintenant surtout qu'il allait avoir une foule d'embarras.
 
 -- Et même il ferait mieux de s'en décharger sur quelqu'un, sur
 vous, par exemple; avec une procuration, ce serait commode, et
-alors nous aurions ensemble de petites affairesbreakprice
+alors nous aurions ensemble de petites affaires...
 
 Elle ne comprenait pas. Il se tut. Ensuite, passant à son négoce,
 Lheureux déclara que Madame ne pouvait se dispenser de lui prendre
@@ -10817,10 +10817,10 @@ Charles, naïvement, lui demanda d'où venait ce papier.
 Et, avec le plus grand sang-froid du monde, elle ajouta:
 
 -- Je ne m'y fie pas trop. Les notaires ont si mauvaise
-réputation! Il faudrait peut-être consulterbreakprice Nous ne connaissons
-quebreakprice Oh! personne.
+réputation! Il faudrait peut-être consulter... Nous ne connaissons
+que... Oh! personne.
 
--- À moins que Léonbreakprice, répliqua Charles, qui réfléchissait.
+-- À moins que Léon..., répliqua Charles, qui réfléchissait.
 
 Mais il était difficile de s'entendre par correspondance. Alors
 elle s'offrit à faire ce voyage. Il la remercia. Elle insista. Ce
@@ -10910,8 +10910,8 @@ jour. Ils sont venus un tas de farceurs, messieurs et dames, avec
 des gâteaux, du champagne, des cornets à pistons, tout le
 tremblement! Il y en avait un surtout, un grand bel homme, à
 petites moustaches, qui était joliment amusant! et ils disaient
-comme ça: «Allons, conte-nous quelque chosebreakprice, Adolphebreakprice,
-Dodolphebreakprice, je crois.»
+comme ça: «Allons, conte-nous quelque chose..., Adolphe...,
+Dodolphe..., je crois.»
 
 Elle frissonna.
 
@@ -10984,7 +10984,7 @@ Leur séparation devenait intolérable.
 
 Elle se tordait sur son bras, tout en pleurant.
 
--- Adieu!breakprice adieu!breakprice Quand te reverrai-je?
+-- Adieu!... adieu!... Quand te reverrai-je?
 
 Ils revinrent sur leurs pas pour s'embrasser encore; et ce fut là
 qu'elle lui fit la promesse de trouver bientôt, par n'importe quel
@@ -11009,7 +11009,7 @@ Un soir que Charles l'écoutait, elle recommença quatre fois de
 suite le même morceau, et toujours en se dépitant, tandis que,
 sans y remarquer de différence, il s'écriait:
 
--- Bravo!breakprice, très bien!breakprice Tu as tort! va donc!
+-- Bravo!..., très bien!... Tu as tort! va donc!
 
 -- Eh non! c'est exécrable! j'ai les doigts rouillés.
 
@@ -11020,13 +11020,13 @@ Le lendemain, il la pria de lui jouer encore quelque chose.
 Et Charles avoua qu'elle avait un peu perdu. Elle se trompait de
 portée, barbouillait; puis, s'arrêtant court:
 
--- Ah! c'est fini! il faudrait que je prisse des leçons; maisbreakprice
+-- Ah! c'est fini! il faudrait que je prisse des leçons; mais...
 
 Elle se mordit les lèvres et ajouta:
 
 -- Vingt francs par cachet, c'est trop cher!
 
--- Oui, en effetbreakprice, un peubreakprice, dit Charles tout en ricanant
+-- Oui, en effet..., un peu..., dit Charles tout en ricanant
 niaisement. Pourtant, il me semble que l'on pourrait peut-être à
 moins; car il y a des artistes sans réputation qui souvent valent
 mieux que les célébrités.
@@ -11070,7 +11070,7 @@ pauvre piano, qui lui avait causé tant de vaniteuses
 satisfactions, le voir s'en aller, c'était pour Bovary comme
 l'indéfinissable suicide d'une partie d'elle-même!
 
--- Si tu voulaisbreakprice, disait-il, de temps à autre, une leçon, cela
+-- Si tu voulais..., disait-il, de temps à autre, une leçon, cela
 ne serait pas, après tout, extrêmement ruineux.
 
 -- Mais les leçons, répliquait-elle, ne sont profitables que
@@ -11190,7 +11190,7 @@ Elle tournait une rue; elle le reconnaissait à sa chevelure frisée
 qui s'échappait de son chapeau.
 
 Léon, sur le trottoir, continuait à marcher. Elle le suivait
-jusqu'à l'hôtel; il montait, il ouvrait la porte, il entraitbreakprice
+jusqu'à l'hôtel; il montait, il ouvrait la porte, il entrait...
 Quelle étreinte!
 
 Puis les paroles, après les baisers, se précipitaient. On se
@@ -11277,7 +11277,7 @@ leur semblait sérieux.
 
 Immobiles l'un devant l'autre, ils se répétaient
 
--- À jeudi!breakprice à jeudi!
+-- À jeudi!... à jeudi!
 
 Tout à coup elle lui prenait la tête dans les deux mains, le
 baisait vite au front en s'écriant: «Adieu!» et s'élançait dans
@@ -11400,7 +11400,7 @@ plus tard.
 
 Souvent elle lui disait, avec des douceurs de voix mélancolique:
 
--- Ah! tu me quitteras, toibreakprice tu te marieras!breakprice tu seras comme
+-- Ah! tu me quitteras, toi... tu te marieras!... tu seras comme
 les autres.
 
 Il demandait:
@@ -11638,7 +11638,7 @@ cents, pour frais de commission et d'escompte.
 
 Puis il réclama négligemment une quittance.
 
--- Vous comprenezbreakprice, dans le commercebreakprice, quelquefoisbreakprice Et avec
+-- Vous comprenez..., dans le commerce..., quelquefois... Et avec
 la date, s'il vous plaît, la date.
 
 Un horizon de fantaisies réalisables s'ouvrit alors devant Emma.
@@ -11683,19 +11683,19 @@ assure.
 
 -- Tout le monde ne peut être riche! Aucune fortune ne tient
 contre le coulage! Je rougirais de me dorloter comme vous faites!
-et pourtant, moi, je suis vieille, j'ai besoin de soinsbreakprice En
+et pourtant, moi, je suis vieille, j'ai besoin de soins... En
 voilà! en voilà, des ajustements! des flaflas! Comment! de la soie
-pour doublure, à deux francs!breakprice tandis qu'on trouve du jaconas à
+pour doublure, à deux francs!... tandis qu'on trouve du jaconas à
 dix sous, et même à huit sous qui fait parfaitement l'affaire.
 
 Emma, renversée sur la causeuse, répliquait le plus tranquillement
 possible:
 
--- Eh! madame, assez! assez!breakprice
+-- Eh! madame, assez! assez!...
 
 L'autre continuait à la sermonner, prédisant qu'ils finiraient à
 l'hôpital. D'ailleurs, c'était la faute de Bovary. Heureusement
-qu'il avait promis d'anéantir cette procurationbreakprice
+qu'il avait promis d'anéantir cette procuration...
 
 -- Comment?
 
@@ -11715,7 +11715,7 @@ Emma se mit à rire d'un rire strident, éclatant, continu: elle
 avait une attaque de nerfs.
 
 -- Ah! mon Dieu! s'écria Charles. Eh! tu as tort aussi toi! tu
-viens lui faire des scènes!breakprice
+viens lui faire des scènes!...
 
 Sa mère, en haussant les épaules, prétendait que tout cela
 c'étaient des gestes.
@@ -11726,7 +11726,7 @@ Elle partit dès le lendemain, et, sur le seuil, comme il essayait
 à la retenir, elle répliqua:
 
 -- Non, non! Tu l'aimes mieux que moi, et tu as raison, c'est dans
-l'ordre. Au reste, tant pis! tu verras!breakprice Bonne santé!breakprice car je
+l'ordre. Au reste, tant pis! tu verras!... Bonne santé!... car je
 ne suis pas près, comme tu dis, de venir lui faire des scènes.
 
 Charles n'en resta pas moins fort penaud vis-à-vis d'Emma, celle-
@@ -11783,7 +11783,7 @@ dîner chez M. Lormeaux.
 La famille Lormeaux n'habitait plus Rouen.
 
 -- Elle sera restée à soigner madame Dubreuil. Eh! madame Dubreuil
-est morte depuis dix mois!breakprice
+est morte depuis dix mois!...
 
 Où est-elle donc?
 
@@ -11799,7 +11799,7 @@ s'écriant:
 
 -- J'ai été malade.
 
--- Et de quoi?breakprice Où?breakprice Comment?breakprice
+-- Et de quoi?... Où?... Comment?...
 
 Elle se passa la main sur le front, et répondit:
 
@@ -11872,7 +11872,7 @@ L'apothicaire, autrefois, se fût bien gardé d'une telle
 expression; mais il donnait maintenant dans un genre folâtre et
 parisien qu'il trouvait du meilleur goût; et, comme madame Bovary,
 sa voisine, il interrogeait le clerc curieusement sur les moeurs
-de la capitale, même il parlait argot afin d'éblouirbreakprice les
+de la capitale, même il parlait argot afin d'éblouir... les
 bourgeois, disant _turne, bazar, chicard, chicandard, Breda-
 street, _et _Je me la casse_, pour: Je m'en vais.
 
@@ -11920,11 +11920,11 @@ reste, vos amours ne logent pas loin.
 
 Et, comme l'autre rougissait:
 
--- Allons, soyez franc! Nierez-vous qu'à Yonvillebreakprice?
+-- Allons, soyez franc! Nierez-vous qu'à Yonville...?
 
 Le jeune homme balbutia.
 
--- Chez madame Bovary, vous ne courtisiez pointbreakprice?
+-- Chez madame Bovary, vous ne courtisiez point...?
 
 -- Et qui donc?
 
@@ -12014,7 +12014,7 @@ Alors, par lâcheté, par bêtise, par cet inqualifiable sentiment
 qui nous entraîne aux actions les plus antipathiques, il se laissa
 conduire chez Bridoux; et ils le trouvèrent dans sa petite cour,
 surveillant trois garçons qui haletaient à tourner la grande roue
-d'une machine pour faire de l'eau de Seltzbreakprice Homais leur donna
+d'une machine pour faire de l'eau de Seltz... Homais leur donna
 des conseils; il embrassa Bridoux; on prit le garus. Vingt fois
 Léon voulut s'en aller; mais l'autre l'arrêtait par le bras en lui
 disant:
@@ -12083,7 +12083,7 @@ une mère vertueuse, de ses camarades. Elle lui disait:
 Elle aurait voulu pouvoir surveiller sa vie, et l'idée lui vint de
 le faire suivre dans les rues. Il y avait toujours, près de
 l'hôtel, une sorte de vagabond qui accostait les voyageurs et qui
-ne refuserait pasbreakprice Mais sa fierté se révolta.
+ne refuserait pas... Mais sa fierté se révolta.
 
 -- Eh! tant pis! qu'il me trompe, que m'importe! est-ce que j'y
 tiens?
@@ -12097,14 +12097,14 @@ figurer!
 
 Les premiers mois de son mariage, ses promenades à cheval dans la
 forêt, le Vicomte qui valsait, et Lagardy chantant, tout repassa
-devant ses yeuxbreakprice Et Léon lui parut soudain dans le même
+devant ses yeux... Et Léon lui parut soudain dans le même
 éloignement que les autres.
 
 -- Je l'aime pourtant! se disait-elle.
 
 N'importe! elle n'était pas heureuse, ne l'avait jamais été. D'où
 venait donc cette insuffisance de la vie, cette pourriture
-instantanée des choses où elle s'appuyait?breakprice Mais, s'il y avait
+instantanée des choses où elle s'appuyait?... Mais, s'il y avait
 quelque part un être fort et beau, une nature valeureuse, pleine à
 la fois d'exaltation et de raffinements, un coeur de poète sous
 une forme d'ange, lyre aux cordes d'airain, sonnant vers le ciel
@@ -12142,8 +12142,8 @@ blonds, demanda d'un air naïf:
 
 -- Quelle réponse apporter à M. Vinçart?
 
--- Eh bien, répondit Emma, dites-luibreakprice que je n'en ai pasbreakprice Ce
-sera la semaine prochainebreakprice Qu'il attendebreakprice oui, la semaine
+-- Eh bien, répondit Emma, dites-lui... que je n'en ai pas... Ce
+sera la semaine prochaine... Qu'il attende... oui, la semaine
 prochaine.
 
 Et le bonhomme s'en alla sans souffler mot.
@@ -12193,7 +12193,7 @@ ne pas faire circuler ses billets; il en convenait.
 -- Et que va-t-il arriver, maintenant? reprit-elle.
 
 -- Oh! c'est bien simple: un jugement du tribunal, et puis la
-saisiebreakprice; bernique!
+saisie...; bernique!
 
 Emma se retenait pour ne pas le battre. Elle lui demanda doucement
 s'il n'y avait pas moyen de calmer M. Vinçart.
@@ -12212,8 +12212,8 @@ Et, déployant un de ses registres:
 
 Puis, remontant la page avec son doigt:
 
--- Voyonsbreakprice, voyonsbreakprice Le 3 août, deux cents francsbreakprice Au 17
-juin, cent cinquantebreakprice 23 mars, quarante-sixbreakprice En avrilbreakprice
+-- Voyons..., voyons... Le 3 août, deux cents francs... Au 17
+juin, cent cinquante... 23 mars, quarante-six... En avril...
 
 Il s'arrêta, comme craignant de faire quelque sottise.
 
@@ -12231,17 +12231,17 @@ comme lui ne pouvait faire d'avances.
 Emma se taisait; et M. Lheureux, qui mordillonnait les barbes
 d'une plume, sans doute s'inquiéta de son silence, car il reprit:
 
--- Au moins, si un de ces jours j'avais quelques rentréesbreakprice Je
-pourraisbreakprice
+-- Au moins, si un de ces jours j'avais quelques rentrées... Je
+pourrais...
 
--- Du reste, dit-elle, dès que l'arriéré de Barnevillebreakprice
+-- Du reste, dit-elle, dès que l'arriéré de Barneville...
 
--- Comment?breakprice
+-- Comment?...
 
 Et, en apprenant que Langlois n'avait pas encore payé, il parut
 fort surpris. Puis, d'une voix mielleuse:
 
--- Et nous convenons, dites-vousbreakprice?
+-- Et nous convenons, dites-vous...?
 
 -- Oh! de ce que vous voudrez!
 
@@ -12273,7 +12273,7 @@ comme têtes de fauteuils, c'est le genre.
 Et, plus prompt qu'un escamoteur, il enveloppa la guipure de
 papier bleu et la mit dans les mains d'Emma.
 
--- Au moins, que je sachebreakprice?
+-- Au moins, que je sache...?
 
 -- Ah! plus tard, reprit-il en lui tournant les talons.
 
@@ -12286,8 +12286,8 @@ servirait exactement.
 Alors Madame expédia des factures chez deux ou trois clients, et
 bientôt usa largement de ce moyen, qui lui réussissait. Elle avait
 toujours soin d'ajouter en post-scriptum: «N'en parlez pas à mon
-mari, vous savez comme il est fierbreakprice Excusez-moibreakprice Votre
-servantebreakprice» Il y eut quelques réclamations; elle les intercepta.
+mari, vous savez comme il est fier... Excusez-moi... Votre
+servante...» Il y eut quelques réclamations; elle les intercepta.
 
 Pour se faire de l'argent, elle se mit à vendre ses vieux gants,
 ses vieux chapeaux, la vieille ferraille; et elle marchandait avec
@@ -12338,7 +12338,7 @@ ta maman ne veut pas qu'on la dérange.
 
 L'automne commençait et déjà les feuilles tombaient, -- comme il y
 a deux ans, lorsqu'elle était malade! -- Quand donc tout cela
-finira-t-il!breakprice Et il continuait à marcher, les deux mains
+finira-t-il!... Et il continuait à marcher, les deux mains
 derrière le dos.
 
 Madame était dans sa chambre. On n'y montait pas. Elle restait là
@@ -12494,14 +12494,14 @@ Nesle. À quatre heures du soir, Hivert la réveilla.
 En rentrant chez elle, Félicité lui montra derrière la pendule un
 papier gris. Elle lut:
 
-«En vertu de la grosse, en forme exécutoire d'un jugementbreakprice»
+«En vertu de la grosse, en forme exécutoire d'un jugement...»
 
 Quel jugement? La veille, en effet, on avait apporté un autre
 papier qu'elle ne connaissait pas; aussi fut-elle stupéfaite de
 ces mots:
 
 «Commandement de par le roi, la loi et justice, à madame
-Bovarybreakprice»
+Bovary...»
 
 Alors, sautant plusieurs lignes, elle aperçut:
 
@@ -12510,7 +12510,7 @@ somme totale de huit mille francs.» Et même il y avait plus bas:
 «Elle y sera contrainte par toute voie de droit, et notamment par
 la saisie exécutoire de ses meubles et effets.»
 
-Que faire?breakprice C'était dans vingt-quatre heures; demain! Lheureux,
+Que faire?... C'était dans vingt-quatre heures; demain! Lheureux,
 pensa-t-elle, voulait sans doute l'effrayer encore; car elle
 devina du coup toutes ses manoeuvres, le but de ses complaisances.
 Ce qui la rassurait, c'était l'exagération même de la somme.
@@ -12541,14 +12541,14 @@ Elle se récria sur la dette.
 -- Ah! tant pis! le tribunal l'a reconnue! il y a jugement! on
 vous l'a signifié! D'ailleurs, ce n'est pas moi, c'est Vinçart.
 
--- Est-ce que vous ne pourriezbreakprice?
+-- Est-ce que vous ne pourriez...?
 
 -- Oh! rien du tout.
 
--- Maisbreakprice, cependantbreakprice, raisonnons.
+-- Mais..., cependant..., raisonnons.
 
-Et elle battit la campagne; elle n'avait rien subreakprice c'était une
-surprisebreakprice
+Et elle battit la campagne; elle n'avait rien su... c'était une
+surprise...
 
 -- À qui la faute? dit Lheureux en la saluant ironiquement. Tandis
 que je suis, moi, à bûcher comme un nègre, vous vous repassez du
@@ -12567,7 +12567,7 @@ blanche et longue, sur les genoux du marchand.
 
 -- Oh! oh! comme vous y allez! reprit-il en riant.
 
--- Je ferai savoir qui vous êtes. Je dirai à mon maribreakprice
+-- Je ferai savoir qui vous êtes. Je dirai à mon mari...
 
 -- Eh bien, moi, je lui montrerai quelque chose, à votre mari!
 
@@ -12581,13 +12581,13 @@ Elle s'affaissa, plus assommée qu'elle n'eût été par un coup de
 massue. Il se promenait depuis la fenêtre jusqu'au bureau, tout en
 répétant:
 
--- Ah! je lui montrerai bienbreakprice je lui montrerai bienbreakprice
+-- Ah! je lui montrerai bien... je lui montrerai bien...
 
 Ensuite il se rapprocha d'elle, et, d'une voix douce:
 
 -- Ce n'est pas amusant, je le sais; personne, après tout n'en est
 mort, et, puisque c'est le seul moyen qui vous reste de me rendre
-mon argentbreakprice
+mon argent...
 
 -- Mais où en trouverai-je? dit Emma en se tordant les bras.
 
@@ -12596,11 +12596,11 @@ mon argentbreakprice
 Et il la regardait d'une façon si perspicace et si terrible,
 qu'elle en frissonna jusqu'aux entrailles.
 
--- Je vous promets, dit-elle, je signeraibreakprice
+-- Je vous promets, dit-elle, je signerai...
 
 -- J'en ai assez, de vos signatures!
 
--- Je vendrai encorebreakprice
+-- Je vendrai encore...
 
 -- Allons donc! fit-il en haussant les épaules, vous n'avez plus
 rien.
@@ -12655,7 +12655,7 @@ blanche, et portant des sous-pieds fort tendus, répétait de temps
 
 Souvent il faisait des exclamations:
 
--- Charmant!breakprice fort joli!
+-- Charmant!... fort joli!
 
 Puis il se remettait à écrire, trempant sa plume dans l'encrier de
 corne qu'il tenait de la main gauche.
@@ -12710,7 +12710,7 @@ n'ouvrit pas. Enfin il parut.
 
 -- Cela te dérange?
 
--- Nonbreakprice, maisbreakprice
+-- Non..., mais...
 
 Et il avoua que le propriétaire n'aimait point que l'on reçût «des
 femmes».
@@ -12741,9 +12741,9 @@ Et, aussitôt, racontant l'histoire de la saisie, elle lui exposa
 sa détresse; car Charles ignorait tout, sa belle-mère la
 détestait, le père Rouault ne pouvait rien; mais lui, Léon, il
 allait se mettre en course pour trouver cette indispensable
-sommebreakprice
+somme...
 
--- Comment veux-tubreakprice?
+-- Comment veux-tu...?
 
 -- Quel lâche tu fais! s'écria-t-elle.
 
@@ -12756,13 +12756,13 @@ Raison de plus pour tenter quelque démarche; il n'était pas
 possible que l'on ne découvrît point trois mille francs.
 D'ailleurs, Léon pouvait s'engager à sa place.
 
--- Va! essaye! il le faut! cours!breakprice Oh! tâche! tâche! je
+-- Va! essaye! il le faut! cours!... Oh! tâche! tâche! je
 t'aimerai bien!
 
 Il sortit, revint au bout d'une heure, et dit avec une figure
 solennelle:
 
--- J'ai été chez trois personnesbreakprice inutilement!
+-- J'ai été chez trois personnes... inutilement!
 
 Puis ils restèrent assis l'un en face de l'autre, aux deux coins
 de la cheminée, immobiles, sans parler. Emma haussait les épaules,
@@ -12817,7 +12817,7 @@ chancelante, près de défaillir.
 
 Elle s'arrêta pour laisser passer un cheval noir, piaffant dans
 les brancards d'un tilbury que conduisait un gentleman en fourrure
-de zibeline. Qui était-ce donc? Elle le connaissaitbreakprice La voiture
+de zibeline. Qui était-ce donc? Elle le connaissait... La voiture
 s'élança et disparut.
 
 Mais c'était lui, le Vicomte! Elle se détourna: la rue était
@@ -12934,7 +12934,7 @@ Félicité soupira:
 
 -- Si j'étais de vous, madame, j'irais chez M. Guillaumin.
 
--- Tu crois?breakprice
+-- Tu crois?...
 
 Et cette interrogation voulait dire:
 
@@ -12975,7 +12975,7 @@ blondes qui, prises à l'occiput, contournaient son crâne chauve.
 Après qu'il eut offert un siège, il s'assit pour déjeuner, tout en
 s'excusant beaucoup de l'impolitesse.
 
--- Monsieur, dit-elle, je vous prieraisbreakprice
+-- Monsieur, dit-elle, je vous prierais...
 
 -- De quoi, madame? J'écoute.
 
@@ -13001,7 +13001,7 @@ par deux épingles de diamants que rattachait une chaînette d'or;
 et il souriait d'un singulier sourire, d'une façon douceâtre et
 ambiguë. Mais, s'apercevant qu'elle avait les pieds humides:
 
--- Approchez-vous donc du poêlebreakprice plus hautbreakprice, contre la
+-- Approchez-vous donc du poêle... plus haut..., contre la
 porcelaine.
 
 Elle avait peur de la salir. Le notaire reprit d'un ton galant:
@@ -13028,7 +13028,7 @@ aurait certainement gagnées.
 
 -- Je ne sais trop, dit-elle.
 
--- Pourquoi, hein?breakprice Je vous faisais donc bien peur? C'est moi,
+-- Pourquoi, hein?... Je vous faisais donc bien peur? C'est moi,
 au contraire, qui devrais me plaindre! À peine si nous nous
 connaissons! Je vous suis pourtant très dévoué; vous n'en doutez
 plus, j'espère?
@@ -13052,11 +13052,11 @@ pâle.
 
 -- Cet argent.
 
--- Maisbreakprice
+-- Mais...
 
 Puis, cédant à l'irruption d'un désir trop fort:
 
--- Eh bien, oui!breakprice
+-- Eh bien, oui!...
 
 Il se traînait à genoux vers elle, sans égard pour sa robe de
 chambre.
@@ -13078,7 +13078,7 @@ pantoufles en tapisserie. C'était un présent de l'amour. Cette vue
 à la fin le consola. D'ailleurs, il songeait qu'une aventure
 pareille l'aurait entraîné trop loin.
 
--- Quel misérable! quel goujat!breakprice quelle infamie! se disait-elle,
+-- Quel misérable! quel goujat!... quelle infamie! se disait-elle,
 en fuyant d'un pied nerveux sous les trembles de la route. Le
 désappointement de l'insuccès renforçait l'indignation de sa
 pudeur outragée; il lui semblait que la Providence s'acharnait à
@@ -13108,7 +13108,7 @@ répliquait:
 
 -- Et monsieur qui va rentrer!
 
--- Je le sais bienbreakprice Laisse-moi seule.
+-- Je le sais bien... Laisse-moi seule.
 
 Elle avait tout tenté. Il n'y avait plus rien à faire maintenant;
 et, quand Charles paraîtrait, elle allait donc lui dire:
@@ -13122,7 +13122,7 @@ et enfin, la surprise passée, il pardonnerait.
 
 -- Oui, murmurait-elle en grinçant des dents, il me pardonnera,
 lui qui n'aurait pas assez d'un million à m'offrir pour que je
-l'excuse de m'avoir connuebreakprice Jamais! jamais!
+l'excuse de m'avoir connue... Jamais! jamais!
 
 Cette idée de la supériorité de Bovary sur elle l'exaspérait.
 Puis, qu'elle avouât ou n'avouât pas, tout à l'heure, tantôt,
@@ -13192,7 +13192,7 @@ Bautzen et à Lutzen, fait la campagne de France, et même été porté
 pour la croix; -- tout à coup, comme à la vue d'un serpent, se
 recula bien loin en s'écriant:
 
--- Madame! y pensez-vous?breakprice
+-- Madame! y pensez-vous?...
 
 -- On devrait fouetter ces femmes-là! dit madame Tuvache.
 
@@ -13203,7 +13203,7 @@ enfilait la Grande-Rue et tournait à droite comme pour gagner le
 cimetière, elles se perdirent en conjectures.
 
 -- Mère Rolet, dit-elle en arrivant chez la nourrice,
-j'étouffe!breakprice délacez-moi.
+j'étouffe!... délacez-moi.
 
 Elle tomba sur le lit; elle sanglotait. La mère Rolet la couvrit
 d'un jupon et resta debout près d'elle. Puis, comme elle ne
@@ -13223,9 +13223,9 @@ vaguement les objets, bien qu'elle y appliquât son attention avec
 une persistance idiote. Elle contemplait les écaillures de la
 muraille, deux tisons fumant bout à bout, et une longue araignée
 qui marchait au-dessus de sa tête, dans la fente de la poutrelle.
-Enfin, elle rassembla ses idées. Elle se souvenaitbreakprice Un jour,
-avec Léonbreakprice Oh! comme c'était loinbreakprice Le soleil brillait sur la
-rivière et les clématites embaumaientbreakprice Alors, emportée dans ses
+Enfin, elle rassembla ses idées. Elle se souvenait... Un jour,
+avec Léon... Oh! comme c'était loin... Le soleil brillait sur la
+rivière et les clématites embaumaient... Alors, emportée dans ses
 souvenirs comme dans un torrent qui bouillonne, elle arriva
 bientôt à se rappeler la journée de la veille.
 
@@ -13316,7 +13316,7 @@ de fumer une pipe.
 
 -- Tiens! c'est vous! dit-il en se levant brusquement.
 
--- Oui, c'est moi!breakprice je voudrais, Rodolphe, vous demander un
+-- Oui, c'est moi!... je voudrais, Rodolphe, vous demander un
 conseil.
 
 Et malgré tous ses efforts, il lui était impossible de desserrer
@@ -13346,17 +13346,17 @@ Il répondit d'un ton philosophique:
 -- A-t-elle du moins, reprit Emma, été bonne pour vous depuis
 notre séparation?
 
--- Oh! ni bonnebreakprice ni mauvaise.
+-- Oh! ni bonne... ni mauvaise.
 
 -- Il aurait peut-être mieux valu ne jamais nous quitter.
 
--- Ouibreakprice, peut-être!
+-- Oui..., peut-être!
 
 -- Tu crois? dit-elle en se rapprochant.
 
 Et elle soupira.
 
--- O Rodolphe! si tu savaisbreakprice Je t'ai bien aimé!
+-- O Rodolphe! si tu savais... Je t'ai bien aimé!
 
 Ce fut alors qu'elle prit sa main, et ils restèrent quelque temps
 les doigts entrelacés, -- comme le premier jour, aux Comices! Par
@@ -13365,7 +13365,7 @@ s'affaissant contre sa poitrine, elle lui dit:
 
 -- Comment voulais-tu que je vécusse sans toi? On ne peut pas se
 déshabituer du bonheur! J'étais désespérée! j'ai cru mourir! Je te
-conterai tout cela, tu verras. Et toibreakprice tu m'as fuie!breakprice
+conterai tout cela, tu verras. Et toi... tu m'as fuie!...
 
 Car, depuis trois ans, il l'avait soigneusement évitée par suite
 de cette lâcheté naturelle qui caractérise le sexe fort; et Emma
@@ -13376,7 +13376,7 @@ chatte amoureuse:
 les excuse; tu les auras séduites, comme tu m'avais séduite. Tu es
 un homme, toi! tu as tout ce qu'il faut pour te faire chérir. Mais
 nous recommencerons, n'est-ce pas? nous nous aimerons! Tiens, je
-ris, je suis heureuse!breakprice parle donc!
+ris, je suis heureuse!... parle donc!
 
 Et elle était ravissante à voir, avec son regard où tremblait une
 larme, comme l'eau d'un orage dans un calice bleu.
@@ -13394,15 +13394,15 @@ son amour; comme elle se taisait, il prit ce silence pour une
 dernière pudeur, et alors il s'écria:
 
 -- Ah! pardonne-moi! tu es la seule qui me plaise. J'ai été
-imbécile et méchant! Je t'aime, je t'aimerai toujours!breakprice Qu'as-
+imbécile et méchant! Je t'aime, je t'aimerai toujours!... Qu'as-
 tu? dis-le donc!
 
 Il s'agenouillait.
 
--- Eh bien!breakprice je suis ruinée, Rodolphe! Tu vas me prêter trois
+-- Eh bien!... je suis ruinée, Rodolphe! Tu vas me prêter trois
 mille francs!
 
--- Maisbreakprice, maisbreakprice, dit-il en se relevant peu à peu, tandis que
+-- Mais..., mais..., dit-il en se relevant peu à peu, tandis que
 sa physionomie prenait une expression grave.
 
 -- Tu sais, continuait-elle vite, que mon mari avait placé toute
@@ -13431,7 +13431,7 @@ Elle resta d'abord quelques minutes à le regarder.
 
 Elle répéta plusieurs fois:
 
--- Tu ne les as pas!breakprice J'aurais dû m'épargner cette dernière
+-- Tu ne les as pas!... J'aurais dû m'épargner cette dernière
 honte. Tu ne m'as jamais aimée! tu ne vaux pas mieux que les
 autres!
 
@@ -13440,7 +13440,7 @@ Elle se trahissait, elle se perdait.
 Rodolphe l'interrompit, affirmant qu'il se trouvait «gêné» lui-
 même.
 
--- Ah! je te plains! dit Emma. Oui, considérablement!breakprice
+-- Ah! je te plains! dit Emma. Oui, considérablement!...
 
 Et, arrêtant ses yeux sur une carabine damasquinée qui brillait
 dans la panoplie:
@@ -13452,10 +13452,10 @@ Boulle; ni des sifflets de vermeil pour ses fouets -- elle les
 touchait! -- ni des breloques pour sa montre! Oh! rien ne lui
 manque! Jusqu'à un porte-liqueurs dans sa chambre; car tu t'aimes,
 tu vis bien, tu as un château, des fermes, des bois; tu chasses à
-courre, tu voyages à Parisbreakprice Eh! quand ce ne serait que cela,
+courre, tu voyages à Paris... Eh! quand ce ne serait que cela,
 s'écria-t-elle en prenant sur la cheminée ses boutons de
 manchettes, que la moindre de ces niaiseries! on en peut faire de
-l'argent!breakprice
+l'argent!...
 
 Oh! je n'en veux pas! garde-les!
 
@@ -13468,13 +13468,13 @@ pour un sourire, pour un regard, pour t'entendre dire: «Merci!» Et
 tu restes là tranquillement dans ton fauteuil, comme si déjà tu ne
 m'avais pas fait assez souffrir? Sans toi, sais-tu bien, j'aurais
 pu vivre heureuse! Qui t'y forçait? Était-ce une gageure? Tu
-m'aimais cependant, tu le disaisbreakprice Et tout à l'heure encorebreakprice
+m'aimais cependant, tu le disais... Et tout à l'heure encore...
 Ah! il eût mieux valu me chasser! J'ai les mains chaudes de tes
 baisers, et voilà la place, sur le tapis, où tu jurais à mes
 genoux une éternité d'amour. Tu m'y as fait croire: tu m'as
 pendant deux ans, traînée dans le rêve le plus magnifique et le
-plus suave!breakprice Hein! nos projets de voyage, tu te rappelles? Oh!
-ta lettre, ta lettre! elle m'a déchiré le coeur!breakprice Et puis, quand
+plus suave!... Hein! nos projets de voyage, tu te rappelles? Oh!
+ta lettre, ta lettre! elle m'a déchiré le coeur!... Et puis, quand
 je reviens vers lui, vers lui, qui est riche, heureux, libre! pour
 implorer un secours que le premier venu rendrait, suppliante et
 lui rapportant toute ma tendresse, il me repousse, parce que ça
@@ -13536,7 +13536,7 @@ fourneau. Justin, en manches de chemise, emportait un plat.
 
 Il revint. Elle frappa contre la vitre. Il sortit.
 
--- La clef! celle d'en haut, où sont lesbreakprice
+-- La clef! celle d'en haut, où sont les...
 
 -- Comment?
 
@@ -13582,7 +13582,7 @@ retirant pleine d'une poudre blanche, elle se mit à manger à même.
 
 -- Arrêtez! s'écria-t-il en se jetant sur elle.
 
--- Tais-toi! on viendraitbreakprice
+-- Tais-toi! on viendrait...
 
 Il se désespérait, voulait appeler.
 
@@ -13597,7 +13597,7 @@ s'évanouit, mais elle ne revint pas. Où pouvait-elle être? Il
 envoya Félicité chez Homais, chez M. Tuvache, chez Lheureux, au
 Lion d'or, partout; et, dans les intermittences de son angoisse,
 il voyait sa considération anéantie, leur fortune perdue, l'avenir
-de Berthe brisé! Par quelle cause?breakprice pas un mot! Il attendit
+de Berthe brisé! Par quelle cause?... pas un mot! Il attendit
 jusqu'à six heures du soir. Enfin, n'y pouvant plus tenir, et
 imaginant qu'elle était partie pour Rouen, il alla sur la grande
 route, fit une demi-lieue, ne rencontra personne, attendit encore
@@ -13605,7 +13605,7 @@ et s'en revint.
 
 Elle était rentrée.
 
--- Qu'y avait-il?breakprice Pourquoi?breakprice Explique-moi!breakprice
+-- Qu'y avait-il?... Pourquoi?... Explique-moi!...
 
 Elle s'assit à son secrétaire, et écrivit une lettre qu'elle
 cacheta lentement, ajoutant la date du jour et l'heure.
@@ -13613,9 +13613,9 @@ cacheta lentement, ajoutant la date du jour et l'heure.
 Puis elle dit d'un ton solennel:
 
 -- Tu la liras demain; d'ici là, je t'en prie, ne m'adresse pas
-une seule question!breakprice Non, pas une!
+une seule question!... Non, pas une!
 
--- Maisbreakprice
+-- Mais...
 
 -- Oh! laisse-moi!
 
@@ -13636,11 +13636,11 @@ Elle but une gorgée d'eau et se tourna vers la muraille.
 
 Cet affreux goût d'encre continuait.
 
--- J'ai soif!breakprice oh! j'ai bien soif! soupira-t-elle.
+-- J'ai soif!... oh! j'ai bien soif! soupira-t-elle.
 
 -- Qu'as-tu donc? dit Charles, qui lui tendait un verre.
 
--- Ce n'est rien!breakprice Ouvre la fenêtrebreakprice, j'étouffe!
+-- Ce n'est rien!... Ouvre la fenêtre..., j'étouffe!
 
 Et elle fut prise d'une nausée si soudaine, qu'elle eut à peine le
 temps de saisir son mouchoir sous l'oreiller.
@@ -13697,13 +13697,13 @@ Il se jeta à genoux contre son lit.
 Et il la regardait avec des yeux d'une tendresse comme elle n'en
 avait jamais vu.
 
--- Eh bien, làbreakprice, là!breakprice dit-elle d'une voix défaillante.
+-- Eh bien, là..., là!... dit-elle d'une voix défaillante.
 
 Il bondit au secrétaire, brisa le cachet et lut tout haut: Qu'on
-n'accuse personnebreakprice Il s'arrêta, se passa la main sur les yeux,
+n'accuse personne... Il s'arrêta, se passa la main sur les yeux,
 et relut encore.
 
--- Comment!breakprice Au secours! à moi!
+-- Comment!... Au secours! à moi!
 
 Et il ne pouvait que répéter ce mot: «Empoisonnée! empoisonnée!»
 Félicité courut chez Homais, qui l'exclama sur la place; madame
@@ -13735,7 +13735,7 @@ Charles montra la lettre. C'était de l'arsenic.
 Car il savait qu'il faut, dans tous les empoisonnements, faire une
 analyse; et l'autre, qui ne comprenait pas, répondit:
 
--- Ah! faites! faites! sauvez-labreakprice
+-- Ah! faites! faites! sauvez-la...
 
 Puis, revenu près d'elle, il s'affaissa par terre sur le tapis, et
 il restait la tête appuyée contre le bord de sa couche, à
@@ -13753,7 +13753,7 @@ Elle répliqua:
 -- N'étais-tu pas heureuse? Est-ce ma faute? J'ai fait tout ce que
 j'ai pu pourtant!
 
--- Ouibreakprice, c'est vraibreakprice, tu es bon, toi!
+-- Oui..., c'est vrai..., tu es bon, toi!
 
 Et elle lui passait la main dans les cheveux, lentement. La
 douceur de cette sensation surchargeait sa tristesse; il sentait
@@ -13802,7 +13802,7 @@ dégoût d'un autre poison plus fort qui lui remontait à la bouche.
 Berthe, cependant, restait posée sur le lit.
 
 -- Oh! comme tu as de grands yeux, maman! comme tu es pâle! comme
-tu sues!breakprice
+tu sues!...
 
 Sa mère la regardait.
 
@@ -13819,7 +13819,7 @@ poitrine un peu plus calme, il reprenait espoir. Enfin, lorsque
 Canivet entra, il se jeta dans ses bras en pleurant.
 
 -- Ah! c'est vous! merci! vous êtes bon! Mais tout va mieux.
-Tenez, regardez-labreakprice
+Tenez, regardez-la...
 
 Le confrère ne fut nullement de cette opinion, et, n'y allant pas,
 comme il le disait lui-même, par quatre chemins, il prescrivit de
@@ -13840,8 +13840,8 @@ chambre; Homais, immobile, poussait de gros soupirs, et
 M. Canivet, gardant toujours son aplomb, commençait néanmoins à se
 sentir troublé.
 
--- Diable!breakprice cependantbreakprice elle est purgée, et, du moment que la
-cause cessebreakprice
+-- Diable!... cependant... elle est purgée, et, du moment que la
+cause cesse...
 
 -- L'effet doit cesser, dit Homais; c'est évident.
 
@@ -13927,14 +13927,14 @@ même aux préparatifs, tandis que madame Homais disait, en tirant
 les cordons de sa camisole:
 
 -- Vous ferez excuse, monsieur; car dans notre malheureux pays, du
-moment qu'on n'est pas prévenu la veillebreakprice
+moment qu'on n'est pas prévenu la veille...
 
 -- Les verres à patte!!! souffla Homais.
 
 -- Au moins, si nous étions à la ville, nous aurions la ressource
 des pieds farcis.
 
--- Tais-toi!breakprice À table, docteur!
+-- Tais-toi!... À table, docteur!
 
 Il jugea bon, après les premiers morceaux, de fournir quelques
 détails sur la catastrophe:
@@ -13960,7 +13960,7 @@ avec un grand fracas.
 Mais, soudain, se maîtrisant:
 
 -- J'ai voulu, docteur, tenter une analyse, et primo, j'ai
-délicatement introduit dans un tubebreakprice
+délicatement introduit dans un tube...
 
 -- Il aurait mieux valu, dit le chirurgien, lui introduire vos
 doigts dans la gorge.
@@ -14233,7 +14233,7 @@ Ces messieurs s'étonnèrent beaucoup des idées romanesques de
 Bovary, et aussitôt le pharmacien alla lui dire:
 
 -- Ce velours me parait une superfétation. La dépense,
-d'ailleursbreakprice
+d'ailleurs...
 
 -- Est-ce que cela vous regarde? s'écria Charles. Laissez-moi!
 vous ne l'aimiez pas! Allez-vous-en!
@@ -14280,7 +14280,7 @@ répondit qu'il ne restait plus maintenant qu'à prier pour elle.
 morte en état de grâce (comme s'exprime l'Église), et alors elle
 n'a nul besoin de nos prières; ou bien elle est décédée
 impénitente (c'est, je crois, l'expression ecclésiastique), et
-alorsbreakprice
+alors...
 
 Bournisien l'interrompit, répliquant d'un ton bourru qu'il n'en
 fallait pas moins prier.
@@ -14292,9 +14292,9 @@ besoins, à quoi peut servir la prière?
 chrétien?
 
 -- Pardonnez! dit Homais. J'admire le christianisme. Il a d'abord
-affranchi les esclaves, introduit dans le monde une moralebreakprice
+affranchi les esclaves, introduit dans le monde une morale...
 
--- Il ne s'agit pas de cela! Tous les textesbreakprice
+-- Il ne s'agit pas de cela! Tous les textes...
 
 -- Oh! oh! quant aux textes, ouvrez l'histoire; on sait qu'ils ont
 été falsifiés par les jésuites.
@@ -14408,7 +14408,7 @@ monde, à perdre une compagne chérie; d'où s'ensuivit une
 discussion sur le célibat des prêtres.
 
 -- Car, disait le pharmacien, il n'est pas naturel qu'un homme se
-passe de femmes! On a vu des crimesbreakprice
+passe de femmes! On a vu des crimes...
 
 -- Mais, sabre de bois! s'écria l'ecclésiastique, comment voulez-
 vous qu'un individu pris dans le mariage puisse garder, par
@@ -14419,7 +14419,7 @@ sur les restitutions qu'elle faisait opérer. Il cita différentes
 anecdotes de voleurs devenus honnêtes tout à coup. Des militaires,
 s'étant approchés du tribunal de la pénitence, avaient senti les
 écailles leur tomber des yeux. Il y avait à Fribourg un
-ministrebreakprice
+ministre...
 
 Son compagnon dormait. Puis, comme il étouffait un peu dans
 l'atmosphère trop lourde de la chambre, il ouvrit la fenêtre, ce
@@ -14535,7 +14535,7 @@ l'avait rédigée de telle façon qu'il était impossible de savoir à
 quoi s'en tenir.
 
 Le bonhomme tomba d'abord comme frappé d'apoplexie. Ensuite il
-comprit qu'elle n'était pas morte. Mais elle pouvait l'êtrebreakprice
+comprit qu'elle n'était pas morte. Mais elle pouvait l'être...
 Enfin il avait passé sa blouse, pris son chapeau, accroché un
 éperon à son soulier et était parti ventre à terre; et, tout le
 long de la route, le père Rouault, haletant, se dévora
@@ -14580,7 +14580,7 @@ sang.
 Quand il eut repris connaissance, il tomba tout en pleurs dans les
 bras de Bovary:
 
--- Ma fille! Emma! mon enfant! expliquez-moibreakprice?
+-- Ma fille! Emma! mon enfant! expliquez-moi...?
 
 Et l'autre répondait avec des sanglots:
 
@@ -14595,7 +14595,7 @@ philosophie!
 Le pauvre garçon voulut paraître fort, et. il répéta plusieurs
 fois:
 
--- Ouibreakprice, du courage!
+-- Oui..., du courage!
 
 -- Eh bien, s'écria le bonhomme, j'en aurai, nom d'un tonnerre de
 Dieu! Je m'en vas la conduire jusqu'au bout.
@@ -14742,19 +14742,19 @@ trois. Enfin le bonhomme soupira:
 -- Vous rappelez-vous, mon ami, que je suis venu à Tostes une
 fois, quand vous veniez de perdre votre première défunte. Je vous
 consolais dans ce temps-là! Je trouvais quoi dire; mais à
-présentbreakprice
+présent...
 
 Puis, avec un long gémissement qui souleva toute sa poitrine:
 
 -- Ah! c'est la fin pour moi, voyez-vous! J'ai vu partir ma
-femmebreakprice, mon fils aprèsbreakprice, et voilà ma fille, aujourd'hui!
+femme..., mon fils après..., et voilà ma fille, aujourd'hui!
 
 Il voulut s'en retourner tout de suite aux Bertaux, disant qu'il
 ne pourrait pas dormir dans cette maison-là. Il refusa même de
 voir sa petite-fille.
 
 -- Non! Non! ça me ferait trop de deuil. Seulement, vous
-l'embrasserez bien! Adieu!breakprice vous êtes un bon garçon! Et puis,
+l'embrasserez bien! Adieu!... vous êtes un bon garçon! Et puis,
 jamais je n'oublierai ça, dit-il en se frappant la cuisse; n'ayez
 peur! vous recevrez toujours votre dinde.
 
@@ -14930,7 +14930,7 @@ moins dangereux. À quoi songent nos édiles?»
 
 Puis Homais inventait des anecdotes:
 
-«Hier, dans la côte du Bois-Guillaume, un cheval ombrageuxbreakprice» Et
+«Hier, dans la côte du Bois-Guillaume, un cheval ombrageux...» Et
 suivait le récit d'un accident occasionné par la présence de
 l'Aveugle.
 
@@ -14972,7 +14972,7 @@ comme un mage.
 
 Il eut de belles idées à propos du tombeau d'Emma. Il proposa
 d'abord un tronçon de colonne avec une draperie, ensuite une
-pyramide, puis un temple de Vesta, une manière de rotondebreakprice ou
+pyramide, puis un temple de Vesta, une manière de rotonde... ou
 bien «un amas de ruines». Et, dans tous les plans, Homais ne
 démordait point du saule pleureur, qu'il considérait comme le
 symbole obligé de la tristesse.
@@ -14988,7 +14988,7 @@ torche éteinte».
 
 Quant à l'inscription, Homais ne trouvait rien de beau comme: _Sta
 viator_, et il en restait là; il se creusait l'imagination; il
-répétait continuellement: _Sta viator_breakprice Enfin, il découvrit:
+répétait continuellement: _Sta viator_... Enfin, il découvrit:
 _amabilem conjugem calcas_! qui fut adopté.
 
 Une chose étrange, c'est que Bovary, tout en pensant à Emma
@@ -15037,7 +15037,7 @@ Les titres ne lui manquaient point:
 
 I° S'être, lors du choléra, signalé par un dévouement sans bornes;
 2° avoir publié, et à mes frais, différents ouvrages d'utilité
-publique, tels quebreakprice (et il rappelait son mémoire intitulé: Du
+publique, tels que... (et il rappelait son mémoire intitulé: Du
 cidre, de sa fabrication et de ses effets; plus, des observations
 sur le puceron laniger, envoyées à l'Académie; son volume de
 statistique, et jusqu'à sa thèse de pharmacien); sans compter que

@@ -92,7 +92,7 @@ class Argument
     /**
      * Checks that argument matches all tokens
      *
-     * @param mixed breakprice a list of tokens
+     * @param mixed ... a list of tokens
      *
      * @return Token\LogicalAndToken
      */

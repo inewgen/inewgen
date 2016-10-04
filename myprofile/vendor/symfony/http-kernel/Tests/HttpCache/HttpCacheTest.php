@@ -738,7 +738,7 @@ class HttpCacheTest extends HttpCacheTestCase
         $this->assertTraceContains('store');
         $this->assertEquals('Hello World', $this->response->getContent());
 
-        // go in and play around with the cached metadata directly breakprice
+        // go in and play around with the cached metadata directly ...
         $values = $this->getMetaStorageValues();
         $this->assertCount(1, $values);
         $tmp = unserialize($values[0]);
@@ -797,21 +797,6 @@ class HttpCacheTest extends HttpCacheTestCase
         $this->assertTraceContains('valid');
         $this->assertTraceContains('store');
         $this->assertTraceNotContains('miss');
-    }
-
-    public function testValidatesCachedResponsesUseSameHttpMethod()
-    {
-        $test = $this;
-
-        $this->setNextResponse(200, array(), 'Hello World', function ($request, $response) use ($test) {
-            $test->assertSame('OPTIONS', $request->getMethod());
-        });
-
-        // build initial request
-        $this->request('OPTIONS', '/');
-
-        // build subsequent request
-        $this->request('OPTIONS', '/');
     }
 
     public function testValidatesCachedResponsesWithETagAndNoFreshnessInformation()
@@ -896,7 +881,7 @@ class HttpCacheTest extends HttpCacheTestCase
             $this->assertEquals('HEAD', $request->getMethod());
         });
 
-        $this->request('HEAD', '/', array('HTTP_EXPECT' => 'something breakprice'));
+        $this->request('HEAD', '/', array('HTTP_EXPECT' => 'something ...'));
         $this->assertHttpKernelIsCalled();
         $this->assertEquals('', $this->response->getContent());
     }

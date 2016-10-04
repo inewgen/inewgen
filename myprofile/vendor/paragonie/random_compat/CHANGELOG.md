@@ -1,19 +1,13 @@
-### Version 2.0.2 - 2016-04-03
-
-Added a consistency check (discovered by Taylor Hornby in his 
-[PHP encryption library](https://github.com/defuse/php-encryption)). It
-wasn't likely causing any trouble for us.
-
-### Version 2.0.1 - 2016-03-18
+### Version 1.4.1 - 2016-03-18
 
 Update comment in random.php
 
-### Version 2.0.0 - 2016-03-18
+### Version 1.4.0 - 2016-03-18
 
-Due to downstream errors, the OpenSSL removal now belongs in version 
-2.0.0.
+Restored OpenSSL in the version 1 branch in preparation to remove
+OpenSSL in version 2.
 
-### Version 1.3.1 - 2016-03-18
+### Version 1.3.1/1.2.3 - 2016-03-18
 
 * Add more possible values to `open_baseir` check.
 
@@ -232,7 +226,7 @@ Changes since 0.9.2:
 * Prioritize `/dev/arandom` and `/dev/urandom` over mcrypt.
 [@oittaa](https://github.com/oittaa) removed the -1 and +1 juggling on `$range` calculations for `random_int()`
 * Whitespace and comment clean-up, plus better variable names
-* Actually put a description in the composer.json filebreakprice
+* Actually put a description in the composer.json file...
 
 ### Version 0.9.2 (pre-release) - 2015-07-16
 
