@@ -11,42 +11,42 @@
                     <div class="banner-info">
                         <div class="col-md-7 header-right">
                             <h1>Hi !</h1>
-                            <h6>UX & UI DESIGNER</h6>
+                            <h6>Programmer</h6>
                             <ul class="address">
                                 <li>
                                     <ul class="address-text">
                                         <li><b>NAME</b></li>
-                                        <li>I'M ROB LEE</li>
+                                        <li>I'M SURACHES SEESAT</li>
                                     </ul>
                                 </li>
                                 <li>
                                     <ul class="address-text">
                                         <li><b>D.O.B</b></li>
-                                        <li>23-06-1980</li>
+                                        <li>24-04-1985</li>
                                     </ul>
                                 </li>
                                 <li>
                                     <ul class="address-text">
                                         <li><b>PHONE </b></li>
-                                        <li>+00 111 222 3333</li>
+                                        <li>+6692 689 0707</li>
                                     </ul>
                                 </li>
                                 <li>
                                     <ul class="address-text">
                                         <li><b>ADDRESS </b></li>
-                                        <li>756 Global Place,New York.</li>
+                                        <li>Din Daeng, Bangkok, Thailand</li>
                                     </ul>
                                 </li>
                                 <li>
                                     <ul class="address-text">
                                         <li><b>E-MAIL </b></li>
-                                        <li><a href="mailto:example@mail.com"> mail@example.com</a></li>
+                                        <li><a href="mailto:example@mail.com"> s.suraches@hotmail.com</a></li>
                                     </ul>
                                 </li>
                                 <li>
                                     <ul class="address-text">
                                         <li><b>WEBSITE </b></li>
-                                        <li><a href="http://w3layouts.com">www.myresume.com</a></li>
+                                        <li><a target="_blank" href="http://www.inewgen.com">www.inewgen.com</a></li>
                                     </ul>
                                 </li>
                             </ul>

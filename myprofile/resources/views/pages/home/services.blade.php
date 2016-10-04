@@ -10,48 +10,61 @@
                     <div class="col-md-6 wthree_about_right_grid">
                         <div class="col-xs-4 wthree_about_right_grid_left">
                             <div class="hvr-rectangle-in">
-                                <i class="glyphicon glyphicon-pencil"></i>
+                                <i class="glyphicon glyphicon-fire"></i>
                             </div>
                         </div>
                         <div class="col-xs-8 wthree_about_right_grid_right">
-                            <h4>Web Design</h4>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim.</p>
+                            <h4>Web Development</h4>
+                            <p>
+                                -Ecommerce Website<br>
+                                -ELearning Website<br>
+                                -Web Service (API)
+                            </p>
                         </div>
                         <div class="clearfix"> </div>
                     </div>
                     <div class="col-md-6 wthree_about_right_grid">
                         <div class="col-xs-4 wthree_about_right_grid_left">
                             <div class="hvr-rectangle-in">
-                                <i class="glyphicon glyphicon-cog"></i>
+                                <i class="glyphicon glyphicon-eye-open"></i>
                             </div>
                         </div>
                         <div class="col-xs-8 wthree_about_right_grid_right">
                             <h4>Web Design</h4>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim.</p>
+                            <p>
+                                -Bootstrap Website Design<br>
+                                -Responsive Website Design
+                            </p>
                         </div>
                         <div class="clearfix"> </div>
                     </div>
                     <div class="col-md-6 wthree_about_right_grid">
                         <div class="col-xs-4 wthree_about_right_grid_left">
                             <div class="hvr-rectangle-in">
-                                <i class="glyphicon glyphicon-leaf"></i>
+                                <i class="glyphicon glyphicon-phone"></i>
                             </div>
                         </div>
                         <div class="col-xs-8 wthree_about_right_grid_right">
-                            <h4>Web Design</h4>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim.</p>
+                            <h4>Application Development</h4>
+                            <p>
+                                -Windows Application .NET Frameworks<br>
+                                -Windows Phone Application<br>
+                                -Android Application
+                            </p>
                         </div>
                         <div class="clearfix"> </div>
                     </div>
                     <div class="col-md-6 wthree_about_right_grid">
                         <div class="col-xs-4 wthree_about_right_grid_left">
                             <div class="hvr-rectangle-in">
-                                <i class="glyphicon glyphicon-gift"></i>
+                                <i class="glyphicon glyphicon-user"></i>
                             </div>
                         </div>
                         <div class="col-xs-8 wthree_about_right_grid_right">
-                            <h4>Web Design</h4>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim.</p>
+                            <h4>Web Consultant</h4>
+                            <p>
+                                -I'm willing to give the opportunity to everyone to exchange their opinions and suggestions about the technology.
+                            </p>
                         </div>
                         <div class="clearfix"> </div>
                     </div>
