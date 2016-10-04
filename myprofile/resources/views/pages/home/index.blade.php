@@ -17,12 +17,8 @@
         <!--//work-experience-->
 
         <!-- portfolio -->
-        <!-- @include('pages.home.portfolio') -->
+        @include('pages.home.portfolio')
         <!-- //portfolio -->
-
-        <!-- top-grids -->
-        @include('pages.home.blogs')
-        <!-- top-grids -->
 
         <!-- /header -->
         @include('pages.home.contactme')

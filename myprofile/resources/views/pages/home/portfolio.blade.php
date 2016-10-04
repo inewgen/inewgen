@@ -1,120 +1,108 @@
-        <div class="portfolio" id="port">
-            <div class="service-head text-center">
-                <h4>MY WORKS</h4>
-                <h3>MY <span>PORTFOLIO</span></h3>
-                <span class="border"></span>
-            </div>
-            <div class="portfolio-grids">
-                <script src="{{ env('APP_URL') }}/public/assets/js/easyResponsiveTabs.js" type="text/javascript"></script>
-                <script type="text/javascript">
-                    $(document).ready(function () {
-                        $('#horizontalTab').easyResponsiveTabs({
-                            type: 'default', //Types: default, vertical, accordion           
-                            width: 'auto', //auto or any width like 600px
-                            fit: true   // 100% fit in a container
-                        });
-                    });
-                    
-                </script>
-                <div class="sap_tabs">
-                    <div id="horizontalTab" style="display: block; width: 100%; margin: 0px;">
-                        <ul class="resp-tabs-list">
-                            <li class="resp-tab-item" aria-controls="tab_item-0" role="tab"><span>ALL</span></li>
-                            <li class="resp-tab-item" aria-controls="tab_item-1" role="tab"><span>WEB DESIGN</span></li>
-                            <li class="resp-tab-item" aria-controls="tab_item-2" role="tab"><span>MOBILE UI</span></li>
-                            <li class="resp-tab-item" aria-controls="tab_item-3" role="tab"><span>ILLUSTRATIONS</span></li>
-                        </ul>
-                        <div class="resp-tabs-container">
-                            <div class="tab-1 resp-tab-content" aria-labelledby="tab_item-0">
-                                <div class="col-md-3 team-gd ">
-                                    <a href="#portfolioModal1" class="portfolio-link b-link-diagonal b-animate-go" data-toggle="modal"><img src="{{ env('APP_URL') }}/public/assets/images/pic4.jpg" alt="">
-                                    </a>
-                                </div>
-                                <div class="col-md-3 team-gd ">
-                                    <a href="#portfolioModal3" class="portfolio-link b-link-diagonal b-animate-go" data-toggle="modal"><img src="{{ env('APP_URL') }}/public/assets/images/pic5.jpg" alt="">
-                                    </a>
-                                </div>
-                                <div class="col-md-3 team-gd ">
-                                    <a href="#portfolioModal2" class="portfolio-link b-link-diagonal b-animate-go" data-toggle="modal"><img src="{{ env('APP_URL') }}/public/assets/images/pic9.jpg" alt="">
-                                    </a>
-                                </div>
-                                <div class="col-md-3 team-gd ">
-                                    <a href="#portfolioModal4" class="portfolio-link b-link-diagonal b-animate-go" data-toggle="modal"><img src="{{ env('APP_URL') }}/public/assets/images/pic6.jpg" alt="">
-                                    </a>
-                                </div>
-                                <div class="col-md-3 team-gd yes_marg ">
-                                    <a href="#portfolioModal5" class="portfolio-link b-link-diagonal b-animate-go" data-toggle="modal"><img src="{{ env('APP_URL') }}/public/assets/images/pic10.jpg" alt="">
-                                    </a>
-                                </div>
-                                <div class="col-md-3 team-gd yes_marg ">
-                                    <a href="#portfolioModal6" class="portfolio-link b-link-diagonal b-animate-go" data-toggle="modal"><img src="{{ env('APP_URL') }}/public/assets/images/pic11.jpg" alt="">
-                                    </a>
-                                </div>
-                                <div class="col-md-3 team-gd yes_marg ">
-                                    <a href="#portfolioModal7" class="portfolio-link b-link-diagonal b-animate-go" data-toggle="modal"><img src="{{ env('APP_URL') }}/public/assets/images/pic13.jpg" alt="">
-                                    </a>
-                                </div>
-                                <div class="col-md-3 team-gd yes_marg ">
-                                    <a href="#portfolioModal8" class="portfolio-link b-link-diagonal b-animate-go" data-toggle="modal"><img src="{{ env('APP_URL') }}/public/assets/images/pic14.jpg" alt="">
-                                    </a>
-                                </div>
-                                <div class="clearfix"></div>
-                            </div>
-                            <div class="tab-1 resp-tab-content" aria-labelledby="tab_item-1">
-                                <div class="col-md-3 team-gd ">
-                                    <div class="thumb">
-                                        <a href="#portfolioModal5" class="portfolio-link b-link-diagonal b-animate-go" data-toggle="modal"><img src="{{ env('APP_URL') }}/public/assets/images/pic10.jpg" alt="">
-                                        </a>
-                                    </div>
-                                </div>
-                                <div class="col-md-3 team-gd  ">
-                                    <div class="thumb">
-                                        <a href="#portfolioModal6" class="portfolio-link b-link-diagonal b-animate-go" data-toggle="modal"><img src="{{ env('APP_URL') }}/public/assets/images/pic11.jpg" alt="">
-                                        </a>
-                                    </div>
-                                </div>
-                                <div class="col-md-3 team-gd ">
-                                    <a href="#portfolioModal7" class="portfolio-link b-link-diagonal b-animate-go" data-toggle="modal"><img src="{{ env('APP_URL') }}/public/assets/images/pic13.jpg" alt="">
-                                    </a>
-                                </div>
-                                <div class="clearfix"></div>
-                            </div>
-                            <div class="tab-1 resp-tab-content" aria-labelledby="tab_item-2">
-                                <div class="col-md-3 team-gd ">
-                                    <a href="#portfolioModal2" class="portfolio-link b-link-diagonal b-animate-go" data-toggle="modal"><img src="{{ env('APP_URL') }}/public/assets/images/pic9.jpg" alt="">
-                                    </a>
-                                </div>
-                                <div class="col-md-3 team-gd ">
-                                    <a href="#portfolioModal4" class="portfolio-link b-link-diagonal b-animate-go" data-toggle="modal"><img src="{{ env('APP_URL') }}/public/assets/images/pic6.jpg" alt="">
-                                    </a>
-                                </div>
-                                <div class="col-md-3 team-gd">
-                                    <a href="#portfolioModal5" class="portfolio-link b-link-diagonal b-animate-go" data-toggle="modal"><img src="{{ env('APP_URL') }}/public/assets/images/pic10.jpg" alt="">
-                                    </a>
-                                </div>
-                                <div class="col-md-3 team-gd">
-                                    <a href="#portfolioModal6" class="portfolio-link b-link-diagonal b-animate-go" data-toggle="modal"><img src="{{ env('APP_URL') }}/public/assets/images/pic11.jpg" alt="">
-                                    </a>
-                                </div>
-                                <div class="clearfix"></div>
-                            </div>
-                            <div class="tab-1 resp-tab-content" aria-labelledby="tab_item-3">
-                                <div class="col-md-3 team-gd ">
-                                    <a href="#portfolioModal5" class="portfolio-link b-link-diagonal b-animate-go" data-toggle="modal"><img src="{{ env('APP_URL') }}/public/assets/images/pic10.jpg" alt="">
-                                    </a>
-                                </div>
-                                <div class="col-md-3 team-gd">
-                                    <a href="#portfolioModal6" class="portfolio-link b-link-diagonal b-animate-go" data-toggle="modal"><img src="{{ env('APP_URL') }}/public/assets/images/pic11.jpg" alt="">
-                                    </a>
-                                </div>
-                                <div class="col-md-3 team-gd ">
-                                    <a href="#portfolioModal7" class="portfolio-link b-link-diagonal b-animate-go" data-toggle="modal"><img src="{{ env('APP_URL') }}/public/assets/images/pic13.jpg" alt="">
-                                    </a>
-                                </div>
-                                <div class="clearfix"></div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
+<?php
+    $pboxs = [
+        0 => [
+            'id'          => 'truelife',
+            'title'       => 'Truelife Member system',
+            'url'         => 'http://trueid.truelife.com/userv4/accounts/th',
+            'description' => 'http://trueid.truelife.com/userv4/accounts/th',
+        ],
+        1 => [
+            'id'          => 'portal_wls',
+            'title'       => 'Portal website of weloveshopping',
+            'url'         => 'https://portal.weloveshopping.com',
+            'description' => 'https://portal.weloveshopping.com',
+        ],
+        2 => [
+            'id'          => 'store_wls',
+            'title'       => 'Seller Westore system',
+            'url'         => 'https://store.weloveshopping.com',
+            'description' => 'https://store.weloveshopping.com',
+        ],
+        3 => [
+            'id'          => 'wms_wls',
+            'title'       => 'Westore Admin system',
+            'url'         => 'https://wms.weloveshopping.com',
+            'description' => 'https://wms.weloveshopping.com',
+        ],
+        4 => [
+            'id'          => 'youstore_wls',
+            'title'       => 'Seller Youstore system',
+            'url'         => 'http://youstore.weloveshopping.com',
+            'description' => 'http://youstore.weloveshopping.com',
+        ],
+        5 => [
+            'id'          => 'ums_wls',
+            'title'       => 'Youstore Dashboard',
+            'url'         => 'http://ums.weloveshopping.com',
+            'description' => 'http://ums.weloveshopping.com',
+        ],
+        6 => [
+            'id'          => 'sale_wls',
+            'title'       => 'Youstore Sale system',
+            'url'         => 'http://www.weloveshopping.com/sale',
+            'description' => 'http://www.weloveshopping.com/sale',
+        ],
+        7 => [
+            'id'          => 'best_wls',
+            'title'       => 'Yostore Admin system',
+            'url'         => 'http://www.weloveshopping.com/best_admin_1',
+            'description' => 'http://www.weloveshopping.com/best_admin_1',
+        ],
+        8 => [
+            'id'          => 'seller_wls',
+            'title'       => 'Seller Westore front',
+            'url'         => 'https://store.weloveshopping.com/siamit',
+            'description' => 'https://store.weloveshopping.com/siamit',
+        ],
+        9 => [
+            'id'          => 'alpha_project',
+            'title'       => 'Alpha Inter Placement',
+            'url'         => 'http://alpha.igetproject.com',
+            'description' => 'http://alpha.igetproject.com',
+        ],
+        10 => [
+            'id'          => 'staq01',
+            'title'       => 'Digital Library 2ebook',
+            'url'         => 'http://store.2ebook.com',
+            'description' => 'http://store.2ebook.com',
+        ],
+        11 => [
+            'id'          => 'staq02',
+            'title'       => 'CU Gateway',
+            'url'         => 'http://staq.co.th/cugateway',
+            'description' => 'http://staq.co.th/cugateway',
+        ],
+        12 => [
+            'id'          => 'staq03',
+            'title'       => 'Maruey eLibrary',
+            'url'         => 'http://maruey.2ebook.com',
+            'description' => 'http://maruey.2ebook.com',
+        ],
+        13 => [
+            'id'          => 'staq04',
+            'title'       => 'Textbook Publisher Management Information System',
+            'url'         => 'http://pbms.2ebook.com',
+            'description' => 'http://pbms.2ebook.com',
+        ],
+        14 => [
+            'id'          => 'staq05',
+            'title'       => 'eDoc DRM Management',
+            'url'         => 'http://drm.2ebook.com',
+            'description' => 'http://drm.2ebook.com',
+        ],
+        15 => [
+            'id'          => 'staq06',
+            'title'       => 'Publisher Management Software Design 1',
+            'url'         => 'https://pbms.2ebook.com',
+            'description' => 'https://pbms.2ebook.com',
+        ],
+        16 => [
+            'id'          => 'staq07',
+            'title'       => 'Publisher Management Software Design 2',
+            'url'         => 'https://pbms.2ebook.com',
+            'description' => 'https://pbms.2ebook.com',
+        ]
+    ];
+?>      
+
+    @include('pages.home.portfolio_box')
