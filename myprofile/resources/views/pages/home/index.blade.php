@@ -22,7 +22,6 @@
 
         <!-- /header -->
         @include('pages.home.contactme')
-
 @endsection
 
 @push('styles')

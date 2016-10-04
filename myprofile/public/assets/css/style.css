@@ -1839,7 +1839,7 @@ span.border.two:after {
 		font-size: 1.5em;
 	}
 	.modal-dialog.about {
-		width: 354px;
+		width: 90%;
 		margin: 2em auto 0;
 	}
 }
