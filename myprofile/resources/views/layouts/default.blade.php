@@ -7,7 +7,7 @@
 <!DOCTYPE HTML>
 <html>
     <head>
-        <title>Preface a Personal Category Flat Bootstrap Responsive Website Template| Home :: w3layouts</title>
+        <title>inewGen.com</title>
         <link href="{{ env('APP_URL') }}/public/assets/css/bootstrap.css" rel='stylesheet' type='text/css' />
         <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
         <script src="{{ env('APP_URL') }}/public/assets/js/jquery.min.js"></script>
@@ -22,7 +22,7 @@
         <link href='//fonts.googleapis.com/css?family=Asap:400,700,400italic' rel='stylesheet' type='text/css'>
         <link href='//fonts.googleapis.com/css?family=Open+Sans:400,300,600' rel='stylesheet' type='text/css'>
         <!-- webfonts -->
-        <!---- start-smoth-scrolling---->
+        <!-- start-smoth-scrolling -->
         <script type="text/javascript" src="{{ env('APP_URL') }}/public/assets/js/move-top.js"></script>
         <script type="text/javascript" src="{{ env('APP_URL') }}/public/assets/js/easing.js"></script>
         <script type="text/javascript">
@@ -33,7 +33,7 @@
                 });
             });
         </script>
-        <!---- start-smoth-scrolling---->
+        <!-- start-smoth-scrolling -->
     </head>
     <body>
 
