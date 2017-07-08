@@ -16,19 +16,35 @@ Currently I will not consider adding OAuth endpoints. (those required "authorize
 * CURL extension in PHP
 
 ## Install
-Edit your `composer.json` and add this to the `require` section
-```json
-"madcoda/php-youtube-api": "1.*"
-```
-then run the following command in your command line shell
+Run the following command in your command line shell in your php project
 ```sh
-$ composer update
+$ composer require madcoda/php-youtube-api:^1.2
+```
+Done.
+
+You may also edit composer.json manually then perform ```composer update```
+```
+"require": {
+    "madcoda/php-youtube-api": "^1.2"
+}
 ```
 
 ## Getting started
 Please read the wiki on how to use this library with [PHP with composer](https://github.com/madcoda/php-youtube-api/wiki/started-with-php-composer), [Laravel 4](https://github.com/madcoda/php-youtube-api/wiki/started-with-laravel-4) and [Laravel 5](https://github.com/madcoda/php-youtube-api/wiki/started-with-laravel-5).
 
 For the functions implemented in this library, please visit [API Reference](https://github.com/madcoda/php-youtube-api/wiki/api-reference)
+
+### Example usage with pure PHP (with composer)
+```php
+require 'vendor/autoload.php';
+$youtube = new Madcoda\Youtube\Youtube(array('key' => '* Your API key here *'));
+$video = $youtube->getVideoInfo('rie-hPVJ7Sw');
+```
+
+### Example usage with Laravel 4/5
+```php
+$video = Youtube::getVideoInfo(Input::get('vid', 'dQw4w9WgXcQ');
+```
 
 
 ## Format of returned data
