@@ -42,8 +42,8 @@
             <div class="col-md-6 about-right">
             </div>
             <div class="clearfix"> </div>
-            <link href="{{ env('APP_URL') }}/assets/css/owl.carousel.css" rel="stylesheet">
-            <script src="{{ env('APP_URL') }}/assets/js/owl.carousel.js"></script>
+            <link href="{{ env('APP_URL') }}/public/assets/css/owl.carousel.css" rel="stylesheet">
+            <script src="{{ env('APP_URL') }}/public/assets/js/owl.carousel.js"></script>
             <script>
                 $(document).ready(function() {
                     $("#owl-demo1").owlCarousel({
