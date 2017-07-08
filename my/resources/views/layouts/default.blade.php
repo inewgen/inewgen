@@ -8,11 +8,11 @@
 <html>
     <head>
         <title>inewGen.com</title>
-        <link href="{{ env('APP_URL') }}/assets/css/bootstrap.css" rel='stylesheet' type='text/css' />
+        <link href="{{ env('APP_URL') }}/public/assets/css/bootstrap.css" rel='stylesheet' type='text/css' />
         <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
-        <script src="{{ env('APP_URL') }}/assets/js/jquery.min.js"></script>
+        <script src="{{ env('APP_URL') }}/public/assets/js/jquery.min.js"></script>
         <!-- Custom Theme files -->
-        <link href="{{ env('APP_URL') }}/assets/css/style.css" rel='stylesheet' type='text/css' />
+        <link href="{{ env('APP_URL') }}/public/assets/css/style.css" rel='stylesheet' type='text/css' />
         <!-- Custom Theme files -->
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
@@ -23,8 +23,8 @@
         <link href='//fonts.googleapis.com/css?family=Open+Sans:400,300,600' rel='stylesheet' type='text/css'>
         <!-- webfonts -->
         <!-- start-smoth-scrolling -->
-        <script type="text/javascript" src="{{ env('APP_URL') }}/assets/js/move-top.js"></script>
-        <script type="text/javascript" src="{{ env('APP_URL') }}/assets/js/easing.js"></script>
+        <script type="text/javascript" src="{{ env('APP_URL') }}/public/assets/js/move-top.js"></script>
+        <script type="text/javascript" src="{{ env('APP_URL') }}/public/assets/js/easing.js"></script>
         <script type="text/javascript">
             jQuery(document).ready(function($) {
                 $(".scroll").click(function(event){     
@@ -58,6 +58,6 @@
         </script>
         <!--end-smooth-scrolling-->
         <!-- //for bootstrap working -->
-        <script src="{{ env('APP_URL') }}/assets/js/bootstrap.js"></script>
+        <script src="{{ env('APP_URL') }}/public/assets/js/bootstrap.js"></script>
     </body>
 </html>
