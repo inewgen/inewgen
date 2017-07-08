@@ -19,7 +19,7 @@
                             <div class="timeline-panel">
                                 <div class="timeline-heading">
                                     <h4 class="timeline-title">
-                                    <img src="{{ env('APP_URL') }}/public/assets/images/true_logo.png" alt=""><br>
+                                    <img src="{{ env('APP_URL') }}/assets/images/true_logo.png" alt=""><br>
                                     True Corporation Public Company Limited</h4>
                                 </div>
                                 <div class="timeline-body">
@@ -39,7 +39,7 @@
                             <div class="timeline-panel">
                                 <div class="timeline-heading">
                                     <h4 class="timeline-title">
-                                    <img src="{{ env('APP_URL') }}/public/assets/images/staq_logo.png" alt=""><br><br>
+                                    <img src="{{ env('APP_URL') }}/assets/images/staq_logo.png" alt=""><br><br>
                                     STAQ Technologies Company Limited</h4>
                                 </div>
                                 <div class="timeline-body">

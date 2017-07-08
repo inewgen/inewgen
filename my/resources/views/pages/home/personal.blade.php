@@ -62,7 +62,7 @@
                             </ul>
                         </div>
                         <div class="col-md-5 header-left">
-                            <img src="{{ env('APP_URL') }}/public/assets/images/img3.jpg" alt="">
+                            <img src="{{ env('APP_URL') }}/assets/images/img3.jpg" alt="">
                         </div>
                         <div class="clearfix"> </div>
                     </div>

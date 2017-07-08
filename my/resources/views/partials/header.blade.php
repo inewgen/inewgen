@@ -4,7 +4,7 @@
                                 <h1><a href="{{ env('APP_URL') }}"><span>S</span>URACHES</a></h1>
                             </div>
                             <div class="navigation-right">
-                                <span class="menu"><img src="{{ env('APP_URL') }}/public/assets/images/menu.png" alt=" " /></span>
+                                <span class="menu"><img src="{{ env('APP_URL') }}/assets/images/menu.png" alt=" " /></span>
                                 <nav class="link-effect-3" id="link-effect-3">
                                     <ul class="nav1 nav nav-wil">
                                         <li class="active"><a data-hover="Home" href="{{ env('APP_URL') }}">Home</a></li>
