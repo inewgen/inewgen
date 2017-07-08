@@ -1,28 +1,67 @@
 <?php
-/*
- * This file is part of PHPUnit.
+/**
+ * PHPUnit
  *
- * (c) Sebastian Bergmann <sebastian@phpunit.de>
+ * Copyright (c) 2001-2014, Sebastian Bergmann <sebastian@phpunit.de>.
+ * All rights reserved.
  *
- * For the full copyright and license information, please view the LICENSE
- * file that was distributed with this source code.
+ * Redistribution and use in source and binary forms, with or without
+ * modification, are permitted provided that the following conditions
+ * are met:
+ *
+ *   * Redistributions of source code must retain the above copyright
+ *     notice, this list of conditions and the following disclaimer.
+ *
+ *   * Redistributions in binary form must reproduce the above copyright
+ *     notice, this list of conditions and the following disclaimer in
+ *     the documentation and/or other materials provided with the
+ *     distribution.
+ *
+ *   * Neither the name of Sebastian Bergmann nor the names of his
+ *     contributors may be used to endorse or promote products derived
+ *     from this software without specific prior written permission.
+ *
+ * THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
+ * "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
+ * LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS
+ * FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE
+ * COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT,
+ * INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING,
+ * BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES;
+ * LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER
+ * CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT
+ * LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN
+ * ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
+ * POSSIBILITY OF SUCH DAMAGE.
+ *
+ * @package    PHPUnit
+ * @author     Sebastian Bergmann <sebastian@phpunit.de>
+ * @copyright  2001-2014 Sebastian Bergmann <sebastian@phpunit.de>
+ * @license    http://www.opensource.org/licenses/BSD-3-Clause  The BSD 3-Clause License
+ * @link       http://www.phpunit.de/
+ * @since      File available since Release 2.0.0
  */
 
 require_once dirname(__DIR__) . DIRECTORY_SEPARATOR . '_files' . DIRECTORY_SEPARATOR . 'BeforeAndAfterTest.php';
 require_once dirname(__DIR__) . DIRECTORY_SEPARATOR . '_files' . DIRECTORY_SEPARATOR . 'BeforeClassAndAfterClassTest.php';
-require_once dirname(__DIR__) . DIRECTORY_SEPARATOR . '_files' . DIRECTORY_SEPARATOR . 'TestWithTest.php';
-require_once dirname(__DIR__) . DIRECTORY_SEPARATOR . '_files' . DIRECTORY_SEPARATOR . 'BeforeClassWithOnlyDataProviderTest.php';
-require_once dirname(__DIR__) . DIRECTORY_SEPARATOR . '_files' . DIRECTORY_SEPARATOR . 'DataProviderSkippedTest.php';
-require_once dirname(__DIR__) . DIRECTORY_SEPARATOR . '_files' . DIRECTORY_SEPARATOR . 'DataProviderDependencyTest.php';
-require_once dirname(__DIR__) . DIRECTORY_SEPARATOR . '_files' . DIRECTORY_SEPARATOR . 'DataProviderIncompleteTest.php';
 require_once dirname(__DIR__) . DIRECTORY_SEPARATOR . '_files' . DIRECTORY_SEPARATOR . 'InheritedTestCase.php';
 require_once dirname(__DIR__) . DIRECTORY_SEPARATOR . '_files' . DIRECTORY_SEPARATOR . 'NoTestCaseClass.php';
 require_once dirname(__DIR__) . DIRECTORY_SEPARATOR . '_files' . DIRECTORY_SEPARATOR . 'NoTestCases.php';
 require_once dirname(__DIR__) . DIRECTORY_SEPARATOR . '_files' . DIRECTORY_SEPARATOR . 'NotPublicTestCase.php';
 require_once dirname(__DIR__) . DIRECTORY_SEPARATOR . '_files' . DIRECTORY_SEPARATOR . 'NotVoidTestCase.php';
 require_once dirname(__DIR__) . DIRECTORY_SEPARATOR . '_files' . DIRECTORY_SEPARATOR . 'OverrideTestCase.php';
-require_once dirname(__DIR__) . DIRECTORY_SEPARATOR . '_files' . DIRECTORY_SEPARATOR . 'RequirementsClassBeforeClassHookTest.php';
 
+/**
+ *
+ *
+ * @package    PHPUnit
+ * @author     Sebastian Bergmann <sebastian@phpunit.de>
+ * @copyright  2001-2014 Sebastian Bergmann <sebastian@phpunit.de>
+ * @license    http://www.opensource.org/licenses/BSD-3-Clause  The BSD 3-Clause License
+ * @link       http://www.phpunit.de/
+ * @since      Class available since Release 2.0.0
+ * @covers     PHPUnit_Framework_TestSuite
+ */
 class Framework_SuiteTest extends PHPUnit_Framework_TestCase
 {
     protected $result;
@@ -36,24 +75,18 @@ class Framework_SuiteTest extends PHPUnit_Framework_TestCase
     {
         $suite = new PHPUnit_Framework_TestSuite;
 
-        $suite->addTest(new self('testAddTestSuite'));
-        $suite->addTest(new self('testInheritedTests'));
-        $suite->addTest(new self('testNoTestCases'));
-        $suite->addTest(new self('testNoTestCaseClass'));
-        $suite->addTest(new self('testNotExistingTestCase'));
-        $suite->addTest(new self('testNotPublicTestCase'));
-        $suite->addTest(new self('testNotVoidTestCase'));
-        $suite->addTest(new self('testOneTestCase'));
-        $suite->addTest(new self('testShadowedTests'));
-        $suite->addTest(new self('testBeforeClassAndAfterClassAnnotations'));
-        $suite->addTest(new self('testBeforeClassWithDataProviders'));
-        $suite->addTest(new self('testBeforeAnnotation'));
-        $suite->addTest(new self('testTestWithAnnotation'));
-        $suite->addTest(new self('testSkippedTestDataProvider'));
-        $suite->addTest(new self('testTestDataProviderDependency'));
-        $suite->addTest(new self('testIncompleteTestDataProvider'));
-        $suite->addTest(new self('testRequirementsBeforeClassHook'));
-        $suite->addTest(new self('testDontSkipInheritedClass'));
+        $suite->addTest(new Framework_SuiteTest('testAddTestSuite'));
+        $suite->addTest(new Framework_SuiteTest('testInheritedTests'));
+        $suite->addTest(new Framework_SuiteTest('testNoTestCases'));
+        $suite->addTest(new Framework_SuiteTest('testNoTestCaseClass'));
+        $suite->addTest(new Framework_SuiteTest('testNotExistingTestCase'));
+        $suite->addTest(new Framework_SuiteTest('testNotPublicTestCase'));
+        $suite->addTest(new Framework_SuiteTest('testNotVoidTestCase'));
+        $suite->addTest(new Framework_SuiteTest('testOneTestCase'));
+        $suite->addTest(new Framework_SuiteTest('testShadowedTests'));
+        $suite->addTest(new Framework_SuiteTest('testBeforeClassAndAfterClassAnnotations'));
+        $suite->addTest(new Framework_SuiteTest('testBeforeAnnotation'));
+        $suite->addTest(new Framework_SuiteTest('testDontSkipInheritedClass'));
 
         return $suite;
     }
@@ -66,7 +99,7 @@ class Framework_SuiteTest extends PHPUnit_Framework_TestCase
 
         $suite->run($this->result);
 
-        $this->assertCount(1, $this->result);
+        $this->assertEquals(1, count($this->result));
     }
 
     public function testInheritedTests()
@@ -78,7 +111,7 @@ class Framework_SuiteTest extends PHPUnit_Framework_TestCase
         $suite->run($this->result);
 
         $this->assertTrue($this->result->wasSuccessful());
-        $this->assertCount(2, $this->result);
+        $this->assertEquals(2, count($this->result));
     }
 
     public function testNoTestCases()
@@ -90,9 +123,8 @@ class Framework_SuiteTest extends PHPUnit_Framework_TestCase
         $suite->run($this->result);
 
         $this->assertTrue(!$this->result->wasSuccessful());
-        $this->assertEquals(0, $this->result->failureCount());
-        $this->assertEquals(1, $this->result->warningCount());
-        $this->assertCount(1, $this->result);
+        $this->assertEquals(1, $this->result->failureCount());
+        $this->assertEquals(1, count($this->result));
     }
 
     /**
@@ -105,13 +137,13 @@ class Framework_SuiteTest extends PHPUnit_Framework_TestCase
 
     public function testNotExistingTestCase()
     {
-        $suite = new self('notExistingMethod');
+        $suite = new Framework_SuiteTest('notExistingMethod');
 
         $suite->run($this->result);
 
         $this->assertEquals(0, $this->result->errorCount());
         $this->assertEquals(1, $this->result->failureCount());
-        $this->assertCount(1, $this->result);
+        $this->assertEquals(1, count($this->result));
     }
 
     public function testNotPublicTestCase()
@@ -120,7 +152,7 @@ class Framework_SuiteTest extends PHPUnit_Framework_TestCase
             'NotPublicTestCase'
         );
 
-        $this->assertCount(2, $suite);
+        $this->assertEquals(2, count($suite));
     }
 
     public function testNotVoidTestCase()
@@ -129,7 +161,7 @@ class Framework_SuiteTest extends PHPUnit_Framework_TestCase
             'NotVoidTestCase'
         );
 
-        $this->assertCount(1, $suite);
+        $this->assertEquals(1, count($suite));
     }
 
     public function testOneTestCase()
@@ -142,7 +174,7 @@ class Framework_SuiteTest extends PHPUnit_Framework_TestCase
 
         $this->assertEquals(0, $this->result->errorCount());
         $this->assertEquals(0, $this->result->failureCount());
-        $this->assertCount(1, $this->result);
+        $this->assertEquals(1, count($this->result));
         $this->assertTrue($this->result->wasSuccessful());
     }
 
@@ -154,7 +186,7 @@ class Framework_SuiteTest extends PHPUnit_Framework_TestCase
 
         $suite->run($this->result);
 
-        $this->assertCount(1, $this->result);
+        $this->assertEquals(1, count($this->result));
     }
 
     public function testBeforeClassAndAfterClassAnnotations()
@@ -166,21 +198,8 @@ class Framework_SuiteTest extends PHPUnit_Framework_TestCase
         BeforeClassAndAfterClassTest::resetProperties();
         $suite->run($this->result);
 
-        $this->assertEquals(1, BeforeClassAndAfterClassTest::$beforeClassWasRun, '@beforeClass method was not run once for the whole suite.');
-        $this->assertEquals(1, BeforeClassAndAfterClassTest::$afterClassWasRun, '@afterClass method was not run once for the whole suite.');
-    }
-
-    public function testBeforeClassWithDataProviders()
-    {
-        $suite = new PHPUnit_Framework_TestSuite(
-            'BeforeClassWithOnlyDataProviderTest'
-        );
-
-        BeforeClassWithOnlyDataProviderTest::resetProperties();
-        $suite->run($this->result);
-
-        $this->assertTrue(BeforeClassWithOnlyDataProviderTest::$setUpBeforeClassWasCalled, 'setUpBeforeClass method was not run.');
-        $this->assertTrue(BeforeClassWithOnlyDataProviderTest::$beforeClassWasCalled, '@beforeClass method was not run.');
+        $this->assertEquals(1, BeforeClassAndAfterClassTest::$beforeClassWasRun, "@beforeClass method was not run once for the whole suite.");
+        $this->assertEquals(1, BeforeClassAndAfterClassTest::$afterClassWasRun, "@afterClass method was not run once for the whole suite.");
     }
 
     public function testBeforeAnnotation()
@@ -196,63 +215,6 @@ class Framework_SuiteTest extends PHPUnit_Framework_TestCase
         $this->assertEquals(2, BeforeAndAfterTest::$afterWasRun);
     }
 
-    public function testTestWithAnnotation()
-    {
-        $test = new PHPUnit_Framework_TestSuite(
-            'TestWithTest'
-        );
-
-        BeforeAndAfterTest::resetProperties();
-        $result = $test->run();
-
-        $this->assertCount(4, $result->passed());
-    }
-
-    public function testSkippedTestDataProvider()
-    {
-        $suite = new PHPUnit_Framework_TestSuite('DataProviderSkippedTest');
-
-        $suite->run($this->result);
-
-        $this->assertEquals(3, $this->result->count());
-        $this->assertEquals(1, $this->result->skippedCount());
-    }
-
-    public function testTestDataProviderDependency()
-    {
-        $suite = new PHPUnit_Framework_TestSuite('DataProviderDependencyTest');
-
-        $suite->run($this->result);
-
-        $skipped           = $this->result->skipped();
-        $lastSkippedResult = array_pop($skipped);
-        $message           = $lastSkippedResult->thrownException()->getMessage();
-
-        $this->assertContains('Test for DataProviderDependencyTest::testDependency skipped by data provider', $message);
-    }
-
-    public function testIncompleteTestDataProvider()
-    {
-        $suite = new PHPUnit_Framework_TestSuite('DataProviderIncompleteTest');
-
-        $suite->run($this->result);
-
-        $this->assertEquals(3, $this->result->count());
-        $this->assertEquals(1, $this->result->notImplementedCount());
-    }
-
-    public function testRequirementsBeforeClassHook()
-    {
-        $suite = new PHPUnit_Framework_TestSuite(
-            'RequirementsClassBeforeClassHookTest'
-        );
-
-        $suite->run($this->result);
-
-        $this->assertEquals(0, $this->result->errorCount());
-        $this->assertEquals(1, $this->result->skippedCount());
-    }
-
     public function testDontSkipInheritedClass()
     {
         $suite = new PHPUnit_Framework_TestSuite(
@@ -261,9 +223,10 @@ class Framework_SuiteTest extends PHPUnit_Framework_TestCase
 
         $dir = dirname(__DIR__) . DIRECTORY_SEPARATOR . '_files' . DIRECTORY_SEPARATOR . 'Inheritance' . DIRECTORY_SEPARATOR;
 
-        $suite->addTestFile($dir . 'InheritanceA.php');
-        $suite->addTestFile($dir . 'InheritanceB.php');
+        $suite->addTestFile($dir.'InheritanceA.php');
+        $suite->addTestFile($dir.'InheritanceB.php');
         $result = $suite->run();
-        $this->assertCount(2, $result);
+        $this->assertEquals(2, count($result));
+
     }
 }
