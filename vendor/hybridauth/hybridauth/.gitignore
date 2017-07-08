@@ -1,4 +1,8 @@
-/.idea
-/hybridauth/config.php
-/examples/signin_signup/application.config.php
-/nbproject/
+.*
+*.xml
+*.log
+*.json
+*.lock
+/vendor
+
+/examples

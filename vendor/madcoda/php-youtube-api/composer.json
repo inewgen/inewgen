@@ -15,14 +15,16 @@
             "issues":"https://github.com/madcoda/php-youtube-api/issues"
     },
     "require": {
-        "php" : ">5.3"
+        "php" : ">=5.3",
+        "ext-curl": "*"
     },
     "require-dev":{
-        "phpunit/phpunit": "3.7.*@stable"
+        "phpunit/phpunit": "^4.5 || ^5.0.5"
     },
     "autoload": {
-        "psr-0": {
-            "Madcoda": "src/"
-        }
+        "psr-4": {
+            "Madcoda\\Youtube\\": "src"
+        },
+        "classmap": ["src/compat.php"]
     }
 }
