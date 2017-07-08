@@ -14,7 +14,7 @@
                 <div class="news-grid w3l-agile">
                     <div class="col-md-6 news-img">
                         <a href="#" data-toggle="modal" data-target="#modal_{{ array_get($pbox, 'id', '') }}">
-                            <img src="{{ env('APP_URL') }}/public/assets/images/work/{{ array_get($pbox, 'id', '') }}.png" alt=" " class="img-responsive">
+                            <img src="{{ env('APP_URL') }}/assets/images/work/{{ array_get($pbox, 'id', '') }}.png" alt=" " class="img-responsive">
                         </a>
                     </div>
                     <div class="col-md-6 news-text">
@@ -49,7 +49,7 @@
                     </div>
                     <div class="col-md-6 news-img two">
                         <a href="#" data-toggle="modal" data-target="#modal_{{ array_get($pbox, 'id', '') }}">
-                            <img src="{{ env('APP_URL') }}/public/assets/images/work/{{ array_get($pbox, 'id', '') }}.png" alt=" " class="img-responsive">
+                            <img src="{{ env('APP_URL') }}/assets/images/work/{{ array_get($pbox, 'id', '') }}.png" alt=" " class="img-responsive">
                         </a>
                     </div>
                     <div class="clearfix"></div>
@@ -72,7 +72,7 @@
                     <div class="modal-body about">
                         <div class="about">
                             <div class="about-inner">
-                                <img style="width: 100%;" src="{{ env('APP_URL') }}/public/assets/images/work/{{ array_get($pbox, 'id', '') }}.png" alt="about"/>
+                                <img style="width: 100%;" src="{{ env('APP_URL') }}/assets/images/work/{{ array_get($pbox, 'id', '') }}.png" alt="about"/>
                                 <h4 class="tittle">{{ array_get($pbox, 'title', '') }}</h4>
                                 <p>
                                     <a target="_blank" href="{{ array_get($pbox, 'url', '') }}">
