@@ -43,7 +43,7 @@ class PagesController extends BaseController
             $parameters['s'] = $s;
         }
 
-        $client = new Client(Config::get('url.siamits-api'));
+        $client = new Client(Config::get('url.inewgen-api'));
         $results = $client->get('pages', $parameters);
         $results = json_decode($results, true);
 
@@ -163,7 +163,7 @@ class PagesController extends BaseController
             'type'    => '3' //1=banners,2=news,3=pages
         );
 
-        $client = new Client(Config::get('url.siamits-api'));
+        $client = new Client(Config::get('url.inewgen-api'));
         $results = $client->get('categories', $parameters);
         $results = json_decode($results, true);
 
@@ -261,7 +261,7 @@ class PagesController extends BaseController
             'category_id'     => (isset($data['category_id']) ? $data['category_id'] : '0'),
         );
 
-        $client = new Client(Config::get('url.siamits-api'));
+        $client = new Client(Config::get('url.inewgen-api'));
         $results = $client->post('pages', $parameters);
         $results = json_decode($results, true);
 
@@ -292,7 +292,7 @@ class PagesController extends BaseController
             return $render;
         }
 
-        $client = new Client(Config::get('url.siamits-api'));
+        $client = new Client(Config::get('url.inewgen-api'));
         $theme = Theme::uses('default')->layout('adminlte2');
         $theme->setTitle('Admin SiamiTs :: Edit Pages');
         $theme->setDescription('Edit Pages description');
@@ -417,7 +417,7 @@ class PagesController extends BaseController
     public function postEdit()
     {
         $data = Input::all();
-        $client = new Client(Config::get('url.siamits-api'));
+        $client = new Client(Config::get('url.inewgen-api'));
 
         $rules = array(
             'action' => 'required',
@@ -530,7 +530,7 @@ class PagesController extends BaseController
             // isset($data['share']) ? $parameters['share'] = $data['share']: '';
             $id = array_get($data, 'id', 0);
 
-            $client = new Client(Config::get('url.siamits-api'));
+            $client = new Client(Config::get('url.inewgen-api'));
             $results = $client->put('pages/'.$id, $parameters);
             $results = json_decode($results, true);
 

@@ -25,7 +25,7 @@ class NewsRepository implements NewsRepositoryInterface
             $parameters['nocache'] = $_GET['nocache'];
         }
 
-        $client   = new Client(Config::get('url.siamits-api'));
+        $client   = new Client(Config::get('url.inewgen-api'));
         $results  = $client->get('news', $parameters);
         $response = json_decode($results, true);
 

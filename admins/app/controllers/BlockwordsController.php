@@ -42,7 +42,7 @@ class BlockwordsController extends BaseController
             $parameters['s'] = $s;
         }
 
-        $client = new Client(Config::get('url.siamits-api'));
+        $client = new Client(Config::get('url.inewgen-api'));
         $results = $client->get('blockwords', $parameters);
         $results = json_decode($results, true);
 
@@ -128,7 +128,7 @@ class BlockwordsController extends BaseController
 			$parameters[$key] = array_get($data, $key, $val);
 		}
 
-        $client = new Client(Config::get('url.siamits-api'));
+        $client = new Client(Config::get('url.inewgen-api'));
         $results = $client->post('blockwords', $parameters);
         $results = json_decode($results, true);
 
@@ -152,7 +152,7 @@ class BlockwordsController extends BaseController
         $theme->setDescription('Edit Blockwords description');
         $theme->share('user', $this->user);
 
-        $client = new Client(Config::get('url.siamits-api'));
+        $client = new Client(Config::get('url.inewgen-api'));
         $results = $client->get('blockwords/'.$id);
         $results = json_decode($results, true);
 
@@ -213,7 +213,7 @@ class BlockwordsController extends BaseController
                 'id'        => $id
             );
 
-            $client = new Client(Config::get('url.siamits-api'));
+            $client = new Client(Config::get('url.inewgen-api'));
             $results = $client->delete('blockwords/'.$id, $parameters);
             $results = json_decode($results, true);
 
@@ -251,7 +251,7 @@ class BlockwordsController extends BaseController
                         'position'  => $i,
                     );
 
-                    $client = new Client(Config::get('url.siamits-api'));
+                    $client = new Client(Config::get('url.inewgen-api'));
                     $results = $client->put('blockwords/'.$id, $parameters2);
                     $results = json_decode($results, true);
 
@@ -303,7 +303,7 @@ class BlockwordsController extends BaseController
 
             $parameters['status'] = $data['status'];
 
-            $client = new Client(Config::get('url.siamits-api'));
+            $client = new Client(Config::get('url.inewgen-api'));
             $results = $client->put('blockwords/'.$id, $parameters);
             $results = json_decode($results, true);
 

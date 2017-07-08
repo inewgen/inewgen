@@ -9,7 +9,7 @@ class BannersRepository implements BannersRepositoryInterface
             return false;
         }
 
-        $client   = new Client(Config::get('url.siamits-api'));
+        $client   = new Client(Config::get('url.inewgen-api'));
         $results = $client->get('banners', $parameters);
 
         // error request

@@ -50,7 +50,7 @@ class NewsController extends BaseController
             $parameters['s'] = $s;
         }
 
-        $client = new Client(Config::get('url.siamits-api'));
+        $client = new Client(Config::get('url.inewgen-api'));
         $results = $client->get('news', $parameters);
         $results = json_decode($results, true);
         // $results = $this->newsRepository->get($parameters);
@@ -171,7 +171,7 @@ class NewsController extends BaseController
             'type' => '2', //1=banners,2=news
         );
 
-        $client = new Client(Config::get('url.siamits-api'));
+        $client = new Client(Config::get('url.inewgen-api'));
         $results = $client->get('categories', $parameters);
         $results = json_decode($results, true);
 
@@ -269,7 +269,7 @@ class NewsController extends BaseController
             'category_id' => (isset($data['category_id']) ? $data['category_id'] : '0'),
         );
 
-        $client = new Client(Config::get('url.siamits-api'));
+        $client = new Client(Config::get('url.inewgen-api'));
         $results = $client->post('news', $parameters);
         $results = json_decode($results, true);
 
@@ -300,7 +300,7 @@ class NewsController extends BaseController
             return $render;
         }
 
-        $client = new Client(Config::get('url.siamits-api'));
+        $client = new Client(Config::get('url.inewgen-api'));
         $theme = Theme::uses('default')->layout('adminlte2');
         $theme->setTitle('Admin SiamiTs :: Edit News');
         $theme->setDescription('Edit News description');
@@ -425,7 +425,7 @@ class NewsController extends BaseController
     public function postEdit()
     {
         $data = Input::all();
-        $client = new Client(Config::get('url.siamits-api'));
+        $client = new Client(Config::get('url.inewgen-api'));
 
         $rules = array(
             'action' => 'required',
@@ -538,7 +538,7 @@ class NewsController extends BaseController
             // isset($data['share']) ? $parameters['share'] = $data['share']: '';
             $id = array_get($data, 'id', 0);
 
-            $client = new Client(Config::get('url.siamits-api'));
+            $client = new Client(Config::get('url.inewgen-api'));
             $results = $client->put('news/' . $id, $parameters);
             $results = json_decode($results, true);
 

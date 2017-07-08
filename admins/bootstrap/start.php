@@ -25,10 +25,10 @@ $app = new Illuminate\Foundation\Application;
 */
 
 $envMapping = [
-    'apis.siamits.dev'   => 'local',
-    'admins.siamits.dev' => 'local',
-    'www.siamits.dev'    => 'local',
-    'res.siamits.dev'    => 'local',
+    'apis.inewgen.dev'   => 'local',
+    'admins.inewgen.dev' => 'local',
+    'www.inewgen.dev'    => 'local',
+    'res.inewgen.dev'    => 'local',
 ];
 
 $env = $app->detectEnvironment(function () use ($envMapping) {

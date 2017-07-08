@@ -25,7 +25,7 @@ class LayoutsRepository implements LayoutsRepositoryInterface
             $parameters['nocache'] = $_GET['nocache'];
         }
 
-        $client   = new Client(Config::get('url.siamits-api'));
+        $client   = new Client(Config::get('url.inewgen-api'));
         $results  = $client->get('layouts', $parameters);
         $response = json_decode($results, true);
 

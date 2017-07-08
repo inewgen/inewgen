@@ -22,7 +22,7 @@ Theme::asset()->container('footer')->add('zclip', 'public/themes/adminlte2/plugi
             'formData'     : {
                 'user_id': '<?php echo $user->id;?>',
                 'timestamp': '<?php echo $timestamp;?>',
-                'token':     '<?php echo md5(Config::get("web.siamits-keys") . $timestamp);?>'
+                'token':     '<?php echo md5(Config::get("web.inewgen-keys") . $timestamp);?>'
             },
             'removeCompleted' : true,
             //'debug'    : true,

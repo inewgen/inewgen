@@ -87,7 +87,7 @@ class AuthController extends \BaseController
             'status' => '1',
         );
 
-        $client = new Client(Config::get('url.siamits-api'));
+        $client = new Client(Config::get('url.inewgen-api'));
         $results = $client->post('users', $parameters);
         $results = json_decode($results, true);
 
@@ -153,7 +153,7 @@ class AuthController extends \BaseController
         $access_token = $this->scode->pencode($access_token, '@SiamiTS!');
         $user = serialize($user);
         $keep = base64_encode($user);
-        $user_cookie = setcookie(Config::get('web.siamits-cookie_name'), $keep, $lifetime, null, null, null, true);
+        $user_cookie = setcookie(Config::get('web.inewgen-cookie_name'), $keep, $lifetime, null, null, null, true);
         $access_cookie = setcookie('access_token', $access_token, $lifetime, null, null, null, true);
         
         if (!$user_cookie || !$access_cookie) {
@@ -222,7 +222,7 @@ class AuthController extends \BaseController
             'status' => '1',
         );
 
-        $client = new Client(Config::get('url.siamits-api'));
+        $client = new Client(Config::get('url.inewgen-api'));
         $results = $client->post('users', $parameters);
         $results = json_decode($results, true);
 
@@ -288,7 +288,7 @@ class AuthController extends \BaseController
         $access_token = $this->scode->pencode($access_token, '@SiamiTS!');
         $user = serialize($user);
         $keep = base64_encode($user);
-        $user_cookie = setcookie(Config::get('web.siamits-cookie_name'), $keep, $lifetime, null, null, null, true);
+        $user_cookie = setcookie(Config::get('web.inewgen-cookie_name'), $keep, $lifetime, null, null, null, true);
         $access_cookie = setcookie('access_token', $access_token, $lifetime, null, null, null, true);
         
         if (!$user_cookie || !$access_cookie) {
@@ -306,7 +306,7 @@ class AuthController extends \BaseController
         $domain = null;
         $lifetime = time() - 3600;
         $keep  = '';
-        setcookie(Config::get('web.siamits-cookie_name'), $keep, $lifetime, '/', $domain);
+        setcookie(Config::get('web.inewgen-cookie_name'), $keep, $lifetime, '/', $domain);
         setcookie('access_token', $keep, $lifetime, '/', $domain);
 
         // clear session all

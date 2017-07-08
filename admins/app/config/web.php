@@ -1,6 +1,6 @@
 <?php
 
 return array(
-    'siamits-keys'   => '@SiamiTS!',
-    'siamits-cookie_name'   => 'sit',
+    'inewgen-keys'   => '@SiamiTS!',
+    'inewgen-cookie_name'   => 'sit',
 );

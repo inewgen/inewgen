@@ -6,7 +6,7 @@ class CacheController extends BaseController
     {
         $data = Input::all();
         $response = array();
-        $client = new Client(Config::get('url.siamits-api'));
+        $client = new Client(Config::get('url.inewgen-api'));
 
         // Validator request
         $rules = array(

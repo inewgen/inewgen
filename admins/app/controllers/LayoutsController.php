@@ -42,7 +42,7 @@ class LayoutsController extends BaseController
             $parameters['s'] = $s;
         }
 
-        $client = new Client(Config::get('url.siamits-api'));
+        $client = new Client(Config::get('url.inewgen-api'));
         $results = $client->get('layouts', $parameters);
         $results = json_decode($results, true);
 
@@ -131,7 +131,7 @@ class LayoutsController extends BaseController
             $parameters[$key] = array_get($data, $key, $val);
         }
 
-        $client = new Client(Config::get('url.siamits-api'));
+        $client = new Client(Config::get('url.inewgen-api'));
         $results = $client->post('layouts', $parameters);
         $results = json_decode($results, true);
 
@@ -155,7 +155,7 @@ class LayoutsController extends BaseController
         $theme->setDescription('Edit Layouts description');
         $theme->share('user', $this->user);
 
-        $client = new Client(Config::get('url.siamits-api'));
+        $client = new Client(Config::get('url.inewgen-api'));
         $results = $client->get('layouts/' . $id);
         $results = json_decode($results, true);
 
@@ -212,7 +212,7 @@ class LayoutsController extends BaseController
             $id = array_get($data, 'id', '');
 
             // Delete categories
-            $client = new Client(Config::get('url.siamits-api'));
+            $client = new Client(Config::get('url.inewgen-api'));
             $results = $client->delete('layouts/'.$id);
             $results = json_decode($results, true);
 
@@ -250,7 +250,7 @@ class LayoutsController extends BaseController
                         'position' => $i,
                     );
 
-                    $client = new Client(Config::get('url.siamits-api'));
+                    $client = new Client(Config::get('url.inewgen-api'));
                     $results = $client->put('layouts/' . $id, $parameters2);
                     $results = json_decode($results, true);
 
@@ -301,7 +301,7 @@ class LayoutsController extends BaseController
 
             $parameters['status'] = array_get($data, 'status', '0');
 
-            $client = new Client(Config::get('url.siamits-api'));
+            $client = new Client(Config::get('url.inewgen-api'));
             $results = $client->put('layouts/' . $id, $parameters);
             $results = json_decode($results, true);
 

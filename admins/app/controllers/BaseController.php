@@ -19,7 +19,7 @@ class BaseController extends Controller
         // Get user
         $this->user = array();
         if ($id = self::check()) {
-            $client = new Client(Config::get('url.siamits-api'));
+            $client = new Client(Config::get('url.inewgen-api'));
             $user = $client->get('users/' . $id);
             $user = json_decode($user);
 
@@ -46,9 +46,9 @@ class BaseController extends Controller
 
     protected function check()
     {
-        if (isset($_COOKIE[Config::get('web.siamits-cookie_name')]) && isset($_COOKIE['access_token'])) {
+        if (isset($_COOKIE[Config::get('web.inewgen-cookie_name')]) && isset($_COOKIE['access_token'])) {
             try {
-                $user = unserialize(base64_decode($_COOKIE[Config::get('web.siamits-cookie_name')]));
+                $user = unserialize(base64_decode($_COOKIE[Config::get('web.inewgen-cookie_name')]));
                 if (isset($user['id']) && is_numeric($user['id']) && $user['id'] > 0) {
                     //self::$user_id = $user['id'];
 

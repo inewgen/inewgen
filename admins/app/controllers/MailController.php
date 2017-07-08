@@ -13,7 +13,7 @@ class MailController extends BaseController
         $to   = 'suraches2010@gmail.com';
         $name = 'Suraches See';
         $detail = 'คุณได้ทำการสมัครสมาชิกกับเว็บไซต์ Siamits.com แล้วครับ คุณต้องทำการยืนยันการสมัครสมาชิกผ่านอีเมล คุณจึงจะสามารถใช้บริการจากทางเว็บไซต์ได้ครับ ยืนยันการสมัคร ';
-        $detail .= '<a href="http://admins.siamits.dev/register/verify?email=suraches2010@gmail.com&token=xxx" style="color:#0099cc" target="_blank">คลิกที่นี่</a>';
+        $detail .= '<a href="http://admins.inewgen.dev/register/verify?email=suraches2010@gmail.com&token=xxx" style="color:#0099cc" target="_blank">คลิกที่นี่</a>';
 
         $data = array(
             'detail' => $detail,

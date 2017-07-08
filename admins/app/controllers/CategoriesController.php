@@ -42,7 +42,7 @@ class CategoriesController extends BaseController
             $parameters['s'] = $s;
         }
 
-        $client = new Client(Config::get('url.siamits-api'));
+        $client = new Client(Config::get('url.inewgen-api'));
         $results = $client->get('categories', $parameters);
         $results = json_decode($results, true);
 
@@ -136,7 +136,7 @@ class CategoriesController extends BaseController
 			$parameters[$key] = array_get($data, $key, $val);
 		}
 
-        $client = new Client(Config::get('url.siamits-api'));
+        $client = new Client(Config::get('url.inewgen-api'));
         $results = $client->post('categories', $parameters);
         $results = json_decode($results, true);
 
@@ -160,7 +160,7 @@ class CategoriesController extends BaseController
         $theme->setDescription('Edit Category description');
         $theme->share('user', $this->user);
 
-        $client = new Client(Config::get('url.siamits-api'));
+        $client = new Client(Config::get('url.inewgen-api'));
         $results = $client->get('categories/'.$id);
         $results = json_decode($results, true);
 
@@ -234,7 +234,7 @@ class CategoriesController extends BaseController
                     'images_id' => $images_id,
                 );
 
-                $client = new Client(Config::get('url.siamits-api'));
+                $client = new Client(Config::get('url.inewgen-api'));
                 $results = $client->delete('categories/'.$id, $parameters);
                 $results = json_decode($results, true);
 
@@ -273,7 +273,7 @@ class CategoriesController extends BaseController
                         'position'  => $i,
                     );
 
-                    $client = new Client(Config::get('url.siamits-api'));
+                    $client = new Client(Config::get('url.inewgen-api'));
                     $results = $client->put('categories/'.$id, $parameters2);
                     $results = json_decode($results, true);
 
@@ -340,7 +340,7 @@ class CategoriesController extends BaseController
 			
 			$parameters['status'] = array_get($data, 'status', '0');
 
-            $client = new Client(Config::get('url.siamits-api'));
+            $client = new Client(Config::get('url.inewgen-api'));
             $results = $client->put('categories/'.$id, $parameters);
             $results = json_decode($results, true);
 

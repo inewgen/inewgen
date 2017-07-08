@@ -5,7 +5,7 @@ class TagsController extends BaseController
     public function checkTags()
     {
         $data = Input::all();
-        $client = new Client(Config::get('url.siamits-api'));
+        $client = new Client(Config::get('url.inewgen-api'));
 
         // Validator request
         $rules = array(
@@ -24,7 +24,7 @@ class TagsController extends BaseController
         $parameters = array(
             's' => urlencode($search),
         );
-        $client = new Client(Config::get('url.siamits-api'));
+        $client = new Client(Config::get('url.inewgen-api'));
         $results    = $client->get('tags', $parameters);
         $results    = json_decode($results, true);
 

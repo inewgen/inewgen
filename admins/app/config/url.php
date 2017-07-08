@@ -1,8 +1,8 @@
 <?php
 
 return array(
-    'siamits-web'   => 'http://www.siamits.com',
-    'siamits-admin' => 'http://admins.siamits.com',
-    'siamits-api'   => 'http://apis.siamits.com/api',
-    'siamits-res'   => 'http://res.siamits.com',
+    'inewgen-web'   => 'http://www.inewgen.com',
+    'inewgen-admin' => 'http://admins.inewgen.com',
+    'inewgen-api'   => 'http://apis.inewgen.com/api',
+    'inewgen-res'   => 'http://res.inewgen.com',
 );

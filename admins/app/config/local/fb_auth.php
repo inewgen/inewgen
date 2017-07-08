@@ -2,7 +2,7 @@
 
 // SiamiTs.dev
 return array(
-    "base_url" => "http://admins.siamits.dev/fbauth/auth",
+    "base_url" => "http://admins.inewgen.dev/fbauth/auth",
     "providers" => array(
         "Facebook" => array(
             "enabled" => true,

@@ -81,7 +81,7 @@ if (!function_exists('getImageLink')) {
             return false;
         }
 
-        $siamits_res = Config::get('url.siamits-res');
+        $siamits_res = Config::get('url.inewgen-res');
 
         if ($type == 'img') {
             return $siamits_res . '/img/' . $section . '/' . $code . '/' . $extension . '/' . $w . '/' . $h .'/'.$name;
@@ -99,7 +99,7 @@ if (!function_exists('getImageProfile')) {
             return false;
         }
 
-        $siamits_res = Config::get('url.siamits-res');
+        $siamits_res = Config::get('url.inewgen-res');
         $user_id = $user->id;
         $code = $user->images[0]->code;
         $extension = $user->images[0]->extension;
@@ -115,7 +115,7 @@ if (!function_exists('getLogo')) {
         if (empty($w) || empty($h)) {
             return false;
         }
-        $siamits_res = Config::get('url.siamits-res');
+        $siamits_res = Config::get('url.inewgen-res');
         $name = 'logo.jpg';
 
         return $siamits_res . '/img/default/siamits_logo/png/' . $w . '/' . $h.'/'.$name;

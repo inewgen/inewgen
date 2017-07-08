@@ -25,7 +25,7 @@ class QuotesRepository implements QuotesRepositoryInterface
             $parameters['nocache'] = $_GET['nocache'];
         }
 
-        $client   = new Client(Config::get('url.siamits-api'));
+        $client   = new Client(Config::get('url.inewgen-api'));
         $results  = $client->get('quotes', $parameters);
         $response = json_decode($results, true);
 

@@ -42,7 +42,7 @@ class CommentsController extends BaseController
             $parameters['s'] = $s;
         }
 
-        $client = new Client(Config::get('url.siamits-api'));
+        $client = new Client(Config::get('url.inewgen-api'));
         $results = $client->get('comments', $parameters);
         $results = json_decode($results, true);
 
@@ -130,7 +130,7 @@ class CommentsController extends BaseController
             !empty($data[$value]) ? $parameters[$value] = array_get($data, $value, ''):'';
         }
 
-        $client = new Client(Config::get('url.siamits-api'));
+        $client = new Client(Config::get('url.inewgen-api'));
         $results = $client->get('comments/blockwords', $parameters);
         $results = json_decode($results, true);
 
@@ -234,7 +234,7 @@ class CommentsController extends BaseController
 			$parameters[$key] = array_get($data, $key, $val);
 		}
 
-        $client = new Client(Config::get('url.siamits-api'));
+        $client = new Client(Config::get('url.inewgen-api'));
         $results = $client->post('comments', $parameters);
         $results = json_decode($results, true);
 
@@ -258,7 +258,7 @@ class CommentsController extends BaseController
         $theme->setDescription('Edit Comments description');
         $theme->share('user', $this->user);
 
-        $client = new Client(Config::get('url.siamits-api'));
+        $client = new Client(Config::get('url.inewgen-api'));
         $results = $client->get('comments/'.$id);
         $results = json_decode($results, true);
 
@@ -319,7 +319,7 @@ class CommentsController extends BaseController
                 'id'        => $id
             );
 
-            $client = new Client(Config::get('url.siamits-api'));
+            $client = new Client(Config::get('url.inewgen-api'));
             $results = $client->delete('comments/'.$id, $parameters);
             $results = json_decode($results, true);
 
@@ -352,7 +352,7 @@ class CommentsController extends BaseController
             $referer2 = str_replace('blockwords', 'genblockwords', $referer2);
             $referer2 = str_replace('genblockwords_type', 'blockwords_type', $referer2);
 
-            $client = new Client(Config::get('url.siamits-api'));
+            $client = new Client(Config::get('url.inewgen-api'));
             $results = $client->get($referer2);
             $results = json_decode($results, true);
 
@@ -410,7 +410,7 @@ class CommentsController extends BaseController
 
             $parameters['status'] = $data['status'];
 
-            $client = new Client(Config::get('url.siamits-api'));
+            $client = new Client(Config::get('url.inewgen-api'));
             $results = $client->put('comments/'.$id, $parameters);
             $results = json_decode($results, true);
 

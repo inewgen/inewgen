@@ -163,10 +163,10 @@ class Sauthen
      */
     public static function check()
     {
-        if (isset($_COOKIE[Config::get('web.siamits-cookie_name')]) && isset($_COOKIE['access_token'])) {
+        if (isset($_COOKIE[Config::get('web.inewgen-cookie_name')]) && isset($_COOKIE['access_token'])) {
 
             try {
-                $user = unserialize(base64_decode($_COOKIE[Config::get('web.siamits-cookie_name')]));
+                $user = unserialize(base64_decode($_COOKIE[Config::get('web.inewgen-cookie_name')]));
                 if (isset($user['id']) && is_numeric($user['id']) && $user['id'] > 0) {
                     self::$user_id = $user['id'];
 
@@ -192,8 +192,8 @@ class Sauthen
             return self::$user_id;
         }
 
-        if (isset($_COOKIE[Config::get('web.siamits-cookie_name')])) {
-            $user = unserialize(base64_decode(static::$key, $_COOKIE[Config::get('web.siamits-cookie_name')]));
+        if (isset($_COOKIE[Config::get('web.inewgen-cookie_name')])) {
+            $user = unserialize(base64_decode(static::$key, $_COOKIE[Config::get('web.inewgen-cookie_name')]));
             if (isset($user['id']) && is_numeric($user['id']) && $user['id'] > 0) {
                 return $user['id'];
             }

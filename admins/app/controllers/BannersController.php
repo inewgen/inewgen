@@ -42,7 +42,7 @@ class BannersController extends BaseController
             $parameters['s'] = $s;
         }
 
-        $client = new Client(Config::get('url.siamits-api'));
+        $client = new Client(Config::get('url.inewgen-api'));
         $results = $client->get('banners', $parameters);
         $results = json_decode($results, true);
 
@@ -107,7 +107,7 @@ class BannersController extends BaseController
             'sort'      => 'desc'
         );
 
-        $client = new Client(Config::get('url.siamits-api'));
+        $client = new Client(Config::get('url.inewgen-api'));
         $results = $client->get('banners', $parameters);
         $results = json_decode($results, true);
 
@@ -153,7 +153,7 @@ class BannersController extends BaseController
             'status'     => array_get($data, 'status', '1'),
         );
 
-        $client = new Client(Config::get('url.siamits-api'));
+        $client = new Client(Config::get('url.inewgen-api'));
         $results = $client->post('banners', $parameters);
         $results = json_decode($results, true);
 
@@ -181,7 +181,7 @@ class BannersController extends BaseController
             'user_id' => '1'
         );
 
-        $client = new Client(Config::get('url.siamits-api'));
+        $client = new Client(Config::get('url.inewgen-api'));
         $results = $client->get('banners/'.$id, $parameters);
         $results = json_decode($results, true);
 
@@ -257,7 +257,7 @@ class BannersController extends BaseController
                     'images_id' => $images_id,
                 );
 
-                $client = new Client(Config::get('url.siamits-api'));
+                $client = new Client(Config::get('url.inewgen-api'));
                 $results = $client->delete('banners/'.$id, $parameters);
                 $results = json_decode($results, true);
 
@@ -296,7 +296,7 @@ class BannersController extends BaseController
                         'position'  => $i,
                     );
 
-                    $client = new Client(Config::get('url.siamits-api'));
+                    $client = new Client(Config::get('url.inewgen-api'));
                     $results = $client->put('banners/'.$id, $parameters2);
                     $results = json_decode($results, true);
 
@@ -356,7 +356,7 @@ class BannersController extends BaseController
                 'status'       => (isset($data['status'])?$data['status']:'0')
             );
 
-            $client = new Client(Config::get('url.siamits-api'));
+            $client = new Client(Config::get('url.inewgen-api'));
             $results = $client->put('banners/'.$id, $parameters);
             $results = json_decode($results, true);
 

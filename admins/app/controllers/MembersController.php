@@ -40,7 +40,7 @@ class MembersController extends BaseController
             $parameters['s'] = $s;
         }
 
-        $client = new Client(Config::get('url.siamits-api'));
+        $client = new Client(Config::get('url.inewgen-api'));
         $results = $client->get('users', $parameters);
         $results = json_decode($results, true);
 
@@ -133,7 +133,7 @@ class MembersController extends BaseController
         $phone    = array_get($data, 'phone', '');
         $images   = array_get($data, 'images', array());
         $password = array_get($data, 'password', '');
-        $password = $this->scode->pencode($password, Config::get('web.siamits-keys'));
+        $password = $this->scode->pencode($password, Config::get('web.inewgen-keys'));
 
         $birthday = array_get($data, 'birthday', '');
         $bd       = new DateTime($birthday);
@@ -176,7 +176,7 @@ class MembersController extends BaseController
             'timezone' => $timezone,
         );
 
-        $client = new Client(Config::get('url.siamits-api'));
+        $client = new Client(Config::get('url.inewgen-api'));
         $results = $client->post('users', $parameters);
         $results = json_decode($results, true);
 
@@ -217,7 +217,7 @@ class MembersController extends BaseController
             'user_id' => $id,
         );
 
-        $client = new Client(Config::get('url.siamits-api'));
+        $client = new Client(Config::get('url.inewgen-api'));
         $results = $client->get('users/' . $id, $parameters);
         $results = json_decode($results, true);
 
@@ -302,7 +302,7 @@ class MembersController extends BaseController
 
             if ($image_delete) {
                 // Delete members
-                $client = new Client(Config::get('url.siamits-api'));
+                $client = new Client(Config::get('url.inewgen-api'));
                 $results = $client->delete('users/' . $id);
                 $results = json_decode($results, true);
 
@@ -349,7 +349,7 @@ class MembersController extends BaseController
             $password = array_get($data, 'password', '');
 
             if ($password != $password_old) {
-                $password = $this->scode->pencode($password, Config::get('web.siamits-keys'));
+                $password = $this->scode->pencode($password, Config::get('web.inewgen-keys'));
             }
 
             $birthday = array_get($data, 'birthday', '');
@@ -393,7 +393,7 @@ class MembersController extends BaseController
                 'timezone' => $timezone,
             );
 
-            $client = new Client(Config::get('url.siamits-api'));
+            $client = new Client(Config::get('url.inewgen-api'));
             $results = $client->put('users/'.$id, $parameters);
             $results = json_decode($results, true);
 

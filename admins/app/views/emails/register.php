@@ -8,7 +8,7 @@
         <table width="100%" cellspacing="0" cellpadding="0" border="0" align="center" style="border-bottom:#01ac34 solid 1px;padding-bottom:15px">
             <tbody>
                 <tr>
-                    <td><img src="http://res.siamits.com/img/default/siamits_logo/png/140/40" class="CToWUd"></td>
+                    <td><img src="http://res.inewgen.com/img/default/siamits_logo/png/140/40" class="CToWUd"></td>
                 </tr>
                 <tr>
                     <td align="left" style="color:#333;font-family:Thonburi,Tahoma;vertical-align:bottom">
@@ -52,7 +52,7 @@
                                 <tr>
                                     <td style="font-size:12px;line-height:20px;font-family:Thonburi,Tahoma;color:#6d6e71;text-align:center">
                                         หากคุณมีปัญหาหรือข้อสงสัยเกี่ยวกับการใช้บริการ สามารถติดต่อได้ที่ 02-644-2390
-                                        <br>หรืออีเมลติดต่อ support@siamits.com หรือ <a href="http://www.siamits.com">www.siamits.com</a>
+                                        <br>หรืออีเมลติดต่อ support@siamits.com หรือ <a href="http://www.inewgen.com">www.inewgen.com</a>
                                         <br>© 2015 SiamiTs - All Rights Reserved
                                     </td>
                                 </tr>

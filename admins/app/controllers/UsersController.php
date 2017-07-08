@@ -19,7 +19,7 @@ class UsersController extends BaseController
         $theme->share('user', $this->user);
 
         $view = array(
-            'url_res' => Config::get('url.siamits-res')
+            'url_res' => Config::get('url.inewgen-res')
         );
 
         $script = $theme->scopeWithLayout('home.jscript_login', $view)->content();
@@ -54,7 +54,7 @@ class UsersController extends BaseController
             'password' => $password,
         );
 
-        $client = new Client(Config::get('url.siamits-api'));
+        $client = new Client(Config::get('url.inewgen-api'));
         $results = $client->get('users', $parameters);
         $results = json_decode($results, true);
 
@@ -80,7 +80,7 @@ class UsersController extends BaseController
         $access_token = $this->scode->pencode($access_token, '@SiamiTS!');
         $user = serialize($user);
         $keep = base64_encode($user);
-        $user_cookie = setcookie(Config::get('web.siamits-cookie_name'), $keep, $lifetime, null, null, null, true);
+        $user_cookie = setcookie(Config::get('web.inewgen-cookie_name'), $keep, $lifetime, null, null, null, true);
         $access_cookie = setcookie('access_token', $access_token, $lifetime, null, null, null, true);
         
         if (!$user_cookie || !$access_cookie) {
@@ -165,7 +165,7 @@ class UsersController extends BaseController
             'status'   => '0',
         );
 
-        $client = new Client(Config::get('url.siamits-api'));
+        $client = new Client(Config::get('url.inewgen-api'));
         $results = $client->post('users', $parameters);
         $results = json_decode($results, true);
 
@@ -222,7 +222,7 @@ class UsersController extends BaseController
         $theme->share('user', $this->user);
 
         $id = $this->user->id;
-        $client = new Client(Config::get('url.siamits-api'));
+        $client = new Client(Config::get('url.inewgen-api'));
         $results = $client->get('users/'.$id);
         $results = json_decode($results, true);
         $data = array_get($results, 'data.record', array());
@@ -300,7 +300,7 @@ class UsersController extends BaseController
             'images'     => $images,
         );
 
-        $client = new Client(Config::get('url.siamits-api'));
+        $client = new Client(Config::get('url.inewgen-api'));
         $results = $client->put('users/'.$id, $parameters);
         $results = json_decode($results, true);
 
@@ -330,7 +330,7 @@ class UsersController extends BaseController
         $theme->share('user', $this->user);
 
         $id = $this->user->id;
-        $client = new Client(Config::get('url.siamits-api'));
+        $client = new Client(Config::get('url.inewgen-api'));
         $results = $client->get('users/'.$id);
         $results = json_decode($results, true);
         $data = array_get($results, 'data.record', array());
@@ -388,7 +388,7 @@ class UsersController extends BaseController
             'password' => $password,
         );
 
-        $client = new Client(Config::get('url.siamits-api'));
+        $client = new Client(Config::get('url.inewgen-api'));
         $results = $client->get('users', $parameters);
         $results = json_decode($results, true);
 
@@ -410,7 +410,7 @@ class UsersController extends BaseController
             'password' => $newpassword,
         );
 
-        $client = new Client(Config::get('url.siamits-api'));
+        $client = new Client(Config::get('url.inewgen-api'));
         $results = $client->put('users/'.$id, $parameters);
         $results = json_decode($results, true);
 
@@ -439,7 +439,7 @@ class UsersController extends BaseController
             'email' => $email,
         );
 
-        $client = new Client(Config::get('url.siamits-api'));
+        $client = new Client(Config::get('url.inewgen-api'));
         $results = $client->get('users', $parameters);
         $results = json_decode($results, true);
 
@@ -476,7 +476,7 @@ class UsersController extends BaseController
 
         // isset($data['token']) ? $parameters['active'] = $data['token'] : '';
 
-        $client = new Client(Config::get('url.siamits-api'));
+        $client = new Client(Config::get('url.inewgen-api'));
         $user = $client->get('users', $parameters);
         $user = json_decode($user);
 
@@ -538,7 +538,7 @@ class UsersController extends BaseController
             'email'    => $email,
         );
 
-        $client = new Client(Config::get('url.siamits-api'));
+        $client = new Client(Config::get('url.inewgen-api'));
         $results = $client->get('users', $parameters);
         $results = json_decode($results, true);
 
@@ -630,7 +630,7 @@ class UsersController extends BaseController
             'email'    => $email,
         );
 
-        $client = new Client(Config::get('url.siamits-api'));
+        $client = new Client(Config::get('url.inewgen-api'));
         $results = $client->get('users', $parameters);
         $results = json_decode($results, true);
 
@@ -656,7 +656,7 @@ class UsersController extends BaseController
             'active' => $active
         );
 
-        $client = new Client(Config::get('url.siamits-api'));
+        $client = new Client(Config::get('url.inewgen-api'));
         $results = $client->put('users/'.$id, $parameters);
         $results = json_decode($results, true);
 
@@ -710,7 +710,7 @@ class UsersController extends BaseController
         $parameters = array(
             'email' => $email,
         );
-        $client = new Client(Config::get('url.siamits-api'));
+        $client = new Client(Config::get('url.inewgen-api'));
         $results = $client->get('users', $parameters);
         $results = json_decode($results, true);
 
@@ -772,7 +772,7 @@ class UsersController extends BaseController
             'token' => $email,
         );
 
-        $client = new Client(Config::get('url.siamits-api'));
+        $client = new Client(Config::get('url.inewgen-api'));
         $results = $client->get('users', $parameters);
         $results = json_decode($results, true);
 
@@ -795,7 +795,7 @@ class UsersController extends BaseController
             'active'   => '',
         );
 
-        $client = new Client(Config::get('url.siamits-api'));
+        $client = new Client(Config::get('url.inewgen-api'));
         $results = $client->put('users/'.$id, $parameters);
         $results = json_decode($results, true);
 

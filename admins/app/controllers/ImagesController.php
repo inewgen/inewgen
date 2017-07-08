@@ -14,7 +14,7 @@ class ImagesController extends BaseController
     public function uploads()
     {
         $data = Input::all();
-        $client = new Client(Config::get('url.siamits-api'));
+        $client = new Client(Config::get('url.inewgen-api'));
 
         // Validator request
         $rules = array(
@@ -37,7 +37,7 @@ class ImagesController extends BaseController
 
         // Define a destination
         $user_id = isset($data['user_id']) ? $data['user_id'] : '';
-        $verify_token = md5(Config::get('web.siamits-keys') . $data['timestamp']);
+        $verify_token = md5(Config::get('web.inewgen-keys') . $data['timestamp']);
 
         if ($data['token'] != $verify_token) {
             return $client->createResponse($response, 2003);
@@ -131,7 +131,7 @@ class ImagesController extends BaseController
     public function getDeleteImage()
     {
         $data = Input::all();
-        $client = new Client(Config::get('url.siamits-api'));
+        $client = new Client(Config::get('url.inewgen-api'));
 
         $response = array(
             'data' => $data,
@@ -206,7 +206,7 @@ class ImagesController extends BaseController
     public function getClearImage()
     {
         $data = Input::all();
-        $client = new Client(Config::get('url.siamits-api'));
+        $client = new Client(Config::get('url.inewgen-api'));
 
         // Validator request
         $rules = array(

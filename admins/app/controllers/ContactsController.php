@@ -60,7 +60,7 @@ class ContactsController extends BaseController
             $parameters['status'] = $data['status'];
         }
 
-        $client = new Client(Config::get('url.siamits-api'));
+        $client = new Client(Config::get('url.inewgen-api'));
         $results = $client->get('contacts', $parameters);
         $results = json_decode($results, true);
 
@@ -162,7 +162,7 @@ class ContactsController extends BaseController
             $parameters[$key] = array_get($data, $key, $val);
         }
 
-        $client = new Client(Config::get('url.siamits-api'));
+        $client = new Client(Config::get('url.inewgen-api'));
         $results = $client->post('contacts', $parameters);
         $results = json_decode($results, true);
 
@@ -186,7 +186,7 @@ class ContactsController extends BaseController
         $theme->setDescription('Edit Contacts description');
         $theme->share('user', $this->user);
 
-        $client = new Client(Config::get('url.siamits-api'));
+        $client = new Client(Config::get('url.inewgen-api'));
         $results = $client->get('contacts/' . $id);
         $results = json_decode($results, true);
 
@@ -247,7 +247,7 @@ class ContactsController extends BaseController
                 'id' => $id,
             );
 
-            $client = new Client(Config::get('url.siamits-api'));
+            $client = new Client(Config::get('url.inewgen-api'));
             $results = $client->delete('contacts/' . $id, $parameters);
             $results = json_decode($results, true);
 
@@ -302,7 +302,7 @@ class ContactsController extends BaseController
 
             $parameters['status'] = $data['status']; // 0=Closed,1=New,2=Read,3=Active
 
-            $client = new Client(Config::get('url.siamits-api'));
+            $client = new Client(Config::get('url.inewgen-api'));
             $results = $client->put('contacts/' . $id, $parameters);
             $results = json_decode($results, true);
 
@@ -327,7 +327,7 @@ class ContactsController extends BaseController
             'action' => 'required',
         );
 
-        $client = new Client(Config::get('url.siamits-api'));
+        $client = new Client(Config::get('url.inewgen-api'));
         $referer = array_get($data, 'referer', 'contacts');
         $validator = Validator::make($data, $rules);
         if ($validator->fails()) {
@@ -359,7 +359,7 @@ class ContactsController extends BaseController
                 'id' => $id,
             );
 
-            $client = new Client(Config::get('url.siamits-api'));
+            $client = new Client(Config::get('url.inewgen-api'));
             $results = $client->delete('contacts/' . $id, $parameters);
             $results = json_decode($results, true);
 
@@ -419,7 +419,7 @@ class ContactsController extends BaseController
                 return $client->createResponse($response, 1018);
             }
 
-            $client = new Client(Config::get('url.siamits-api'));
+            $client = new Client(Config::get('url.inewgen-api'));
             $results = $client->put('contacts/' . $id, $parameters);
             $results = json_decode($results, true);
 
