@@ -5,6 +5,6 @@ return array(
     'inewgen-admin'    => 'http://admins.inewgen.com',
     'inewgen-api'      => 'http://apis.inewgen.com/api',
     'inewgen-res'      => 'http://res.inewgen.com',
-    'inewgen-webboard' => 'http://webboard.inewgen.com',
+    'inewgen-webboard' => 'http://board.inewgen.com',
     'recaptch-api'     => 'https://www.google.com/recaptcha/api',
 );
