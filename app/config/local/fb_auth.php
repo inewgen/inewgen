@@ -2,7 +2,7 @@
 
 // SiamiTs.dev
 // return array(
-//     "base_url" => "http://www.inewgen.dev/fbauth/auth",
+//     "base_url" => "http://www.inewgen.loc/fbauth/auth",
 //     "providers" => array(
 //         "Facebook" => array(
 //             "enabled" => true,
@@ -17,7 +17,7 @@
 
 // SiamiTs.com
 return array(
-    "base_url" => "http://www.inewgen.dev/fbauth/auth",
+    "base_url" => "http://www.inewgen.loc/fbauth/auth",
     "providers" => array(
         "Facebook" => array(
             "enabled" => true,

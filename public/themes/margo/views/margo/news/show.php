@@ -136,7 +136,7 @@ $m = $dateObj->format('F');
                             <div class="hr1" style="margin-bottom:30px;"></div>
                             <div class="post-share">
                                 <span><i class="fa fa-share-alt"></i> Share This Post:</span>
-                                <!-- <a class="facebook" href="https://www.facebook.com/dialog/feed?app_id=876049622442009&display=popup&caption=<?php echo $news['title'];?>&link=http://www.inewgen.dev/news/40&redirect_uri=http://www.inewgen.dev/news/40"><i class="fa fa-facebook"></i></a>
+                                <!-- <a class="facebook" href="https://www.facebook.com/dialog/feed?app_id=876049622442009&display=popup&caption=<?php echo $news['title'];?>&link=http://www.inewgen.loc/news/40&redirect_uri=http://www.inewgen.loc/news/40"><i class="fa fa-facebook"></i></a>
                                 <a class="twitter" href="#"><i class="fa fa-twitter"></i></a>
                                 <a class="gplus" href="#"><i class="fa fa-google-plus"></i></a>
                                 <a class="linkedin" href="#"><i class="fa fa-linkedin"></i></a>

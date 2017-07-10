@@ -19,54 +19,54 @@
 	<meta name="author" content="iThemesLab">
 	
 	<!-- Bootstrap CSS  -->
-    <link rel="stylesheet" href="http://www.inewgen.dev/public/themes/margo/asset/css/bootstrap.min.css" type="text/css" media="screen">
+    <link rel="stylesheet" href="http://www.inewgen.loc/public/themes/margo/asset/css/bootstrap.min.css" type="text/css" media="screen">
 
     <!-- Font Awesome CSS -->
-    <link rel="stylesheet" href="http://www.inewgen.dev/public/themes/margo/css/font-awesome.min.css" type="text/css" media="screen">
+    <link rel="stylesheet" href="http://www.inewgen.loc/public/themes/margo/css/font-awesome.min.css" type="text/css" media="screen">
 
     <!-- Margo CSS Styles  -->
-    <link rel="stylesheet" type="text/css" href="http://www.inewgen.dev/public/themes/margo/css/style.css" media="screen">
+    <link rel="stylesheet" type="text/css" href="http://www.inewgen.loc/public/themes/margo/css/style.css" media="screen">
 
     <!-- Responsive CSS Styles  -->
-    <link rel="stylesheet" type="text/css" href="http://www.inewgen.dev/public/themes/margo/css/responsive.css" media="screen">
+    <link rel="stylesheet" type="text/css" href="http://www.inewgen.loc/public/themes/margo/css/responsive.css" media="screen">
 
     <!-- Color CSS Styles  -->
-    <link rel="stylesheet" type="text/css" href="http://www.inewgen.dev/public/themes/margo/css/colors/red.css" title="red" media="screen" />
-    <link rel="stylesheet" type="text/css" href="http://www.inewgen.dev/public/themes/margo/css/colors/jade.css" title="jade" media="screen" />
-    <link rel="stylesheet" type="text/css" href="http://www.inewgen.dev/public/themes/margo/css/colors/green.css" title="green" media="screen" />
-    <link rel="stylesheet" type="text/css" href="http://www.inewgen.dev/public/themes/margo/css/colors/blue.css" title="blue" media="screen" />
-    <link rel="stylesheet" type="text/css" href="http://www.inewgen.dev/public/themes/margo/css/colors/beige.css" title="beige" media="screen" />
-    <link rel="stylesheet" type="text/css" href="http://www.inewgen.dev/public/themes/margo/css/colors/cyan.css" title="cyan" media="screen" />
-    <link rel="stylesheet" type="text/css" href="http://www.inewgen.dev/public/themes/margo/css/colors/orange.css" title="orange" media="screen" />
-    <link rel="stylesheet" type="text/css" href="http://www.inewgen.dev/public/themes/margo/css/colors/peach.css" title="peach" media="screen" />
-    <link rel="stylesheet" type="text/css" href="http://www.inewgen.dev/public/themes/margo/css/colors/pink.css" title="pink" media="screen" />
-    <link rel="stylesheet" type="text/css" href="http://www.inewgen.dev/public/themes/margo/css/colors/purple.css" title="purple" media="screen" />
-    <link rel="stylesheet" type="text/css" href="http://www.inewgen.dev/public/themes/margo/css/colors/sky-blue.css" title="sky-blue" media="screen" />
-    <link rel="stylesheet" type="text/css" href="http://www.inewgen.dev/public/themes/margo/css/colors/yellow.css" title="yellow" media="screen" />
-    <link media="all" type="text/css" rel="stylesheet" href="http://www.inewgen.dev/public/themes/margo/css/animate.css">
+    <link rel="stylesheet" type="text/css" href="http://www.inewgen.loc/public/themes/margo/css/colors/red.css" title="red" media="screen" />
+    <link rel="stylesheet" type="text/css" href="http://www.inewgen.loc/public/themes/margo/css/colors/jade.css" title="jade" media="screen" />
+    <link rel="stylesheet" type="text/css" href="http://www.inewgen.loc/public/themes/margo/css/colors/green.css" title="green" media="screen" />
+    <link rel="stylesheet" type="text/css" href="http://www.inewgen.loc/public/themes/margo/css/colors/blue.css" title="blue" media="screen" />
+    <link rel="stylesheet" type="text/css" href="http://www.inewgen.loc/public/themes/margo/css/colors/beige.css" title="beige" media="screen" />
+    <link rel="stylesheet" type="text/css" href="http://www.inewgen.loc/public/themes/margo/css/colors/cyan.css" title="cyan" media="screen" />
+    <link rel="stylesheet" type="text/css" href="http://www.inewgen.loc/public/themes/margo/css/colors/orange.css" title="orange" media="screen" />
+    <link rel="stylesheet" type="text/css" href="http://www.inewgen.loc/public/themes/margo/css/colors/peach.css" title="peach" media="screen" />
+    <link rel="stylesheet" type="text/css" href="http://www.inewgen.loc/public/themes/margo/css/colors/pink.css" title="pink" media="screen" />
+    <link rel="stylesheet" type="text/css" href="http://www.inewgen.loc/public/themes/margo/css/colors/purple.css" title="purple" media="screen" />
+    <link rel="stylesheet" type="text/css" href="http://www.inewgen.loc/public/themes/margo/css/colors/sky-blue.css" title="sky-blue" media="screen" />
+    <link rel="stylesheet" type="text/css" href="http://www.inewgen.loc/public/themes/margo/css/colors/yellow.css" title="yellow" media="screen" />
+    <link media="all" type="text/css" rel="stylesheet" href="http://www.inewgen.loc/public/themes/margo/css/animate.css">
 
     <!-- Margo JS  -->
-    <script type="text/javascript" src="http://www.inewgen.dev/public/themes/margo/js/jquery-2.1.1.min.js"></script>
-    <script type="text/javascript" src="http://www.inewgen.dev/public/themes/margo/js/jquery.migrate.js"></script>
-    <script type="text/javascript" src="http://www.inewgen.dev/public/themes/margo/js/modernizrr.js"></script>
-    <script type="text/javascript" src="http://www.inewgen.dev/public/themes/margo/asset/js/bootstrap.min.js"></script>
-    <script type="text/javascript" src="http://www.inewgen.dev/public/themes/margo/js/jquery.fitvids.js"></script>
-    <script type="text/javascript" src="http://www.inewgen.dev/public/themes/margo/js/owl.carousel.min.js"></script>
-    <script type="text/javascript" src="http://www.inewgen.dev/public/themes/margo/js/nivo-lightbox.min.js"></script>
-    <script type="text/javascript" src="http://www.inewgen.dev/public/themes/margo/js/jquery.isotope.min.js"></script>
-    <script type="text/javascript" src="http://www.inewgen.dev/public/themes/margo/js/jquery.appear.js"></script>
-    <script type="text/javascript" src="http://www.inewgen.dev/public/themes/margo/js/count-to.js"></script>
-    <script type="text/javascript" src="http://www.inewgen.dev/public/themes/margo/js/jquery.textillate.js"></script>
-    <script type="text/javascript" src="http://www.inewgen.dev/public/themes/margo/js/jquery.lettering.js"></script>
-    <script type="text/javascript" src="http://www.inewgen.dev/public/themes/margo/js/jquery.easypiechart.min.js"></script>
-    <script type="text/javascript" src="http://www.inewgen.dev/public/themes/margo/js/jquery.nicescroll.min.js"></script>
-    <script type="text/javascript" src="http://www.inewgen.dev/public/themes/margo/js/jquery.parallax.js"></script>
-    <script src="http://www.inewgen.dev/public/themes/margo/js/mediaelement-and-player.js"></script>
-    <script src="http://www.inewgen.dev/public/themes/margo/js/script.js"></script>
-    <!-- <script type="text/javascript" src="http://www.inewgen.dev/public/themes/margo/js/script.js"></script> -->
+    <script type="text/javascript" src="http://www.inewgen.loc/public/themes/margo/js/jquery-2.1.1.min.js"></script>
+    <script type="text/javascript" src="http://www.inewgen.loc/public/themes/margo/js/jquery.migrate.js"></script>
+    <script type="text/javascript" src="http://www.inewgen.loc/public/themes/margo/js/modernizrr.js"></script>
+    <script type="text/javascript" src="http://www.inewgen.loc/public/themes/margo/asset/js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="http://www.inewgen.loc/public/themes/margo/js/jquery.fitvids.js"></script>
+    <script type="text/javascript" src="http://www.inewgen.loc/public/themes/margo/js/owl.carousel.min.js"></script>
+    <script type="text/javascript" src="http://www.inewgen.loc/public/themes/margo/js/nivo-lightbox.min.js"></script>
+    <script type="text/javascript" src="http://www.inewgen.loc/public/themes/margo/js/jquery.isotope.min.js"></script>
+    <script type="text/javascript" src="http://www.inewgen.loc/public/themes/margo/js/jquery.appear.js"></script>
+    <script type="text/javascript" src="http://www.inewgen.loc/public/themes/margo/js/count-to.js"></script>
+    <script type="text/javascript" src="http://www.inewgen.loc/public/themes/margo/js/jquery.textillate.js"></script>
+    <script type="text/javascript" src="http://www.inewgen.loc/public/themes/margo/js/jquery.lettering.js"></script>
+    <script type="text/javascript" src="http://www.inewgen.loc/public/themes/margo/js/jquery.easypiechart.min.js"></script>
+    <script type="text/javascript" src="http://www.inewgen.loc/public/themes/margo/js/jquery.nicescroll.min.js"></script>
+    <script type="text/javascript" src="http://www.inewgen.loc/public/themes/margo/js/jquery.parallax.js"></script>
+    <script src="http://www.inewgen.loc/public/themes/margo/js/mediaelement-and-player.js"></script>
+    <script src="http://www.inewgen.loc/public/themes/margo/js/script.js"></script>
+    <!-- <script type="text/javascript" src="http://www.inewgen.loc/public/themes/margo/js/script.js"></script> -->
 
-    <!--[if IE 8]><script src="http://www.inewgen.dev/public/themes/margo/http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
-    <!--[if lt IE 9]><script src="http://www.inewgen.dev/public/themes/margo/http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+    <!--[if IE 8]><script src="http://www.inewgen.loc/public/themes/margo/http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+    <!--[if lt IE 9]><script src="http://www.inewgen.loc/public/themes/margo/http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
 
 	
 </head>
@@ -82,7 +82,7 @@
 					
 					<div class="error-page">
                     	<div align="center">
-                        	<img alt="Footer Logo" class="img-responsive" src="http://www.inewgen.dev/public/themes/margo/images/siamits_logo.png">
+                        	<img alt="Footer Logo" class="img-responsive" src="http://www.inewgen.loc/public/themes/margo/images/siamits_logo.png">
                         </div>
 						<h1>404</h1>
 						<h3>File not Found</h3>

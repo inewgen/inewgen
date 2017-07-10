@@ -19,7 +19,7 @@
                     <h4>Follow Us<span class="head-line"></span></h4>
                     <ul class="social-icons">
                         <li>
-                            <a class="facebook" href="https://www.facebook.com/siamits" target="_blank"><i class="fa fa-facebook"></i></a>
+                            <a class="facebook" href="https://www.facebook.com/inewgen" target="_blank"><i class="fa fa-facebook"></i></a>
                         </li>
                         <!-- <li>
                             <a class="twitter" href="<?php echo URL::to('public/themes/margo');?>/#"><i class="fa fa-twitter"></i></a>
@@ -143,7 +143,7 @@
                     <p>เว็บไซต์รวบรวมความรู้ ข่าวสาร ความบันเทิง ทางด้านไอที และอื่น ๆ</p>
                     <ul>
                         <li><span>Phone Number:</span> +662 644 2390</li>
-                        <li><span>Email:</span> <a href="mailto:support@siamits.com">support@siamits.com</a></li>
+                        <li><span>Email:</span> <a href="mailto:inewgenthai@gmail.com">support@siamits.com</a></li>
                         <li><span>Website:</span> <a href="http://www.inewgen.com">www.inewgen.com</a></li>
                     </ul>
                 </div>
