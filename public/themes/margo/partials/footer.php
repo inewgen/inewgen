@@ -139,7 +139,7 @@
             <!-- Start Contact Widget -->
             <div class="col-md-3 col-xs-12">
                 <div class="footer-widget contact-widget" style="background: url(<?php echo URL::to('public/themes/margo');?>/assets/img/map.png) center bottom no-repeat;">
-                    <h4><img src="<?php echo URL::to('public/themes/margo');?>/assets/img/simits_logo_footer.png" class="img-responsive" alt="Footer Logo" /></h4>
+                    <h4><img src="<?php echo Config::get("url.inewgen-res");?>/img/default/inewgen_logo_full2/png/140/40/logo.jpg" class="img-responsive" alt="Footer Logo" /></h4>
                     <p>เว็บไซต์รวบรวมความรู้ ข่าวสาร ความบันเทิง ทางด้านไอที และอื่น ๆ</p>
                     <ul>
                         <li><span>Phone Number:</span> +662 644 2390</li>

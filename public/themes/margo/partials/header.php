@@ -10,7 +10,7 @@
                     <ul class="contact-details">
                         <li><a href="<?php echo URL::to('contact');?>" target="_blank"><i class="fa fa-map-marker"></i> Rachadapisek Rd, Bangkok, Thailand</a>
                         </li>
-                        <li><a href="mailto:suport@siamits.com"><i class="fa fa-envelope-o"></i> suport@siamits.com</a>
+                        <li><a href="mailto:inewgenthai@gmail.com"><i class="fa fa-envelope-o"></i> inewgenthai@gmail.com</a>
                         </li>
                         <li><a href="<?php echo URL::to('contact');?>"><i class="fa fa-phone"></i> +662 644 2390</a>
                         </li>
@@ -75,7 +75,7 @@
                 <!-- End Toggle Nav Link For Mobiles -->
                 <a class="navbar-brand" href="<?php echo URL::to('');?>">
                     <!-- Logo color #01952e #000000 -->
-                    <img alt="" src="<?php echo URL::to('public/themes/margo');?>/assets/img/inewgen_logo_full_140x40.png">
+                    <img alt="" src="<?php echo Config::get("url.inewgen-res");?>/img/default/inewgen_logo_full/png/140/40/logo.jpg">
                 </a>
             </div>
             <div class="navbar-collapse collapse">
