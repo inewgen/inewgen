@@ -13,7 +13,7 @@ class PagesController extends BaseController
     {
         $data = Input::all();
         $theme = Theme::uses('margo')->layout('margo');
-        $theme->setTitle('SiamiTs :: Pages');
+        $theme->setTitle('iNewGen :: Pages');
         $theme->setDescription('Pages description');
 
         $client = new Client(Config::get('url.inewgen-api'));
@@ -235,7 +235,7 @@ class PagesController extends BaseController
         $comments_num = array_get($results, 'data.pagination.total', 0);
         $comments = array_get($results, 'data.record', array());
 
-        $theme->setTitle('SiamiTs :: Pages');
+        $theme->setTitle('iNewGen :: Pages');
         $theme->setDescription(array_get($pages, 'title', ''));
 
         $view = array(
@@ -267,7 +267,7 @@ class PagesController extends BaseController
     {
         $data = Input::all();
         $theme = Theme::uses('margo')->layout('margo');
-        $theme->setTitle('SiamiTs :: Pages');
+        $theme->setTitle('iNewGen :: Pages');
         $theme->setDescription('Pages description');
 
         // Get hightlight pages
@@ -354,7 +354,7 @@ class PagesController extends BaseController
     {
         $data = Input::all();
         $theme = Theme::uses('margo')->layout('margo');
-        $theme->setTitle('SiamiTs :: Pages');
+        $theme->setTitle('iNewGen :: Pages');
         $theme->setDescription('Pages description');
 
         // Get hightlight pages

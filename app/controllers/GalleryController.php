@@ -16,7 +16,7 @@ class GalleryController extends BaseController
     public function index()
     {
         $theme = Theme::uses('margo')->layout('margo');
-        $theme->setTitle('SiamiTs :: Gallery');
+        $theme->setTitle('iNewGen :: Gallery');
         $theme->setDescription('Gallery description');
 
         $view = array(

@@ -68,7 +68,7 @@ class ClipsController extends BaseController
             return $client->createResponse($response, 0);
         } else {
             $theme = Theme::uses('margo')->layout('margo');
-            $theme->setTitle('SiamiTs :: Clips VDO');
+            $theme->setTitle('iNewGen :: Clips VDO');
             $theme->setDescription('Clips VDO description');
 
             $view = array(

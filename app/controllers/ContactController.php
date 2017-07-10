@@ -16,7 +16,7 @@ class ContactController extends BaseController
     public function index()
     {
         $theme = Theme::uses('margo')->layout('margo');
-        $theme->setTitle('SiamiTs :: Contact');
+        $theme->setTitle('iNewGen :: Contact');
         $theme->setDescription('Contact description');
 
         $view = array(

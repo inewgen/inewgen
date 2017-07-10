@@ -81,20 +81,20 @@ if (!function_exists('checkAlertMessageFlash')) {
 
 if (!function_exists('getImageLink')) {
     // img|image, default|user_id, array(), 100, 100
-    function getImageLink($type, $section, $code, $extension, $w, $h, $name = 'siamits.jpg')
+    function getImageLink($type, $section, $code, $extension, $w, $h, $name = 'inewgen.jpg')
     {
         if (empty($type) || empty($section) || empty($code) || empty($extension)) {
             return false;
         }
 
-        $siamits_res = Config::get('url.inewgen-res');
+        $inewgen_res = Config::get('url.inewgen-res');
 
         if ($type == 'img') {
-            return $siamits_res . '/img/' . $section . '/' . $code . '/' . $extension . '/' . $w . '/' . $h .'/'.$name;
+            return $inewgen_res . '/img/' . $section . '/' . $code . '/' . $extension . '/' . $w . '/' . $h .'/'.$name;
         }
         $user_id = $section;
 
-        return $siamits_res . '/image/' . $user_id . '/' . $code . '/' . $extension . '/' . $w . '/' . $h.'/'.$name;
+        return $inewgen_res . '/image/' . $user_id . '/' . $code . '/' . $extension . '/' . $w . '/' . $h.'/'.$name;
     }
 }
 
@@ -105,13 +105,13 @@ if (!function_exists('getImageProfile')) {
             return false;
         }
 
-        $siamits_res = Config::get('url.inewgen-res');
+        $inewgen_res = Config::get('url.inewgen-res');
         $user_id = $user->id;
         $code = $user->images[0]->code;
         $extension = $user->images[0]->extension;
         $name = 'profile.jpg';
 
-        return $siamits_res . '/image/' . $user_id . '/' . $code . '/' . $extension . '/' . $w . '/' . $h.'/'.$name;
+        return $inewgen_res . '/image/' . $user_id . '/' . $code . '/' . $extension . '/' . $w . '/' . $h.'/'.$name;
     }
 }
 
@@ -121,10 +121,10 @@ if (!function_exists('getLogo')) {
         if (empty($w) || empty($h)) {
             return false;
         }
-        $siamits_res = Config::get('url.inewgen-res');
+        $inewgen_res = Config::get('url.inewgen-res');
         $name = 'logo.jpg';
 
-        return $siamits_res . '/img/default/inewgen_logo_full/png/' . $w . '/' . $h.'/'.$name;
+        return $inewgen_res . '/img/default/inewgen_logo_full/png/' . $w . '/' . $h.'/'.$name;
     }
 }
 

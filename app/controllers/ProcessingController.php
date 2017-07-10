@@ -12,7 +12,7 @@ class ProcessingController extends BaseController
     {
         $req_path = Request::path();
         $theme = Theme::uses('margo')->layout('margo');
-        $theme->setTitle('SiamiTs :: '.$req_path);
+        $theme->setTitle('iNewGen :: '.$req_path);
         $theme->setDescription($req_path.' description');
         
         $view = array(

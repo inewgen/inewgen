@@ -11,7 +11,7 @@ class SitemapController extends BaseController
     public function index()
     {
         $theme = Theme::uses('margo')->layout('margo');
-        $theme->setTitle('SiamiTs :: Sitemap');
+        $theme->setTitle('iNewGen :: Sitemap');
         $theme->setDescription('Sitemap description');
 
         $view = array(

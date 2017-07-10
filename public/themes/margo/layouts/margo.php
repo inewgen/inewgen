@@ -20,7 +20,7 @@
 
     <!-- Page Description and Author -->
     <meta name="description" content="<?php echo Theme::get('description');?>">
-    <meta name="author" content="SiamiTs">
+    <meta name="author" content="iNewGen">
 
     <!-- Bootstrap CSS  -->
     <link rel="stylesheet" href="<?php echo URL::to('public/themes/margo');?>/assets/bootstrap/css/bootstrap.min.css" type="text/css" media="screen">

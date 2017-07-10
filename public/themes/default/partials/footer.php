@@ -18,7 +18,7 @@
                     <h4>Follow Us<span class="head-line"></span></h4>
                     <ul class="social-icons">
                         <li>
-                            <a class="facebook" href="https://www.facebook.com/siamits" target="_blank"><i class="fa fa-facebook"></i></a>
+                            <a class="facebook" href="https://www.facebook.com/inewgen" target="_blank"><i class="fa fa-facebook"></i></a>
                         </li>
                         <!-- <li>
                             <a class="twitter" href="<?php echo URL::to('public/themes/margo');?>/#"><i class="fa fa-twitter"></i></a>
@@ -60,15 +60,15 @@
                     <h4>Members Feed<span class="head-line"></span></h4>
                     <ul>
                         <li>
-                            <p><a href="<?php echo URL::to('members');?>">@siamitslab </a> สมัครสมาชิกยังไง เข้าเมนูไหน</p>
+                            <p><a href="<?php echo URL::to('members');?>">@inewgenlab </a> สมัครสมาชิกยังไง เข้าเมนูไหน</p>
                             <span>9 April 2015</span>
                         </li>
                         <li>
-                            <p><a href="<?php echo URL::to('members');?>">@siamitslab </a> เข้าใช้งานเว็บบอร์อย่างไร</p>
+                            <p><a href="<?php echo URL::to('members');?>">@inewgenlab </a> เข้าใช้งานเว็บบอร์อย่างไร</p>
                             <span>9 April 2015</span>
                         </li>
                         <li>
-                            <p><a href="<?php echo URL::to('members');?>">@siamitslab </a> เป็นเว็บไซต์ที่มีประโยชน์มากนะครับ</p>
+                            <p><a href="<?php echo URL::to('members');?>">@inewgenlab </a> เป็นเว็บไซต์ที่มีประโยชน์มากนะครับ</p>
                             <span>9 April 2015</span>
                         </li>
                     </ul>
@@ -142,7 +142,7 @@
                     <p>เว็บไซต์รวบรวมความรู้ ข่าวสาร ความบันเทิง ทางด้านไอที และอื่น ๆ</p>
                     <ul>
                         <li><span>Phone Number:</span> +662 644 2390</li>
-                        <li><span>Email:</span> care.siamits@gmail.com</li>
+                        <li><span>Email:</span> care.inewgen@gmail.com</li>
                         <li><span>Website:</span> www.inewgen.com</li>
                     </ul>
                 </div>
@@ -158,7 +158,7 @@
         <div class="copyright-section">
             <div class="row">
                 <div class="col-md-6">
-                    <p>&copy; 2015 SiamiTs - All Rights Reserved <!-- <a href="<?php echo URL::to('public/themes/margo');?>/http://graygrids.com">GrayGrids</a> --> </p>
+                    <p>&copy; 2015 iNewGen - All Rights Reserved <!-- <a href="<?php echo URL::to('public/themes/margo');?>/http://graygrids.com">GrayGrids</a> --> </p>
                 </div>
                 <!-- .col-md-6 -->
                 <div class="col-md-6">

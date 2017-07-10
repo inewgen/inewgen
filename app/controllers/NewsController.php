@@ -13,7 +13,7 @@ class NewsController extends BaseController
     {
         $data = Input::all();
         $theme = Theme::uses('margo')->layout('margo');
-        $theme->setTitle('SiamiTs :: News');
+        $theme->setTitle('iNewGen :: News');
         $theme->setDescription('News description');
 
         $client = new Client(Config::get('url.inewgen-api'));
@@ -235,7 +235,7 @@ class NewsController extends BaseController
         $comments_num = array_get($results, 'data.pagination.total', 0);
         $comments = array_get($results, 'data.record', array());
 
-        $theme->setTitle('SiamiTs :: News');
+        $theme->setTitle('iNewGen :: News');
         $theme->setDescription(array_get($news, 'title', ''));
 
         $view = array(
@@ -267,7 +267,7 @@ class NewsController extends BaseController
     {
         $data = Input::all();
         $theme = Theme::uses('margo')->layout('margo');
-        $theme->setTitle('SiamiTs :: News');
+        $theme->setTitle('iNewGen :: News');
         $theme->setDescription('News description');
 
         // Get hightlight news
@@ -354,7 +354,7 @@ class NewsController extends BaseController
     {
         $data = Input::all();
         $theme = Theme::uses('margo')->layout('margo');
-        $theme->setTitle('SiamiTs :: News');
+        $theme->setTitle('iNewGen :: News');
         $theme->setDescription('News description');
 
         // Get hightlight news

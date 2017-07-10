@@ -31,7 +31,7 @@
                     latitude: posLatitude,
                     longitude: posLongitude
                 },
-                text: '<div class="map-popup"><h4>SiamiTs.com</h4><p>The ultimate aim of education society.</p></div>',
+                text: '<div class="map-popup"><h4>iNewGen.com</h4><p>The ultimate aim of education society.</p></div>',
                 icon_url: $('#map').data('marker-img'),
                 // icon_url: 'http://www.inewgen.com/favicon.ico',
                 zoom: 15
@@ -246,7 +246,7 @@
                 <!-- Info - Icons List -->
                 <ul class="icons-list">
                     <li><i class="fa fa-globe">  </i> <strong>Address:</strong>  Rachadapisek Rd, Dindang, Bangkok, Thailand</li>
-                    <li><i class="fa fa-envelope-o"></i> <strong>Email:</strong> <a href="mailto:support@siamits.com">support@siamits.com</a></li>
+                    <li><i class="fa fa-envelope-o"></i> <strong>Email:</strong> <a href="mailto:support@inewgen.com">support@inewgen.com</a></li>
                     <li><i class="fa fa-mobile"></i> <strong>Phone:</strong> +662 644 2390</li>
                 </ul>
 

@@ -28,7 +28,7 @@ return array(
             'write' => array(
                 'host' => 'localhost' // 61.91.1.146
             ),
-            'database'  => 'siamits', //authen
+            'database'  => 'inewgen', //authen
             'username'  => 'homestead', // dev
             'password'  => 'secret', // dev!          'password'  => 'secret',
             'charset'   => 'utf8',

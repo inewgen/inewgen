@@ -381,7 +381,7 @@ $m = $dateObj->format('F');
                     <h4>Follow us
                         <span class="head-line"></span>
                     </h4>
-                    <div class="fb-follow" data-href="https://www.facebook.com/siamits" data-layout="button_count" data-show-faces="true"></div>
+                    <div class="fb-follow" data-href="https://www.facebook.com/inewgen" data-layout="button_count" data-show-faces="true"></div>
                 </div>
 
             </div>

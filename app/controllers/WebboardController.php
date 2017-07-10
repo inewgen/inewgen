@@ -11,7 +11,7 @@ class WebboardController extends BaseController
     public function index()
     {
         $theme = Theme::uses('margo')->layout('margo');
-        $theme->setTitle('SiamiTs :: Webboard');
+        $theme->setTitle('iNewGen :: Webboard');
         $theme->setDescription('Webboard description');
 
         $view = array(

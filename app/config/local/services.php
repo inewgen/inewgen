@@ -20,7 +20,7 @@ return array(
 	// ),
 
 	'mailgun' => array(
-		'domain' => 'siamits.com',
+		'domain' => 'inewgen.com',
 		'secret' => 'key-b37eb7e472e145b084775b83bf7fbecb',
 	),
 

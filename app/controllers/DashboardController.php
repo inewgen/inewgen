@@ -27,7 +27,7 @@ class DashboardController extends BaseController
     {
         $data  = Input::all();
         $theme = Theme::uses('margo')->layout('margo');
-        $theme->setTitle('SiamiTs :: Home');
+        $theme->setTitle('iNewGen :: Home');
         $theme->setDescription('Home description');
 
         $view = array();

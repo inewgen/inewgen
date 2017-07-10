@@ -11,7 +11,7 @@ class PolicyController extends BaseController
     public function index()
     {
         $theme = Theme::uses('margo')->layout('margo');
-        $theme->setTitle('SiamiTs :: Policy');
+        $theme->setTitle('iNewGen :: Policy');
         $theme->setDescription('Policy description');
 
         $view = array(

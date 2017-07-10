@@ -12,7 +12,7 @@ class SearchController extends BaseController
     {
         $data = Input::all();
         $theme = Theme::uses('margo')->layout('margo');
-        $theme->setTitle('SiamiTs :: Search');
+        $theme->setTitle('iNewGen :: Search');
         $theme->setDescription('Search description');
 
         $client = new Client(Config::get('url.inewgen-api'));

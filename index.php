@@ -2,13 +2,13 @@
 
 // Environtment
 $envMapping = array(
-    'apis.siamits.com' => 'com',
-    'siamits.besaba.com' => 'com',
-    'www.siamits.com' => 'com',
+    'apis.inewgen.com' => 'com',
+    'inewgen.besaba.com' => 'com',
+    'www.inewgen.com' => 'com',
 
-    'apis.siamits.dev' => 'dev',
-    'admins.siamits.dev' => 'dev',
-    'www.siamits.dev' => 'dev',
+    'apis.inewgen.dev' => 'dev',
+    'admins.inewgen.dev' => 'dev',
+    'www.inewgen.dev' => 'dev',
 );
 
 $env = isset($_SERVER['HTTP_HOST']) && isset($envMapping[$_SERVER['HTTP_HOST']]) ? $envMapping[$_SERVER['HTTP_HOST']] : '';

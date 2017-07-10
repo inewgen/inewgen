@@ -25,7 +25,7 @@
                             <a class="google itl-tooltip" data-placement="bottom" title="Google Plus" href="https://plus.google.com/103098765144574170914" target="_blank"><i class="fa fa-google-plus"></i></a>
                         </li>
                         <li>
-                            <a class="facebook itl-tooltip" data-placement="bottom" title="Facebook" href="https://www.facebook.com/siamits" target="_blank"><i class="fa fa-facebook"></i></a>
+                            <a class="facebook itl-tooltip" data-placement="bottom" title="Facebook" href="https://www.facebook.com/inewgen" target="_blank"><i class="fa fa-facebook"></i></a>
                         </li>
                         <!-- <li>
                             <a class="twitter itl-tooltip" data-placement="bottom" title="Twitter" href="<?php echo URL::to('public/themes/margo');?>/#"><i class="fa fa-twitter"></i></a>

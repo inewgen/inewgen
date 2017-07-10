@@ -1,5 +1,5 @@
 <?php
-// SiamiTs.com
+// iNewGen.com
 return array(
     "base_url" => "http://www.inewgen.com/fbauth/auth",
     "providers" => array(
@@ -14,7 +14,7 @@ return array(
     ),
 );
 
-// SiamiTs.dev
+// iNewGen.dev
 // return array(
 //     "base_url" => "http://www.inewgen.com/fbauth/auth",
 //     "providers" => array(

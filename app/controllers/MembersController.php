@@ -11,7 +11,7 @@ class MembersController extends BaseController
     public function index()
     {
         $theme = Theme::uses('margo')->layout('margo');
-        $theme->setTitle('SiamiTs :: Members');
+        $theme->setTitle('iNewGen :: Members');
         $theme->setDescription('Members description');
 
         $view = array(

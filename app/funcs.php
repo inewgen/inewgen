@@ -54,7 +54,7 @@ if (!function_exists('pageNotFound')) {
     function pageNotFound($req_path = null)
     {
         $theme = Theme::uses('margo')->layout('margo');
-        $theme->setTitle('SiamiTs :: ' . $req_path);
+        $theme->setTitle('iNewGen :: ' . $req_path);
         $theme->setDescription($req_path . ' description');
 
         $script = $theme->scopeWithLayout('errors.jscript_missing')->content();

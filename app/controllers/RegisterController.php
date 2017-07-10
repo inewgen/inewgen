@@ -11,7 +11,7 @@ class RegisterController extends BaseController
     public function index()
     {
         $theme = Theme::uses('margo')->layout('margo');
-        $theme->setTitle('SiamiTs :: Register');
+        $theme->setTitle('iNewGen :: Register');
         $theme->setDescription('Register description');
 
         $view = array(

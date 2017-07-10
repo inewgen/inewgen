@@ -257,7 +257,7 @@ function getSubbanners()
                     <span>Cool</span>
                     <span>Great</span>
                   </span>
-                    SiamiTs Website is Ready for <br/>Learning Society <strong>or</strong> Creative Society
+                    iNewGen Website is Ready for <br/>Learning Society <strong>or</strong> Creative Society
                 </h1>
                 <!-- End Animations Text -->
 
