@@ -5,7 +5,7 @@
             
             <div class="error-page">
                 <div align="center">
-                    <img alt="Footer Logo" class="img-responsive" src="<?php echo URL::to('public/themes/margo');?>/assets/img/siamits_logo.png">
+                    <img alt="Footer Logo" class="img-responsive" src="<?php echo URL::to('public/themes/margo');?>/assets/img/inewgen_logo_full.png">
                 </div>
                 <h1>404</h1>
                 <h3>File not Found</h3>

@@ -82,7 +82,7 @@
 					
 					<div class="error-page">
                     	<div align="center">
-                        	<img alt="Footer Logo" class="img-responsive" src="http://www.inewgen.loc/public/themes/margo/images/siamits_logo.png">
+                        	<img alt="Footer Logo" class="img-responsive" src="http://www.inewgen.loc/public/themes/margo/images/inewgen_logo_full.png">
                         </div>
 						<h1>404</h1>
 						<h3>File not Found</h3>

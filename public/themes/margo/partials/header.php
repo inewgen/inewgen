@@ -75,7 +75,7 @@
                 <!-- End Toggle Nav Link For Mobiles -->
                 <a class="navbar-brand" href="<?php echo URL::to('');?>">
                     <!-- Logo color #01952e #000000 -->
-                    <img alt="" src="<?php echo URL::to('public/themes/margo');?>/assets/img/siamits_logo_140x40.png">
+                    <img alt="" src="<?php echo URL::to('public/themes/margo');?>/assets/img/inewgen_logo_full_140x40.png">
                 </a>
             </div>
             <div class="navbar-collapse collapse">
