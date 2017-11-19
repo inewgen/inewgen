@@ -12,7 +12,7 @@
             height: '480',
             width: '1140',
             videoId: '<?php echo $code; ?>',
-            playerVars: { 'autoplay': 1 },
+            playerVars: { 'autoplay': 1, 'controls': 1 },
             events: {
                 'onReady': onPlayerReady,
                 'onStateChange': onPlayerStateChange
