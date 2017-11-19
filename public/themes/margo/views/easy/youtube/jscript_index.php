@@ -9,10 +9,10 @@
     function onYouTubePlayerAPIReady() {
 <?php if (!empty($code)): ?>
         player = new YT.Player('player', {
-            height: '450',
-            width: '1100',
+            height: '480',
+            width: '1140',
             videoId: '<?php echo $code; ?>',
-            playerVars: { 'autoplay': 1, 'controls': 0 },
+            playerVars: { 'autoplay': 1 },
             events: {
                 'onReady': onPlayerReady,
                 'onStateChange': onPlayerStateChange
