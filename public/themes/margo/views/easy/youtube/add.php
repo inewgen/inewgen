@@ -27,7 +27,7 @@
                       <button type="submit" class="btn btn-primary">Submit</button>
                     </form>
                     <hr/>
-                    <h3>Songs in queue</h3>
+                    <h3>Songs in queue (<a href="<?php echo url('youtube'); ?>">เล่นเพลง</a>)</h3>
                     <table id="example" border="1" style="border-color: lightgray;" class="display" cellspacing="0" width="100%">
                         <thead>
                             <tr style="background-color: lightgray">

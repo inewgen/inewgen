@@ -7,7 +7,7 @@
                 <div class="widget widget-search">
                     <div id="player"></div>
                     <hr/>
-                    <h3>Songs in queue</h3>
+                    <h3>Songs in queue (<a href="<?php echo url('youtube/add'); ?>">+ เพิ่มเพลง</a>)</h3>
                     <table id="example" border="1" style="border-color: lightgray;" class="display" cellspacing="0" width="100%">
                         <thead>
                             <tr style="background-color: lightgray">
@@ -50,6 +50,11 @@
 <?php endif; ?>
                         </tbody>
                     </table>
+<?php if (!isset($youtube) || !is_array($youtube)): ?>
+                    <div style="margin-top: 200px; text-align: center">
+                        <button onclick="window.location.href='<?php echo url('youtube');?>'" type="button" class="btn btn-primary"> โหลดเพลงใหม่ </button>
+                    </div>
+<?php endif; ?>
                 </div>
             </div>
 

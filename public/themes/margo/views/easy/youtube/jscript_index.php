@@ -34,4 +34,20 @@
 <?php endif; ?>
         }
     }
+
+$(document).ready(function() {
+
+<?php if (empty($id)): ?>
+    var counter = 0;
+    var i = setInterval(function(){
+        window.location.href = '<?php echo url('youtube');?>';
+
+        counter++;
+        if(counter === 10) {
+            clearInterval(i);
+        }
+    }, 5000);
+<?php endif; ?>
+
+} );
 </script>
