@@ -5,10 +5,7 @@
             <div class="col-md-12 page-content">
                 <!-- Search Widget -->
                 <div class="widget widget-search">
-                    <form action="http://www.inewgen.com/clips" method="get">
-                        <div id="player"></div>
-                    </form>
-
+                    <div id="player"></div>
                     <hr/>
                     <h3>Songs in queue</h3>
                     <table id="example" border="1" style="border-color: lightgray;" class="display" cellspacing="0" width="100%">
