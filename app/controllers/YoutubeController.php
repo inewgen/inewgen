@@ -1,6 +1,12 @@
 <?php
 class YoutubeController extends BaseController
 {
+    public function __construct(
+        YoutubeRepositoryInterface $youtubeRepository)
+    {
+        $this->youtubeRepository = $youtubeRepository;
+    }
+
     /**
      * The layout that should be used for responses.
      */
@@ -28,5 +34,30 @@ class YoutubeController extends BaseController
         $theme->asset()->container('inline_script')->usePath()->writeContent('custom-inline-script', $script);
 
         return $theme->scopeWithLayout('youtube.index', $view)->render();
+    }
+
+    public function add()
+    {
+        $data = Input::all();
+
+        $theme = Theme::uses('margo')->layout('easy');
+        $theme->setTitle('iNewGen :: Clips VDO');
+        $theme->setDescription('Clips VDO description');
+
+        $view = array(
+            'data' => $data
+        );
+
+        $parameters = array(
+            'perpage' => '100',
+        );
+
+        $results = $this->youtubeRepository->get($parameters);
+        $view['youtube'] = array_get($results, 'data.record', array());
+alert($view);
+        $script = $theme->scopeWithLayout('youtube.jscript_add', $view)->content();
+        $theme->asset()->container('inline_script')->usePath()->writeContent('custom-inline-script', $script);
+
+        return $theme->scopeWithLayout('youtube.add', $view)->render();
     }
 }

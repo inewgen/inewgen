@@ -31,6 +31,7 @@ if (routeLoad($prefix . 'clips', $req_path)) {
 
 if (routeLoad($prefix . 'youtube', $req_path)) {
     Route::get('youtube', 'YoutubeController@Index');
+    Route::get('youtube/add', 'YoutubeController@add');
 }
 
 if (routeLoad($prefix . 'comments', $req_path)) {
