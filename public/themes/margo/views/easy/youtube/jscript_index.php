@@ -9,7 +9,7 @@
     function onYouTubePlayerAPIReady() {
 <?php if (!empty($code)): ?>
         player = new YT.Player('player', {
-            height: '500',
+            height: '480',
             width: '1140',
             videoId: '<?php echo $code; ?>',
             playerVars: { 'autoplay': 1 },
