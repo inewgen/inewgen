@@ -29,6 +29,10 @@ if (routeLoad($prefix . 'clips', $req_path)) {
     Route::get('clips', 'ClipsController@Index');
 }
 
+if (routeLoad($prefix . 'youtube', $req_path)) {
+    Route::get('youtube/player', 'YoutubeController@Index');
+}
+
 if (routeLoad($prefix . 'comments', $req_path)) {
     Route::get('comments/ajax', 'CommentsController@ajaxComments');
 }
