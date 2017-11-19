@@ -54,10 +54,33 @@ class YoutubeController extends BaseController
 
         $results = $this->youtubeRepository->get($parameters);
         $view['youtube'] = array_get($results, 'data.record', array());
-alert($view);
+
         $script = $theme->scopeWithLayout('youtube.jscript_add', $view)->content();
         $theme->asset()->container('inline_script')->usePath()->writeContent('custom-inline-script', $script);
 
         return $theme->scopeWithLayout('youtube.add', $view)->render();
+    }
+
+    public function create()
+    {
+        $data = Input::all();
+        $url = array_get($data, 'url', '');
+        $code_split = explode('v=', $url);
+        $code = array_get($code_split, '1', '');
+
+        $parameters = array(
+            'code' => $code,
+            'name' => array_get($data, 'name', ''),
+            'artist' => array_get($data, 'artist', ''),
+            'url' => $url,
+            'description' => array_get($data, 'description', ''),
+            'user_id' => array_get($data, 'user_id', '1'),
+            'type' => array_get($data, 'type', '1'),
+            'status' => array_get($data, 'status', '1')
+        );
+
+        $results = $this->youtubeRepository->create($parameters);
+        // alert($results);die();
+        return Redirect::to('/youtube/add');
     }
 }

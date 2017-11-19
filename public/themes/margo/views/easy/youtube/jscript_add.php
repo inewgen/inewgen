@@ -28,4 +28,8 @@
             alert('done');
         }
     }
+
+    $(document).ready(function() {
+	    $('#example').DataTable();
+	} );
 </script>

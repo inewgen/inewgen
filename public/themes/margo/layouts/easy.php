@@ -24,6 +24,7 @@
     <link rel="stylesheet" href="<?php echo URL::to('public/themes/margo');?>/assets/bootstrap/css/bootstrap.min.css" type="text/css" media="screen">
     <!-- Font Awesome CSS -->
     <link rel="stylesheet" href="<?php echo URL::to('public/themes/margo');?>/assets/css/font-awesome.min.css" type="text/css" media="screen">
+    <link media="all" type="text/css" rel="stylesheet" href="<?php echo URL::to('public/themes/margo');?>/assets/plugins/datatables/dataTables.bootstrap.css">
     <script type="text/javascript" src="<?php echo URL::to('public/themes/margo');?>/assets/js/jquery-2.1.1.min.js"></script>
 
 </head>

@@ -13,13 +13,13 @@ class YoutubeRepository implements YoutubeRepositoryInterface
 
     public function get($parameters)
     {
-        $keycache = getKeyCache($this->pathcache . '.get', $parameters);
+        // $keycache = getKeyCache($this->pathcache . '.get', $parameters);
 
         // Get cache
-        $response = $this->cachedRepository->get($keycache);
-        if ($response) {
-            return $response;
-        }
+        // $response = $this->cachedRepository->get($keycache);
+        // if ($response) {
+        //     return $response;
+        // }
 
         if (isset($_GET['nocache'])) {
             $parameters['nocache'] = $_GET['nocache'];
@@ -30,7 +30,31 @@ class YoutubeRepository implements YoutubeRepositoryInterface
         $response = json_decode($results, true);
 
         // Save cache
-        $this->cachedRepository->put($keycache, $response);
+        // $this->cachedRepository->put($keycache, $response);
+
+        return $response;
+    }
+
+    public function create($parameters)
+    {
+        // $keycache = getKeyCache($this->pathcache . '.get', $parameters);
+
+        // Get cache
+        // $response = $this->cachedRepository->get($keycache);
+        // if ($response) {
+        //     return $response;
+        // }
+
+        // if (isset($_GET['nocache'])) {
+        //     $parameters['nocache'] = $_GET['nocache'];
+        // }
+
+        $client   = new Client(Config::get('url.inewgen-api'));
+        $results  = $client->post('youtube', $parameters);
+        $response = json_decode($results, true);
+
+        // Save cache
+        // $this->cachedRepository->put($keycache, $response);
 
         return $response;
     }
