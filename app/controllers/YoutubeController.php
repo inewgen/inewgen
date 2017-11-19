@@ -30,6 +30,14 @@ class YoutubeController extends BaseController
             'data' => $data
         );
 
+        $parameters = array(
+            'perpage' => '100',
+            'status' => '1',
+        );
+
+        $results = $this->youtubeRepository->get($parameters);
+        $view['youtube'] = array_get($results, 'data.record', array());
+
         $script = $theme->scopeWithLayout('youtube.jscript_index', $view)->content();
         $theme->asset()->container('inline_script')->usePath()->writeContent('custom-inline-script', $script);
 
@@ -50,6 +58,7 @@ class YoutubeController extends BaseController
 
         $parameters = array(
             'perpage' => '100',
+            'status' => '1',
         );
 
         $results = $this->youtubeRepository->get($parameters);
@@ -82,5 +91,16 @@ class YoutubeController extends BaseController
         $results = $this->youtubeRepository->create($parameters);
         // alert($results);die();
         return Redirect::to('/youtube/add');
+    }
+
+    public function update($id)
+    {
+        $parameters = array(
+            'status' => 0
+        );
+
+        $results = $this->youtubeRepository->update($id, $parameters);
+        // alert($results);die();
+        return Redirect::to('/youtube');
     }
 }

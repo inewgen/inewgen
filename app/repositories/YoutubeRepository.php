@@ -58,4 +58,28 @@ class YoutubeRepository implements YoutubeRepositoryInterface
 
         return $response;
     }
+
+    public function update($id, $parameters)
+    {
+        // $keycache = getKeyCache($this->pathcache . '.get', $parameters);
+
+        // Get cache
+        // $response = $this->cachedRepository->get($keycache);
+        // if ($response) {
+        //     return $response;
+        // }
+
+        // if (isset($_GET['nocache'])) {
+        //     $parameters['nocache'] = $_GET['nocache'];
+        // }
+
+        $client   = new Client(Config::get('url.inewgen-api'));
+        $results  = $client->put('youtube/' . $id, $parameters);
+        $response = json_decode($results, true);
+
+        // Save cache
+        // $this->cachedRepository->put($keycache, $response);
+
+        return $response;
+    }
 }
