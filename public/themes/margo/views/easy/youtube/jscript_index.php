@@ -49,6 +49,8 @@
 
 $(document).ready(function() {
 
+    $('#example').DataTable();
+    
 <?php if (empty($id)): ?>
     var counter = 0;
     var i = setInterval(function(){
