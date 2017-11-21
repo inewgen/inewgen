@@ -9,20 +9,25 @@
                     <form action="<?php url('youtube/add'); ?>" style="background-color: lightgray; padding: 10px;" method="post">
                       <div class="form-group">
                         <label for="exampleInputEmail1">Youtube url <span style="color: red">*</span></label>
-                        <input name="url" type="url" class="form-control" aria-describedby="emailHelp" placeholder="Enter youtube url">
+                        <input id="url" name="url" type="url" class="form-control" aria-describedby="emailHelp" placeholder="Enter youtube url">
                         <!-- <small id="emailHelp" class="form-text text-muted">We'll never share your email with anyone else.</small> -->
                       </div>
                       <div class="form-group">
                         <label for="exampleInputPassword1">Song name</label>
-                        <input name="name" type="text" class="form-control" placeholder="Song name">
+                        <input id="name" name="name" type="text" class="form-control" placeholder="Song name">
                       </div>
                       <div class="form-group">
                         <label for="exampleInputPassword1">Artist</label>
-                        <input name="artist" type="text" class="form-control" placeholder="Artist name">
+                        <input id="artist" name="artist" type="text" class="form-control" placeholder="Artist name">
+                      </div>
+                      <div class="form-group">
+                        <label for="exampleInputPassword1">Image</label>
+                        <input id="image" name="image" type="text" class="form-control" placeholder="Image url">
+                        <img style="display: none;" id="thumbnail_url" src="" width="120" height="90" />
                       </div>
                       <div class="form-group">
                         <label for="exampleInputPassword1">Description</label>
-                        <input name="description" type="password" class="form-control" placeholder="">
+                        <input id="description" name="description" type="text" class="form-control" placeholder="">
                       </div>
                       <button type="submit" class="btn btn-primary">Submit</button>
                     </form>
@@ -36,11 +41,12 @@
                                 <th>name</th>
                                 <th>artist</th>
                                 <th>url</th>
+                                <th>image</th>
                                 <th>description</th>
                                 <!-- <th>user_id</th> -->
                                 <th>position</th>
                                 <!-- <th>type</th> -->
-                                <th>status</th>
+                                <!-- <th>status</th> -->
                                 <!-- <th>updated_at</th> -->
                                 <th>created_at</th>
                                 <th>action</th>
@@ -75,11 +81,12 @@
                                         <?php echo array_get($value, 'code', ''); ?>
                                     </a>
                                 </td>
+                                <td><?php echo array_get($value, 'image', ''); ?></td>
                                 <td><?php echo array_get($value, 'description', ''); ?></td>
                                 <!-- <td><?php echo array_get($value, 'user_id', ''); ?></td> -->
                                 <td><?php echo array_get($value, 'position', ''); ?></td>
                                 <!-- <td><?php echo array_get($value, 'type', ''); ?></td> -->
-                                <td><?php echo array_get($value, 'status', ''); ?></td>
+                                <!-- <td><?php echo array_get($value, 'status', ''); ?></td> -->
                                 <!-- <td><?php echo array_get($value, 'updated_at', ''); ?></td> -->
                                 <td><?php echo array_get($value, 'created_at', ''); ?></td>
                                 <td><button onclick="window.location.href='<?php echo url('youtube/update') . '/' . array_get($value, 'id', '');?>'" type="button" class="btn btn-danger"> ลบเพลง </button></td>

@@ -86,6 +86,7 @@ class YoutubeController extends BaseController
                 'name' => array_get($data, 'name', ''),
                 'artist' => array_get($data, 'artist', ''),
                 'url' => $url,
+                'image' => array_get($data, 'image', ''),
                 'description' => array_get($data, 'description', ''),
                 'user_id' => array_get($data, 'user_id', '1'),
                 'type' => array_get($data, 'type', '1'),

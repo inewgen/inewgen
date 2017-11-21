@@ -31,5 +31,36 @@
 
     $(document).ready(function() {
 	    $('#example').DataTable();
+
+        $('#url').blur(function() {
+            var url_string = $(this).val();
+            if (url_string != '') {
+                var url_new = new URL(url_string);
+                var id = url_new.searchParams.get("v");
+                var url = 'https://www.youtube.com/oembed?url=http://www.youtube.com/watch?v=' + id +'&format=json';
+                $.ajax({ 
+                    type: 'GET', 
+                    url: url,
+                    data: { get_param: 'value' }, 
+                    dataType: 'json',
+                    success: function (data) {
+                        if (typeof data.title != 'undefinded') {
+                            $('#name').val(data.title);
+                        }
+
+                        if (typeof data.author_name != 'undefinded') {
+                            $('#artist').val(data.author_name);
+                        }
+
+                        if (typeof data.thumbnail_url != 'undefinded') {
+                            $('#image').val(data.thumbnail_url);
+                            $('#thumbnail_url').attr('src', data.thumbnail_url);
+                            $('#thumbnail_url').show();
+                        }
+                        console.log(data);
+                    }
+                });
+            }
+        })
 	} );
 </script>
