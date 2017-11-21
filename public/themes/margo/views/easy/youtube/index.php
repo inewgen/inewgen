@@ -16,6 +16,7 @@
                                 <th>name</th>
                                 <th>artist</th>
                                 <th>url</th>
+                                <th>image</th>
                                 <th>description</th>
                                 <!-- <th>user_id</th> -->
                                 <th>position</th>
@@ -39,6 +40,7 @@
                                         <?php echo array_get($value, 'code', ''); ?>
                                     </a>
                                 </td>
+                                <td><img id="thumbnail_url" src="<?php echo array_get($value, 'image', ''); ?>" width="120" height="90" /></td>
                                 <td><?php echo array_get($value, 'description', ''); ?></td>
                                 <!-- <td><?php echo array_get($value, 'user_id', ''); ?></td> -->
                                 <td><?php echo array_get($value, 'position', ''); ?></td>
