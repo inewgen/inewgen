@@ -74,21 +74,26 @@ class YoutubeController extends BaseController
     {
         $data = Input::all();
         $url = array_get($data, 'url', '');
-        $code_split = explode('v=', $url);
-        $code = array_get($code_split, '1', '');
 
-        $parameters = array(
-            'code' => $code,
-            'name' => array_get($data, 'name', ''),
-            'artist' => array_get($data, 'artist', ''),
-            'url' => $url,
-            'description' => array_get($data, 'description', ''),
-            'user_id' => array_get($data, 'user_id', '1'),
-            'type' => array_get($data, 'type', '1'),
-            'status' => array_get($data, 'status', '1')
-        );
+        $parts = parse_url($url);
+        parse_str($parts['query'], $query);
 
-        $results = $this->youtubeRepository->create($parameters);
+        if (!empty($query['v'])) {
+            $code = $query['v'];
+
+            $parameters = array(
+                'code' => $code,
+                'name' => array_get($data, 'name', ''),
+                'artist' => array_get($data, 'artist', ''),
+                'url' => $url,
+                'description' => array_get($data, 'description', ''),
+                'user_id' => array_get($data, 'user_id', '1'),
+                'type' => array_get($data, 'type', '1'),
+                'status' => array_get($data, 'status', '1')
+            );
+
+            $results = $this->youtubeRepository->create($parameters);
+        }
         // alert($results);die();
         return Redirect::to('/youtube/add');
     }
