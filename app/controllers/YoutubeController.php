@@ -63,7 +63,7 @@ class YoutubeController extends BaseController
 
         $results = $this->youtubeRepository->get($parameters);
         $view['youtube'] = array_get($results, 'data.record', array());
-alert($view);
+
         $script = $theme->scopeWithLayout('youtube.jscript_add', $view)->content();
         $theme->asset()->container('inline_script')->usePath()->writeContent('custom-inline-script', $script);
 

@@ -44,7 +44,7 @@
                                 <th>image</th>
                                 <th>description</th>
                                 <!-- <th>user_id</th> -->
-                                <th>position</th>
+                                <!-- <th>position</th> -->
                                 <!-- <th>type</th> -->
                                 <!-- <th>status</th> -->
                                 <!-- <th>updated_at</th> -->
@@ -84,7 +84,7 @@
                                 <td><img id="thumbnail_url" src="<?php echo array_get($value, 'image', ''); ?>" width="120" height="90" /></td>
                                 <td><?php echo array_get($value, 'description', ''); ?></td>
                                 <!-- <td><?php echo array_get($value, 'user_id', ''); ?></td> -->
-                                <td><?php echo array_get($value, 'position', ''); ?></td>
+                                <!-- <td><?php echo array_get($value, 'position', ''); ?></td> -->
                                 <!-- <td><?php echo array_get($value, 'type', ''); ?></td> -->
                                 <!-- <td><?php echo array_get($value, 'status', ''); ?></td> -->
                                 <!-- <td><?php echo array_get($value, 'updated_at', ''); ?></td> -->
