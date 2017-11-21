@@ -105,7 +105,8 @@ class YoutubeController extends BaseController
         );
 
         $results = $this->youtubeRepository->update($id, $parameters);
+        $referer = $_SERVER['HTTP_REFERER'];
         // alert($results);die();
-        return Redirect::to('/youtube');
+        return Redirect::to($referer);
     }
 }
