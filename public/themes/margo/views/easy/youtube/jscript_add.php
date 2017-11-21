@@ -30,6 +30,8 @@
     }
 
     $(document).ready(function() {
+        $('#url').focus();
+
 	    $('#example').DataTable();
 
         $('#url').blur(function() {
@@ -46,18 +48,28 @@
                     success: function (data) {
                         if (typeof data.title != 'undefinded') {
                             $('#name').val(data.title);
-                        }
 
-                        if (typeof data.author_name != 'undefinded') {
-                            $('#artist').val(data.author_name);
-                        }
+                            if (typeof data.author_name != 'undefinded') {
+                                $('#artist').val(data.author_name);
+                            }
 
-                        if (typeof data.thumbnail_url != 'undefinded') {
-                            $('#image').val(data.thumbnail_url);
-                            $('#thumbnail_url').attr('src', data.thumbnail_url);
-                            $('#thumbnail_url').show();
+                            if (typeof data.thumbnail_url != 'undefinded') {
+                                $('#image').val(data.thumbnail_url);
+                                $('#thumbnail_url').attr('src', data.thumbnail_url);
+                                $('#thumbnail_url').show();
+                            }
+                            $('#btn_submit').prop('disabled', false);
+                        } else {
+                            console.log('error,', data);
                         }
-                        console.log(data);
+                        console.log('data', data);
+                    },
+                    error: function (jqXHR, textStatus, errorThrown) {
+                        if (jqXHR.status == 500) {
+                            alert('Internal error: ' + jqXHR.responseText);
+                        } else {
+                            alert('Unexpected error.');
+                        }
                     }
                 });
             }

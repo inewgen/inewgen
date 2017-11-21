@@ -5,9 +5,23 @@
             <div class="col-md-12 page-content">
                 <!-- Search Widget -->
                 <div class="widget widget-search">
+                <?php   if (empty(array_get($youtube, '0.name', ''))): ?>
+                    <div class="text-center" style="margin-top: 200px">
+                        <h3>ไม่มีเพลงในรายการ (<a target="_blank" href="<?php echo url('youtube/add'); ?>">+ เพิ่มเพลง</a>)</h3>
+                    </div>
+                <?php   else: ?>
                     <div id="player"></div>
+                    <div>
+                        <h3>
+                        <?php echo array_get($youtube, '0.name', ''); ?>
+                        <span style="color: grey"><?php echo array_get($youtube, '0.artist', ''); ?></span>
+                        <?php if (!empty(array_get($youtube, '0.description', ''))): ?>
+                            <b style="color: red">(<?php echo array_get($youtube, '0.description', ''); ?>)</b>
+                        <?php endif; ?>
+                        </h3>
+                    </div>
                     <hr/>
-                    <h3>รายชื่อเพลงที่เพิ่มไว้ (<a href="<?php echo url('youtube/add'); ?>">+ เพิ่มเพลง</a>)</h3>
+                    <h3>รายชื่อเพลงที่เพิ่มไว้ (<a target="_blank" href="<?php echo url('youtube/add'); ?>">+ เพิ่มเพลง</a>)</h3>
                     <table id="example" border="1" style="border-color: lightgray;" class="display" cellspacing="0" width="100%">
                         <thead>
                             <tr style="background-color: lightgray">
@@ -61,6 +75,7 @@
                         <button onclick="window.location.href='<?php echo url('youtube');?>'" type="button" class="btn btn-primary"> โหลดเพลงใหม่ </button>
                     </div>
 <?php endif; ?>
+                <?php   endif; ?>
                 </div>
             </div>
 

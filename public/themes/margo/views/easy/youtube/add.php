@@ -29,10 +29,10 @@
                         <label for="exampleInputPassword1">รายละเอียด</label>
                         <input id="description" name="description" type="text" class="form-control" placeholder="">
                       </div>
-                      <button type="submit" class="btn btn-primary">บันทึก</button>
+                      <button id="btn_submit" disabled="disabled" type="submit" class="btn btn-primary">บันทึก</button>
                     </form>
                     <hr/>
-                    <h3>รายชื่อเพลงที่เพิ่มไว้ (<a href="<?php echo url('youtube'); ?>">เล่นเพลง</a>)</h3>
+                    <h3>รายชื่อเพลงที่เพิ่มไว้ (<a target="_blank" href="<?php echo url('youtube'); ?>">เล่นเพลง</a>)</h3>
                     <table id="example" border="1" style="border-color: lightgray;" class="display" cellspacing="0" width="100%">
                         <thead>
                             <tr style="background-color: lightgray">
