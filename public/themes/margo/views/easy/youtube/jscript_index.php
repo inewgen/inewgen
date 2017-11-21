@@ -15,9 +15,20 @@
             playerVars: { 'autoplay': 1, 'controls': 1 },
             events: {
                 'onReady': onPlayerReady,
-                'onStateChange': onPlayerStateChange
+                'onStateChange': onPlayerStateChange,
+                'onError': onPlayerError
             }
         });
+<?php endif; ?>
+    }
+
+    function onPlayerError(event) {
+      // alert('Error: '+event.data);
+      player.stopVideo();
+      player.loadVideoById('');
+      
+<?php if (!empty($id)): ?>
+            window.location.href = '<?php echo url('youtube/update/' . $id);?>';
 <?php endif; ?>
     }
 
