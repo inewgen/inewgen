@@ -23,6 +23,7 @@
                                 <th>status</th>
                                 <!-- <th>updated_at</th> -->
                                 <th>created_at</th>
+                                <th>action</th>
                             </tr>
                         </thead>
                         <tbody>
@@ -45,6 +46,7 @@
                                 <td><?php echo array_get($value, 'status', ''); ?></td>
                                 <!-- <td><?php echo array_get($value, 'updated_at', ''); ?></td> -->
                                 <td><?php echo array_get($value, 'created_at', ''); ?></td>
+                                <td><button onclick="window.location.href='<?php echo url('youtube/update/') . array_get($value, 'id', '');?>'" type="button" class="btn btn-danger"> ลบเพลง </button></td>
                             </tr>
 <?php endforeach; ?>
 <?php endif; ?>
