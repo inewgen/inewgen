@@ -29,6 +29,14 @@
         }
     }
 
+    function setFormEmpty() {
+        $('#name').val('');
+        $('#artist').val('');
+        $('#image').val('');
+        $('#thumbnail_url').attr('src', '');
+        $('#thumbnail_url').hide();
+    }
+
     $(document).ready(function() {
         $('#url').focus();
 
@@ -36,43 +44,56 @@
 
         $('#url').blur(function() {
             var url_string = $(this).val();
+            url_string = url_string.trim();
+            setFormEmpty();
+
             if (url_string != '') {
-                var url_new = new URL(url_string);
-                var id = url_new.searchParams.get("v");
-                var url = '<?php echo url('youtube'); ?>/detail/' + id;
-                // var url = 'https://www.youtube.com/oembed?url=http://www.youtube.com/watch?v=' + id +'&format=json';
-                $.ajax({ 
-                    type: 'GET', 
-                    url: url,
-                    data: { get_param: 'value' }, 
-                    dataType: 'json',
-                    success: function (data) {
-                        if (typeof data.title != 'undefinded') {
-                            $('#name').val(data.title);
+                var type1 = 'www.youtube.com';
+                var type2 = 'youtu.be';
 
-                            if (typeof data.author_name != 'undefinded') {
-                                $('#artist').val(data.author_name);
-                            }
+                if (url_string.indexOf(type1) !== -1) {
+                    var url_new = new URL(url_string);
+                    var id = url_new.searchParams.get("v");
+                } else if (url_string.indexOf(type2) !== -1) {
+                    var parts = url_string.split("youtu.be/");
+                    var id = parts[1];
+                }
 
-                            if (typeof data.thumbnail_url != 'undefinded') {
-                                $('#image').val(data.thumbnail_url);
-                                $('#thumbnail_url').attr('src', data.thumbnail_url);
-                                $('#thumbnail_url').show();
+                if (typeof id != "undefined" && id != null) {
+                    var url = '<?php echo url('youtube'); ?>/detail/' + id;
+                    $.ajax({ 
+                        type: 'GET', 
+                        url: url,
+                        data: { get_param: 'value' }, 
+                        dataType: 'json',
+                        success: function (data) {
+                            if (data != null && data.title != null && typeof data.title != 'undefinded') {
+                                $('#name').val(data.title);
+
+                                if (typeof data.author_name != 'undefinded') {
+                                    $('#artist').val(data.author_name);
+                                }
+
+                                if (typeof data.thumbnail_url != 'undefinded') {
+                                    $('#image').val(data.thumbnail_url);
+                                    $('#thumbnail_url').attr('src', data.thumbnail_url);
+                                    $('#thumbnail_url').show();
+                                }
+                                $('#btn_submit').prop('disabled', false);
+                            } else {
+                                console.log('error,', data);
                             }
-                            $('#btn_submit').prop('disabled', false);
-                        } else {
-                            console.log('error,', data);
+                            console.log('data', data);
+                        },
+                        error: function (jqXHR, textStatus, errorThrown) {
+                            if (jqXHR.status == 500) {
+                                console.log('Internal error: ' + jqXHR.responseText);
+                            } else {
+                                console.log('Unexpected error.');
+                            }
                         }
-                        console.log('data', data);
-                    },
-                    // error: function (jqXHR, textStatus, errorThrown) {
-                    //     if (jqXHR.status == 500) {
-                    //         alert('Internal error: ' + jqXHR.responseText);
-                    //     } else {
-                    //         alert('Unexpected error.');
-                    //     }
-                    // }
-                });
+                    });
+                }
             }
         })
 	} );

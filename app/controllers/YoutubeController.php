@@ -75,12 +75,19 @@ class YoutubeController extends BaseController
         $data = Input::all();
         $url = array_get($data, 'url', '');
 
-        $parts = parse_url($url);
-        parse_str($parts['query'], $query);
+        $type1 = 'www.youtube.com';
+        $type2 = 'youtu.be';
 
-        if (!empty($query['v'])) {
+        if (strpos($url, $type1) !== false) {
+            $parts = parse_url($url);
+            parse_str($parts['query'], $query);
             $code = $query['v'];
+        } elseif (strpos($url, $type2) !== false) {
+            $parts = explode('youtu.be/', $url);
+            $code = $parts[1];
+        }
 
+        if (isset($code)) {
             $parameters = array(
                 'code' => $code,
                 'name' => array_get($data, 'name', ''),
