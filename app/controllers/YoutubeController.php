@@ -110,4 +110,16 @@ class YoutubeController extends BaseController
         // alert($results);die();
         return Redirect::to($referer);
     }
+
+    public function detail($id)
+    {
+        $parameters = array(
+            'v' => $id,
+            'format' => 'json'
+        );
+
+        $results = $this->youtubeRepository->detail($parameters);
+
+        return json_encode($results);
+    }
 }

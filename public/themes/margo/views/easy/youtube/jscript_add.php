@@ -39,7 +39,8 @@
             if (url_string != '') {
                 var url_new = new URL(url_string);
                 var id = url_new.searchParams.get("v");
-                var url = 'https://www.youtube.com/oembed?url=http://www.youtube.com/watch?v=' + id +'&format=json';
+                var url = 'http://www.inewgen.dev/youtube/detail/' + id;
+                // var url = 'https://www.youtube.com/oembed?url=http://www.youtube.com/watch?v=' + id +'&format=json';
                 $.ajax({ 
                     type: 'GET', 
                     url: url,
@@ -64,13 +65,13 @@
                         }
                         console.log('data', data);
                     },
-                    error: function (jqXHR, textStatus, errorThrown) {
-                        if (jqXHR.status == 500) {
-                            alert('Internal error: ' + jqXHR.responseText);
-                        } else {
-                            alert('Unexpected error.');
-                        }
-                    }
+                    // error: function (jqXHR, textStatus, errorThrown) {
+                    //     if (jqXHR.status == 500) {
+                    //         alert('Internal error: ' + jqXHR.responseText);
+                    //     } else {
+                    //         alert('Unexpected error.');
+                    //     }
+                    // }
                 });
             }
         })

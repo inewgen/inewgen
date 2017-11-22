@@ -34,6 +34,7 @@ if (routeLoad($prefix . 'youtube', $req_path)) {
     Route::get('youtube/add', 'YoutubeController@add');
     Route::post('youtube/add', 'YoutubeController@create');
     Route::get('youtube/update/{id}', 'YoutubeController@update');
+    Route::get('youtube/detail/{id}', 'YoutubeController@detail');
 }
 
 if (routeLoad($prefix . 'comments', $req_path)) {

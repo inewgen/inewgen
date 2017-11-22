@@ -82,4 +82,28 @@ class YoutubeRepository implements YoutubeRepositoryInterface
 
         return $response;
     }
+
+    public function detail($parameters)
+    {
+        // $keycache = getKeyCache($this->pathcache . '.get', $parameters);
+
+        // Get cache
+        // $response = $this->cachedRepository->get($keycache);
+        // if ($response) {
+        //     return $response;
+        // }
+
+        // if (isset($_GET['nocache'])) {
+        //     $parameters['nocache'] = $_GET['nocache'];
+        // }
+        $url = 'https://www.youtube.com/oembed?url=http://www.youtube.com';
+        $client   = new Client($url);
+        $results  = $client->get('watch?v=' . $parameters['v'] . '&format=json', $parameters);
+        $response = json_decode($results, true);
+
+        // Save cache
+        // $this->cachedRepository->put($keycache, $response);
+
+        return $response;
+    }
 }

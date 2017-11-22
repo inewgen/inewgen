@@ -29,7 +29,7 @@
                         <label for="exampleInputPassword1">รายละเอียด</label>
                         <input id="description" name="description" type="text" class="form-control" placeholder="">
                       </div>
-                      <button id="btn_submit" disabled="disabled" type="submit" class="btn btn-primary">บันทึก</button>
+                      <button id="btn_submit" type="submit" class="btn btn-primary">บันทึก</button>
                     </form>
                     <hr/>
                     <h3>รายชื่อเพลงที่เพิ่มไว้ (<a target="_blank" href="<?php echo url('youtube'); ?>">เล่นเพลง</a>)</h3>

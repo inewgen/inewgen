@@ -5,7 +5,7 @@
             <div class="col-md-12 page-content">
                 <!-- Search Widget -->
                 <div class="widget widget-search">
-                <?php   if (empty(array_get($youtube, '0.name', ''))): ?>
+                <?php   if (empty(array_get($youtube, '0.code', ''))): ?>
                     <div class="text-center" style="margin-top: 200px">
                         <h3>ไม่มีเพลงในรายการ (<a target="_blank" href="<?php echo url('youtube/add'); ?>">+ เพิ่มเพลง</a>)</h3>
                     </div>
