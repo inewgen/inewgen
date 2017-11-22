@@ -39,7 +39,7 @@
             if (url_string != '') {
                 var url_new = new URL(url_string);
                 var id = url_new.searchParams.get("v");
-                var url = 'http://www.inewgen.dev/youtube/detail/' + id;
+                var url = '<?php echo url('youtube'); ?>/detail/' + id;
                 // var url = 'https://www.youtube.com/oembed?url=http://www.youtube.com/watch?v=' + id +'&format=json';
                 $.ajax({ 
                     type: 'GET', 
