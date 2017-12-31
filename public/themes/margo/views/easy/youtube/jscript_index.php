@@ -60,7 +60,7 @@ $(document).ready(function() {
         if(counter === 10) {
             clearInterval(i);
         }
-    }, 10000);
+    }, 5000);
 <?php endif; ?>
 
 } );
