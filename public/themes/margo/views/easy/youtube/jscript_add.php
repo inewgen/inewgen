@@ -37,13 +37,7 @@
         $('#thumbnail_url').hide();
     }
 
-    $(document).ready(function() {
-        $('#url').focus();
-
-	    $('#example').DataTable();
-
-        $('#url').blur(function() {
-            var url_string = $(this).val();
+    function getVideoData(url_string) {
             url_string = url_string.trim();
             setFormEmpty();
 
@@ -94,6 +88,24 @@
                         }
                     });
                 }
+            }
+    }
+
+    $(document).ready(function() {
+        $('#url').focus();
+
+	    $('#example').DataTable();
+
+<?php if (!empty($data['url'])): ?>
+        var url_string = '<?php echo $data['url'];?>';
+        $('#url').val(url_string);
+        getVideoData(url_string);
+<?php endif; ?>
+
+        $('#url').blur(function() {
+            if ('<?php echo !empty($data['url']) ? $data['url'] : '';?>' != $(this).val()) {
+                var url_string = $(this).val();
+                getVideoData(url_string);
             }
         })
 	} );

@@ -87,6 +87,7 @@
                                     <span><?php echo $channelTitle;?></span>
                             <?php endif;?>
                                     <span><font color="color">Youtube</font> <span class="hide-sm"><i class="fa fa-youtube-square fa-4"></i>&nbsp;&nbsp;</span> 
+                                    <a target="_blank" href="<?php echo URL::to('youtube/add');?>?url=https://www.youtube.com/watch?v=<?php echo array_get($value, 'id', '');?>"><button class="fa fa-plus btn-large button"></button></a>
                                        
                                     </span>
                                 <!-- </a> -->
